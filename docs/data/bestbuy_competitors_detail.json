@@ -1,1 +1,39 @@
-﻿{"competitors":[{"direction":"macbook_wins","brand":"HP","total_mentions":4,"reviews":[{"title":"Thank you apple for making an affordable laptop.","body":"Got it for my wife for her school. It works great. This is only my second MacBook the first one I had was a Intel chip and I wasn't too impressed with it, but the A18 chip is amazing compared to those","sentiment":"positive","rating":5,"source_url":""},{"title":"Review of MacNeo","body":"The unit screen is too small for constant use without additional monitor, limiting laptop options.  Good features otherwise.  Would have preferred larger screen for just a little more money.  Would no","sentiment":"positive","rating":4,"source_url":""},{"title":"Neo compact computer","body":"Nice compact little computer.  Totally different  that hp and takes a little getting used to.  Keyboard is smaller and I had a little problem hitting the right keys.  I do like it and would recommend ","sentiment":"positive","rating":4,"source_url":""},{"title":"Macbook Neo","body":"I am previously coming for HP laptop and I have to say that this laptop has been pretty great so far. I am primarily using it for college at the moment but everything has been really smooth and in my ","sentiment":"positive","rating":5,"source_url":""}]}]}
+{
+  "competitors": [
+    {
+      "direction": "macbook_wins",
+      "brand": "HP",
+      "total_mentions": 4,
+      "reviews": [
+        {
+          "title": "Thank you apple for making an affordable laptop.",
+          "body": "Got it for my wife for her school. It works great. This is only my second MacBook the first one I had was a Intel chip and I wasn't too impressed with it, but the A18 chip is amazing compared to those",
+          "sentiment": "positive",
+          "rating": 5,
+          "source_url": ""
+        },
+        {
+          "title": "Review of MacNeo",
+          "body": "The unit screen is too small for constant use without additional monitor, limiting laptop options.  Good features otherwise.  Would have preferred larger screen for just a little more money.  Would no",
+          "sentiment": "positive",
+          "rating": 4,
+          "source_url": ""
+        },
+        {
+          "title": "Neo compact computer",
+          "body": "Nice compact little computer.  Totally different  that hp and takes a little getting used to.  Keyboard is smaller and I had a little problem hitting the right keys.  I do like it and would recommend ",
+          "sentiment": "positive",
+          "rating": 4,
+          "source_url": ""
+        },
+        {
+          "title": "Macbook Neo",
+          "body": "I am previously coming for HP laptop and I have to say that this laptop has been pretty great so far. I am primarily using it for college at the moment but everything has been really smooth and in my ",
+          "sentiment": "positive",
+          "rating": 5,
+          "source_url": ""
+        }
+      ]
+    }
+  ]
+}

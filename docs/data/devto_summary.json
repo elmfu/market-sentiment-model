@@ -1,1 +1,11 @@
-﻿{"total":97,"sentiment":{"positive":9,"positive_pct":9.3,"neutral":80,"neutral_pct":82.5,"negative":6,"negative_pct":6.2}}
+{
+  "total": 97,
+  "sentiment": {
+    "positive": 9,
+    "positive_pct": 9.3,
+    "neutral": 80,
+    "neutral_pct": 82.5,
+    "negative": 6,
+    "negative_pct": 6.2
+  }
+}

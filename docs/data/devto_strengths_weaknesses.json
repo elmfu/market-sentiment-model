@@ -1,1 +1,54 @@
-﻿{"strengths":[{"label":"Software & Ecosystem","topic":"software_ecosystem","count":5,"pct":10.2,"quote":"Being an Apple fanboy I decided to buy the new MacBook Pro M1 when my old Intel model gave up on me....","insight":"49 signals â 5 positive, 2 negative, 42 neutral."},{"label":"Build & Keyboard","topic":"build_quality","count":3,"pct":15.8,"quote":"If you often use a MacBook with an external mouse, you may have noticed that by default, macOS...","insight":"19 signals â 3 positive, 0 negative, 16 neutral."},{"label":"Display Quality","topic":"display","count":2,"pct":40.0,"quote":"Samsung Odyssey OLED G9 49\" + MacBook Air M4 â the display output via Thunderbolt is flawless at native resolution with no adapter needed.","insight":"5 signals â 2 positive, 0 negative, 3 neutral."}],"weaknesses":[{"label":"Performance & Chip","topic":"performance","count":4,"pct":23.5,"quote":"I may earn commissions from purchases made through affiliate links in this post.  Over the past sever...","insight":"17 signals â 4 negative, 3 positive, 10 neutral."},{"label":"Ports & Connectivity","topic":"ports","count":1,"pct":14.3,"quote":"This article is about my experience attempting to get dual-HDMI working on a MacBook Pro. After purchasing several devices, mostly without s","insight":"7 signals â 1 negative, 0 positive, 6 neutral."},{"label":"Thermal Management","topic":"thermals","count":1,"pct":14.3,"quote":"I was never a fan of Apple hardware (even though I work on - company provided - Macs for 15 years...","insight":"7 signals â 1 negative, 1 positive, 5 neutral."}]}
+{
+  "strengths": [
+    {
+      "label": "Software & Ecosystem",
+      "topic": "software_ecosystem",
+      "count": 5,
+      "pct": 10.2,
+      "quote": "Being an Apple fanboy I decided to buy the new MacBook Pro M1 when my old Intel model gave up on me....",
+      "insight": "49 signals — 5 positive, 2 negative, 42 neutral."
+    },
+    {
+      "label": "Build & Keyboard",
+      "topic": "build_quality",
+      "count": 3,
+      "pct": 15.8,
+      "quote": "If you often use a MacBook with an external mouse, you may have noticed that by default, macOS...",
+      "insight": "19 signals — 3 positive, 0 negative, 16 neutral."
+    },
+    {
+      "label": "Display Quality",
+      "topic": "display",
+      "count": 2,
+      "pct": 40.0,
+      "quote": "Samsung Odyssey OLED G9 49\" + MacBook Air M4 — the display output via Thunderbolt is flawless at native resolution with no adapter needed.",
+      "insight": "5 signals — 2 positive, 0 negative, 3 neutral."
+    }
+  ],
+  "weaknesses": [
+    {
+      "label": "Performance & Chip",
+      "topic": "performance",
+      "count": 4,
+      "pct": 23.5,
+      "quote": "I may earn commissions from purchases made through affiliate links in this post.  Over the past sever...",
+      "insight": "17 signals — 4 negative, 3 positive, 10 neutral."
+    },
+    {
+      "label": "Ports & Connectivity",
+      "topic": "ports",
+      "count": 1,
+      "pct": 14.3,
+      "quote": "This article is about my experience attempting to get dual-HDMI working on a MacBook Pro. After purchasing several devices, mostly without s",
+      "insight": "7 signals — 1 negative, 0 positive, 6 neutral."
+    },
+    {
+      "label": "Thermal Management",
+      "topic": "thermals",
+      "count": 1,
+      "pct": 14.3,
+      "quote": "I was never a fan of Apple hardware (even though I work on - company provided - Macs for 15 years...",
+      "insight": "7 signals — 1 negative, 1 positive, 5 neutral."
+    }
+  ]
+}

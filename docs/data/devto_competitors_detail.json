@@ -1,1 +1,25 @@
-﻿{"competitors":[{"direction":"competitor_wins","brand":"Framework","total_mentions":2,"reviews":[{"title":"Opinion: MacBook Pro M3 Is Overpriced for Developers in 2026âUse Framework Laptop 16","body":"â¦s Overpriced for Developers in 2026âUse Framework Laptop 16 In Q1 2026, the base M3 Max MacBook Pro retails for $3,499â$1,800 more than a fuâ¦","sentiment":"negative","rating":0,"source_url":""},{"title":"We Ditched MacBook Pro 2026 for Framework Laptop 16: Cut Development Costs by 40%","body":"We Ditched MacBook Pro 2026 for Framework Laptop 16: Cut Development Costs by 40% In Q3 2025, our 12-person backend team at a Seriesâ¦","sentiment":"neutral","rating":0,"source_url":""}]}]}
+{
+  "competitors": [
+    {
+      "direction": "competitor_wins",
+      "brand": "Framework",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Opinion: MacBook Pro M3 Is Overpriced for Developers in 2026—Use Framework Laptop 16",
+          "body": "…s Overpriced for Developers in 2026—Use Framework Laptop 16 In Q1 2026, the base M3 Max MacBook Pro retails for $3,499—$1,800 more than a fu…",
+          "sentiment": "negative",
+          "rating": 0,
+          "source_url": ""
+        },
+        {
+          "title": "We Ditched MacBook Pro 2026 for Framework Laptop 16: Cut Development Costs by 40%",
+          "body": "We Ditched MacBook Pro 2026 for Framework Laptop 16: Cut Development Costs by 40% In Q3 2025, our 12-person backend team at a Series…",
+          "sentiment": "neutral",
+          "rating": 0,
+          "source_url": ""
+        }
+      ]
+    }
+  ]
+}

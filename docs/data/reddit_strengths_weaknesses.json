@@ -1,1 +1,86 @@
-﻿{"strengths":[{"label":"Performance & Chip","topic":"performance","count":528,"pct":39.4,"quote":"It's been a week, for all of us who drank the Kool Aid, how's everything been? Overall I'm impressed. The value is here, the performance is as expected (honestl","insight":"1,237 signals for performance & chip â 528 positive, 135 negative, 574 neutral."},{"label":"Price & Value","topic":"price_value","count":530,"pct":30.1,"quote":"It has been a month since I purchased my Neo and honestly? I am in love with it. I bought it with the intention of trying out MacOS to see what it's like and ov","insight":"946 signals for price & value â 530 positive, 85 negative, 331 neutral."},{"label":"Battery Life","topic":"battery","count":278,"pct":18.9,"quote":"I have been using Batter and PowerVigil for a week now and it really helps me keep my Macbook's battery in good condition.","insight":"592 signals for battery life â 278 positive, 96 negative, 218 neutral."},{"label":"Display Quality","topic":"display","count":242,"pct":18.3,"quote":"New to MacBooks! The screen on my Lenovo Iâve had since 2016 finally pooped out so decided to upgrade to the new m5. Is it okay to play games like World of Warc","insight":"573 signals for display quality â 242 positive, 96 negative, 235 neutral."},{"label":"vs. Windows","topic":"software_ecosystem","count":198,"pct":13.9,"quote":"De-influence me from buying a MacBook (MacBook vs MacBook Neo vs Windows laptop) â thread overwhelmingly concludes MacBook wins for battery and build.","insight":"437 signals for Windows comparison â 198 net-positive outcome, 59 negative, 180 neutral."}],"weaknesses":[{"label":"Complaints & Issues","topic":"build_quality","count":188,"pct":13.0,"quote":"My MBP (M1 Max 16 inch )is having a weird issue with the internal display.\n\nI do run a lot of external displays. They all work fine and they have no issues what","insight":"409 signals for hardware complaints â 188 negative, 103 positive, 118 neutral."},{"label":"Ports & Connectivity","topic":"ports","count":102,"pct":13.7,"quote":"What USB-C 140W PD docks are people using with their 16\" M5 Max MacBook Pros? Still need a hub for HDMI, SD card â no USB-A anywhere on this machine.","insight":"431 signals for ports & connectivity â 102 negative, 163 positive, 166 neutral."},{"label":"Thermal Management","topic":"thermals","count":81,"pct":12.5,"quote":"Sustained dense 72B inference on M5 Max 128GB â how much does 14\" vs 16\" matter for thermal throttling under continuous load?","insight":"393 signals for thermal management â 81 negative, 177 positive, 135 neutral."},{"label":"Repairability","topic":"repairability","count":25,"pct":5.1,"quote":"It was a total pivot to the philosophy of mass-market consumption over true performance. By pushing the Neo, Ternus basically prioritized \"the vanity of the loo","insight":"200 signals for repairability â 25 negative, 70 positive, 105 neutral."},{"label":"Base Storage / RAM","topic":"price_value","count":16,"pct":2.3,"quote":"8GB unified memory on the base Neo is not enough for power users in 2026 â you are paying a premium and still hitting swap.","insight":"246 signals for base config concerns â 16 negative, 85 positive, 145 neutral."}]}
+{
+  "strengths": [
+    {
+      "label": "Performance & Chip",
+      "topic": "performance",
+      "count": 528,
+      "pct": 39.4,
+      "quote": "It's been a week, for all of us who drank the Kool Aid, how's everything been? Overall I'm impressed. The value is here, the performance is as expected (honestl",
+      "insight": "1,237 signals for performance & chip — 528 positive, 135 negative, 574 neutral."
+    },
+    {
+      "label": "Price & Value",
+      "topic": "price_value",
+      "count": 530,
+      "pct": 30.1,
+      "quote": "It has been a month since I purchased my Neo and honestly? I am in love with it. I bought it with the intention of trying out MacOS to see what it's like and ov",
+      "insight": "946 signals for price & value — 530 positive, 85 negative, 331 neutral."
+    },
+    {
+      "label": "Battery Life",
+      "topic": "battery",
+      "count": 278,
+      "pct": 18.9,
+      "quote": "I have been using Batter and PowerVigil for a week now and it really helps me keep my Macbook's battery in good condition.",
+      "insight": "592 signals for battery life — 278 positive, 96 negative, 218 neutral."
+    },
+    {
+      "label": "Display Quality",
+      "topic": "display",
+      "count": 242,
+      "pct": 18.3,
+      "quote": "New to MacBooks! The screen on my Lenovo I’ve had since 2016 finally pooped out so decided to upgrade to the new m5. Is it okay to play games like World of Warc",
+      "insight": "573 signals for display quality — 242 positive, 96 negative, 235 neutral."
+    },
+    {
+      "label": "vs. Windows",
+      "topic": "software_ecosystem",
+      "count": 198,
+      "pct": 13.9,
+      "quote": "De-influence me from buying a MacBook (MacBook vs MacBook Neo vs Windows laptop) — thread overwhelmingly concludes MacBook wins for battery and build.",
+      "insight": "437 signals for Windows comparison — 198 net-positive outcome, 59 negative, 180 neutral."
+    }
+  ],
+  "weaknesses": [
+    {
+      "label": "Complaints & Issues",
+      "topic": "build_quality",
+      "count": 188,
+      "pct": 13.0,
+      "quote": "My MBP (M1 Max 16 inch )is having a weird issue with the internal display.\n\nI do run a lot of external displays. They all work fine and they have no issues what",
+      "insight": "409 signals for hardware complaints — 188 negative, 103 positive, 118 neutral."
+    },
+    {
+      "label": "Ports & Connectivity",
+      "topic": "ports",
+      "count": 102,
+      "pct": 13.7,
+      "quote": "What USB-C 140W PD docks are people using with their 16\" M5 Max MacBook Pros? Still need a hub for HDMI, SD card — no USB-A anywhere on this machine.",
+      "insight": "431 signals for ports & connectivity — 102 negative, 163 positive, 166 neutral."
+    },
+    {
+      "label": "Thermal Management",
+      "topic": "thermals",
+      "count": 81,
+      "pct": 12.5,
+      "quote": "Sustained dense 72B inference on M5 Max 128GB — how much does 14\" vs 16\" matter for thermal throttling under continuous load?",
+      "insight": "393 signals for thermal management — 81 negative, 177 positive, 135 neutral."
+    },
+    {
+      "label": "Repairability",
+      "topic": "repairability",
+      "count": 25,
+      "pct": 5.1,
+      "quote": "It was a total pivot to the philosophy of mass-market consumption over true performance. By pushing the Neo, Ternus basically prioritized \"the vanity of the loo",
+      "insight": "200 signals for repairability — 25 negative, 70 positive, 105 neutral."
+    },
+    {
+      "label": "Base Storage / RAM",
+      "topic": "price_value",
+      "count": 16,
+      "pct": 2.3,
+      "quote": "8GB unified memory on the base Neo is not enough for power users in 2026 — you are paying a premium and still hitting swap.",
+      "insight": "246 signals for base config concerns — 16 negative, 85 positive, 145 neutral."
+    }
+  ]
+}
