@@ -1,18 +1,18 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MacBook Neo â€” Multi-Source Intelligence Report</title>
+  <title>MacBook Neo — Multi-Source Intelligence Report</title>
   <!-- fonts removed for offline mode -->
   <!-- fonts removed for offline mode -->
   <style>/*
- * MacBook Neo Market Intelligence â€” Shared Style Guide
+ * MacBook Neo Market Intelligence — Shared Style Guide
  * All :root tokens and reusable component classes.
  * Import or link this file in any dashboard page.
  */
 
-/* â”€â”€ Design Tokens â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Design Tokens ─────────────────────────────────────────────────────────── */
 :root {
   /* Backgrounds */
   --bg:        #faf8f3;
@@ -42,7 +42,7 @@
   --hl-teal:     #d0f0ec;  --hl-teal-b:   #50b0a8;
   --hl-red:      #fde0d8;  --hl-red-b:    #e87060;
 
-  /* Semantic aliases â€” keep JS/template references working */
+  /* Semantic aliases — keep JS/template references working */
   --green:    #72c472;
   --red:      #e87060;
   --yellow:   #e8d840;
@@ -55,14 +55,14 @@
   --radius: 8px;
 }
 
-/* â”€â”€ Fonts â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Fonts ──────────────────────────────────────────────────────────────────── */
 /* Include this <link> in <head>:
    https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700
    &family=Instrument+Serif:ital@0;1&family=DM+Sans:wght@400;500;600;700
    &display=swap
 */
 
-/* â”€â”€ Reset & Base â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Reset & Base ───────────────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; }
 
@@ -79,7 +79,7 @@ body {
 ::-webkit-scrollbar-track { background: var(--bg2); }
 ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
 
-/* â”€â”€ Card â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Card ───────────────────────────────────────────────────────────────────── */
 .card {
   background: var(--card);
   border: 1px solid var(--border);
@@ -97,7 +97,7 @@ body {
   margin-bottom: 14px;
 }
 
-/* â”€â”€ KPI Card â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── KPI Card ───────────────────────────────────────────────────────────────── */
 .kpi-card {
   background: var(--bg2);
   border: 1px solid var(--border);
@@ -130,7 +130,7 @@ body {
   margin-top: 5px;
 }
 
-/* â”€â”€ Section Label â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Section Label ──────────────────────────────────────────────────────────── */
 .section-label {
   font-family: 'JetBrains Mono', monospace;
   font-size: 10px;
@@ -153,7 +153,7 @@ body {
   flex-shrink: 0;
 }
 
-/* â”€â”€ Sentiment Badges â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Sentiment Badges ───────────────────────────────────────────────────────── */
 .sentiment-badge {
   display: inline-block;
   padding: 2px 9px;
@@ -185,7 +185,7 @@ body {
   border-color: var(--border2);
 }
 
-/* â”€â”€ Topic Pill Tags â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Topic Pill Tags ────────────────────────────────────────────────────────── */
 .topic-tag {
   display: inline-block;
   padding: 2px 8px;
@@ -206,7 +206,7 @@ body {
 .topic-tag.switch      { background: var(--hl-yellow);  border-color: var(--hl-yellow-b); color: #6a5800; }
 .topic-tag.port        { background: var(--hl-orange);  border-color: var(--hl-orange-b); color: #6a3c00; }
 
-/* â”€â”€ Signal Pill â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Signal Pill ────────────────────────────────────────────────────────────── */
 .signal-pill {
   display: inline-block;
   background: var(--bg2);
@@ -220,7 +220,7 @@ body {
   margin-top: 10px;
 }
 
-/* â”€â”€ Score Pill â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Score Pill ─────────────────────────────────────────────────────────────── */
 .score-pill {
   background: var(--bg2);
   border: 1px solid var(--border);
@@ -233,7 +233,7 @@ body {
   white-space: nowrap;
 }
 
-/* â”€â”€ Buttons & Selects â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Buttons & Selects ──────────────────────────────────────────────────────── */
 select, .btn {
   background: var(--card);
   border: 1px solid var(--border);
@@ -253,7 +253,7 @@ select:focus, .btn:hover { border-color: var(--border2); }
   color: var(--card);
 }
 
-/* â”€â”€ Skeleton Loader â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Skeleton Loader ────────────────────────────────────────────────────────── */
 .sk {
   background: linear-gradient(90deg,
     var(--bg2) 25%, var(--bg3) 50%, var(--bg2) 75%);
@@ -269,7 +269,7 @@ select:focus, .btn:hover { border-color: var(--border2); }
 .sk-lg { height: 2rem; width: 75%; }
 .sk-sm { height: 0.75em; width: 60%; margin-top: 5px; }
 
-/* â”€â”€ Error Banner â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+/* ── Error Banner ───────────────────────────────────────────────────────────── */
 .error-banner {
   display: none;
   background: var(--hl-red);
@@ -320,12 +320,12 @@ select:focus, .btn:hover { border-color: var(--border2); }
   <style>
     body { max-width: 1200px; margin: 0 auto; padding: 28px 20px 80px; }
 
-    /* â”€â”€ Header â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Header ────────────────────────────────────────────────────────────── */
     header { display:flex; align-items:flex-start; justify-content:space-between; margin-bottom:32px; flex-wrap:wrap; gap:16px; }
     header h1 { font-size:20px; font-weight:700; color:var(--text); margin-bottom:3px; }
     header p  { font-size:12px; color:var(--text-mute); }
 
-    /* â”€â”€ Nav tabs â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Nav tabs ──────────────────────────────────────────────────────────── */
     .platform-nav {
       display:flex; gap:0; border-bottom:2px solid var(--border);
       margin-bottom:28px; flex-wrap:wrap;
@@ -341,7 +341,7 @@ select:focus, .btn:hover { border-color: var(--border2); }
     .nav-tab.active { color:var(--text); border-bottom-color:var(--text); }
     .nav-tab .nav-dot { display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:6px; }
 
-    /* â”€â”€ Info icon tooltip â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Info icon tooltip ─────────────────────────────────────────────────── */
     .info-icon-wrap {
       display:inline-flex; align-items:center; justify-content:center;
       width:16px; height:16px; border-radius:50%;
@@ -367,7 +367,7 @@ select:focus, .btn:hover { border-color: var(--border2); }
     }
     .info-tooltip b { font-weight:700; color:var(--text); }
 
-    /* â”€â”€ Platform section â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Platform section ──────────────────────────────────────────────────── */
     .platform-section { display:none; }
     .platform-section.visible { display:block; }
     .platform-header {
@@ -383,16 +383,16 @@ select:focus, .btn:hover { border-color: var(--border2); }
     .sect-hn       .platform-header { border-left-color:#f59e0b; }
     .sect-devto    .platform-header { border-left-color:#8b5cf6; }
 
-    /* â”€â”€ KPI row â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── KPI row ───────────────────────────────────────────────────────────── */
     .kpi-row { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-bottom:20px; }
     @media(max-width:700px){ .kpi-row { grid-template-columns:repeat(2,1fr); } }
 
-    /* â”€â”€ Grid helpers â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Grid helpers ──────────────────────────────────────────────────────── */
     .grid-2 { display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-bottom:20px; }
     .grid-3 { display:grid; grid-template-columns:repeat(3,1fr); gap:16px; margin-bottom:20px; }
     @media(max-width:760px){ .grid-2,.grid-3 { grid-template-columns:1fr; } }
 
-    /* â”€â”€ Strengths / Weaknesses â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Strengths / Weaknesses ────────────────────────────────────────────── */
     .sw-list { list-style:none; display:flex; flex-direction:column; gap:10px; }
     .sw-item { display:flex; gap:10px; align-items:flex-start; }
     .sw-rank {
@@ -417,7 +417,7 @@ select:focus, .btn:hover { border-color: var(--border2); }
       border-left:2px solid var(--border2);
     }
 
-    /* â”€â”€ Topic bars â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Topic bars ────────────────────────────────────────────────────────── */
     .topic-row { display:flex; align-items:center; gap:8px; margin-bottom:7px; }
     .topic-name { width:130px; font-size:11px; color:var(--text-mid); flex-shrink:0; }
     .topic-track { flex:1; height:10px; background:var(--bg2); border-radius:5px; overflow:hidden; display:flex; }
@@ -426,7 +426,7 @@ select:focus, .btn:hover { border-color: var(--border2); }
     .topic-neg-fill { height:100%; background:#e87060; }
     .topic-count { width:30px; text-align:right; font-family:'JetBrains Mono',monospace; font-size:10px; font-weight:700; color:var(--text); }
 
-    /* â”€â”€ Word cloud â€” green palette, rectangular, no clipping â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Word cloud — green palette, rectangular, no clipping ─────────────── */
     .wordcloud-container {
       width:100%; min-height:220px;
       background:var(--bg2); border-radius:var(--radius);
@@ -442,7 +442,7 @@ select:focus, .btn:hover { border-color: var(--border2); }
     }
     .wordcloud-container span:hover { transform:scale(1.15) !important; }
 
-    /* â”€â”€ Competitor detail â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Competitor detail ─────────────────────────────────────────────────── */
     .comp-brand { margin-bottom:20px; }
     .comp-brand-header {
       display:flex; justify-content:space-between; align-items:center;
@@ -483,14 +483,14 @@ select:focus, .btn:hover { border-color: var(--border2); }
     .sentiment-badge.neutral  { background:var(--bg3); color:var(--text-mute); }
     .sentiment-badge.negative { background:var(--hl-red); color:#6a1800; }
 
-    /* â”€â”€ Donut legend â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Donut legend ──────────────────────────────────────────────────────── */
     .donut-legend { margin-top:10px; }
     .donut-legend-row { display:flex; align-items:center; gap:8px; font-size:11px; padding:3px 0; }
     .donut-legend-dot { width:10px; height:10px; border-radius:50%; flex-shrink:0; }
     .donut-legend-label { flex:1; color:var(--text-mid); }
     .donut-legend-val { font-family:'JetBrains Mono',monospace; font-size:10px; font-weight:700; }
 
-    /* â”€â”€ Synthesis table â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Synthesis table ───────────────────────────────────────────────────── */
     .synth-table { width:100%; border-collapse:collapse; font-size:11px; }
     .synth-table th {
       padding:6px 10px; font-size:10px; text-transform:uppercase;
@@ -513,10 +513,10 @@ select:focus, .btn:hover { border-color: var(--border2); }
     .verdict-pill.weakness { background:var(--hl-red);    color:#6a1800; }
     .verdict-pill.contested{ background:var(--hl-yellow); color:#6a5800; }
 
-    /* â”€â”€ Volume bar chart container â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Volume bar chart container ────────────────────────────────────────── */
     .chart-box { position:relative; }
 
-    /* â”€â”€ Misc â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */
+    /* ── Misc ──────────────────────────────────────────────────────────────── */
     .no-data { color:var(--text-mute); font-size:11px; font-style:italic; padding:10px 0; }
     .loading  { color:var(--text-mute); font-size:12px; padding:14px 0; }
     .star-row { display:flex; align-items:center; gap:8px; margin-bottom:5px; }
@@ -530,12 +530,12 @@ select:focus, .btn:hover { border-color: var(--border2); }
 
 <header>
   <div>
-    <h1>MacBook Neo â€” Multi-Source Intelligence Report</h1>
-    <p>Best Buy Â· Reddit &nbsp;|&nbsp; Mar 4 â€“ Apr 30, 2026</p>
+    <h1>MacBook Neo — Multi-Source Intelligence Report</h1>
+    <p>Best Buy · Reddit &nbsp;|&nbsp; Mar 4 – Apr 30, 2026</p>
   </div>
 </header>
 
-<!-- â”€â”€ Platform nav â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ -->
+<!-- ── Platform nav ─────────────────────────────────────────────────────────── -->
 <nav class="platform-nav">
   <button class="nav-tab active" onclick="showSection('bestbuy', event)">
     <span class="nav-dot" style="background:#2563eb"></span>Best Buy
@@ -545,36 +545,36 @@ select:focus, .btn:hover { border-color: var(--border2); }
   </button>
 </nav>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+<!-- ════════════════════════════════════════════════════════════════════════════
      BEST BUY
-     â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+     ════════════════════════════════════════════════════════════════════════════ -->
 <section class="platform-section sect-bestbuy visible" id="sec-bestbuy">
   <div class="platform-header">
-    <h2>Best Buy â€” Verified Purchaser Reviews</h2>
-    <p>Star-based sentiment Â· Mainstream consumers Â· High credibility</p>
+    <h2>Best Buy — Verified Purchaser Reviews</h2>
+    <p>Star-based sentiment · Mainstream consumers · High credibility</p>
   </div>
 
   <div class="kpi-row" id="bby-kpis">
-    <div class="kpi-card"><div class="kpi-label">Reviews Analyzed</div><div class="kpi-value" id="bby-total">â€”</div></div>
-    <div class="kpi-card"><div class="kpi-label">Satisfaction</div><div class="kpi-value" id="bby-sat">â€”</div><div class="kpi-sub">out of 100</div></div>
-    <div class="kpi-card"><div class="kpi-label">Avg Rating</div><div class="kpi-value" id="bby-pos">â€”</div></div>
+    <div class="kpi-card"><div class="kpi-label">Reviews Analyzed</div><div class="kpi-value" id="bby-total">—</div></div>
+    <div class="kpi-card"><div class="kpi-label">Satisfaction</div><div class="kpi-value" id="bby-sat">—</div><div class="kpi-sub">out of 100</div></div>
+    <div class="kpi-card"><div class="kpi-label">Avg Rating</div><div class="kpi-value" id="bby-pos">—</div></div>
   </div>
 
   <div class="grid-2">
     <div class="card">
       <div class="card-title">Top 5 Strengths</div>
-      <ul class="sw-list" id="bby-strengths"><li class="loading">Loadingâ€¦</li></ul>
+      <ul class="sw-list" id="bby-strengths"><li class="loading">Loading…</li></ul>
     </div>
     <div class="card">
       <div class="card-title">Top 5 Weaknesses</div>
-      <ul class="sw-list" id="bby-weaknesses"><li class="loading">Loadingâ€¦</li></ul>
+      <ul class="sw-list" id="bby-weaknesses"><li class="loading">Loading…</li></ul>
     </div>
   </div>
 
   <div class="grid-2">
     <div class="card">
       <div class="card-title">Star Rating Distribution</div>
-      <div id="bby-stars"><div class="loading">Loadingâ€¦</div></div>
+      <div id="bby-stars"><div class="loading">Loading…</div></div>
       <div style="margin-top:14px">
         <div class="card-title" style="margin-top:0">Keyword Sentiment</div>
         <canvas id="bby-donut" width="200" height="200" style="display:block;margin:0 auto"></canvas>
@@ -583,56 +583,56 @@ select:focus, .btn:hover { border-color: var(--border2); }
     </div>
     <div class="card">
       <div class="card-title">Topic Coverage</div>
-      <div id="bby-topics"><div class="loading">Loadingâ€¦</div></div>
+      <div id="bby-topics"><div class="loading">Loading…</div></div>
     </div>
   </div>
 
   <div class="grid-2">
     <div class="card">
       <div class="card-title">Competitor Mentions</div>
-      <div id="bby-competitors"><div class="loading">Loadingâ€¦</div></div>
+      <div id="bby-competitors"><div class="loading">Loading…</div></div>
     </div>
     <div class="card">
       <div class="card-title">Word Cloud</div>
-      <div class="wordcloud-container" id="bby-wordcloud"><div class="loading">Loadingâ€¦</div></div>
+      <div class="wordcloud-container" id="bby-wordcloud"><div class="loading">Loading…</div></div>
     </div>
   </div>
 </section>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+<!-- ════════════════════════════════════════════════════════════════════════════
      REDDIT
-     â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+     ════════════════════════════════════════════════════════════════════════════ -->
 <section class="platform-section sect-reddit" id="sec-reddit">
   <div class="platform-header">
-    <h2>Reddit â€” Community Sentiment</h2>
-    <p>Keyword-based sentiment Â· Tech-enthusiast skew Â· Anonymous users</p>
+    <h2>Reddit — Community Sentiment</h2>
+    <p>Keyword-based sentiment · Tech-enthusiast skew · Anonymous users</p>
   </div>
 
   <div class="kpi-row">
-    <div class="kpi-card"><div class="kpi-label">Posts Analyzed</div><div class="kpi-value" id="rdt-total">â€”</div></div>
-    <div class="kpi-card"><div class="kpi-label">Net Score</div><div class="kpi-value" id="rdt-sat">â€”</div></div>
-    <div class="kpi-card"><div class="kpi-label">% Positive</div><div class="kpi-value" id="rdt-pos">â€”</div></div>
+    <div class="kpi-card"><div class="kpi-label">Posts Analyzed</div><div class="kpi-value" id="rdt-total">—</div></div>
+    <div class="kpi-card"><div class="kpi-label">Net Score</div><div class="kpi-value" id="rdt-sat">—</div></div>
+    <div class="kpi-card"><div class="kpi-label">% Positive</div><div class="kpi-value" id="rdt-pos">—</div></div>
   </div>
 
   <div class="card" style="margin-bottom:20px" id="rdt-trend-card">
-    <div class="card-title">Daily Post &amp; Comment Volume â€” Mar 4 â€“ Apr 30, 2026</div>
+    <div class="card-title">Daily Post &amp; Comment Volume — Mar 4 – Apr 30, 2026</div>
     <canvas id="rdt-trend" height="70"></canvas>
     <span class="info-icon-wrap">i
       <span class="info-tooltip">
         <b>Posts</b><br>
         Subreddits: r/macbook, r/macbookpro, r/macbookair, r/mac, r/applehelp, r/MacbookNeo<br>
         + keyword search across all of Reddit<br>
-        Date range: Mar 4 â€“ Apr 30, 2026<br>
+        Date range: Mar 4 – Apr 30, 2026<br>
         Sources: Pullpush.io historical API &amp; Reddit JSON API<br><br>
         <b>Comments</b><br>
-        Deep-dive on posts with â‰¥ 50 comments â€” up to 500 comments per thread, 5 levels deep
+        Deep-dive on posts with ≥ 50 comments — up to 500 comments per thread, 5 levels deep
       </span>
     </span>
   </div>
 
   <div class="grid-2">
-    <div class="card"><div class="card-title">Top 5 Strengths</div><ul class="sw-list" id="rdt-strengths"><li class="loading">Loadingâ€¦</li></ul></div>
-    <div class="card"><div class="card-title">Top 5 Weaknesses</div><ul class="sw-list" id="rdt-weaknesses"><li class="loading">Loadingâ€¦</li></ul></div>
+    <div class="card"><div class="card-title">Top 5 Strengths</div><ul class="sw-list" id="rdt-strengths"><li class="loading">Loading…</li></ul></div>
+    <div class="card"><div class="card-title">Top 5 Weaknesses</div><ul class="sw-list" id="rdt-weaknesses"><li class="loading">Loading…</li></ul></div>
   </div>
 
   <div class="grid-2">
@@ -643,81 +643,81 @@ select:focus, .btn:hover { border-color: var(--border2); }
     </div>
     <div class="card">
       <div class="card-title">Topic Coverage</div>
-      <div id="rdt-topics"><div class="loading">Loadingâ€¦</div></div>
+      <div id="rdt-topics"><div class="loading">Loading…</div></div>
     </div>
   </div>
 
   <div class="grid-2">
-    <div class="card"><div class="card-title">Competitor Mentions</div><div id="rdt-competitors"><div class="loading">Loadingâ€¦</div></div></div>
-    <div class="card"><div class="card-title">Word Cloud</div><div class="wordcloud-container" id="rdt-wordcloud"><div class="loading">Loadingâ€¦</div></div></div>
+    <div class="card"><div class="card-title">Competitor Mentions</div><div id="rdt-competitors"><div class="loading">Loading…</div></div></div>
+    <div class="card"><div class="card-title">Word Cloud</div><div class="wordcloud-container" id="rdt-wordcloud"><div class="loading">Loading…</div></div></div>
   </div>
 </section>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+<!-- ════════════════════════════════════════════════════════════════════════════
      HACKER NEWS
-     â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+     ════════════════════════════════════════════════════════════════════════════ -->
 <section class="platform-section sect-hn" id="sec-hn">
   <div class="platform-header">
-    <h2>Hacker News â€” Technical Community</h2>
-    <p>Keyword-based sentiment Â· Developer / founder skew Â· High analytical quality</p>
+    <h2>Hacker News — Technical Community</h2>
+    <p>Keyword-based sentiment · Developer / founder skew · High analytical quality</p>
   </div>
 
   <div class="kpi-row">
-    <div class="kpi-card"><div class="kpi-label">Items Analyzed</div><div class="kpi-value" id="hn-total">â€”</div></div>
-    <div class="kpi-card"><div class="kpi-label">% Positive</div><div class="kpi-value" id="hn-pos">â€”</div></div>
+    <div class="kpi-card"><div class="kpi-label">Items Analyzed</div><div class="kpi-value" id="hn-total">—</div></div>
+    <div class="kpi-card"><div class="kpi-label">% Positive</div><div class="kpi-value" id="hn-pos">—</div></div>
   </div>
 
   <div class="grid-2">
-    <div class="card"><div class="card-title">Top 5 Strengths</div><ul class="sw-list" id="hn-strengths"><li class="loading">Loadingâ€¦</li></ul></div>
-    <div class="card"><div class="card-title">Top 5 Weaknesses</div><ul class="sw-list" id="hn-weaknesses"><li class="loading">Loadingâ€¦</li></ul></div>
+    <div class="card"><div class="card-title">Top 5 Strengths</div><ul class="sw-list" id="hn-strengths"><li class="loading">Loading…</li></ul></div>
+    <div class="card"><div class="card-title">Top 5 Weaknesses</div><ul class="sw-list" id="hn-weaknesses"><li class="loading">Loading…</li></ul></div>
   </div>
 
   <div class="grid-2">
     <div class="card"><div class="card-title">Sentiment Distribution</div><canvas id="hn-donut" width="200" height="200" style="display:block;margin:0 auto"></canvas><div class="donut-legend" id="hn-donut-legend"></div></div>
-    <div class="card"><div class="card-title">Topic Coverage</div><div id="hn-topics"><div class="loading">Loadingâ€¦</div></div></div>
+    <div class="card"><div class="card-title">Topic Coverage</div><div id="hn-topics"><div class="loading">Loading…</div></div></div>
   </div>
 
   <div class="grid-2">
-    <div class="card"><div class="card-title">Competitor Mentions</div><div id="hn-competitors"><div class="loading">Loadingâ€¦</div></div></div>
-    <div class="card"><div class="card-title">Word Cloud</div><div class="wordcloud-container" id="hn-wordcloud"><div class="loading">Loadingâ€¦</div></div></div>
+    <div class="card"><div class="card-title">Competitor Mentions</div><div id="hn-competitors"><div class="loading">Loading…</div></div></div>
+    <div class="card"><div class="card-title">Word Cloud</div><div class="wordcloud-container" id="hn-wordcloud"><div class="loading">Loading…</div></div></div>
   </div>
 </section>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+<!-- ════════════════════════════════════════════════════════════════════════════
      DEV.to
-     â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+     ════════════════════════════════════════════════════════════════════════════ -->
 <section class="platform-section sect-devto" id="sec-devto">
   <div class="platform-header">
-    <h2>DEV.to â€” Developer Articles</h2>
-    <p>Keyword-based sentiment Â· Practical / tutorial tone Â· Working developer skew</p>
+    <h2>DEV.to — Developer Articles</h2>
+    <p>Keyword-based sentiment · Practical / tutorial tone · Working developer skew</p>
   </div>
 
   <div class="kpi-row">
-    <div class="kpi-card"><div class="kpi-label">Articles Analyzed</div><div class="kpi-value" id="dt-total">â€”</div></div>
-    <div class="kpi-card"><div class="kpi-label">% Positive</div><div class="kpi-value" id="dt-pos">â€”</div></div>
+    <div class="kpi-card"><div class="kpi-label">Articles Analyzed</div><div class="kpi-value" id="dt-total">—</div></div>
+    <div class="kpi-card"><div class="kpi-label">% Positive</div><div class="kpi-value" id="dt-pos">—</div></div>
   </div>
 
   <div class="grid-2">
-    <div class="card"><div class="card-title">Top 5 Strengths</div><ul class="sw-list" id="dt-strengths"><li class="loading">Loadingâ€¦</li></ul></div>
-    <div class="card"><div class="card-title">Top 5 Weaknesses</div><ul class="sw-list" id="dt-weaknesses"><li class="loading">Loadingâ€¦</li></ul></div>
+    <div class="card"><div class="card-title">Top 5 Strengths</div><ul class="sw-list" id="dt-strengths"><li class="loading">Loading…</li></ul></div>
+    <div class="card"><div class="card-title">Top 5 Weaknesses</div><ul class="sw-list" id="dt-weaknesses"><li class="loading">Loading…</li></ul></div>
   </div>
 
   <div class="grid-2">
     <div class="card"><div class="card-title">Sentiment Distribution</div><canvas id="dt-donut" width="200" height="200" style="display:block;margin:0 auto"></canvas><div class="donut-legend" id="dt-donut-legend"></div></div>
-    <div class="card"><div class="card-title">Topic Coverage</div><div id="dt-topics"><div class="loading">Loadingâ€¦</div></div></div>
+    <div class="card"><div class="card-title">Topic Coverage</div><div id="dt-topics"><div class="loading">Loading…</div></div></div>
   </div>
 
   <div class="grid-2">
-    <div class="card"><div class="card-title">Competitor Mentions</div><div id="dt-competitors"><div class="loading">Loadingâ€¦</div></div></div>
-    <div class="card"><div class="card-title">Word Cloud</div><div class="wordcloud-container" id="dt-wordcloud"><div class="loading">Loadingâ€¦</div></div></div>
+    <div class="card"><div class="card-title">Competitor Mentions</div><div id="dt-competitors"><div class="loading">Loading…</div></div></div>
+    <div class="card"><div class="card-title">Word Cloud</div><div class="wordcloud-container" id="dt-wordcloud"><div class="loading">Loading…</div></div></div>
   </div>
 </section>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+<!-- ════════════════════════════════════════════════════════════════════════════
      JS
-     â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+     ════════════════════════════════════════════════════════════════════════════ -->
 <script>
-// â”€â”€ Static JSON data (GitHub Pages) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// ── Static JSON data (GitHub Pages) ──────────────────────────────────────────
 const _DATA_MAP = {
   "/api/bestbuy/summary":              "./data/bestbuy_summary.json",
   "/api/bestbuy/strengths-weaknesses": "./data/bestbuy_strengths_weaknesses.json",
@@ -742,17 +742,17 @@ const _DATA_MAP = {
   "/api/devto/competitors-detail":     "./data/devto_competitors_detail.json",
 };
 
-// â”€â”€ Fetch â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// ── Fetch ─────────────────────────────────────────────────────────────────────
 async function api(path) {
   const key = path.split("?")[0];
   const url = _DATA_MAP[key];
   if (!url) return null;
   const r = await fetch(url);
-  if (!r.ok) throw new Error(`${r.status} ${r.statusText} â€” ${path}`);
+  if (!r.ok) throw new Error(`${r.status} ${r.statusText} — ${path}`);
   return r.json();
 }
 
-// â”€â”€ Helpers â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// ── Helpers ───────────────────────────────────────────────────────────────────
 function esc(s) {
   return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
 }
@@ -853,7 +853,7 @@ function renderSW(posId, negId, data, unit = "signals") {
             <div class="sw-rank ${cls}">${i+1}</div>
             <div class="sw-body">
               <div class="sw-label">${esc(d.label)}</div>
-              <div class="sw-meta">${d.count} mentions Â· ${d.pct}% of ${unit}</div>
+              <div class="sw-meta">${d.count} mentions · ${d.pct}% of ${unit}</div>
               ${quote ? `<div class="sw-quote">"${esc(quote.slice(0,140))}"</div>` : ""}
               ${d.insight ? `<div class="sw-insight">${esc(d.insight)}</div>` : ""}
             </div>
@@ -917,7 +917,7 @@ function renderCompetitorsDetail(containerId, data) {
       let ratingHtml = "";
       if (r.rating && r.rating > 0) {
         const full  = Math.round(r.rating);
-        const stars = "â˜…".repeat(full) + "â˜†".repeat(Math.max(0, 5 - full));
+        const stars = "★".repeat(full) + "☆".repeat(Math.max(0, 5 - full));
         ratingHtml = `<span class="comp-review-stars">${stars}</span>`;
       } else if (r.sentiment) {
         ratingHtml = `<span class="sentiment-badge ${r.sentiment}">${r.sentiment}</span>`;
@@ -925,7 +925,7 @@ function renderCompetitorsDetail(containerId, data) {
       const linkHtml = r.source_url
         ? `<a class="comp-review-link" href="${esc(r.source_url)}" target="_blank" rel="noopener">[link]</a>`
         : "";
-      const body = r.body ? esc(r.body.slice(0, 150)) + (r.body.length > 150 ? "â€¦" : "") : "";
+      const body = r.body ? esc(r.body.slice(0, 150)) + (r.body.length > 150 ? "…" : "") : "";
       return `<div class="comp-review">
         <div>
           <div class="comp-review-title">${i+1}. ${esc(r.title || "(no title)")}</div>
@@ -943,7 +943,7 @@ function renderCompetitorsDetail(containerId, data) {
       <div class="comp-brand-header">
         <div>
           <span class="comp-brand-name">${esc(c.brand)}</span>
-          <span class="comp-brand-count"> â€” ${c.total_mentions} mention${c.total_mentions!==1?"s":""}</span>
+          <span class="comp-brand-count"> — ${c.total_mentions} mention${c.total_mentions!==1?"s":""}</span>
         </div>
         <span class="dir-pill ${c.direction}">${dirLabel}</span>
       </div>
@@ -953,13 +953,13 @@ function renderCompetitorsDetail(containerId, data) {
   }).join('<hr style="border:none;border-top:1px solid var(--border);margin:8px 0">');
 }
 
-// â”€â”€ KPI setter â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// ── KPI setter ────────────────────────────────────────────────────────────────
 function setKpi(id, val) {
   const el = document.getElementById(id);
   if (el) el.textContent = val;
 }
 
-// â”€â”€ Load: BEST BUY â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// ── Load: BEST BUY ────────────────────────────────────────────────────────────
 async function loadBestBuy() {
   const [sum, sw, topics, wc, comp] = await Promise.all([
     api("/api/bestbuy/summary"),
@@ -972,13 +972,13 @@ async function loadBestBuy() {
   setKpi("bby-total", sum.total.toLocaleString());
   setKpi("bby-text",  sum.with_text.toLocaleString());
   setKpi("bby-sat",   Math.round(sum.satisfaction_score));
-  setKpi("bby-pos",   (sum.avg_rating || 0).toFixed(1) + "â˜…");
+  setKpi("bby-pos",   (sum.avg_rating || 0).toFixed(1) + "★");
 
   const starColors = {5:"#16a34a",4:"#86efac",3:"#fbbf24",2:"#f97316",1:"#dc2626"};
   const maxStar = Math.max(...Object.values(sum.star_distribution), 1);
   document.getElementById("bby-stars").innerHTML = [5,4,3,2,1].map(s => `
     <div class="star-row">
-      <span class="star-label">${s}â˜…</span>
+      <span class="star-label">${s}★</span>
       <div class="star-track"><div class="star-fill" style="width:${(sum.star_distribution[s]||0)/maxStar*100}%;background:${starColors[s]}"></div></div>
       <span class="star-count">${sum.star_distribution[s]||0}</span>
     </div>`).join("");
@@ -996,7 +996,7 @@ async function loadBestBuy() {
   renderCompetitorsDetail("bby-competitors", comp);
 }
 
-// â”€â”€ Trend chart (Reddit) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// ── Trend chart (Reddit) ──────────────────────────────────────────────────────
 function renderRedditTrend(canvasId, trend) {
   const card = document.getElementById("rdt-trend-card");
   if (!trend || !trend.length) { if (card) card.style.display = "none"; return; }
@@ -1036,7 +1036,7 @@ function renderRedditTrend(canvasId, trend) {
   });
 }
 
-// â”€â”€ Load: REDDIT â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// ── Load: REDDIT ──────────────────────────────────────────────────────────────
 async function loadReddit() {
   const [sum, sw, topics, wc, comp, trend] = await Promise.all([
     api("/api/reddit/summary"),
@@ -1066,7 +1066,7 @@ async function loadReddit() {
   renderCompetitorsDetail("rdt-competitors", comp);
 }
 
-// â”€â”€ Load: HN â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// ── Load: HN ─────────────────────────────────────────────────────────────────
 async function loadHN() {
   const [sum, sw, topics, wc, comp] = await Promise.all([
     api("/api/hn/summary"),
@@ -1078,7 +1078,7 @@ async function loadHN() {
 
   setKpi("hn-total", sum.total.toLocaleString());
   setKpi("hn-text",  (sum.with_content || sum.total).toLocaleString());
-  setKpi("hn-sat",   sum.net_score ?? sum.avg_sentiment ?? "â€”");
+  setKpi("hn-sat",   sum.net_score ?? sum.avg_sentiment ?? "—");
   setKpi("hn-pos",   (sum.pct_positive ?? sum.sentiment?.positive_pct ?? 0).toFixed(1) + "%");
 
   const s = sum.sentiment;
@@ -1094,7 +1094,7 @@ async function loadHN() {
   renderCompetitorsDetail("hn-competitors", comp);
 }
 
-// â”€â”€ Load: DEV.to â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// ── Load: DEV.to ──────────────────────────────────────────────────────────────
 async function loadDevto() {
   const [sum, sw, topics, wc, comp] = await Promise.all([
     api("/api/devto/summary"),
@@ -1106,7 +1106,7 @@ async function loadDevto() {
 
   setKpi("dt-total", sum.total.toLocaleString());
   setKpi("dt-text",  sum.total.toLocaleString());
-  setKpi("dt-sat",   "â€”");
+  setKpi("dt-sat",   "—");
   setKpi("dt-pos",   sum.sentiment.positive_pct + "%");
 
   const s = sum.sentiment;
@@ -1122,7 +1122,7 @@ async function loadDevto() {
   renderCompetitorsDetail("dt-competitors", comp);
 }
 
-// â”€â”€ Boot â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+// ── Boot ──────────────────────────────────────────────────────────────────────
 const LOADERS = {
   bestbuy: loadBestBuy,
   reddit:  loadReddit,
@@ -1150,4 +1150,3 @@ document.addEventListener("DOMContentLoaded", () => {
 </script>
 </body>
 </html>
-
