@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MacBook Neo — Multi-Source Intelligence Report</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style-guide.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+  <style>
+    body { max-width: 1200px; margin: 0 auto; padding: 28px 20px 80px; }
+
+    /* ── Header ────────────────────────────────────────────────────────────── */
+    header { display:flex; align-items:flex-start; justify-content:space-between; margin-bottom:32px; flex-wrap:wrap; gap:16px; }
+    header h1 { font-size:20px; font-weight:700; color:var(--text); margin-bottom:3px; }
+    header p  { font-size:12px; color:var(--text-mute); }
+
+    /* ── Nav tabs ──────────────────────────────────────────────────────────── */
+    .platform-nav {
+      display:flex; gap:0; border-bottom:2px solid var(--border);
+      margin-bottom:28px; flex-wrap:wrap;
+    }
+    .nav-tab {
+      padding:9px 18px; font-size:12px; font-weight:600; cursor:pointer;
+      border:none; background:none; color:var(--text-mute);
+      border-bottom:2px solid transparent; margin-bottom:-2px;
+      transition:color 0.15s, border-color 0.15s;
+      font-family:'DM Sans',sans-serif;
+    }
+    .nav-tab:hover { color:var(--text); }
+    .nav-tab.active { color:var(--text); border-bottom-color:var(--text); }
+    .nav-tab .nav-dot { display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:6px; }
+
+    /* ── Platform section ──────────────────────────────────────────────────── */
+    .platform-section { display:none; }
+    .platform-section.visible { display:block; }
+    .platform-header {
+      border-left:4px solid var(--border2); padding:12px 16px;
+      background:var(--bg2); border-radius:0 var(--radius) var(--radius) 0;
+      margin-bottom:20px;
+    }
+    .platform-header h2 { font-size:16px; font-weight:700; margin-bottom:2px; }
+    .platform-header p  { font-size:11px; color:var(--text-mute); }
+
+    .sect-bestbuy  .platform-header { border-left-color:#2563eb; }
+    .sect-reddit   .platform-header { border-left-color:#ef4444; }
+    .sect-hn       .platform-header { border-left-color:#f59e0b; }
+    .sect-devto    .platform-header { border-left-color:#8b5cf6; }
+
+    /* ── KPI row ───────────────────────────────────────────────────────────── */
+    .kpi-row { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-bottom:20px; }
+    @media(max-width:700px){ .kpi-row { grid-template-columns:repeat(2,1fr); } }
+
+    /* ── Grid helpers ──────────────────────────────────────────────────────── */
+    .grid-2 { display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-bottom:20px; }
+    .grid-3 { display:grid; grid-template-columns:repeat(3,1fr); gap:16px; margin-bottom:20px; }
+    @media(max-width:760px){ .grid-2,.grid-3 { grid-template-columns:1fr; } }
+
+    /* ── Strengths / Weaknesses ────────────────────────────────────────────── */
+    .sw-list { list-style:none; display:flex; flex-direction:column; gap:10px; }
+    .sw-item { display:flex; gap:10px; align-items:flex-start; }
+    .sw-rank {
+      width:22px; height:22px; border-radius:50%; font-size:10px;
+      font-weight:700; display:flex; align-items:center; justify-content:center;
+      flex-shrink:0; font-family:'JetBrains Mono',monospace; margin-top:1px;
+    }
+    .sw-rank.pos { background:var(--hl-green); color:#1a5a1a; }
+    .sw-rank.neg { background:var(--hl-red);   color:#6a1800; }
+    .sw-body { flex:1; }
+    .sw-label { font-size:12px; font-weight:600; color:var(--text); }
+    .sw-meta  { font-size:10px; color:var(--text-mute); margin-top:1px; }
+    .sw-quote {
+      font-size:11px; color:var(--text-mid); font-style:italic;
+      margin-top:4px; padding-left:8px;
+      border-left:2px solid var(--border2); line-height:1.4;
+    }
+    .sw-insight {
+      font-size:10px; color:var(--text-mute); line-height:1.55;
+      margin-top:6px; padding:6px 10px;
+      background:var(--bg2); border-radius:var(--radius);
+      border-left:2px solid var(--border2);
+    }
+
+    /* ── Topic bars ────────────────────────────────────────────────────────── */
+    .topic-row { display:flex; align-items:center; gap:8px; margin-bottom:7px; }
+    .topic-name { width:130px; font-size:11px; color:var(--text-mid); flex-shrink:0; }
+    .topic-track { flex:1; height:10px; background:var(--bg2); border-radius:5px; overflow:hidden; display:flex; }
+    .topic-pos-fill { height:100%; background:#72c472; }
+    .topic-neu-fill { height:100%; background:#e8d840; }
+    .topic-neg-fill { height:100%; background:#e87060; }
+    .topic-count { width:30px; text-align:right; font-family:'JetBrains Mono',monospace; font-size:10px; font-weight:700; color:var(--text); }
+
+    /* ── Word cloud — green palette, rectangular, no clipping ─────────────── */
+    .wordcloud-container {
+      width:100%; min-height:220px;
+      background:var(--bg2); border-radius:var(--radius);
+      overflow:visible; padding:20px 24px;
+      display:flex; flex-wrap:wrap; align-items:center;
+      justify-content:center; gap:6px 12px; align-content:center;
+      border:1px solid var(--border);
+    }
+    .wordcloud-container span {
+      display:inline-block; font-family:'DM Sans',sans-serif;
+      font-weight:700; line-height:1.3; cursor:default;
+      transition:transform 0.2s; user-select:none;
+    }
+    .wordcloud-container span:hover { transform:scale(1.15) !important; }
+
+    /* ── Competitor detail ─────────────────────────────────────────────────── */
+    .comp-brand { margin-bottom:20px; }
+    .comp-brand-header {
+      display:flex; justify-content:space-between; align-items:center;
+      padding-bottom:6px; border-bottom:1px solid var(--border);
+      margin-bottom:10px;
+    }
+    .comp-brand-name  { font-size:13px; font-weight:700; }
+    .comp-brand-count { font-size:11px; color:var(--text-mute); font-family:'JetBrains Mono',monospace; }
+    .dir-pill {
+      display:inline-block; padding:2px 9px; border-radius:999px;
+      font-size:9px; font-weight:700; text-transform:uppercase;
+      font-family:'JetBrains Mono',monospace; letter-spacing:0.05em;
+    }
+    .dir-pill.macbook_wins { background:var(--hl-green); color:#1a5a1a; }
+    .dir-pill.windows_wins { background:var(--hl-red);   color:#6a1800; }
+    .dir-pill.undecided    { background:var(--bg3);      color:var(--text-mute); }
+    .comp-review {
+      display:grid; grid-template-columns:1fr auto; gap:4px 12px;
+      padding:8px 0; border-bottom:1px solid var(--bg2);
+    }
+    .comp-review:last-child { border-bottom:none; }
+    .comp-review-title { font-size:11px; font-weight:600; color:var(--text); }
+    .comp-review-body  { font-size:10px; font-style:italic; color:var(--text-mid); margin-top:2px; line-height:1.4; }
+    .comp-review-meta  { text-align:right; white-space:nowrap; }
+    .comp-review-stars { font-size:10px; color:#f59e0b; font-weight:700; display:block; }
+    .comp-review-link  { display:block; font-size:9px; color:var(--text-mute); text-decoration:none; margin-top:3px; }
+    .comp-review-link:hover { color:var(--text); text-decoration:underline; }
+    .comp-summary-remaining {
+      margin-top:8px; padding:8px 12px;
+      background:var(--bg2); border-radius:var(--radius);
+      font-size:10px; font-style:italic; color:var(--text-mid); line-height:1.5;
+    }
+    .sentiment-badge {
+      display:inline-block; padding:1px 6px; border-radius:999px; font-size:9px;
+      font-weight:700; font-family:'JetBrains Mono',monospace; text-transform:uppercase;
+    }
+    .sentiment-badge.positive { background:var(--hl-green); color:#1a5a1a; }
+    .sentiment-badge.neutral  { background:var(--bg3); color:var(--text-mute); }
+    .sentiment-badge.negative { background:var(--hl-red); color:#6a1800; }
+
+    /* ── Donut legend ──────────────────────────────────────────────────────── */
+    .donut-legend { margin-top:10px; }
+    .donut-legend-row { display:flex; align-items:center; gap:8px; font-size:11px; padding:3px 0; }
+    .donut-legend-dot { width:10px; height:10px; border-radius:50%; flex-shrink:0; }
+    .donut-legend-label { flex:1; color:var(--text-mid); }
+    .donut-legend-val { font-family:'JetBrains Mono',monospace; font-size:10px; font-weight:700; }
+
+    /* ── Synthesis table ───────────────────────────────────────────────────── */
+    .synth-table { width:100%; border-collapse:collapse; font-size:11px; }
+    .synth-table th {
+      padding:6px 10px; font-size:10px; text-transform:uppercase;
+      letter-spacing:0.07em; color:var(--text-mute); border-bottom:1px solid var(--border);
+      font-family:'JetBrains Mono',monospace; text-align:left;
+    }
+    .synth-table td { padding:7px 10px; border-bottom:1px solid var(--bg2); }
+    .conf-pill {
+      display:inline-block; padding:1px 7px; border-radius:999px;
+      font-size:9px; font-weight:700; font-family:'JetBrains Mono',monospace;
+    }
+    .conf-pill.HIGH   { background:var(--hl-green);  color:#1a5a1a; }
+    .conf-pill.MEDIUM { background:var(--hl-yellow); color:#6a5800; }
+    .verdict-pill {
+      display:inline-block; padding:1px 7px; border-radius:999px;
+      font-size:9px; font-weight:700; font-family:'JetBrains Mono',monospace;
+      text-transform:uppercase;
+    }
+    .verdict-pill.strength { background:var(--hl-teal);   color:#0a5050; }
+    .verdict-pill.weakness { background:var(--hl-red);    color:#6a1800; }
+    .verdict-pill.contested{ background:var(--hl-yellow); color:#6a5800; }
+
+    /* ── Volume bar chart container ────────────────────────────────────────── */
+    .chart-box { position:relative; }
+
+    /* ── Misc ──────────────────────────────────────────────────────────────── */
+    .no-data { color:var(--text-mute); font-size:11px; font-style:italic; padding:10px 0; }
+    .loading  { color:var(--text-mute); font-size:12px; padding:14px 0; }
+    .star-row { display:flex; align-items:center; gap:8px; margin-bottom:5px; }
+    .star-label { width:22px; font-size:11px; color:var(--text-mute); }
+    .star-track { flex:1; height:8px; background:var(--bg2); border-radius:4px; overflow:hidden; }
+    .star-fill  { height:100%; border-radius:4px; }
+    .star-count { width:34px; text-align:right; font-family:'JetBrains Mono',monospace; font-size:11px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>MacBook Neo — Multi-Source Intelligence Report</h1>
+    <p>Best Buy · Reddit · Hacker News · DEV.to &nbsp;|&nbsp; Mar 4 – Apr 30, 2026</p>
+  </div>
+</header>
+
+<!-- ── Platform nav ─────────────────────────────────────────────────────────── -->
+<nav class="platform-nav">
+  <button class="nav-tab active" onclick="showSection('bestbuy', event)">
+    <span class="nav-dot" style="background:#2563eb"></span>Best Buy
+  </button>
+  <button class="nav-tab" onclick="showSection('reddit', event)">
+    <span class="nav-dot" style="background:#ef4444"></span>Reddit
+  </button>
+  <button class="nav-tab" onclick="showSection('hn', event)">
+    <span class="nav-dot" style="background:#f59e0b"></span>Hacker News
+  </button>
+  <button class="nav-tab" onclick="showSection('devto', event)">
+    <span class="nav-dot" style="background:#8b5cf6"></span>DEV.to
+  </button>
+</nav>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     BEST BUY
+     ════════════════════════════════════════════════════════════════════════════ -->
+<section class="platform-section sect-bestbuy visible" id="sec-bestbuy">
+  <div class="platform-header">
+    <h2>Best Buy — Verified Purchaser Reviews</h2>
+    <p>Star-based sentiment · Mainstream consumers · High credibility</p>
+  </div>
+
+  <div class="kpi-row" id="bby-kpis">
+    <div class="kpi-card"><div class="kpi-label">Reviews Analyzed</div><div class="kpi-value" id="bby-total">—</div></div>
+    <div class="kpi-card"><div class="kpi-label">Satisfaction</div><div class="kpi-value" id="bby-sat">—</div><div class="kpi-sub">out of 100</div></div>
+    <div class="kpi-card"><div class="kpi-label">Avg Rating</div><div class="kpi-value" id="bby-pos">—</div></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">Top 5 Strengths</div>
+      <ul class="sw-list" id="bby-strengths"><li class="loading">Loading…</li></ul>
+    </div>
+    <div class="card">
+      <div class="card-title">Top 5 Weaknesses</div>
+      <ul class="sw-list" id="bby-weaknesses"><li class="loading">Loading…</li></ul>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">Star Rating Distribution</div>
+      <div id="bby-stars"><div class="loading">Loading…</div></div>
+      <div style="margin-top:14px">
+        <div class="card-title" style="margin-top:0">Keyword Sentiment</div>
+        <canvas id="bby-donut" width="200" height="200" style="display:block;margin:0 auto"></canvas>
+        <div class="donut-legend" id="bby-donut-legend"></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">Topic Coverage</div>
+      <div id="bby-topics"><div class="loading">Loading…</div></div>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">Competitor Mentions</div>
+      <div id="bby-competitors"><div class="loading">Loading…</div></div>
+    </div>
+    <div class="card">
+      <div class="card-title">Word Cloud</div>
+      <div class="wordcloud-container" id="bby-wordcloud"><div class="loading">Loading…</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     REDDIT
+     ════════════════════════════════════════════════════════════════════════════ -->
+<section class="platform-section sect-reddit" id="sec-reddit">
+  <div class="platform-header">
+    <h2>Reddit — Community Sentiment</h2>
+    <p>Keyword-based sentiment · Tech-enthusiast skew · Anonymous users</p>
+  </div>
+
+  <div class="kpi-row">
+    <div class="kpi-card"><div class="kpi-label">Posts Analyzed</div><div class="kpi-value" id="rdt-total">—</div></div>
+    <div class="kpi-card"><div class="kpi-label">Net Score</div><div class="kpi-value" id="rdt-sat">—</div></div>
+    <div class="kpi-card"><div class="kpi-label">% Positive</div><div class="kpi-value" id="rdt-pos">—</div></div>
+  </div>
+
+  <div class="card" style="margin-bottom:20px" id="rdt-trend-card">
+    <div class="card-title">Daily Post &amp; Comment Volume — Mar 4 – Apr 30, 2026</div>
+    <canvas id="rdt-trend" height="70"></canvas>
+  </div>
+
+  <div class="grid-2">
+    <div class="card"><div class="card-title">Top 5 Strengths</div><ul class="sw-list" id="rdt-strengths"><li class="loading">Loading…</li></ul></div>
+    <div class="card"><div class="card-title">Top 5 Weaknesses</div><ul class="sw-list" id="rdt-weaknesses"><li class="loading">Loading…</li></ul></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">Sentiment Distribution</div>
+      <canvas id="rdt-donut" width="200" height="200" style="display:block;margin:0 auto"></canvas>
+      <div class="donut-legend" id="rdt-donut-legend"></div>
+    </div>
+    <div class="card">
+      <div class="card-title">Topic Coverage</div>
+      <div id="rdt-topics"><div class="loading">Loading…</div></div>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card"><div class="card-title">Competitor Mentions</div><div id="rdt-competitors"><div class="loading">Loading…</div></div></div>
+    <div class="card"><div class="card-title">Word Cloud</div><div class="wordcloud-container" id="rdt-wordcloud"><div class="loading">Loading…</div></div></div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     HACKER NEWS
+     ════════════════════════════════════════════════════════════════════════════ -->
+<section class="platform-section sect-hn" id="sec-hn">
+  <div class="platform-header">
+    <h2>Hacker News — Technical Community</h2>
+    <p>Keyword-based sentiment · Developer / founder skew · High analytical quality</p>
+  </div>
+
+  <div class="kpi-row">
+    <div class="kpi-card"><div class="kpi-label">Items Analyzed</div><div class="kpi-value" id="hn-total">—</div></div>
+    <div class="kpi-card"><div class="kpi-label">% Positive</div><div class="kpi-value" id="hn-pos">—</div></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card"><div class="card-title">Top 5 Strengths</div><ul class="sw-list" id="hn-strengths"><li class="loading">Loading…</li></ul></div>
+    <div class="card"><div class="card-title">Top 5 Weaknesses</div><ul class="sw-list" id="hn-weaknesses"><li class="loading">Loading…</li></ul></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card"><div class="card-title">Sentiment Distribution</div><canvas id="hn-donut" width="200" height="200" style="display:block;margin:0 auto"></canvas><div class="donut-legend" id="hn-donut-legend"></div></div>
+    <div class="card"><div class="card-title">Topic Coverage</div><div id="hn-topics"><div class="loading">Loading…</div></div></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card"><div class="card-title">Competitor Mentions</div><div id="hn-competitors"><div class="loading">Loading…</div></div></div>
+    <div class="card"><div class="card-title">Word Cloud</div><div class="wordcloud-container" id="hn-wordcloud"><div class="loading">Loading…</div></div></div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     DEV.to
+     ════════════════════════════════════════════════════════════════════════════ -->
+<section class="platform-section sect-devto" id="sec-devto">
+  <div class="platform-header">
+    <h2>DEV.to — Developer Articles</h2>
+    <p>Keyword-based sentiment · Practical / tutorial tone · Working developer skew</p>
+  </div>
+
+  <div class="kpi-row">
+    <div class="kpi-card"><div class="kpi-label">Articles Analyzed</div><div class="kpi-value" id="dt-total">—</div></div>
+    <div class="kpi-card"><div class="kpi-label">% Positive</div><div class="kpi-value" id="dt-pos">—</div></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card"><div class="card-title">Top 5 Strengths</div><ul class="sw-list" id="dt-strengths"><li class="loading">Loading…</li></ul></div>
+    <div class="card"><div class="card-title">Top 5 Weaknesses</div><ul class="sw-list" id="dt-weaknesses"><li class="loading">Loading…</li></ul></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card"><div class="card-title">Sentiment Distribution</div><canvas id="dt-donut" width="200" height="200" style="display:block;margin:0 auto"></canvas><div class="donut-legend" id="dt-donut-legend"></div></div>
+    <div class="card"><div class="card-title">Topic Coverage</div><div id="dt-topics"><div class="loading">Loading…</div></div></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card"><div class="card-title">Competitor Mentions</div><div id="dt-competitors"><div class="loading">Loading…</div></div></div>
+    <div class="card"><div class="card-title">Word Cloud</div><div class="wordcloud-container" id="dt-wordcloud"><div class="loading">Loading…</div></div></div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════════════════════════
+     JS
+     ════════════════════════════════════════════════════════════════════════════ -->
+<script>
+const API = "http://localhost:8005";
+
+// ── Fetch ─────────────────────────────────────────────────────────────────────
+async function api(path) {
+  const r = await fetch(API + path);
+  if (!r.ok) throw new Error(`${r.status} ${r.statusText} — ${path}`);
+  return r.json();
+}
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+function esc(s) {
+  return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+}
+
+function donut(canvasId, labels, data, colors, legendId) {
+  new Chart(document.getElementById(canvasId), {
+    type: "doughnut",
+    data: { labels, datasets: [{ data, backgroundColor: colors, borderWidth: 1, borderColor: "#faf8f3" }] },
+    options: {
+      responsive: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            label: function(ctx) {
+              const total = ctx.dataset.data.reduce((a, b) => a + b, 0);
+              const pct   = ((ctx.parsed / total) * 100).toFixed(1);
+              return `${ctx.label}: ${ctx.parsed.toLocaleString()} (${pct}%)`;
+            }
+          }
+        },
+      },
+      cutout: "58%",
+    },
+  });
+  if (legendId) {
+    const total = data.reduce((a, b) => a + b, 0);
+    const legEl = document.getElementById(legendId);
+    if (legEl) legEl.innerHTML = labels.map((lbl, i) => {
+      const pct = total ? ((data[i] / total) * 100).toFixed(1) : "0.0";
+      return `<div class="donut-legend-row">
+        <span class="donut-legend-dot" style="background:${colors[i]}"></span>
+        <span class="donut-legend-label">${esc(lbl)}</span>
+        <span class="donut-legend-val">${(data[i]||0).toLocaleString()} <span style="color:var(--text-mute);font-weight:400">(${pct}%)</span></span>
+      </div>`;
+    }).join("");
+  }
+}
+
+function renderTopics(containerId, items) {
+  const el = document.getElementById(containerId);
+  const _n = d => d.total || d.count || 0;
+  const filtered = items.filter(d => _n(d) > 0).sort((a, b) => _n(b) - _n(a));
+  if (!filtered.length) { el.innerHTML = '<div class="no-data">No topic data yet.</div>'; return; }
+
+  const canvas = document.createElement("canvas");
+  const h      = Math.max(180, filtered.length * 28);
+  canvas.height = h;
+  el.innerHTML  = "";
+  el.appendChild(canvas);
+
+  new Chart(canvas, {
+    type: "bar",
+    data: {
+      labels:   filtered.map(d => d.label),
+      datasets: [
+        { label: "Positive", data: filtered.map(d => d.positive), backgroundColor: "#16a34a" },
+        { label: "Neutral",  data: filtered.map(d => d.neutral),  backgroundColor: "#d1d5db" },
+        { label: "Negative", data: filtered.map(d => d.negative), backgroundColor: "#dc2626" },
+      ],
+    },
+    options: {
+      indexAxis: "y",
+      responsive: true,
+      scales: {
+        x: { stacked: true, ticks: { font: { size: 9 } } },
+        y: { stacked: true, ticks: { font: { size: 10 } } },
+      },
+      plugins: {
+        legend: { position: "bottom", labels: { boxWidth: 10, font: { size: 10 } } },
+        datalabels: {
+          display: ctx => ctx.dataset.data[ctx.dataIndex] >= 10,
+          color:   "#fff",
+          font:    { weight: "bold", size: 10 },
+          formatter: v => v,
+        },
+      },
+    },
+    plugins: [ChartDataLabels],
+  });
+}
+
+// renderSW: uses d.insight (not d.rationale)
+function renderSW(posId, negId, data, unit = "signals") {
+  if (!data) {
+    const empty = '<li class="no-data">No data yet.</li>';
+    document.getElementById(posId).innerHTML = empty;
+    document.getElementById(negId).innerHTML = empty;
+    return;
+  }
+  const render = (listId, items, cls) => {
+    const el = document.getElementById(listId);
+    el.innerHTML = items.length
+      ? items.map((d, i) => {
+          let quote = d.quote || "";
+          if (quote.trimEnd().endsWith("?")) quote = "";
+          return `<li class="sw-item">
+            <div class="sw-rank ${cls}">${i+1}</div>
+            <div class="sw-body">
+              <div class="sw-label">${esc(d.label)}</div>
+              <div class="sw-meta">${d.count} mentions · ${d.pct}% of ${unit}</div>
+              ${quote ? `<div class="sw-quote">"${esc(quote.slice(0,140))}"</div>` : ""}
+              ${d.insight ? `<div class="sw-insight">${esc(d.insight)}</div>` : ""}
+            </div>
+          </li>`;
+        }).join("")
+      : '<li class="no-data">No data yet.</li>';
+  };
+  render(posId, data.strengths || [], "pos");
+  render(negId, data.weaknesses || [], "neg");
+}
+
+// renderWordCloud: green palette, no sentiment colors
+const WC_PALETTE = ["#b7e4b7","#7ec87e","#4fa84f","#2d7d2d","#1a521a"];
+
+function renderWordCloud(containerId, words) {
+  const el = document.getElementById(containerId);
+  if (!words || !words.length) { el.innerHTML = '<span class="no-data">No word data yet.</span>'; return; }
+
+  const top      = words.slice(0, 60);
+  const maxCount = top[0]?.count || 1;
+
+  // Interleave large words through the flex layout for visual balance
+  const large = top.slice(0, 5);
+  const rest  = top.slice(5).sort(() => Math.random() - 0.5);
+  const mid   = Math.floor(rest.length / 2);
+  const shuffled = [...rest.slice(0, mid), ...large, ...rest.slice(mid)];
+
+  el.innerHTML = "";
+  shuffled.forEach(w => {
+    const ratio  = w.count / maxCount;
+    const size   = Math.round(11 + ratio * 32);
+    const weight = ratio > 0.5 ? "800" : ratio > 0.3 ? "600" : "400";
+    // Pick shade from green palette based on relative frequency
+    const paletteIdx = Math.min(
+      WC_PALETTE.length - 1,
+      Math.floor(ratio * WC_PALETTE.length)
+    );
+    const color = WC_PALETTE[WC_PALETTE.length - 1 - paletteIdx]; // darkest = most frequent
+
+    const span = document.createElement("span");
+    span.textContent      = w.text;
+    span.title            = `${w.text}: ${w.count} mentions`;
+    span.style.fontSize   = size + "px";
+    span.style.fontWeight = weight;
+    span.style.color      = color;
+    span.style.opacity    = (0.75 + ratio * 0.25).toFixed(2);
+    el.appendChild(span);
+  });
+}
+
+function renderCompetitorsDetail(containerId, data) {
+  const el = document.getElementById(containerId);
+  const comps = (data && data.competitors) || [];
+  if (!comps.length) { el.innerHTML = '<div class="no-data">No competitor mentions detected.</div>'; return; }
+
+  el.innerHTML = comps.map(c => {
+    const dirLabel = c.direction === "macbook_wins" ? "MacBook Wins"
+                   : c.direction === "windows_wins"  ? "OEM Wins"
+                   : "Undecided";
+    const reviews = (c.reviews || []).map((r, i) => {
+      let ratingHtml = "";
+      if (r.rating && r.rating > 0) {
+        const full  = Math.round(r.rating);
+        const stars = "★".repeat(full) + "☆".repeat(Math.max(0, 5 - full));
+        ratingHtml = `<span class="comp-review-stars">${stars}</span>`;
+      } else if (r.sentiment) {
+        ratingHtml = `<span class="sentiment-badge ${r.sentiment}">${r.sentiment}</span>`;
+      }
+      const linkHtml = r.source_url
+        ? `<a class="comp-review-link" href="${esc(r.source_url)}" target="_blank" rel="noopener">[link]</a>`
+        : "";
+      const body = r.body ? esc(r.body.slice(0, 150)) + (r.body.length > 150 ? "…" : "") : "";
+      return `<div class="comp-review">
+        <div>
+          <div class="comp-review-title">${i+1}. ${esc(r.title || "(no title)")}</div>
+          ${body ? `<div class="comp-review-body">"${body}"</div>` : ""}
+        </div>
+        <div class="comp-review-meta">${ratingHtml}${linkHtml}</div>
+      </div>`;
+    }).join("");
+
+    const summaryHtml = c.summary_of_remaining
+      ? `<div class="comp-summary-remaining">${esc(c.summary_of_remaining)}</div>`
+      : `<div style="font-size:10px;color:var(--text-mute);padding-top:4px">Showing all ${c.total_mentions} mention${c.total_mentions!==1?"s":""}</div>`;
+
+    return `<div class="comp-brand">
+      <div class="comp-brand-header">
+        <div>
+          <span class="comp-brand-name">${esc(c.brand)}</span>
+          <span class="comp-brand-count"> — ${c.total_mentions} mention${c.total_mentions!==1?"s":""}</span>
+        </div>
+        <span class="dir-pill ${c.direction}">${dirLabel}</span>
+      </div>
+      ${reviews}
+      ${summaryHtml}
+    </div>`;
+  }).join('<hr style="border:none;border-top:1px solid var(--border);margin:8px 0">');
+}
+
+// ── KPI setter ────────────────────────────────────────────────────────────────
+function setKpi(id, val) {
+  const el = document.getElementById(id);
+  if (el) el.textContent = val;
+}
+
+// ── Load: BEST BUY ────────────────────────────────────────────────────────────
+async function loadBestBuy() {
+  const [sum, sw, topics, wc, comp] = await Promise.all([
+    api("/api/bestbuy/summary"),
+    api("/api/bestbuy/strengths-weaknesses"),
+    api("/api/bestbuy/topics"),
+    api("/api/bestbuy/wordcloud?top_n=60"),
+    api("/api/bestbuy/competitors-detail"),
+  ]);
+
+  setKpi("bby-total", sum.total.toLocaleString());
+  setKpi("bby-text",  sum.with_text.toLocaleString());
+  setKpi("bby-sat",   Math.round(sum.satisfaction_score));
+  setKpi("bby-pos",   (sum.avg_rating || 0).toFixed(1) + "★");
+
+  const starColors = {5:"#16a34a",4:"#86efac",3:"#fbbf24",2:"#f97316",1:"#dc2626"};
+  const maxStar = Math.max(...Object.values(sum.star_distribution), 1);
+  document.getElementById("bby-stars").innerHTML = [5,4,3,2,1].map(s => `
+    <div class="star-row">
+      <span class="star-label">${s}★</span>
+      <div class="star-track"><div class="star-fill" style="width:${(sum.star_distribution[s]||0)/maxStar*100}%;background:${starColors[s]}"></div></div>
+      <span class="star-count">${sum.star_distribution[s]||0}</span>
+    </div>`).join("");
+
+  const s = sum.sentiment;
+  donut("bby-donut",
+    ["Positive","Neutral","Negative"],
+    [s.positive, s.neutral, s.negative],
+    ["#16a34a","#6b7280","#dc2626"],
+    "bby-donut-legend");
+
+  renderSW("bby-strengths", "bby-weaknesses", sw, "reviews");
+  renderTopics("bby-topics", topics);
+  renderWordCloud("bby-wordcloud", wc);
+  renderCompetitorsDetail("bby-competitors", comp);
+}
+
+// ── Trend chart (Reddit) ──────────────────────────────────────────────────────
+function renderRedditTrend(canvasId, trend) {
+  const card = document.getElementById("rdt-trend-card");
+  if (!trend || !trend.length) { if (card) card.style.display = "none"; return; }
+
+  const hasPosts    = trend.some(d => d.posts > 0);
+  const hasComments = trend.some(d => d.comments > 0);
+  const datasets = [];
+  if (hasPosts) datasets.push({
+    label: "Posts",
+    data: trend.map(d => d.posts),
+    borderColor: "#ef4444",
+    backgroundColor: "rgba(239,68,68,0.07)",
+    tension: 0.35, fill: true, pointRadius: 1.5, borderWidth: 2,
+  });
+  if (hasComments) datasets.push({
+    label: "Comments",
+    data: trend.map(d => d.comments),
+    borderColor: "#8b5cf6",
+    backgroundColor: "rgba(139,92,246,0.05)",
+    tension: 0.35, fill: true, pointRadius: 1.5, borderWidth: 2,
+  });
+
+  new Chart(document.getElementById(canvasId), {
+    type: "line",
+    data: { labels: trend.map(d => d.date), datasets },
+    options: {
+      responsive: true,
+      interaction: { mode: "index", intersect: false },
+      scales: {
+        x: { ticks: { maxTicksLimit: 14, font: { size: 9 }, maxRotation: 0 } },
+        y: { beginAtZero: true, ticks: { font: { size: 9 } } },
+      },
+      plugins: {
+        legend: { position: "bottom", labels: { boxWidth: 10, font: { size: 10 } } },
+      },
+    },
+  });
+}
+
+// ── Load: REDDIT ──────────────────────────────────────────────────────────────
+async function loadReddit() {
+  const [sum, sw, topics, wc, comp, trend] = await Promise.all([
+    api("/api/reddit/summary"),
+    api("/api/reddit/strengths-weaknesses"),
+    api("/api/reddit/topics"),
+    api("/api/reddit/wordcloud?top_n=60"),
+    api("/api/reddit/competitors-detail"),
+    api("/api/reddit/trend"),
+  ]);
+
+  setKpi("rdt-total", sum.total.toLocaleString());
+  setKpi("rdt-text",  sum.total.toLocaleString());
+  setKpi("rdt-sat",   (sum.satisfaction_score || 0).toFixed(1));
+  setKpi("rdt-pos",   sum.sentiment.positive_pct + "%");
+
+  const s = sum.sentiment;
+  donut("rdt-donut",
+    ["Positive","Neutral","Negative"],
+    [s.positive, s.neutral, s.negative],
+    ["#16a34a","#6b7280","#dc2626"],
+    "rdt-donut-legend");
+
+  renderRedditTrend("rdt-trend", trend);
+  renderSW("rdt-strengths", "rdt-weaknesses", sw, "posts");
+  renderTopics("rdt-topics", topics);
+  renderWordCloud("rdt-wordcloud", wc);
+  renderCompetitorsDetail("rdt-competitors", comp);
+}
+
+// ── Load: HN ─────────────────────────────────────────────────────────────────
+async function loadHN() {
+  const [sum, sw, topics, wc, comp] = await Promise.all([
+    api("/api/hn/summary"),
+    api("/api/hn/strengths-weaknesses"),
+    api("/api/hn/topics"),
+    api("/api/hn/wordcloud?top_n=60"),
+    api("/api/hn/competitors-detail"),
+  ]);
+
+  setKpi("hn-total", sum.total.toLocaleString());
+  setKpi("hn-text",  (sum.with_content || sum.total).toLocaleString());
+  setKpi("hn-sat",   sum.net_score ?? sum.avg_sentiment ?? "—");
+  setKpi("hn-pos",   (sum.pct_positive ?? sum.sentiment?.positive_pct ?? 0).toFixed(1) + "%");
+
+  const s = sum.sentiment;
+  donut("hn-donut",
+    ["Positive","Neutral","Negative"],
+    [s.positive, s.neutral, s.negative],
+    ["#16a34a","#6b7280","#dc2626"],
+    "hn-donut-legend");
+
+  renderSW("hn-strengths", "hn-weaknesses", sw, "items");
+  renderTopics("hn-topics", topics);
+  renderWordCloud("hn-wordcloud", wc);
+  renderCompetitorsDetail("hn-competitors", comp);
+}
+
+// ── Load: DEV.to ──────────────────────────────────────────────────────────────
+async function loadDevto() {
+  const [sum, sw, topics, wc, comp] = await Promise.all([
+    api("/api/devto/summary"),
+    api("/api/devto/strengths-weaknesses"),
+    api("/api/devto/topics"),
+    api("/api/devto/wordcloud?top_n=60"),
+    api("/api/devto/competitors-detail"),
+  ]);
+
+  setKpi("dt-total", sum.total.toLocaleString());
+  setKpi("dt-text",  sum.total.toLocaleString());
+  setKpi("dt-sat",   "—");
+  setKpi("dt-pos",   sum.sentiment.positive_pct + "%");
+
+  const s = sum.sentiment;
+  donut("dt-donut",
+    ["Positive","Neutral","Negative"],
+    [s.positive, s.neutral, s.negative],
+    ["#16a34a","#6b7280","#dc2626"],
+    "dt-donut-legend");
+
+  renderSW("dt-strengths", "dt-weaknesses", sw, "articles");
+  renderTopics("dt-topics", topics);
+  renderWordCloud("dt-wordcloud", wc);
+  renderCompetitorsDetail("dt-competitors", comp);
+}
+
+// ── Boot ──────────────────────────────────────────────────────────────────────
+const LOADERS = {
+  bestbuy: loadBestBuy,
+  reddit:  loadReddit,
+  hn:      loadHN,
+  devto:   loadDevto,
+};
+const _loaded = new Set();
+
+function showSection(id, evt) {
+  document.querySelectorAll(".platform-section").forEach(s => s.classList.remove("visible"));
+  document.querySelectorAll(".nav-tab").forEach(t => t.classList.remove("active"));
+  document.getElementById("sec-" + id).classList.add("visible");
+  if (evt && evt.currentTarget) evt.currentTarget.classList.add("active");
+
+  if (!_loaded.has(id) && LOADERS[id]) {
+    _loaded.add(id);
+    LOADERS[id]().catch(e => console.warn(`[${id}] load failed:`, e.message));
+  }
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  _loaded.add("bestbuy");
+  loadBestBuy().catch(e => console.warn("[bestbuy] load failed:", e.message));
+});
+</script>
+</body>
+</html>

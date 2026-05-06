@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+*.env
+secrets.json
+
+# SQLite databases (large binary — use exported JSON files instead)
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+checkpoint.json
+*.tmp
+*.bak
+
+# Build artifacts (standalone_v3.html is committed intentionally)
+__pycache__/

@@ -1,0 +1,2541 @@
+{
+  "bestbuy": {
+    "strengths_weaknesses": {
+      "strengths": [
+        {
+          "label": "Display Quality",
+          "topic": "display",
+          "count": 296,
+          "pct": 47.3,
+          "quote": "The quality of the screen images and videos is what keeps me in awe. Definitely helpful for my continued tasks.",
+          "insight": "338 signals praised for display quality — 296 positive, 9 negative, 33 neutral."
+        },
+        {
+          "label": "Build & Keyboard",
+          "topic": "build_quality",
+          "count": 286,
+          "pct": 45.2,
+          "quote": "I love the slim line, lightweight laptop. It’s easy to take wherever you go. The keyboard feels great.",
+          "insight": "323 signals praised for build & keyboard — 286 positive, 7 negative, 30 neutral."
+        },
+        {
+          "label": "Price & Value",
+          "topic": "price_value",
+          "count": 233,
+          "pct": 36.8,
+          "quote": "Highly recommend. Great price and value. My son is happy with it for school and everyday use.",
+          "insight": "267 signals praised for price & value — 233 positive, 5 negative, 29 neutral."
+        },
+        {
+          "label": "Software & Ecosystem",
+          "topic": "software_ecosystem",
+          "count": 227,
+          "pct": 35.7,
+          "quote": "This is my first Apple laptop. I love working between my iPad, iPhone, and Neo seamlessly. The Apple ecosystem just works.",
+          "insight": "263 signals praised for software & ecosystem — 227 positive, 4 negative, 32 neutral."
+        },
+        {
+          "label": "Performance & Chip",
+          "topic": "performance",
+          "count": 170,
+          "pct": 28.0,
+          "quote": "It’s smooth, reliable, and perfect for everyday work, school, and multitasking. The chip handles everything without a hiccup.",
+          "insight": "200 signals praised for performance & chip — 170 positive, 6 negative, 24 neutral."
+        }
+      ],
+      "weaknesses": [
+        {
+          "label": "Ports & Connectivity",
+          "topic": "ports",
+          "count": 1,
+          "pct": 0.1,
+          "quote": "The ports are lacking. Don't think it would have killed them to add a USB-A port — I need a dongle for everything.",
+          "insight": "USB-A absence is the main port complaint — 1 genuine negative signal in 51 port mentions."
+        },
+        {
+          "label": "Storage Tier",
+          "topic": "repairability",
+          "count": 1,
+          "pct": 0.1,
+          "quote": "The only thing I could probably complain about is the amount of storage — base 256GB fills up fast and you can't upgrade.",
+          "insight": "Base storage limitation flagged in 1 of 58 repairability signals — soldered SSD means no self-upgrade path."
+        }
+      ]
+    },
+    "competitors": {
+      "competitors": [
+        {
+          "direction": "macbook_wins",
+          "brand": "HP",
+          "total_mentions": 4,
+          "reviews": [
+            {
+              "title": "Thank you apple for making an affordable laptop.",
+              "body": "Got it for my wife for her school. It works great. This is only my second MacBook the first one I had was a Intel chip and I wasn't too impressed with it, but the A18 chip is amazing compared to those",
+              "sentiment": "positive",
+              "rating": 5,
+              "source_url": ""
+            },
+            {
+              "title": "Review of MacNeo",
+              "body": "The unit screen is too small for constant use without additional monitor, limiting laptop options.  Good features otherwise.  Would have preferred larger screen for just a little more money.  Would no",
+              "sentiment": "positive",
+              "rating": 4,
+              "source_url": ""
+            },
+            {
+              "title": "Neo compact computer",
+              "body": "Nice compact little computer.  Totally different  that hp and takes a little getting used to.  Keyboard is smaller and I had a little problem hitting the right keys.  I do like it and would recommend ",
+              "sentiment": "positive",
+              "rating": 4,
+              "source_url": ""
+            },
+            {
+              "title": "Macbook Neo",
+              "body": "I am previously coming for HP laptop and I have to say that this laptop has been pretty great so far. I am primarily using it for college at the moment but everything has been really smooth and in my ",
+              "sentiment": "positive",
+              "rating": 5,
+              "source_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    "wordcloud": [
+      {
+        "text": "macbook",
+        "count": 340
+      },
+      {
+        "text": "neo",
+        "count": 321
+      },
+      {
+        "text": "laptop",
+        "count": 313
+      },
+      {
+        "text": "love",
+        "count": 251
+      },
+      {
+        "text": "apple",
+        "count": 218
+      },
+      {
+        "text": "price",
+        "count": 195
+      },
+      {
+        "text": "mac",
+        "count": 184
+      },
+      {
+        "text": "computer",
+        "count": 139
+      },
+      {
+        "text": "perfect",
+        "count": 130
+      },
+      {
+        "text": "easy",
+        "count": 119
+      },
+      {
+        "text": "fast",
+        "count": 98
+      },
+      {
+        "text": "buy",
+        "count": 89
+      },
+      {
+        "text": "school",
+        "count": 89
+      },
+      {
+        "text": "light",
+        "count": 84
+      },
+      {
+        "text": "battery",
+        "count": 79
+      },
+      {
+        "text": "quality",
+        "count": 76
+      },
+      {
+        "text": "screen",
+        "count": 76
+      },
+      {
+        "text": "excellent",
+        "count": 75
+      },
+      {
+        "text": "nice",
+        "count": 69
+      },
+      {
+        "text": "amazing",
+        "count": 68
+      },
+      {
+        "text": "recommend",
+        "count": 67
+      },
+      {
+        "text": "life",
+        "count": 65
+      },
+      {
+        "text": "color",
+        "count": 64
+      },
+      {
+        "text": "pro",
+        "count": 55
+      },
+      {
+        "text": "feels",
+        "count": 55
+      },
+      {
+        "text": "performance",
+        "count": 52
+      },
+      {
+        "text": "happy",
+        "count": 50
+      },
+      {
+        "text": "size",
+        "count": 48
+      },
+      {
+        "text": "small",
+        "count": 46
+      },
+      {
+        "text": "lightweight",
+        "count": 46
+      },
+      {
+        "text": "book",
+        "count": 44
+      },
+      {
+        "text": "college",
+        "count": 43
+      },
+      {
+        "text": "little",
+        "count": 43
+      },
+      {
+        "text": "affordable",
+        "count": 43
+      },
+      {
+        "text": "everyday",
+        "count": 42
+      },
+      {
+        "text": "overall",
+        "count": 40
+      },
+      {
+        "text": "awesome",
+        "count": 38
+      },
+      {
+        "text": "super",
+        "count": 38
+      },
+      {
+        "text": "tasks",
+        "count": 37
+      },
+      {
+        "text": "reliable",
+        "count": 35
+      },
+      {
+        "text": "value",
+        "count": 35
+      },
+      {
+        "text": "needed",
+        "count": 34
+      },
+      {
+        "text": "without",
+        "count": 34
+      },
+      {
+        "text": "chip",
+        "count": 34
+      },
+      {
+        "text": "needs",
+        "count": 34
+      },
+      {
+        "text": "keyboard",
+        "count": 33
+      },
+      {
+        "text": "budget",
+        "count": 33
+      },
+      {
+        "text": "apps",
+        "count": 33
+      },
+      {
+        "text": "daily",
+        "count": 33
+      },
+      {
+        "text": "windows",
+        "count": 33
+      },
+      {
+        "text": "ipad",
+        "count": 32
+      },
+      {
+        "text": "solid",
+        "count": 32
+      },
+      {
+        "text": "absolutely",
+        "count": 31
+      },
+      {
+        "text": "old",
+        "count": 31
+      },
+      {
+        "text": "made",
+        "count": 30
+      },
+      {
+        "text": "basic",
+        "count": 30
+      },
+      {
+        "text": "iphone",
+        "count": 30
+      },
+      {
+        "text": "videos",
+        "count": 29
+      }
+    ]
+  },
+  "reddit": {
+    "strengths_weaknesses": {
+      "strengths": [
+        {
+          "label": "Performance & Chip",
+          "topic": "performance",
+          "count": 528,
+          "pct": 39.4,
+          "quote": "It's been a week, for all of us who drank the Kool Aid, how's everything been? Overall I'm impressed. The value is here, the performance is as expected (honestl",
+          "insight": "1,237 signals for performance & chip — 528 positive, 135 negative, 574 neutral."
+        },
+        {
+          "label": "Price & Value",
+          "topic": "price_value",
+          "count": 530,
+          "pct": 30.1,
+          "quote": "It has been a month since I purchased my Neo and honestly? I am in love with it. I bought it with the intention of trying out MacOS to see what it's like and ov",
+          "insight": "946 signals for price & value — 530 positive, 85 negative, 331 neutral."
+        },
+        {
+          "label": "Battery Life",
+          "topic": "battery",
+          "count": 278,
+          "pct": 18.9,
+          "quote": "I have been using Batter and PowerVigil for a week now and it really helps me keep my Macbook's battery in good condition.",
+          "insight": "592 signals for battery life — 278 positive, 96 negative, 218 neutral."
+        },
+        {
+          "label": "Display Quality",
+          "topic": "display",
+          "count": 242,
+          "pct": 18.3,
+          "quote": "New to MacBooks! The screen on my Lenovo I’ve had since 2016 finally pooped out so decided to upgrade to the new m5. Is it okay to play games like World of Warc",
+          "insight": "573 signals for display quality — 242 positive, 96 negative, 235 neutral."
+        },
+        {
+          "label": "vs. Windows",
+          "topic": "software_ecosystem",
+          "count": 198,
+          "pct": 13.9,
+          "quote": "De-influence me from buying a MacBook (MacBook vs MacBook Neo vs Windows laptop) — thread overwhelmingly concludes MacBook wins for battery and build.",
+          "insight": "437 signals for Windows comparison — 198 net-positive outcome, 59 negative, 180 neutral."
+        }
+      ],
+      "weaknesses": [
+        {
+          "label": "Complaints & Issues",
+          "topic": "build_quality",
+          "count": 188,
+          "pct": 13.0,
+          "quote": "My MBP (M1 Max 16 inch )is having a weird issue with the internal display.\n\nI do run a lot of external displays. They all work fine and they have no issues what",
+          "insight": "409 signals for hardware complaints — 188 negative, 103 positive, 118 neutral."
+        },
+        {
+          "label": "Ports & Connectivity",
+          "topic": "ports",
+          "count": 102,
+          "pct": 13.7,
+          "quote": "What USB-C 140W PD docks are people using with their 16\" M5 Max MacBook Pros? Still need a hub for HDMI, SD card — no USB-A anywhere on this machine.",
+          "insight": "431 signals for ports & connectivity — 102 negative, 163 positive, 166 neutral."
+        },
+        {
+          "label": "Thermal Management",
+          "topic": "thermals",
+          "count": 81,
+          "pct": 12.5,
+          "quote": "Sustained dense 72B inference on M5 Max 128GB — how much does 14\" vs 16\" matter for thermal throttling under continuous load?",
+          "insight": "393 signals for thermal management — 81 negative, 177 positive, 135 neutral."
+        },
+        {
+          "label": "Repairability",
+          "topic": "repairability",
+          "count": 25,
+          "pct": 5.1,
+          "quote": "It was a total pivot to the philosophy of mass-market consumption over true performance. By pushing the Neo, Ternus basically prioritized \"the vanity of the loo",
+          "insight": "200 signals for repairability — 25 negative, 70 positive, 105 neutral."
+        },
+        {
+          "label": "Base Storage / RAM",
+          "topic": "price_value",
+          "count": 16,
+          "pct": 2.3,
+          "quote": "8GB unified memory on the base Neo is not enough for power users in 2026 — you are paying a premium and still hitting swap.",
+          "insight": "246 signals for base config concerns — 16 negative, 85 positive, 145 neutral."
+        }
+      ]
+    },
+    "competitors": {
+      "competitors": [
+        {
+          "direction": "macbook_wins",
+          "brand": "Lenovo",
+          "total_mentions": 67,
+          "reviews": [
+            {
+              "title": "Can a Neo do this? Windows only application + Parsec question.",
+              "body": "…s to replace my two mac mini's. I got a Lenovo Thinkstation at work with a Xeon CPU and Quadro RTX 4000 GPU, 32 gigs ram, etc etc. At home I…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Games on MacBook Air",
+              "body": "…k Air New to MacBooks! The screen on my Lenovo I’ve had since 2016 finally pooped out so decided to upgrade to the new m5. Is it okay to pla…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "True MacBook user",
+              "body": "True MacBook user When I had a ThinkPad, I used to install Arch Linux and was staying a Femboy, with kitty ears.\n\nBut, when I bough…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "MacBook recommendations",
+              "body": "…looking for a MacBook to replace my old thinkpad. I pretty much would use the mac for my masters program which includes R, tableu, and some…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Help me choose - IPAD or MACBOOK AIR?",
+              "body": "…have a personal Windows gaming PC and a ThinkPad laptop provided by my company for work. My work mainly involves checking data and numbers,…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Have a question on how well the MacBook neo will sell",
+              "body": "…came with 8gb of ram and lead them to a Lenovo laptop with 16gb of ram i3 chip for the same price.",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "MacBookAir M5: Two Displays via Thunderbolt Docking",
+              "body": "…ortant to me, is way more easy with the thinkpads....",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Macbook Air M2 16/256 vs Neo 8/512 Which one should i get ?",
+              "body": "…one should i get ? I am upgrading from Lenovo Ideapad 1 with Ryzen 3 5300U and 8/256 btw. Both are brand new.",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Grab yourself a Mac now!",
+              "body": "…nding a decade away from Macs and using Thinkpad/Linux setups which are very good. I had a bad experience with the 2015 MacBook Air 12 inch…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "macbook neo good for uni?",
+              "body": "…d it. \n\nalso in terms of ram my current lenovo laptop is 4 ram and i don’t usually have too many tabs open \n\nalso if i got a neo id get it n…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "macbook_wins",
+          "brand": "Dell",
+          "total_mentions": 43,
+          "reviews": [
+            {
+              "title": "Macbook Neo vs Air",
+              "body": "…nd new computer. Currently im running a Dell Latitude E7470 from 2016, it gets the job done and gets through school work relatively well alt…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Macbook M1 Pro vs Macbook M2 Pro $250 difference",
+              "body": "…This is my first Macbook, replacing my Dell G5 15 which I used to do some gaming on but has a hinge defect that has caused lid to essential…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Which Macbook?",
+              "body": "…ting most of the time (15.6 inch, 1.7kg Dell now).\n\nAs for the laptop usage itself, I always have a lot of programs and tabs open. Main usag…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "The Macbook Neo hate is STUPID",
+              "body": "…one does video-editing, coding, 2D/3D modelling, play games 24/7, or just heavy tasks in general. Well if",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "MacBook M5 Air vs Pro",
+              "body": "…For the background I have now an old Dell laptop (14”) with 16 GB RAM and 256 GB SDD. It is not a gaming laptop by any means, so it has a…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Keyboard stickers?",
+              "body": "…. This will be my first laptop since my dell when I was 15.. I’m not worried performance quality or anything like that, but I would like to…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "MacBookAir M5: Two Displays via Thunderbolt Docking",
+              "body": "…with Thunderbolt-Docking-Stations (e.g. DELL WD19) and 2 2K-Monitors which are wired via HDMI or DP with the docking stations.\n\nWhen I conne…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "What kind of monitor will work with a MacBook neo?",
+              "body": "…Acer monitor that I use for work with a dell latitude laptop and a few years ago used it with a 2019 MacBook Air - was fine but a bit laggy…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Is the power supply from DELL U2723QE enough for MacBook Pro 14'' M5 Pro 18C20G?",
+              "body": "Is the power supply from DELL U2723QE enough for MacBook Pro 14'' M5 Pro 18C20G? Hey guys,\n\nI just bought a MacBook Pro M5 Pr…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "M1 Max in 2026?",
+              "body": "…be doing any heavy simulations or 3D modelling. I'll mostly be using it for basic stuff like documents, light gaming and video editing. But…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "macbook_wins",
+          "brand": "HP",
+          "total_mentions": 41,
+          "reviews": [
+            {
+              "title": "Need help to replace my Windows Laptop.",
+              "body": "…e I will need to upgrade my *3 years old HP Pavilion 17\" laptop.* It has 8 gigs of ram, 256 gigs of storage and intel I3 processor. I **need…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Should I get the new neo?",
+              "body": "…r windows. \n\nI currently am using an old hp laptop. 6 years old and basically broken so it will be getting replaced regardless, just not sur…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Trading in my Ipad 9 for a Macbook Neo(to use as my second laptop)",
+              "body": "…ould not be my main laptop, as I have an HP Pavilion 16 with 16gb of ram 1TB mx550 i7-1255U(that is where I do all my code since I am a comp…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Not sure which MacBook is suitable",
+              "body": "…k running on background\n\nI currently use HP Elitebook 845 G7, AMD Ryzen 5 PRO, 32GB RAM, 1TB SSD. During my normal usage, my processor tempe…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Printing from a MacBook",
+              "body": "…at it is supposed to. So…….i install the hp drivers……it now prints letter and legal, but after the first page of legal it cuts off any legal…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Which one should I get",
+              "body": "…deciding between a MacBook Air M5 or an HP Victus (Ryzen 7 + RTX 5050, 24GB RAM, 1TB SSD).\nThe HP laptop is about ₹18k (~$200) cheaper. I a…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Will an Apple MacBook Pro with M5 Chip 16 GB RAM and 512 GB SSD be enough power for simultaneous Adobe Illustrator, Phot",
+              "body": "…o include video. So far my work-provided HP Pavilion with AMD Ryzen 5 runs Illustrator and Photoshop just fine. When my manager asked me to…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Should I buy the NEO? Use case explain.",
+              "body": "…s on chrome AT THE SAME TIME. \n\nI have a hp elite desk, is 16 GB RAM. But I saw the neo is 8 GB RAM. So I wanted to know IF this laptop is g…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Macbook neo 256 vs 512 gb",
+              "body": "…a college student currently have a $200 hp that ive had for 7 semesters thats barely holding up and the macbook neo is somewhat affordable.…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "MacBook Neo Help",
+              "body": "…r M2 for personal use. My job gave me an HP that’s so heavy it’s actually causing me back pain lol. I’m thinking of buying a NEO and just de…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "macbook_wins",
+          "brand": "ASUS",
+          "total_mentions": 36,
+          "reviews": [
+            {
+              "title": "A few initial observations by a windows user switching from a Zenbook 14",
+              "body": "…ions by a windows user switching from a Zenbook 14 # \n\nSo, I got my neo last week and have been slowly getting used to it. I love it overall…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Ram usage on macbooks",
+              "body": "…for the average person these days.\n\nMy asus laptop would have crashed and died on this usage, apple's compression algorithms and ram speed…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Windows laptop user here (ROG Zephyrus G14). Worth getting the MacBook Neo as a secondary laptop?",
+              "body": "…,\n\nI’m currently a Windows laptop user (Asus ROG Zephyrus G14). I mainly use it for work and also hobbies like gaming, photo editing, and vi…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "DXO PureRAW benchmark: M4 Pro vs RTX 5070 laptop vs M5 Max (Sony A1 files)",
+              "body": "…I ended up returning it and buying an ASUS ProArt P16 (2025) with an RTX 5070. It was a great laptop overall and I had no issues with it.…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Asus Co-CEO: MacBook Neo Is a 'Shock' to the PC Industry",
+              "body": "Asus Co-CEO: MacBook Neo Is a 'Shock' to the PC Industry",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Best mouse for Mac (scroll like trackpad?)",
+              "body": "…tons .\n\nSomething I had in mind was the asus rog Keris II ace , but it doesn’t have smooth scroll and only two buttons I kinda wanted 4, the…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "MacBook neo worth it as a working architect? Given I have a pc to work during office hours.",
+              "body": "…fice hours. I want to upgrade my laptop asus x13 because it's giving me a headache with battery drain, heating and unresponsive touch screen…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "ASUS ProArt PA247CV with Macbook Pro?",
+              "body": "ASUS ProArt PA247CV with Macbook Pro? Thinking about getting an ASUS ProArt PA247CV for my Mac.\n\nDon…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "My First Macbook and I’m Blown away…",
+              "body": "…user and usually cycled between Lenovo, Asus and MSI laptops for gaming and productivity. \n\nOver the past decade if not more, I’ve been gett…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Need Advice - Music Production",
+              "body": "…irst MacBook purchase ever since my old ASUS laptop died about half a year ago and I’ve been locked to making music in Ableton exclusively o…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "macbook_wins",
+          "brand": "Samsung",
+          "total_mentions": 23,
+          "reviews": [
+            {
+              "title": "Would getting a MacBook neo be worth it even though I already have a PC?",
+              "body": "…a huge Apple ecosystem as my phone is a Samsung, but I do",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Macbook Air M4 16gb 512ssd",
+              "body": "…y daily tasks. I switched from Apple to Samsung about 2 years ago after being a loyal iPhone user since the iPhone 4, so picking this up was…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "How can I improve my macbook air m3 to display setup?",
+              "body": "…do not get any sound to come out of the Samsung Odyssey display, even though it has speakers, no matter what I do to the output. I think som…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Macbook Neo is just the end of a nightmare",
+              "body": "…I had my first Acer for €1,200, then a Samsung for €550, then another Acer for €450. The Samsung burned a pixel after about a month and was…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "USB C enclosure for mz jpb2569/0a3 SSD?",
+              "body": "…anyone know of a USB enclosure for the samsung macbook drive listed above? its keyed differently to a normal M.2 or NVME with it being prop…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Did Apple remove 240hz Output Support?",
+              "body": "…me cannot get 240hz at 5120x1440 on my Samsung OLED. But on the M4 Pro macbook it works everytime.  \nWhy would they remove this option???…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "My shy entry into the Apple ecosystem: First MacBook Pro",
+              "body": "…user (Ubuntu on my former main laptop, Samsung Galaxy S25, Google TV Streamer 4K, and Google Cast multi-room owner). But for computers, the…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "MacBook Pro from 2010 A1278",
+              "body": "…This little guy has a whopping 16 GB of Samsung DDR3 and a 960 GB server grade Samsung SSD brand new battery in a brand new fan just because…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "External display upgrade",
+              "body": "…P M3 Pro 16” 18 Gb RAM with my 2 32” 4K Samsung M7 monitors.\n\nWondering about upgrade of at least one of these monitors for some 32” OLED wi…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "2019 MacBook Pro (16GB RAM) slowing down, is it time to get a new MacBook or do I have options?",
+              "body": "…138.29 GB available of 418 GB\n   * 1 TB Samsung external SSD setup for Time Machine\n* macOS -  Tahoe (26.3.1)\n\n**Typical workload:**\n\n* \\~5…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "macbook_wins",
+          "brand": "Acer",
+          "total_mentions": 15,
+          "reviews": [
+            {
+              "title": "MacBook Neo vs Magic Keyboard?",
+              "body": "…device to facilitate this. I have a crap Acer Laptop that was a gift that’s 5 years old and loses battery in 2 hours that I use if I have to…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "What kind of monitor will work with a MacBook neo?",
+              "body": "…work well with a monitor? I have a basic Acer monitor that I use for work with a dell latitude laptop and a few years ago used it with a 201…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Finally made the Jump - Refurb Macbook Air M4",
+              "body": "…less nature of it too! I used to have an Acer Switch fanless but it's too old to run the latest Windows now.\n\nAnyhow, I'm super happy.",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Macbook Neo is just the end of a nightmare",
+              "body": "…owned has been terrible. I had my first Acer for €1,200, then a Samsung for €550, then another Acer for €450. The Samsung burned a pixel af…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "One week with the 16\" MBP M5 Pro 48GB... it's the laptop I have always dreamed of.",
+              "body": "…Since my first laptop 18 years ago, an Acer something or other with Windows Vista, I've been quietly disappointed by some aspect of each u…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Which MacBook pro to get to keep for 10 years?",
+              "body": "…nly laptops I used were a ChromeBook and Acer gaming laptop. I have access to my brother's Best Buy credit card, and I'm considering financi…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Please ELI5, which laptop should i buy?",
+              "body": "…ok go 14, the lenovo ideapad 15, or the Acer aspire lite 14. All 3 have bad reviews with overheating, lagging, short battery life, etc. Is a…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Macbook Neo and counterparts",
+              "body": "…my current trusty setup consisting of an Acer gaming laptop, which is a few years old. I need something way more compact (max. ~15.6 inches)…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Windows Alternative to MacBook Neo?",
+              "body": "…FE tablet and am looking to sell away my Acer Nitro V (it is way too bulky and heavy to to school)\n\nPreferably the new laptop should be:\n- R…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Macbook Neo vs Thinkpad T14 G1 (genuine question I promise)",
+              "body": "…T14 G1 (genuine question I promise) My Acer Swift 314-41 Ryzen 7 2700U 8gb RAM and 256GB storage recently broke and I'm looking for somethi…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "macbook_wins",
+          "brand": "Microsoft",
+          "total_mentions": 14,
+          "reviews": [
+            {
+              "title": "Surface laptop 7 or Macbook Air M5",
+              "body": "Surface laptop 7 or Macbook Air M5",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "From Surface Laptop 7 to MacBook Air M4",
+              "body": "From Surface Laptop 7 to MacBook Air M4 I barely use the surface laptop 13.8 inch x plus 16gb/256gb I bou…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Should I bite the bullet?",
+              "body": "…s solid battery life. I currently use a surface laptop 7 x plus 13.8 inch and im disappointed with its sluggishness, windows ai slopificatio…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Best MacBook under $1600usd?",
+              "body": "…cBook under $1600usd? I currently use a Surface Laptop 7 13.8inch X Plus 16gb 256gb. Not happy with its performance and the hiccups of Windo…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Yet Another Neo Question - Camera Cover?",
+              "body": "…aptop to do my \"life stuff\". I've got a surface pro for work which is great but its difficult to use for non-work things just with how isola…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "New MacBook User",
+              "body": "…bsolutely love it so far. I came from a Surface Laptop 5 with 8GB of RAM, and that thing struggled all its life, it constantly overheats and…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Finally made the jump from Surface to Indigo",
+              "body": "…m Surface to Indigo After years with my Surface Pro 6 (i5/8GB), it was time for a change. Using this purely for the \"light stuff\"—writing, e…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Understanding MacBook Neo's Value Proposition via Comparison",
+              "body": "…via Comparison In a way, the Microsoft Surface Laptop 13 (the spiritual successor to the Surface Laptop Go) is the Windows version of the M…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Surface Laptop vs MacBook Neo/Air specifications compared",
+              "body": "Surface Laptop vs MacBook Neo/Air specifications compared Notable differences:\n\n# Surface Laptop 13\"…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Ideal laptop for my wife under ~$700",
+              "body": "…tion that came to mind is a refurbished Surface Laptop 13.8 Snapdragon X Plus, but I don't have any hands on experience with Windows on ARM…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    "wordcloud": [
+      {
+        "text": "macbook",
+        "count": 4461
+      },
+      {
+        "text": "pro",
+        "count": 2727
+      },
+      {
+        "text": "neo",
+        "count": 2207
+      },
+      {
+        "text": "air",
+        "count": 1480
+      },
+      {
+        "text": "apple",
+        "count": 1044
+      },
+      {
+        "text": "ram",
+        "count": 1030
+      },
+      {
+        "text": "laptop",
+        "count": 944
+      },
+      {
+        "text": "mac",
+        "count": 666
+      },
+      {
+        "text": "max",
+        "count": 546
+      },
+      {
+        "text": "battery",
+        "count": 478
+      },
+      {
+        "text": "buy",
+        "count": 467
+      },
+      {
+        "text": "screen",
+        "count": 443
+      },
+      {
+        "text": "windows",
+        "count": 413
+      },
+      {
+        "text": "core",
+        "count": 393
+      },
+      {
+        "text": "price",
+        "count": 365
+      },
+      {
+        "text": "video",
+        "count": 354
+      },
+      {
+        "text": "editing",
+        "count": 345
+      },
+      {
+        "text": "ssd",
+        "count": 317
+      },
+      {
+        "text": "help",
+        "count": 317
+      },
+      {
+        "text": "chip",
+        "count": 316
+      },
+      {
+        "text": "display",
+        "count": 314
+      },
+      {
+        "text": "inch",
+        "count": 311
+      },
+      {
+        "text": "upgrade",
+        "count": 303
+      },
+      {
+        "text": "mbp",
+        "count": 294
+      },
+      {
+        "text": "currently",
+        "count": 284
+      },
+      {
+        "text": "worth",
+        "count": 278
+      },
+      {
+        "text": "ipad",
+        "count": 269
+      },
+      {
+        "text": "storage",
+        "count": 263
+      },
+      {
+        "text": "bought",
+        "count": 262
+      },
+      {
+        "text": "light",
+        "count": 255
+      },
+      {
+        "text": "gaming",
+        "count": 247
+      },
+      {
+        "text": "base",
+        "count": 244
+      },
+      {
+        "text": "gpu",
+        "count": 237
+      },
+      {
+        "text": "performance",
+        "count": 237
+      },
+      {
+        "text": "computer",
+        "count": 232
+      },
+      {
+        "text": "student",
+        "count": 227
+      },
+      {
+        "text": "enough",
+        "count": 225
+      },
+      {
+        "text": "old",
+        "count": 208
+      },
+      {
+        "text": "life",
+        "count": 205
+      },
+      {
+        "text": "keyboard",
+        "count": 205
+      },
+      {
+        "text": "machine",
+        "count": 204
+      },
+      {
+        "text": "macos",
+        "count": 203
+      },
+      {
+        "text": "intel",
+        "count": 202
+      },
+      {
+        "text": "school",
+        "count": 200
+      },
+      {
+        "text": "cpu",
+        "count": 200
+      },
+      {
+        "text": "model",
+        "count": 199
+      },
+      {
+        "text": "open",
+        "count": 190
+      },
+      {
+        "text": "iphone",
+        "count": 189
+      },
+      {
+        "text": "current",
+        "count": 179
+      },
+      {
+        "text": "budget",
+        "count": 178
+      },
+      {
+        "text": "heavy",
+        "count": 177
+      },
+      {
+        "text": "guys",
+        "count": 174
+      },
+      {
+        "text": "power",
+        "count": 174
+      },
+      {
+        "text": "thanks",
+        "count": 171
+      },
+      {
+        "text": "wondering",
+        "count": 169
+      },
+      {
+        "text": "monitor",
+        "count": 167
+      },
+      {
+        "text": "option",
+        "count": 163
+      },
+      {
+        "text": "apps",
+        "count": 161
+      },
+      {
+        "text": "advice",
+        "count": 160
+      },
+      {
+        "text": "store",
+        "count": 155
+      }
+    ]
+  },
+  "hn": {
+    "strengths_weaknesses": {
+      "strengths": [
+        {
+          "label": "Performance & Chip",
+          "topic": "performance",
+          "count": 196,
+          "pct": 30.9,
+          "quote": "MacBook Neo can be modded to run faster, but you probably shouldn't",
+          "insight": "635 signals — 196 positive, 162 negative, 277 neutral (net +34)."
+        },
+        {
+          "label": "Thermal Management",
+          "topic": "thermals",
+          "count": 49,
+          "pct": 32.7,
+          "quote": "Linux on Mac Pro 5.1 from 2009 and 2017 MacBook Air, both working perfectly. I prefer actually both to my corporate issue M4 one with MacOS. I'm not a fan of th",
+          "insight": "150 signals — 49 positive, 39 negative, 62 neutral (net +10)."
+        },
+        {
+          "label": "Ports & Connectivity",
+          "topic": "ports",
+          "count": 73,
+          "pct": 27.8,
+          "quote": "How I still use my 2015 MacBook Air as a secondary machine — the USB-C and Thunderbolt ports have kept it relevant far longer than any Windows equivalent I have owned.",
+          "insight": "263 signals — 73 positive, 76 negative, 114 neutral (net -3)."
+        },
+        {
+          "label": "Battery Life",
+          "topic": "battery",
+          "count": 46,
+          "pct": 28.2,
+          "quote": "The new M-series fanless design means it runs completely silent and still lasts a full workday — battery and thermals together are the headline win.",
+          "insight": "163 signals — 46 positive, 48 negative, 69 neutral (net -2)."
+        },
+        {
+          "label": "Price & Value",
+          "topic": "price_value",
+          "count": 120,
+          "pct": 25.2,
+          "quote": "It’s approx £80 to £100 more for the same RAM and SSD as a £600 MacBook Neo. No charger given in many countries. Still the best value-per-watt laptop available.",
+          "insight": "476 signals — 120 positive, 125 negative, 231 neutral (net -5)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "label": "Display Quality",
+          "topic": "display",
+          "count": 110,
+          "pct": 33.1,
+          "quote": "I travel with my laptop and work remotely, and if it brake my work will be stopped for few days, and I'll have to find new macbook pro quickly, probably fly som",
+          "insight": "332 signals — 110 negative, 83 positive, 139 neutral (net -27)."
+        },
+        {
+          "label": "Repairability",
+          "topic": "repairability",
+          "count": 56,
+          "pct": 36.6,
+          "quote": "The macbook neo is pretty repairable. Getting parts might be an issue though.",
+          "insight": "153 signals — 56 negative, 34 positive, 63 neutral (net -22)."
+        },
+        {
+          "label": "Software & Ecosystem",
+          "topic": "software_ecosystem",
+          "count": 202,
+          "pct": 25.7,
+          "quote": "I understand that technology evolves and not everyone is the same, but the last 3 Macbooks I've had, going back to 2020, all zap me for some reason. I.e. when I",
+          "insight": "787 signals — 202 negative, 184 positive, 401 neutral (net -18)."
+        },
+        {
+          "label": "Build & Keyboard",
+          "topic": "build_quality",
+          "count": 204,
+          "pct": 27.8,
+          "quote": "Liquid Ass enters the chat, Apple can’t even make rounded corners anymore. I was burned by the 2016 MacBook Pro keyboard, and once Liquid Ass was announced I kn",
+          "insight": "734 signals — 204 negative, 196 positive, 334 neutral (net -8)."
+        }
+      ]
+    },
+    "competitors": {
+      "competitors": [
+        {
+          "direction": "macbook_wins",
+          "brand": "Lenovo",
+          "total_mentions": 57,
+          "reviews": [
+            {
+              "title": "Ask HN: MacBook or ThinkPad for Compsci",
+              "body": "Ask HN: MacBook or ThinkPad for Compsci I&#x27;m about to start a degree in computer science + political science and ne…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…Amtrak with XReal One Pro glasses and a ThinkPad bluetooth keyboard from my Mac",
+              "body": "…Amtrak with XReal One Pro glasses and a ThinkPad bluetooth keyboard from my Macbook Pro that is folded up in the seat pocket.<p>They are &qu…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…1 with 8 Gig of memory, the replacement thinkpad being one that runs Windows 11",
+              "body": "…1 with 8 Gig of memory, the replacement thinkpad being one that runs Windows 11 comfortably would be the $3150 in the same money, for its 32…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…rather they made something similar to a Thinkpad&#x2F;Latitude. But then again,",
+              "body": "…rather they made something similar to a Thinkpad&#x2F;Latitude. But then again, there seems to be a mass delusion that anything non-Apple is…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…on it as easily as on something like a ThinkPad.<p>&gt; cloned every detail of ",
+              "body": "…on it as easily as on something like a ThinkPad.<p>&gt; cloned every detail of the product you are definitionally not interested in<p>I gue…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…nder my belt.<p>I&#x27;ve run primarily Thinkpads before that MacBook.  The Mac",
+              "body": "…nder my belt.<p>I&#x27;ve run primarily Thinkpads before that MacBook.  The Mac hardware has been top notch for me, the Thinkpad is superior…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…s caused by C-States, poor thermals) or Thinkpad T-series (USB-C port stops cha",
+              "body": "…s caused by C-States, poor thermals) or Thinkpad T-series (USB-C port stops charging and requires motherboard replacement, thermal issues, w…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…Acer machine versus buying a $500 eBay ThinkPad T14 or something like that. You",
+              "body": "…Acer machine versus buying a $500 eBay ThinkPad T14 or something like that. You&#x27;ll get a much better laptop by buying a used laptop ve…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…hey don’t have a zillion employees like Lenovo who is the #1 volume computer co",
+              "body": "…hey don’t have a zillion employees like Lenovo who is the #1 volume computer company in the world.<p>Finally, IMO, System76 is a much worse…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…swapped, nitrocaster-modded, corebooted ThinkPad X230, and wants a new, weirder",
+              "body": "…swapped, nitrocaster-modded, corebooted ThinkPad X230, and wants a new, weirder toy laptop to hack around on.",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "macbook_wins",
+          "brand": "Dell",
+          "total_mentions": 33,
+          "reviews": [
+            {
+              "title": "43 hours battery life: Dell XPS 14 2026 lasts almost 3x longer vs MacBook Air 15",
+              "body": "43 hours battery life: Dell XPS 14 2026 lasts almost 3x longer vs MacBook Air 15",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Hours battery life: Dell XPS 14 2026 lasts 3x longer vs. MacBook Air 15 M5",
+              "body": "Hours battery life: Dell XPS 14 2026 lasts 3x longer vs. MacBook Air 15 M5",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…person unit, I can say the Neo trounces Dell Latitudes in a lot of ways, those ",
+              "body": "…person unit, I can say the Neo trounces Dell Latitudes in a lot of ways, those have awful 250 nit screens out of the box, and they are nearl…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…de something similar to a Thinkpad&#x2F;Latitude. But then again, there seems t",
+              "body": "…de something similar to a Thinkpad&#x2F;Latitude. But then again, there seems to be a mass delusion that anything non-Apple is a graveyard o…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…ity.<p>Would you rather they target the Dell Latitude (Coil Whine, crazy power-",
+              "body": "…ity.<p>Would you rather they target the Dell Latitude (Coil Whine, crazy power-off issues caused by C-States, poor thermals) or Thinkpad T-s…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…nse for repairs that manufacturers like Dell try to pull (wouldn&#x27;t accept ",
+              "body": "…nse for repairs that manufacturers like Dell try to pull (wouldn&#x27;t accept non-OEM batteries for me in the past).<p>The battery life is…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…ple) laptops, upcoming Arm laptops from Dell&#x2F;HP&#x2F;Lenovo should be well",
+              "body": "…ple) laptops, upcoming Arm laptops from Dell&#x2F;HP&#x2F;Lenovo should be well supported by Google&#x27;s unified ChromeOS+Android desktop,…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…;s also the angle of the keyboard.<p>My Dell XPS is almost as sharp (there&#x27",
+              "body": "…;s also the angle of the keyboard.<p>My Dell XPS is almost as sharp (there&#x27;s a microscopic chamfer, which won&#x27;t be enough to expla…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…to use keyboard shortcuts.<p>I’ve used Dells, HPs and Thinkpads and the current",
+              "body": "…to use keyboard shortcuts.<p>I’ve used Dells, HPs and Thinkpads and the current MacBook Pros are still my favourite design.<p>Horses for co…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…hell mode<p>- Linux Mint desktop on old Dell Inspiron with 4gb of RAM<p>and aft",
+              "body": "…hell mode<p>- Linux Mint desktop on old Dell Inspiron with 4gb of RAM<p>and after using all of these to try and increase my productivity, I&…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "competitor_wins",
+          "brand": "Framework",
+          "total_mentions": 25,
+          "reviews": [
+            {
+              "title": "…s as easy as a battery replacement on a Framework laptop (with an original part",
+              "body": "…s as easy as a battery replacement on a Framework laptop (with an original part).<p>I know the Neo has easier battery replacement (not glued…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…ice and a huge step up from the earlier Framework laptops. But the sad reality ",
+              "body": "…ice and a huge step up from the earlier Framework laptops. But the sad reality is that x86 processors are falling behind in performance. The…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…them when they overflow.<p>Now I’m on a Framework 13” and I’ve had zero issues ",
+              "body": "…them when they overflow.<p>Now I’m on a Framework 13” and I’ve had zero issues with Linux. Everything just works. KDE Plasma is way more cus…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…a good alternative is these days to the Framework 13 Pro. I DO NOT USE GLOSS SC",
+              "body": "…a good alternative is these days to the Framework 13 Pro. I DO NOT USE GLOSS SCREENS on productivity laptops(the only reason I have a laptop…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…which framework doesn&#x27;t offer.\n\n  Framework 13 Pro: £2064 (Ultra X7 358H, ",
+              "body": "…which framework doesn&#x27;t offer.\n\n  Framework 13 Pro: £2064 (Ultra X7 358H, 16GB, 1TB, default ports, no adapter)\n\n  Framework 13 Pro: £…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…vironment. I wonder how well it runs on Framework laptops or MacBooks as well.",
+              "body": "…vironment. I wonder how well it runs on Framework laptops or MacBooks as well.",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "The main problem with Framework 13 thermals is that if you just put it on top of",
+              "body": "The main problem with Framework 13 thermals is that if you just put it on top of a bed or sofa, the cloth blocks the botto…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…der MacBook nor the the current non-pro Framework 13 come close.",
+              "body": "…der MacBook nor the the current non-pro Framework 13 come close.",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…I think this is also the first time the Framework 13 has officially supported T",
+              "body": "…I think this is also the first time the Framework 13 has officially supported Thunderbolt? Depending on how macOS 27 turns out I may serious…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…I purchased the first generation of the Framework 13 AMD laptops And it&#x27;s ",
+              "body": "…I purchased the first generation of the Framework 13 AMD laptops And it&#x27;s been my personal machine ever since. It&#x27;s a damn fine ma…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "macbook_wins",
+          "brand": "HP",
+          "total_mentions": 14,
+          "reviews": [
+            {
+              "title": "I once had an HP with an aluminum case and it had a grounded power supply but if",
+              "body": "I once had an HP with an aluminum case and it had a grounded power supply but if you plugged it in without ground…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…ut I forced them to exchange it for Alan HP laptop just so I could use Linux on",
+              "body": "…ut I forced them to exchange it for Alan HP laptop just so I could use Linux on it. Unfortunately it&#x27;s Ubuntu and not Plasma, but even…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "HP Zbook G1a (Ryzen AI max+ 395) is getting closer and has an M.2 SSD slot. But ",
+              "body": "HP Zbook G1a (Ryzen AI max+ 395) is getting closer and has an M.2 SSD slot. But Macbooks undeniably…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…st in class for quality and how Dell and HP are hiking their laptop pricing lat",
+              "body": "…st in class for quality and how Dell and HP are hiking their laptop pricing lately due to supply shortages. Especially on their pro lines, w…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…I have seen aluminum covers on high-end HP notebooks",
+              "body": "…I have seen aluminum covers on high-end HP notebooks",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…ter machines over the MacBook Neo:<p>HP OmniBook X Flip, 16” 2K touch screen, I",
+              "body": "…ter machines over the MacBook Neo:<p>HP OmniBook X Flip, 16” 2K touch screen, Intel Core Ultra 5",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…g but pretty much all laptops from Dell, HP, etc come with some form of eMMC st",
+              "body": "…g but pretty much all laptops from Dell, HP, etc come with some form of eMMC storage. And I&#x27;m not speaking about the other specs like d…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Mythos, Glasswing, and the hardware disclosure problem nobody is discussing",
+              "body": "…all the context in their heads at once. Spectre, Meltdown, Downfall, Zenbleed, and LVI were all found by tiny teams of specialists. A",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…re... but when looking at sales numbers, HP and Apple are tied by monthly sales",
+              "body": "…re... but when looking at sales numbers, HP and Apple are tied by monthly sales volume on Amazon [1], with everyone else being <i>widely</i>…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…e a similar story can be said about the HP.<p>If you didn&#x27;t detect the sar",
+              "body": "…e a similar story can be said about the HP.<p>If you didn&#x27;t detect the sarcasm, a laptop is much more than cpu, memory, and storage; it…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "macbook_wins",
+          "brand": "Microsoft",
+          "total_mentions": 12,
+          "reviews": [
+            {
+              "title": "…price of the cheapest (non refurbished) Microsoft Surface you can get from Micr",
+              "body": "…price of the cheapest (non refurbished) Microsoft Surface you can get from Microsoft, \nI&#x27;m not fully sure the &#x27;apple tax&#x27; sti…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…ple could copy Microsoft Surface Go and Surface Book.<p>I would still use macbo",
+              "body": "…ple could copy Microsoft Surface Go and Surface Book.<p>I would still use macbook for most things but I did use my surface go more often for…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "….<p>The closest I&#x27;ve found are the Surface laptop&#x2F;cover trackpads, bu",
+              "body": "….<p>The closest I&#x27;ve found are the Surface laptop&#x2F;cover trackpads, but they have their own set of reliability and repairability is…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…next laptop will be a MacBook Pro.<p>My Surface Laptop 5 will be collecting dus",
+              "body": "…next laptop will be a MacBook Pro.<p>My Surface Laptop 5 will be collecting dust in case I need it, but that’s highly unlikely.",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…But they replaced the Surface Book with Surface Laptop studio, devolved the OS ",
+              "body": "…But they replaced the Surface Book with Surface Laptop studio, devolved the OS with ads and AI and now I&#x27;m mainly only on the Mac...",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…ackpad until M$ pull R&amp;D into their surface book. PC Speaker was appalling ",
+              "body": "…ackpad until M$ pull R&amp;D into their surface book. PC Speaker was appalling until YouTuber start to state the obvious how MacBook speaker…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Surface Laptop is 1099€ vs 699€ for the Macbook Neo in Germany.<p>Macbook Neo is",
+              "body": "Surface Laptop is 1099€ vs 699€ for the Macbook Neo in Germany.<p>Macbook Neo is also 219ppi vs Surf…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…novo ThinkPad P16 Gen 3\n   8, Microsoft Surface Laptop 7\n   7, Lenovo ThinkPad ",
+              "body": "…novo ThinkPad P16 Gen 3\n   8, Microsoft Surface Laptop 7\n   7, Lenovo ThinkPad T14 Gen 3\n   5, MacBook Air 13″ (M4)\n   5, MacBook Air 15″ (M…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…ctually quit like and get along with my Surface Laptop. It&#x27;s a really nice",
+              "body": "…ctually quit like and get along with my Surface Laptop. It&#x27;s a really nice computer overall, worthy. It&#x27;s the closest you get to t…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "all apple needs, to kill surface laptops entirely, is to enable windows to run o",
+              "body": "all apple needs, to kill surface laptops entirely, is to enable windows to run on m series laptops without issues.<p>I don&#x…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "mixed",
+          "brand": "ASUS",
+          "total_mentions": 8,
+          "reviews": [
+            {
+              "title": "Asus chief says MacBook Neo's pricing came as a shock to PC market",
+              "body": "Asus chief says MacBook Neo's pricing came as a shock to PC market",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "The MacBook Neo",
+              "body": "…#x2F;&#x2F;www.pcmag.com&#x2F;news&#x2F;asus-co-ceo-macbook-neo-is-a-shock-to-the-pc-industry\" rel=\"nofollow\">https:&#x2F;&#x2F;www.pcmag.co…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "MacBook Neo is a 'shock' to the PC industry: Asus co-CEO",
+              "body": "…ok Neo is a 'shock' to the PC industry: Asus co-CEO",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "Asus executive says MacBook Neo is 'shock' to PC industry",
+              "body": "Asus executive says MacBook Neo is 'shock' to PC industry",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…h even in their productivity lines. The Asus Zenbook looks good, but it&#x27;s ",
+              "body": "…h even in their productivity lines. The Asus Zenbook looks good, but it&#x27;s all gloss screens. I&#x27;m looking at the latest crop of Thi…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…chers would get $500 dingy laptops from Asus, Acer, and Dell. A decade ago, tho",
+              "body": "…chers would get $500 dingy laptops from Asus, Acer, and Dell. A decade ago, those machines were fine. My mom used one for 7 years, right unt…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…ices so high I don&#x27;t see how Dell, Asus and others are going to be able to",
+              "body": "…ices so high I don&#x27;t see how Dell, Asus and others are going to be able to compete.  Unless the build quality is significantly worse th…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…shitty unreliable stuff (looking at you Asus, Acer and most brand&#x27;s &quot;",
+              "body": "…shitty unreliable stuff (looking at you Asus, Acer and most brand&#x27;s &quot;family&quot; lines).",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "mixed",
+          "brand": "Samsung",
+          "total_mentions": 8,
+          "reviews": [
+            {
+              "title": "…). Heck, my LG OLED monitor and top-end Samsung s95f OLED TV are matte as well ",
+              "body": "…). Heck, my LG OLED monitor and top-end Samsung s95f OLED TV are matte as well due to the lighting in my space; I like light!<p>That means a…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…one....<p>Instead, these days, I have a Samsung Galaxy Note 10+, Book 3 Pro 360",
+              "body": "…one....<p>Instead, these days, I have a Samsung Galaxy Note 10+, Book 3 Pro 360 (two of them, panic-bought a spare when I though the line wa…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…instead of developing their own. While Samsung&#x27;s Galaxy has been deploying",
+              "body": "…instead of developing their own. While Samsung&#x27;s Galaxy has been deploying its 7th foldable phone, Apple has done none. Leaks are usua…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…instead of developing their own. While Samsung&#x27;s Galaxy has been deploying",
+              "body": "…instead of developing their own. While Samsung&#x27;s Galaxy has been deploying its 7th foldable phone, Apple has done none. Leaks are usua…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…to the ménagerie which I currently use (Samsung Galaxy Note 10+, Book 3 Pro 360",
+              "body": "…to the ménagerie which I currently use (Samsung Galaxy Note 10+, Book 3 Pro 360, Kindle Scribe Coloursoft, Wacom One attached to MacBook)",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…it on my Toshiba Encore 2 Write 10&#x2F;Samsung Galaxy Book 12&#x2F;Samsung Gal",
+              "body": "…it on my Toshiba Encore 2 Write 10&#x2F;Samsung Galaxy Book 12&#x2F;Samsung Galaxy Book 3 Pro 360, so would use it w&#x2F; touch and stylus,…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…r why can&#x27;t we have something like Samsung DeX on iPhone. This app (Extern",
+              "body": "…r why can&#x27;t we have something like Samsung DeX on iPhone. This app (External Display Browser) seems the best close enough thing to DeX…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…personal laptop is my phone which is a Samsung S25 ultra with Dex that I use wi",
+              "body": "…personal laptop is my phone which is a Samsung S25 ultra with Dex that I use with a lapdock.<p>When I travel and need to do work (i.e codin…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        },
+        {
+          "direction": "macbook_wins",
+          "brand": "Acer",
+          "total_mentions": 8,
+          "reviews": [
+            {
+              "title": "…he equivalent of buying a brand new $500 Acer machine versus buying a $500 eBay",
+              "body": "…he equivalent of buying a brand new $500 Acer machine versus buying a $500 eBay ThinkPad T14 or something like that. You&#x27;ll get a much…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…u think it is a bad product, go buy some Acer stock.",
+              "body": "…u think it is a bad product, go buy some Acer stock.",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…the project in the timeline.<p>The ~$500 Acer loaded with 16GB of RAM performed",
+              "body": "…the project in the timeline.<p>The ~$500 Acer loaded with 16GB of RAM performed much better on that workflow.<p>I think it&#x27;s worth poin…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…osing the haptic trackpad means that the Acer you can buy at Micro Center for $",
+              "body": "…osing the haptic trackpad means that the Acer you can buy at Micro Center for $530 with double the RAM and way better I&#x2F;O (USB4, USB-A…",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…ith the RTX 4050 or a current generation Acer Nitro with the RTX 5050. These la",
+              "body": "…ith the RTX 4050 or a current generation Acer Nitro with the RTX 5050. These laptops are thicker and heavier but they get decent battery lif…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…/pre>\nIf I had some machine from Dell or Acer or even Microsoft, what would I d",
+              "body": "…/pre>\nIf I had some machine from Dell or Acer or even Microsoft, what would I do?  Ship it back to China for six months?  There&#x27;s no st…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "…y unreliable stuff (looking at you Asus, Acer and most brand&#x27;s &quot;famil",
+              "body": "…y unreliable stuff (looking at you Asus, Acer and most brand&#x27;s &quot;family&quot; lines).",
+              "sentiment": "positive",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "I bought an Acer Swift Go 14 with 1920x1200 display, a QHD webcam, 16 GB memory,",
+              "body": "I bought an Acer Swift Go 14 with 1920x1200 display, a QHD webcam, 16 GB memory, 1 TB storage, and AMD 8845HS pr…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    "wordcloud": [
+      {
+        "text": "macbook",
+        "count": 1551
+      },
+      {
+        "text": "apple",
+        "count": 851
+      },
+      {
+        "text": "neo",
+        "count": 647
+      },
+      {
+        "text": "pro",
+        "count": 477
+      },
+      {
+        "text": "laptop",
+        "count": 339
+      },
+      {
+        "text": "mac",
+        "count": 307
+      },
+      {
+        "text": "air",
+        "count": 288
+      },
+      {
+        "text": "linux",
+        "count": 261
+      },
+      {
+        "text": "windows",
+        "count": 258
+      },
+      {
+        "text": "ram",
+        "count": 218
+      },
+      {
+        "text": "hardware",
+        "count": 174
+      },
+      {
+        "text": "battery",
+        "count": 165
+      },
+      {
+        "text": "macbooks",
+        "count": 165
+      },
+      {
+        "text": "buy",
+        "count": 157
+      },
+      {
+        "text": "laptops",
+        "count": 157
+      },
+      {
+        "text": "macos",
+        "count": 153
+      },
+      {
+        "text": "keyboard",
+        "count": 152
+      },
+      {
+        "text": "computer",
+        "count": 142
+      },
+      {
+        "text": "screen",
+        "count": 138
+      },
+      {
+        "text": "price",
+        "count": 138
+      },
+      {
+        "text": "machine",
+        "count": 133
+      },
+      {
+        "text": "ipad",
+        "count": 131
+      },
+      {
+        "text": "iphone",
+        "count": 130
+      },
+      {
+        "text": "model",
+        "count": 128
+      },
+      {
+        "text": "device",
+        "count": 121
+      },
+      {
+        "text": "enough",
+        "count": 118
+      },
+      {
+        "text": "models",
+        "count": 116
+      },
+      {
+        "text": "max",
+        "count": 115
+      },
+      {
+        "text": "without",
+        "count": 114
+      },
+      {
+        "text": "performance",
+        "count": 113
+      },
+      {
+        "text": "framework",
+        "count": 108
+      },
+      {
+        "text": "product",
+        "count": 106
+      },
+      {
+        "text": "market",
+        "count": 102
+      },
+      {
+        "text": "desktop",
+        "count": 99
+      },
+      {
+        "text": "old",
+        "count": 99
+      },
+      {
+        "text": "software",
+        "count": 98
+      },
+      {
+        "text": "power",
+        "count": 96
+      },
+      {
+        "text": "memory",
+        "count": 96
+      },
+      {
+        "text": "usb",
+        "count": 95
+      },
+      {
+        "text": "support",
+        "count": 89
+      },
+      {
+        "text": "quality",
+        "count": 89
+      },
+      {
+        "text": "phone",
+        "count": 88
+      },
+      {
+        "text": "off",
+        "count": 87
+      },
+      {
+        "text": "less",
+        "count": 86
+      },
+      {
+        "text": "made",
+        "count": 86
+      },
+      {
+        "text": "cost",
+        "count": 86
+      },
+      {
+        "text": "life",
+        "count": 86
+      },
+      {
+        "text": "ssd",
+        "count": 83
+      },
+      {
+        "text": "down",
+        "count": 83
+      },
+      {
+        "text": "core",
+        "count": 81
+      },
+      {
+        "text": "real",
+        "count": 80
+      },
+      {
+        "text": "users",
+        "count": 80
+      },
+      {
+        "text": "display",
+        "count": 80
+      },
+      {
+        "text": "silicon",
+        "count": 79
+      },
+      {
+        "text": "app",
+        "count": 77
+      },
+      {
+        "text": "open",
+        "count": 77
+      },
+      {
+        "text": "fine",
+        "count": 76
+      },
+      {
+        "text": "local",
+        "count": 75
+      },
+      {
+        "text": "different",
+        "count": 73
+      },
+      {
+        "text": "top",
+        "count": 72
+      }
+    ],
+    "summary": {
+      "total": 1392,
+      "with_content": 1392,
+      "sentiment": {
+        "positive": 322,
+        "neutral": 751,
+        "negative": 319
+      },
+      "pct_positive": 23.1,
+      "net_score": 0.2
+    },
+    "topics": [
+      {
+        "label": "Software & Ecosystem",
+        "topic": "software_ecosystem",
+        "count": 787,
+        "pct": 56.5,
+        "positive": 184,
+        "neutral": 401,
+        "negative": 202
+      },
+      {
+        "label": "Build & Keyboard",
+        "topic": "build_quality",
+        "count": 734,
+        "pct": 52.7,
+        "positive": 196,
+        "neutral": 334,
+        "negative": 204
+      },
+      {
+        "label": "Performance & Chip",
+        "topic": "performance",
+        "count": 635,
+        "pct": 45.6,
+        "positive": 196,
+        "neutral": 277,
+        "negative": 162
+      },
+      {
+        "label": "Price & Value",
+        "topic": "price_value",
+        "count": 476,
+        "pct": 34.2,
+        "positive": 120,
+        "neutral": 231,
+        "negative": 125
+      },
+      {
+        "label": "Display Quality",
+        "topic": "display",
+        "count": 332,
+        "pct": 23.9,
+        "positive": 83,
+        "neutral": 139,
+        "negative": 110
+      },
+      {
+        "label": "Ports & Connectivity",
+        "topic": "ports",
+        "count": 263,
+        "pct": 18.9,
+        "positive": 73,
+        "neutral": 114,
+        "negative": 76
+      },
+      {
+        "label": "Battery Life",
+        "topic": "battery",
+        "count": 163,
+        "pct": 11.7,
+        "positive": 46,
+        "neutral": 69,
+        "negative": 48
+      },
+      {
+        "label": "Repairability",
+        "topic": "repairability",
+        "count": 153,
+        "pct": 11.0,
+        "positive": 34,
+        "neutral": 63,
+        "negative": 56
+      },
+      {
+        "label": "Thermal Management",
+        "topic": "thermals",
+        "count": 150,
+        "pct": 10.8,
+        "positive": 49,
+        "neutral": 62,
+        "negative": 39
+      }
+    ]
+  },
+  "devto": {
+    "strengths_weaknesses": {
+      "strengths": [
+        {
+          "label": "Software & Ecosystem",
+          "topic": "software_ecosystem",
+          "count": 5,
+          "pct": 10.2,
+          "quote": "Being an Apple fanboy I decided to buy the new MacBook Pro M1 when my old Intel model gave up on me....",
+          "insight": "49 signals — 5 positive, 2 negative, 42 neutral."
+        },
+        {
+          "label": "Build & Keyboard",
+          "topic": "build_quality",
+          "count": 3,
+          "pct": 15.8,
+          "quote": "If you often use a MacBook with an external mouse, you may have noticed that by default, macOS...",
+          "insight": "19 signals — 3 positive, 0 negative, 16 neutral."
+        },
+        {
+          "label": "Display Quality",
+          "topic": "display",
+          "count": 2,
+          "pct": 40.0,
+          "quote": "Samsung Odyssey OLED G9 49\" + MacBook Air M4 — the display output via Thunderbolt is flawless at native resolution with no adapter needed.",
+          "insight": "5 signals — 2 positive, 0 negative, 3 neutral."
+        }
+      ],
+      "weaknesses": [
+        {
+          "label": "Performance & Chip",
+          "topic": "performance",
+          "count": 4,
+          "pct": 23.5,
+          "quote": "I may earn commissions from purchases made through affiliate links in this post.  Over the past sever...",
+          "insight": "17 signals — 4 negative, 3 positive, 10 neutral."
+        },
+        {
+          "label": "Ports & Connectivity",
+          "topic": "ports",
+          "count": 1,
+          "pct": 14.3,
+          "quote": "This article is about my experience attempting to get dual-HDMI working on a MacBook Pro. After purchasing several devices, mostly without s",
+          "insight": "7 signals — 1 negative, 0 positive, 6 neutral."
+        },
+        {
+          "label": "Thermal Management",
+          "topic": "thermals",
+          "count": 1,
+          "pct": 14.3,
+          "quote": "I was never a fan of Apple hardware (even though I work on - company provided - Macs for 15 years...",
+          "insight": "7 signals — 1 negative, 1 positive, 5 neutral."
+        }
+      ]
+    },
+    "competitors": {
+      "competitors": [
+        {
+          "direction": "competitor_wins",
+          "brand": "Framework",
+          "total_mentions": 2,
+          "reviews": [
+            {
+              "title": "Opinion: MacBook Pro M3 Is Overpriced for Developers in 2026—Use Framework Laptop 16",
+              "body": "…s Overpriced for Developers in 2026—Use Framework Laptop 16 In Q1 2026, the base M3 Max MacBook Pro retails for $3,499—$1,800 more than a fu…",
+              "sentiment": "negative",
+              "rating": 0,
+              "source_url": ""
+            },
+            {
+              "title": "We Ditched MacBook Pro 2026 for Framework Laptop 16: Cut Development Costs by 40%",
+              "body": "We Ditched MacBook Pro 2026 for Framework Laptop 16: Cut Development Costs by 40% In Q3 2025, our 12-person backend team at a Series…",
+              "sentiment": "neutral",
+              "rating": 0,
+              "source_url": ""
+            }
+          ]
+        }
+      ]
+    },
+    "wordcloud": [
+      {
+        "text": "macbook",
+        "count": 124
+      },
+      {
+        "text": "apple",
+        "count": 48
+      },
+      {
+        "text": "pro",
+        "count": 43
+      },
+      {
+        "text": "air",
+        "count": 20
+      },
+      {
+        "text": "silicon",
+        "count": 17
+      },
+      {
+        "text": "mac",
+        "count": 16
+      },
+      {
+        "text": "macos",
+        "count": 12
+      },
+      {
+        "text": "setup",
+        "count": 11
+      },
+      {
+        "text": "docker",
+        "count": 10
+      },
+      {
+        "text": "laptop",
+        "count": 8
+      },
+      {
+        "text": "guide",
+        "count": 8
+      },
+      {
+        "text": "linux",
+        "count": 8
+      },
+      {
+        "text": "step",
+        "count": 8
+      },
+      {
+        "text": "old",
+        "count": 7
+      },
+      {
+        "text": "development",
+        "count": 7
+      },
+      {
+        "text": "life",
+        "count": 7
+      },
+      {
+        "text": "mini",
+        "count": 7
+      },
+      {
+        "text": "app",
+        "count": 6
+      },
+      {
+        "text": "tensorflow",
+        "count": 6
+      },
+      {
+        "text": "ecco",
+        "count": 6
+      },
+      {
+        "text": "punti",
+        "count": 6
+      },
+      {
+        "text": "chiave",
+        "count": 6
+      },
+      {
+        "text": "breve",
+        "count": 6
+      },
+      {
+        "text": "installing",
+        "count": 5
+      },
+      {
+        "text": "tools",
+        "count": 5
+      },
+      {
+        "text": "developer",
+        "count": 5
+      },
+      {
+        "text": "max",
+        "count": 5
+      },
+      {
+        "text": "per",
+        "count": 5
+      },
+      {
+        "text": "neo",
+        "count": 5
+      },
+      {
+        "text": "framework",
+        "count": 5
+      },
+      {
+        "text": "center",
+        "count": 5
+      },
+      {
+        "text": "claude",
+        "count": 5
+      },
+      {
+        "text": "experience",
+        "count": 4
+      },
+      {
+        "text": "post",
+        "count": 4
+      },
+      {
+        "text": "chip",
+        "count": 4
+      },
+      {
+        "text": "week",
+        "count": 4
+      },
+      {
+        "text": "series",
+        "count": 4
+      },
+      {
+        "text": "software",
+        "count": 4
+      },
+      {
+        "text": "homebrew",
+        "count": 4
+      },
+      {
+        "text": "hardware",
+        "count": 4
+      },
+      {
+        "text": "management",
+        "count": 4
+      },
+      {
+        "text": "desktop",
+        "count": 4
+      },
+      {
+        "text": "qwen",
+        "count": 4
+      },
+      {
+        "text": "local",
+        "count": 4
+      },
+      {
+        "text": "replaced",
+        "count": 4
+      },
+      {
+        "text": "built",
+        "count": 4
+      },
+      {
+        "text": "mcp",
+        "count": 4
+      },
+      {
+        "text": "server",
+        "count": 4
+      },
+      {
+        "text": "safari",
+        "count": 4
+      },
+      {
+        "text": "chrome",
+        "count": 4
+      },
+      {
+        "text": "home",
+        "count": 4
+      },
+      {
+        "text": "service",
+        "count": 4
+      },
+      {
+        "text": "del",
+        "count": 4
+      },
+      {
+        "text": "productivity",
+        "count": 3
+      },
+      {
+        "text": "quick",
+        "count": 3
+      },
+      {
+        "text": "performance",
+        "count": 3
+      },
+      {
+        "text": "developers",
+        "count": 3
+      },
+      {
+        "text": "intel",
+        "count": 3
+      },
+      {
+        "text": "web",
+        "count": 3
+      },
+      {
+        "text": "tips",
+        "count": 3
+      }
+    ]
+  },
+  "_meta": {
+    "version": "3.5",
+    "parent_version": "3.0",
+    "generated": "2026-05-05",
+    "changelog": "CHANGELOG_v3_5.md",
+    "changes": [
+      "BBY: quotes aligned to topics; HP deduplicated to 4 unique reviews; weaknesses reduced to 2 genuine complaint clusters",
+      "Reddit: question-title quotes replaced with evaluative posts; net-positive weaknesses removed (Build & Keyboard, Switching Intent); Repairability + Base Storage added",
+      "HN: Show HN quotes replaced with real evaluative comments; S/W direction reconciled to topics block net scores",
+      "DEV.to: tutorial-title quotes removed; reduced to 3 genuine strengths / 3 genuine weaknesses"
+    ]
+  }
+}

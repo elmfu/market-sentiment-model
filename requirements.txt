@@ -1,0 +1,25 @@
+# MacBook Neo Phase 2 dependencies
+# Install: pip install -r requirements_v2.txt
+
+# HTTP
+requests>=2.31.0
+httpx>=0.27.0
+
+# Feed parsing
+feedparser>=6.0.11
+
+# Language detection (optional — used to filter non-English RSS items)
+langdetect>=1.0.9
+
+# YouTube transcript extraction (Strategy H — no API key required)
+youtube-transcript-api>=0.6.0
+
+# Data
+pandas>=2.0.0
+
+# API
+fastapi>=0.111.0
+uvicorn>=0.29.0
+
+# PDF report (optional)
+reportlab>=4.1.0
