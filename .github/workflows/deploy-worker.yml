@@ -1,0 +1,21 @@
+name: Deploy Cloudflare Worker
+
+on:
+  workflow_dispatch:          # manual trigger from GitHub Actions tab
+  push:
+    branches: [main]
+    paths:
+      - 'worker/**'           # auto-deploy when worker code changes
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Deploy worker
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken:   ${{ secrets.CF_API_TOKEN }}
+          accountId:  ${{ secrets.CF_ACCOUNT_ID }}
+          workingDirectory: worker
