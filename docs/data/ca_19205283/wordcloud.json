@@ -1,0 +1,302 @@
+[
+  {
+    "word": "screen",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "performance",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "thin",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pen",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quite",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "short",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "next",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "inch",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "first",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "overall",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "expected",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "wanted",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "convertible",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "wasn't",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amount",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "portable",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "beautiful",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "study",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quickly",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "down",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "facial",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recognition",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "open",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pretty",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sale",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "same",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "add",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fixed",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "design",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "device",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "piece",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "comes",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "see",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "book",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "noticed",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "graphics",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "never",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "typing",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "however",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "software",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hard",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "find",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "clear",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "heavy",
+    "count": 2,
+    "sentiment": "positive"
+  }
+]

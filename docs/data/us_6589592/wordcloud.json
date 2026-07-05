@@ -1,0 +1,302 @@
+[
+  {
+    "word": "battery",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 49,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 48,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 39,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 37,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 35,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 35,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 31,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 30,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ultra",
+    "count": 29,
+    "sentiment": "positive"
+  },
+  {
+    "word": "while",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "copilot",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ram",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amd",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ryzen",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gaming",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tasks",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "powerful",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "camera",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "graphics",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "solid",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issues",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "port",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "around",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "high",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "small",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "built",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "handle",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "experience",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "look",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "right",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "side",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easily",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hours",
+    "count": 17,
+    "sentiment": "positive"
+  }
+]

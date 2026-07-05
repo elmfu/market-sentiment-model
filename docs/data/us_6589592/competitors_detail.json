@@ -1,0 +1,130 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 6,
+      "reviews": [
+        {
+          "title": "The laptop you want to love - Powerful and likable",
+          "body": "The Specs - \nCPU - AMD Ryzen Ai 9 365 Processor (50 TOPs of NPU)\nGraphics - AMD Radeon 890M \nRAM - 32GB LPDDR5X running at 7500 MHz\nDisplay - 14” 2.2K (2240 x1400) ips display with a 16:10, 300 nits peak brightness, 60hz panel \nStorage - 1TB M.2 NVMe PCIe 4.0 SSD \nNetwork Communications - WiFi 7(802",
+          "excerpt": "Macbook users may raise an eyebrow at you in a library.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Strong PC Performance and Plenty to Like",
+          "body": "This is a high-performance laptop intended for creative and technical use. Highlight of the specs includes 1 TB of storage, a whopping 32 GB of RAM, and of course the newest AMD AI chip – Ryzen AI 9 365. There are two Thunderbolt 4/ USB-C ports, 1 USB-A port and an audio port. \n\nDesign and what come",
+          "excerpt": "Being a long time Mac OS user, I can see the laptop as a direct competitor to such device in terms of the design.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Near Perfect Laptop",
+          "body": "Hands down this is the very best deal today on laptops.  I took my time trying to find the right one.  And after going back into the store many many times and liking the way this one felt and of course the insanely good specs, I decided on this one and a macbook air 15 m3.  I love this one compared ",
+          "excerpt": "And after going back into the store many many times and liking the way this one felt and of course the insanely good specs, I decided on this one and a macbook air 15 m3.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "3 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "Well rounded with great performance",
+          "body": "Build quality is amazing with virtually no bend or flex ever no matter the grip while carrying the laptop around. The hinge is a bit too tight when you first get it but I noticed it relaxes a bit after a month of use which adds to the overall solid feeling. On performance, never breaks a sweat with ",
+          "excerpt": "Nothing crazy great like a ThinkPad keyboard or anything but not bad either so very standard.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Casual User",
+          "body": "Been using this laptop a little over a week now and so far no complaints. Coming from an older 15in lenovo that broke down on me this was an upgrade. Great feel/touch on the keyboard as well as the backlighting makes it easier to type in the dark. Battery life is great as well as I run youtube in th",
+          "excerpt": "Coming from an older 15in lenovo that broke down on me this was an upgrade.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "HP OmniBook Ultra – The AI-Powered Workhorse for P",
+          "body": "HP OmniBook Ultra - Copilot+ PC – 14\" 2.2K Touch-Screen Laptop\nThe HP OmniBook Ultra delivers a perfect balance of power, design, and AI-enhanced performance, making it one of the most versatile laptops I’ve come across. After evaluating similar options like the Lenovo Yoga series and Samsung Galaxy",
+          "excerpt": "After evaluating similar options like the Lenovo Yoga series and Samsung Galaxy Book 4, this laptop stands out for its AI-ready hardware and future-proof performance—ideal for professionals, researche",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Great price from Best Buy, not fast computer!",
+          "body": "Best Buy did awesome -- amazing price and fast delivery! But the computer itself is not as fast as I was expecting. In fact, it's about the same speed as my old Dell with a Ryzen 5 in there (although thankfully no crazy loud fan).",
+          "excerpt": "In fact, it's about the same speed as my old Dell with a Ryzen 5 in there (although thankfully no crazy loud fan).",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Well worth the price.",
+          "body": "I Love the speed, key size and touch, as well as lighter weight than my Dell Inspiron. .  Great buy.",
+          "excerpt": "I Love the speed, key size and touch, as well as lighter weight than my Dell Inspiron.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "HP OmniBook Ultra – The AI-Powered Workhorse for P",
+          "body": "HP OmniBook Ultra - Copilot+ PC – 14\" 2.2K Touch-Screen Laptop\nThe HP OmniBook Ultra delivers a perfect balance of power, design, and AI-enhanced performance, making it one of the most versatile laptops I’ve come across. After evaluating similar options like the Lenovo Yoga series and Samsung Galaxy",
+          "excerpt": "After evaluating similar options like the Lenovo Yoga series and Samsung Galaxy Book 4, this laptop stands out for its AI-ready hardware and future-proof performance—ideal for professionals, researche",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great decision",
+          "body": "Throughout my life I have always chosen HP as a trusted brand for my laptops, the last time I changed to Samsung Galaxy Book, although it was a very good experience with Samsung it cannot be compared to HP, graphics, fast and most of all battery, among other things for which I still prefer HP, This ",
+          "excerpt": "Throughout my life I have always chosen HP as a trusted brand for my laptops, the last time I changed to Samsung Galaxy Book, although it was a very good experience with Samsung it cannot be compared ",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Absolutely stunning laptop",
+          "body": "The ONLY slightly negative thing I can say about this laptop is the keyboard. Excellent responsiveness, just a bit too clicky for my liking - the Microsoft Surface products have a much less clicky and smooth keyboard. But other than that, this laptop is amazing, a lot of planning went into this lapt",
+          "excerpt": "Excellent responsiveness, just a bit too clicky for my liking - the Microsoft Surface products have a much less clicky and smooth keyboard.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "ASUS",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "The laptop you want to love - Powerful and likable",
+          "body": "The Specs - \nCPU - AMD Ryzen Ai 9 365 Processor (50 TOPs of NPU)\nGraphics - AMD Radeon 890M \nRAM - 32GB LPDDR5X running at 7500 MHz\nDisplay - 14” 2.2K (2240 x1400) ips display with a 16:10, 300 nits peak brightness, 60hz panel \nStorage - 1TB M.2 NVMe PCIe 4.0 SSD \nNetwork Communications - WiFi 7(802",
+          "excerpt": "Definitely not as good as something that Asus offers.",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

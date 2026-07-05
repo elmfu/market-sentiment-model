@@ -1,0 +1,101 @@
+[
+  {
+    "topic": "build_quality",
+    "label": "Build & Keyboard",
+    "total": 23,
+    "positive": 23,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "performance",
+    "label": "Performance & Chip",
+    "total": 22,
+    "positive": 22,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "display",
+    "label": "Display Quality",
+    "total": 22,
+    "positive": 22,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "battery",
+    "label": "Battery Life",
+    "total": 19,
+    "positive": 19,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "software_ecosystem",
+    "label": "Software & Ecosystem",
+    "total": 18,
+    "positive": 18,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "ports",
+    "label": "Ports & Connectivity",
+    "total": 16,
+    "positive": 16,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "price_value",
+    "label": "Price & Value",
+    "total": 11,
+    "positive": 11,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "thermals",
+    "label": "Thermals & Cooling",
+    "total": 10,
+    "positive": 10,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "repairability",
+    "label": "Repairability",
+    "total": 4,
+    "positive": 4,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  }
+]

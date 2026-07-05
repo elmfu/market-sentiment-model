@@ -1,0 +1,25 @@
+{
+  "product": "HP - OmniBook Ultra 14\" 3K OLED Touchscreen Laptop - Snapdragon X2 Elite - 32GB Memory - 1TB SSD - Copilot+ PC - Stone Blue",
+  "source": "bestbuy.com",
+  "market": "US",
+  "total": 3,
+  "with_text": 3,
+  "date_range": "2026-05-09 to 2026-06-07",
+  "avg_rating": 5.0,
+  "satisfaction_score": 100.0,
+  "star_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 3
+  },
+  "sentiment": {
+    "positive": 3,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "neutral_pct": 0.0,
+    "negative_pct": 0.0
+  }
+}

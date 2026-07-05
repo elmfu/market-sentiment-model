@@ -1,0 +1,101 @@
+[
+  {
+    "topic": "performance",
+    "label": "Performance & Chip",
+    "total": 17,
+    "positive": 13,
+    "neutral": 2,
+    "negative": 2,
+    "positive_pct": 76.5,
+    "negative_pct": 11.8,
+    "net_score": 64.7
+  },
+  {
+    "topic": "display",
+    "label": "Display Quality",
+    "total": 15,
+    "positive": 12,
+    "neutral": 1,
+    "negative": 2,
+    "positive_pct": 80.0,
+    "negative_pct": 13.3,
+    "net_score": 66.7
+  },
+  {
+    "topic": "build_quality",
+    "label": "Build & Keyboard",
+    "total": 12,
+    "positive": 9,
+    "neutral": 2,
+    "negative": 1,
+    "positive_pct": 75.0,
+    "negative_pct": 8.3,
+    "net_score": 66.7
+  },
+  {
+    "topic": "software_ecosystem",
+    "label": "Software & Ecosystem",
+    "total": 9,
+    "positive": 5,
+    "neutral": 1,
+    "negative": 3,
+    "positive_pct": 55.6,
+    "negative_pct": 33.3,
+    "net_score": 22.3
+  },
+  {
+    "topic": "battery",
+    "label": "Battery Life",
+    "total": 6,
+    "positive": 2,
+    "neutral": 1,
+    "negative": 3,
+    "positive_pct": 33.3,
+    "negative_pct": 50.0,
+    "net_score": -16.7
+  },
+  {
+    "topic": "thermals",
+    "label": "Thermals & Cooling",
+    "total": 6,
+    "positive": 3,
+    "neutral": 2,
+    "negative": 1,
+    "positive_pct": 50.0,
+    "negative_pct": 16.7,
+    "net_score": 33.3
+  },
+  {
+    "topic": "price_value",
+    "label": "Price & Value",
+    "total": 6,
+    "positive": 4,
+    "neutral": 1,
+    "negative": 1,
+    "positive_pct": 66.7,
+    "negative_pct": 16.7,
+    "net_score": 50.0
+  },
+  {
+    "topic": "ports",
+    "label": "Ports & Connectivity",
+    "total": 3,
+    "positive": 1,
+    "neutral": 1,
+    "negative": 1,
+    "positive_pct": 33.3,
+    "negative_pct": 33.3,
+    "net_score": 0.0
+  },
+  {
+    "topic": "repairability",
+    "label": "Repairability",
+    "total": 2,
+    "positive": 2,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  }
+]

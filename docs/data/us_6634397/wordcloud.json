@@ -1,0 +1,302 @@
+[
+  {
+    "word": "screen",
+    "count": 180,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 121,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 117,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 114,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 105,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 99,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 89,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 86,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 86,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 85,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 77,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 73,
+    "sentiment": "positive"
+  },
+  {
+    "word": "storage",
+    "count": 69,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 67,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 64,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 62,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ram",
+    "count": 59,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 59,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 57,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 54,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 50,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 49,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 47,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 46,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 45,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tablet",
+    "count": 45,
+    "sentiment": "positive"
+  },
+  {
+    "word": "powerful",
+    "count": 44,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 44,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 44,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "beautiful",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ultra",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "smooth",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 40,
+    "sentiment": "positive"
+  },
+  {
+    "word": "intel",
+    "count": 40,
+    "sentiment": "positive"
+  },
+  {
+    "word": "memory",
+    "count": 39,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 39,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 39,
+    "sentiment": "positive"
+  },
+  {
+    "word": "solid",
+    "count": 39,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 38,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 36,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 36,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 36,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gaming",
+    "count": 36,
+    "sentiment": "positive"
+  },
+  {
+    "word": "core",
+    "count": 36,
+    "sentiment": "positive"
+  },
+  {
+    "word": "top",
+    "count": 36,
+    "sentiment": "positive"
+  },
+  {
+    "word": "high",
+    "count": 35,
+    "sentiment": "positive"
+  },
+  {
+    "word": "highly",
+    "count": 35,
+    "sentiment": "positive"
+  },
+  {
+    "word": "super",
+    "count": 35,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
+    "count": 34,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 34,
+    "sentiment": "positive"
+  },
+  {
+    "word": "colors",
+    "count": 34,
+    "sentiment": "positive"
+  },
+  {
+    "word": "awesome",
+    "count": 34,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 33,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 32,
+    "sentiment": "positive"
+  },
+  {
+    "word": "deal",
+    "count": 32,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 32,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ssd",
+    "count": 32,
+    "sentiment": "positive"
+  }
+]

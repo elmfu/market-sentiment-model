@@ -1,0 +1,39 @@
+{
+  "competitors": [
+    {
+      "brand": "Microsoft",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Excellent laptop that I bought to have Windows 11",
+          "body": "I was in the market for a laptop to replace the Microsoft Surface laptop I owned that had Windows 10, but could not be upgraded to Windows 11.  The helpful salesperson at Best Buy suggested that I consider the HP OmniBook X Flip 16, particularly having regard to the fact that I wanted a screen size ",
+          "excerpt": "I was in the market for a laptop to replace the Microsoft Surface laptop I owned that had Windows 10, but could not be upgraded to Windows 11.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Very Happy Writer",
+          "body": "This Flip laptop is so versatile! I love being able to do some of my art on a tablet type surface and then open it up and use it as a PC. I'm 70 and I've been using HP for a long time and I am very pleased with the sleek look and ease of access to my Omnibook. I flip open the cover and I get logged ",
+          "excerpt": "I love being able to do some of my art on a tablet type surface and then open it up and use it as a PC.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Best laptop I’ve owned and best Best Buy service!",
+          "body": "I’ve been a Best Buy customer for decades. I’ve had Apple products, dells, Lenovos, and now I’ve had my brand new HP Omnibook X flip for 2 days now. It’s BY FAR my favourite laptop I’ve ever had.  The touch screen is fantastic, the graphics and performance are amazing. I have a 2021 IPad Pro 12.9 in",
+          "excerpt": "I’ve had Apple products, dells, Lenovos, and now I’ve had my brand new HP Omnibook X flip for 2 days now.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

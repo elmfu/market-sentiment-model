@@ -1,0 +1,90 @@
+{
+  "strengths": [
+    {
+      "theme": "Display Quality",
+      "count": 28,
+      "pct_of_reviews": 12.2,
+      "quotes": [
+        "We are 66 so wanted the largest screen we could get and these screens are large, 17in, and beautiful.",
+        "The colors on the screen are outstanding.",
+        "I wanted something with a large screen, a fast processor*, a lot of storage*, several ports, the right software* for my needs and Bluetooth."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 24,
+      "pct_of_reviews": 10.5,
+      "quotes": [
+        "It is very fast although I haven't played any games on it.",
+        "The computer is fast and so far no problems.",
+        "I wanted something with a large screen, a fast processor*, a lot of storage*, several ports, the right software* for my needs and Bluetooth."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 21,
+      "pct_of_reviews": 9.2,
+      "quotes": [
+        "This laptop has a secure erase option BUILT RIGHT IN to the BIOS just select it when ready and BOOM, clean hard for clean installs of windows.",
+        "I wanted something with a large screen, a fast processor*, a lot of storage*, several ports, the right software* for my needs and Bluetooth.",
+        "One of the nice things I have noticed is that my hp printer works better with my hp Windows 11 computer."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 18,
+      "pct_of_reviews": 7.9,
+      "quotes": [
+        "The only drawback I have is the keyboard.",
+        "I no longer have to worry if the NUMERIC LOCK is on or off on the keyboard.",
+        "It doesn't feel as sturdy as the older round power cords and I am concerned that either the cord or the port will break."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 14,
+      "pct_of_reviews": 6.1,
+      "quotes": [
+        "I bought this model because of it's size and sale price.",
+        "A little higher priced compared to the envy it replaced but other than the price i dont  have any complaints",
+        "For the price and I caught it on sale, I am extremely happy with my purchase."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Price & Value",
+      "count": 1,
+      "pct_of_reviews": 0.4,
+      "quotes": [
+        "I'm sorry I bought this overpriced (with add-ons making it even worse) pile of crap."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 1,
+      "pct_of_reviews": 0.4,
+      "quotes": [
+        "Setup is nigh impossible with all of the subscriptions and setup required by Microsoft, and then HP, and then Google."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Battery Life",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Display Quality",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    }
+  ]
+}

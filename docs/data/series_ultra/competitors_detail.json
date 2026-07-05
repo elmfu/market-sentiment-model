@@ -1,0 +1,165 @@
+{
+ "competitors": [
+  {
+   "brand": "Apple/Mac",
+   "total_mentions": 12,
+   "reviews": [
+    {
+     "title": "The laptop you want to love - Powerful and likable",
+     "body": "The Specs - \nCPU - AMD Ryzen Ai 9 365 Processor (50 TOPs of NPU)\nGraphics - AMD Radeon 890M \nRAM - 32GB LPDDR5X running at 7500 MHz\nDisplay - 14” 2.2K (2240 x1400) ips display with a 16:10, 300 nits peak brightness, 60hz panel \nStorage - 1TB M.2 NVMe PCIe 4.0 SSD \nNetwork Communications - WiFi 7(802",
+     "excerpt": "Macbook users may raise an eyebrow at you in a library.",
+     "rating": 3,
+     "sentiment": "neutral"
+    },
+    {
+     "title": "Inconsistent speed and bad video editing performan",
+     "body": "Bought open-box. In terms of specs, this should outclass m2 16gb (my old laptop) in premiere pro. On full resolution at 4k, my m2 could handle 4k editing pretty fine with some occasional stuttering. However, with this HP: the video editing playback at full res was awful with video flickering and tim",
+     "excerpt": "Imagine a 2 year old mac with half as much ram performing better than a 32gb next gen amd chip/\n\nOn internet, once in a while the trackpad would go unresponsive.",
+     "rating": 2,
+     "sentiment": "negative"
+    },
+    {
+     "title": "Excellent build quality, snappy speed!",
+     "body": "This is one powerhouse of a laptop. With 32GB RAM, 2TB SSD storage, and the AMD Ryzen AI 9 HX 375 processor, you can easily handle almost any task you could think of with daily use. Very snappy, fast chip that handles daily tasks with ease. Feels like it will age well going forward. \n\nThe built-in A",
+     "excerpt": "Coming from using solely Apple products for most of my life, it is refreshing to see other companies out there can also get the job done.",
+     "rating": 5,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": "9 additional review(s) also mention Apple/Mac."
+  },
+  {
+   "brand": "Lenovo",
+   "total_mentions": 4,
+   "reviews": [
+    {
+     "title": "Well rounded with great performance",
+     "body": "Build quality is amazing with virtually no bend or flex ever no matter the grip while carrying the laptop around. The hinge is a bit too tight when you first get it but I noticed it relaxes a bit after a month of use which adds to the overall solid feeling. On performance, never breaks a sweat with ",
+     "excerpt": "Nothing crazy great like a ThinkPad keyboard or anything but not bad either so very standard.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Great Laptop in the Rampocalypse Era",
+     "body": "Long time Lenovo user and thought I should give HP a try for this CPU generation. Very happy with this laptop overall. It has a premium feel and look, and it handles both my work and a heavy gaming load without breaking a sweat. I genuinely couldn’t be happier with the performance and build quality ",
+     "excerpt": "Long time Lenovo user and thought I should give HP a try for this CPU generation.",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Casual User",
+     "body": "Been using this laptop a little over a week now and so far no complaints. Coming from an older 15in lenovo that broke down on me this was an upgrade. Great feel/touch on the keyboard as well as the backlighting makes it easier to type in the dark. Battery life is great as well as I run youtube in th",
+     "excerpt": "Coming from an older 15in lenovo that broke down on me this was an upgrade.",
+     "rating": 5,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": "1 additional review(s) also mention Lenovo."
+  },
+  {
+   "brand": "Microsoft",
+   "total_mentions": 4,
+   "reviews": [
+    {
+     "title": "Excellent laptop",
+     "body": "I have bought this laptop a week ago as a backup device for software development. \nIt is blazing fast! Compilation time for biggest my projects is almost as fast as on my primary Mac Studio M2 Max!\n\nScreen is okay. I would love to have 120Hz, but 60Hz will do its job.\n\nTouchpad is not bad, would lik",
+     "excerpt": "Battery life is excellent comparing to my old Surface Pro 9.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Absolutely stunning laptop",
+     "body": "The ONLY slightly negative thing I can say about this laptop is the keyboard. Excellent responsiveness, just a bit too clicky for my liking - the Microsoft Surface products have a much less clicky and smooth keyboard. But other than that, this laptop is amazing, a lot of planning went into this lapt",
+     "excerpt": "Excellent responsiveness, just a bit too clicky for my liking - the Microsoft Surface products have a much less clicky and smooth keyboard.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Great laptop! Almost perfect.",
+     "body": "My expectations\nHP’s laptops have really come a long way. They weren’t always the prettiest, but they were feature rich, and offered some good specs. The same is true with the Omnibook Ultra, but this time, they do bring the pretty.\n\nInitial Thoughts\nI do like me some minimal packaging, and the pack",
+     "excerpt": "The touchpad has a large surface to work with.",
+     "rating": 4,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": "1 additional review(s) also mention Microsoft."
+  },
+  {
+   "brand": "Dell",
+   "total_mentions": 3,
+   "reviews": [
+    {
+     "title": "Ultra Portable for workload of AI & still have fun",
+     "body": "Review of HP OmniBook\n\n\nThe latest laptop from HP for Ultra Mobile category out of box holding on hand feels  very compact and light, almost as could be as a tablet with keyboard.\n\nIn the box, it comes simply the notebook itself OmniBook Ultra, Charging Cable and Adapter.\n\nThen the usual and for lon",
+     "excerpt": "Now, on its weight, it weight appx 2.81lb, to give idea the Dell XPS with Serie 3 Intel Core 5 weight appx 2.2lb (1kg)., and approximately equivalent to 6 of iPhone 17 Pro.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Great price from Best Buy, not fast computer!",
+     "body": "Best Buy did awesome -- amazing price and fast delivery! But the computer itself is not as fast as I was expecting. In fact, it's about the same speed as my old Dell with a Ryzen 5 in there (although thankfully no crazy loud fan).",
+     "excerpt": "In fact, it's about the same speed as my old Dell with a Ryzen 5 in there (although thankfully no crazy loud fan).",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Well worth the price.",
+     "body": "I Love the speed, key size and touch, as well as lighter weight than my Dell Inspiron. .  Great buy.",
+     "excerpt": "I Love the speed, key size and touch, as well as lighter weight than my Dell Inspiron.",
+     "rating": 5,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": ""
+  },
+  {
+   "brand": "ASUS",
+   "total_mentions": 3,
+   "reviews": [
+    {
+     "title": "The laptop you want to love - Powerful and likable",
+     "body": "The Specs - \nCPU - AMD Ryzen Ai 9 365 Processor (50 TOPs of NPU)\nGraphics - AMD Radeon 890M \nRAM - 32GB LPDDR5X running at 7500 MHz\nDisplay - 14” 2.2K (2240 x1400) ips display with a 16:10, 300 nits peak brightness, 60hz panel \nStorage - 1TB M.2 NVMe PCIe 4.0 SSD \nNetwork Communications - WiFi 7(802",
+     "excerpt": "Definitely not as good as something that Asus offers.",
+     "rating": 3,
+     "sentiment": "neutral"
+    },
+    {
+     "title": "Perfectly small and compact with only a few flaws",
+     "body": "I am a sucker for laptops both large and small. I use large, powerful laptops for gaming, coding and video editing and smaller laptops for in field use or keep it in the front of my car for immediate use due to their small size and battery life. I currently use an Asus Vivobook Ultra 185 atm, but it",
+     "excerpt": "I currently use an Asus Vivobook Ultra 185 atm, but it is a bit too big to just \"toss\" in a bag and go and not be noticed or felt so I decided to give the HP Omnibook Ultra 14 a try and see how that s",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Powerful and fast, but some trade-offs",
+     "body": "I’ve been using the HP OmniBook Ultra mainly for office work and coursework, and in terms of performance it’s been great. The AMD Ryzen AI 9 and 32GB RAM make everything feel very fast and efficient, and the 2TB SSD is plenty of space. The keyboard is comfortable to type on, the speakers are good, a",
+     "excerpt": "On the downside, the display feels like a downgrade coming from an ASUS OLED laptop—it’s okay, but doesn’t have the same deep blacks or vibrant colors.",
+     "rating": 4,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": ""
+  },
+  {
+   "brand": "Samsung",
+   "total_mentions": 2,
+   "reviews": [
+    {
+     "title": "HP OmniBook Ultra – The AI-Powered Workhorse for P",
+     "body": "HP OmniBook Ultra - Copilot+ PC – 14\" 2.2K Touch-Screen Laptop\nThe HP OmniBook Ultra delivers a perfect balance of power, design, and AI-enhanced performance, making it one of the most versatile laptops I’ve come across. After evaluating similar options like the Lenovo Yoga series and Samsung Galaxy",
+     "excerpt": "After evaluating similar options like the Lenovo Yoga series and Samsung Galaxy Book 4, this laptop stands out for its AI-ready hardware and future-proof performance—ideal for professionals, researche",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Great decision",
+     "body": "Throughout my life I have always chosen HP as a trusted brand for my laptops, the last time I changed to Samsung Galaxy Book, although it was a very good experience with Samsung it cannot be compared to HP, graphics, fast and most of all battery, among other things for which I still prefer HP, This ",
+     "excerpt": "Throughout my life I have always chosen HP as a trusted brand for my laptops, the last time I changed to Samsung Galaxy Book, although it was a very good experience with Samsung it cannot be compared ",
+     "rating": 4,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": ""
+  }
+ ]
+}

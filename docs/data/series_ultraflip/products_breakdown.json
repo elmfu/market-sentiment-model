@@ -1,0 +1,26 @@
+[
+ {
+  "product_key": "us_6593552",
+  "name": "HP OmniBook Ultra Flip Copilot+ PC 14\" 3K OLED Touch, Eclipse Gray",
+  "market": "US",
+  "series": "UltraFlip",
+  "sku": "6593552",
+  "reviews": 314,
+  "avg_rating": 4.6,
+  "satisfaction": 90.4,
+  "first_review": "2024-10-01",
+  "top_complaint": "Build & Keyboard"
+ },
+ {
+  "product_key": "us_6601706",
+  "name": "HP OmniBook Ultra Flip 2-in-1 14\" 3K OLED Touch, Eclipse Gray",
+  "market": "US",
+  "series": "UltraFlip",
+  "sku": "6601706",
+  "reviews": 124,
+  "avg_rating": 4.6,
+  "satisfaction": 91.1,
+  "first_review": "2025-02-19",
+  "top_complaint": "Battery Life"
+ }
+]

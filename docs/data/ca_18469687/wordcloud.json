@@ -1,0 +1,302 @@
+[
+  {
+    "word": "features",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ultra",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "inch",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tasks",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "however",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "weird",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "help",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "responsive",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "productivity",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "find",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "solid",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "while",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "thunderbolt",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "powerful",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "smooth",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "decent",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "brightness",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "track",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "pad",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "issues",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "encountered",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "widespread",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "trackpad",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "issue",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "either",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "unresponsive",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "detect",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "inputs",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "incorrectly",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "receive",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "randomly",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "sensitivity",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "low",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "delayed",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "tried",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "reinstalling",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "drivers",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "clean",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "windows",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "install",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "works",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "return",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "late",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "customer",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "service",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "next",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gen",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "enjoying",
+    "count": 1,
+    "sentiment": "positive"
+  }
+]

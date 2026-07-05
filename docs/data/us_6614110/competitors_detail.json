@@ -1,0 +1,18 @@
+{
+  "competitors": [
+    {
+      "brand": "Lenovo",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "HP Omni 17”",
+          "body": "The best laptop I have owned.the screen is clear and crisp.  I bought the one with 2 TB and 64 ram, runs several windows at once along with applications.  Never gets loud like my Lenovo used too.  I am never having to wait for it to load, it’s super fast and reliable.",
+          "excerpt": "Never gets loud like my Lenovo used too.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

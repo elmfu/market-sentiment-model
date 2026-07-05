@@ -1,0 +1,96 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 33,
+      "pct_of_reviews": 71.7,
+      "quotes": [
+        "The HP  OmniBook X with Snapdragon X Plus processor is the perfect laptop for travelers.",
+        "But what I will focus on is end-user experience and real-world performance.",
+        "Processor: \nFeatures Snapdragon X Plus, a midtier processor, it’s not the best, but it’s not entry level either."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 31,
+      "pct_of_reviews": 67.4,
+      "quotes": [
+        "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
+        "The machine also has a backlit keyboard, which is great for my old-man eyes.",
+        "The resolution is perfect for something this size, crystal clear quality, and the OLED just puts the screen over the top."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 30,
+      "pct_of_reviews": 65.2,
+      "quotes": [
+        "Best of all, the Snapdragon processor provides the best battery life of any laptop I have ever used.",
+        "I only bring this up because having no outlet, I use this machone on battery power mainly and only plug in to recharge as needed.",
+        "1 USB-A port, 3.5mm audio jack, built in speakers, Windows 11 Home, front facing web cam, backlit keyboard, windows AI Copilot, long lasting battery."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 28,
+      "pct_of_reviews": 60.9,
+      "quotes": [
+        "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
+        "I am reviewing HP’s newest Laptop, the OmniBook X, there’s plenty to like here, read on:\n\nScreen:\nYou get a 14” 2k resolution OLED touchscreen.",
+        "I keep mine with the display at its brightest, and in best performance mode."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 25,
+      "pct_of_reviews": 54.3,
+      "quotes": [
+        "Everyday tasks such as watching videos, web browsing, and using software applications are an absolute pleasure with this laptop.",
+        "1 USB-A port, 3.5mm audio jack, built in speakers, Windows 11 Home, front facing web cam, backlit keyboard, windows AI Copilot, long lasting battery.",
+        "I believe it is the future of windows machines."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Battery Life",
+      "count": 1,
+      "pct_of_reviews": 2.2,
+      "quotes": [
+        "OLED displays are quite intense for me, so I had to run this one close to the bottom brightness setting, which helps battery life on any machine."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 1,
+      "pct_of_reviews": 2.2,
+      "quotes": [
+        "The display is incredible, bright, eye popping whites, pure blacks with no discernible light bleed."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 1,
+      "pct_of_reviews": 2.2,
+      "quotes": [
+        "This is a good looking little laptop, extremely lightweight."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 1,
+      "pct_of_reviews": 2.2,
+      "quotes": [
+        "This machine uses roughly 15-20% of it’s capacity to run software to help HP make money- after you paid for it."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 1,
+      "pct_of_reviews": 2.2,
+      "quotes": [
+        "I have used Windows fairly mundane “AI” features, such as the Studio Effects."
+      ]
+    }
+  ]
+}

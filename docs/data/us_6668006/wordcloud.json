@@ -1,0 +1,302 @@
+[
+  {
+    "word": "ultra",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "while",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "look",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "intel",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gaming",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "compact",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "thin",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "core",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "beautiful",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "solid",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "thunderbolt",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "built",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sharp",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "portable",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ram",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "resolution",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "video",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sleek",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "bright",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "premium",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "powerful",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "blacks",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ssd",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "see",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "graphics",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "smooth",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "run",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "videos",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "backlit",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quick",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hours",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "editing",
+    "count": 9,
+    "sentiment": "positive"
+  }
+]

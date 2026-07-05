@@ -1,0 +1,100 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 63,
+      "pct_of_reviews": 50.8,
+      "quotes": [
+        "In my case I noted pretty well the improvement on performance.",
+        "This thing is fast and the battery life is amazing.",
+        "Performance-wise, it runs smoothly and handles tasks efficiently."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 42,
+      "pct_of_reviews": 33.9,
+      "quotes": [
+        "The 3K OLED screen is absolutely stunning and something I didn’t realize I needed.",
+        "Lovely screen with lovely colors and definition.",
+        "Bought my HP Omnibook Ultra about a month ago replacing my previous HP Spectre 13.3 Oled screen (which I loved!)."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 37,
+      "pct_of_reviews": 29.8,
+      "quotes": [
+        "It’s sleek and features three USB-C ports.",
+        "Great laptop for the most part some finicky touchpad issues noticed occasionally",
+        "This is a great laptop packed with a lot of features in a compact and lightweight design."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 29,
+      "pct_of_reviews": 23.4,
+      "quotes": [
+        "The only downside is that it was at the top of my budget, but overall, it has been well worth the investment.",
+        "For the price it should  have at least come with the pen.",
+        "Seems like the best processor in the game and so worth the price especially when it goes on sale."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 27,
+      "pct_of_reviews": 21.8,
+      "quotes": [
+        "The laptop is impressively lightweight, with a battery life of about four hours, and the compact charger is convenient for travel.",
+        "This thing is fast and the battery life is amazing.",
+        "Charging time and operational time have been very, very  good."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Battery Life",
+      "count": 3,
+      "pct_of_reviews": 2.4,
+      "quotes": [
+        "I’m not seeing “all-day battery” behavior at all, even with normal usage."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 3,
+      "pct_of_reviews": 2.4,
+      "quotes": [
+        "My hands are rather large, so that means I'm consistently hitting the trackpad.",
+        "Fantastic specs, great feel, lightweight but was a disaster from day 1.",
+        "The screen is legitimately beautiful, and the touchpad is one of the best I’ve used on any Windows laptop."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 3,
+      "pct_of_reviews": 2.4,
+      "quotes": [
+        "Bought this during an incredible sale and tax free month after doing a lot of research on devices.",
+        "But the more I use it, the more I feel like I might return it mainly because the daily experience isn’t matching the premium price."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 3,
+      "pct_of_reviews": 2.4,
+      "quotes": [
+        "Disable the trackpad, and expected my mouse to work, which is a Microsoft mouse, and wake up the device.",
+        "The screen is legitimately beautiful, and the touchpad is one of the best I’ve used on any Windows laptop."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 2,
+      "pct_of_reviews": 1.6,
+      "quotes": [
+        "The screen is legitimately beautiful, and the touchpad is one of the best I’ve used on any Windows laptop."
+      ]
+    }
+  ]
+}

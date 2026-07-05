@@ -1,0 +1,25 @@
+{
+ "product": "HP OmniBook Ultra & X portfolio — all models (US + CA)",
+ "source": "bestbuy.com + bestbuy.ca",
+ "market": "US+CA",
+ "total": 7709,
+ "with_text": 7535,
+ "date_range": "2024-06-19 to 2026-07-04",
+ "avg_rating": 4.67,
+ "satisfaction_score": 93.4,
+ "star_distribution": {
+  "1": 183,
+  "2": 98,
+  "3": 229,
+  "4": 1052,
+  "5": 6147
+ },
+ "sentiment": {
+  "positive": 7199,
+  "neutral": 229,
+  "negative": 281,
+  "positive_pct": 93.4,
+  "neutral_pct": 3.0,
+  "negative_pct": 3.6
+ }
+}

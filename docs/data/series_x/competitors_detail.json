@@ -1,0 +1,130 @@
+{
+ "competitors": [
+  {
+   "brand": "Apple/Mac",
+   "total_mentions": 24,
+   "reviews": [
+    {
+     "title": "Love the new co-pilot PCs",
+     "body": "It's like windows is trying to become Mac faster than Mac can become Windows. The speed and battery life of this PC is amazing. Some people I noticed are experiencing the freeze they need to make sure they do all the updates in the beginning Windows removed the recall feature and a few other feature",
+     "excerpt": "It's like windows is trying to become Mac faster than Mac can become Windows.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "A MacBook Air Competitor",
+     "body": "I've owned many laptops in my life. From the COVID era Chromebooks to a used HP Elitebook from a business, I've used them all. \n\nNothing has come close to this with how quiet it is, how thin it is, and how performant it is.\n\nStarting from the top, battery life is amazing. You can do your work on thi",
+     "excerpt": "While it is like M1 Mac days where many apps don't work, I've found that all the obscure apps I use work.",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Confirmed perfect and unusable at the same time",
+     "body": "As other online reviewers, with a million+ subscribers   pointed out - I am confirming in my use case - Perfect and unusable at the same time.\n\nI ended up returning it because of a defective charging - there are two usb c ports and charging through both of them was at least inconsistent, tried first",
+     "excerpt": "With current version of Filemaker Pro (cross platform database, windows, mac silicon, no native arm on windows) it is maybe three times slower, I suspect some issues with disk performance contributes ",
+     "rating": 3,
+     "sentiment": "neutral"
+    }
+   ],
+   "summary_of_remaining": "21 additional review(s) also mention Apple/Mac."
+  },
+  {
+   "brand": "Microsoft",
+   "total_mentions": 9,
+   "reviews": [
+    {
+     "title": "Great Hardware, Software for ARM64 Is Issue",
+     "body": "This is a great laptop and I recommend it entirely for a jack of all trades productivity device IF your software will run well on it, and that's a very big IF, at the moment.  Also any devices connecting to it (printers, adapters, etc) will need compatible drivers for ARM64 or you might not be able ",
+     "excerpt": "But the Microsoft Store is full of apps that still say \"Not Compatible with your processor\" exactly the same as it said 4 years ago for the Surface Pro X with the first modern ARM processor for Window",
+     "rating": 3,
+     "sentiment": "neutral"
+    },
+    {
+     "title": "OmniBook X14 (Great Buy & Excellent Performance)",
+     "body": "I returned the Surface Laptop 7 plus for this OmniBook X plus and actually like it a lot better!  I notice a faster bootup and no occasional video lag with this laptop.  No issue with the software I have been using.  I use for everyday web, video, music and word processing.  Easy to carry and long b",
+     "excerpt": "I returned the Surface Laptop 7 plus for this OmniBook X plus and actually like it a lot better!",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Perfect for Students, Professionals, and Travel",
+     "body": "The HP OmniBook X 14\" 2K OLED with the Snapdaragon X Plus  takes the most efficient Qualcomm chip, powers it with an OLED panel and effectively gives you up to a day and a half of battery life. The result is  a 2.9 pound, half-inch thick ultraportable that can compete with any laptop in its class. A",
+     "excerpt": "It has a smooth glass surface and seems responsive to touch gestures.",
+     "rating": 5,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": "6 additional review(s) also mention Microsoft."
+  },
+  {
+   "brand": "Lenovo",
+   "total_mentions": 3,
+   "reviews": [
+    {
+     "title": "Checks most boxes, but not all!",
+     "body": "Meet the HP OmniBook X, a Copilot+ Laptop that's got me feeling like a tech wizard and a productivity machine all at once. With a Snapdragon X Elite ARM CPU and a host of features designed to make any geek swoon, this machine promises to be a game-changer. But does it deliver? Let’s dive into the ni",
+     "excerpt": "The keyboard flexes more than a yoga instructor, and the screen feels flimsy.",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Love it!",
+     "body": "This HP Omnibook is well priced with great graphics for video conferencing!                                      The only downside is that if you prefer a wired connection for remote work, there is no ethernet port.                                                                               So BUY",
+     "excerpt": "My Thinkpad started to overheat and screen freeze while I was working with it flat on the desk, and now, I’m getting a laptop stand for it.",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "HP Omni 17”",
+     "body": "The best laptop I have owned.the screen is clear and crisp.  I bought the one with 2 TB and 64 ram, runs several windows at once along with applications.  Never gets loud like my Lenovo used too.  I am never having to wait for it to load, it’s super fast and reliable.",
+     "excerpt": "Never gets loud like my Lenovo used too.",
+     "rating": 5,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": ""
+  },
+  {
+   "brand": "Samsung",
+   "total_mentions": 3,
+   "reviews": [
+    {
+     "title": "HP Omnibook - Software Issues",
+     "body": "I am a HUGE FAN of Snapdragon ARM Windows laptops. And the HP Omnibook seemed perfect for me.\n\nThe keyboard is amazing, great travel.\n\nThe touchpad is great, not haptic but I didn't care about that.\n\nThere are more than enough ports.\n\nThe SSD is a little slow compared to other models, but 1 TB!\n\nFin",
+     "excerpt": "Sadly, I had to just return it and go with the Galaxy Book 4 Edge, which has a better screen, a worse keyboard, worse storage, but a thinner build.",
+     "rating": 1,
+     "sentiment": "negative"
+    },
+    {
+     "title": "Returned, screen inop",
+     "body": "Screen would go black after 2nd day of ownership. Would show boot animation but screen went black after. 2nd Samsung PC bought. 2nd Samsung PC returned.",
+     "excerpt": "2nd Samsung PC bought.",
+     "rating": 1,
+     "sentiment": "negative"
+    },
+    {
+     "title": "Good arm laptop.",
+     "body": "Good arm laptop with great battery life. It's a little slower than samsung equivalent but still is good.",
+     "excerpt": "It's a little slower than samsung equivalent but still is good.",
+     "rating": 4,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": ""
+  },
+  {
+   "brand": "Dell",
+   "total_mentions": 1,
+   "reviews": [
+    {
+     "title": "Excellent Choice!",
+     "body": "Fantastic machine!\n\nFor this review, I am not going to go in depth into specs or benchmarks, since that information is freeley and readily available from multiple places... But what I will focus on is end-user experience and real-world performance.\n\nOK, first things first... I am recovering from a r",
+     "excerpt": "I had been using a Dell XPS 13\", and while it's an amazingly powerful machine, the keyboard is cramped.",
+     "rating": 5,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": ""
+  }
+ ]
+}

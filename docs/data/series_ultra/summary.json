@@ -1,0 +1,25 @@
+{
+ "product": "HP OmniBook Ultra — all models (US + CA)",
+ "source": "bestbuy.com + bestbuy.ca",
+ "market": "US+CA",
+ "total": 304,
+ "with_text": 303,
+ "date_range": "2024-09-14 to 2026-07-04",
+ "avg_rating": 4.46,
+ "satisfaction_score": 87.5,
+ "star_distribution": {
+  "1": 16,
+  "2": 9,
+  "3": 13,
+  "4": 48,
+  "5": 218
+ },
+ "sentiment": {
+  "positive": 266,
+  "neutral": 13,
+  "negative": 25,
+  "positive_pct": 87.5,
+  "neutral_pct": 4.3,
+  "negative_pct": 8.2
+ }
+}

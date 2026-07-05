@@ -1,0 +1,302 @@
+[
+  {
+    "word": "screen",
+    "count": 265,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 225,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 205,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 201,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 170,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 158,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 136,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 135,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 126,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 126,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 125,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 123,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 117,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 114,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 113,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 100,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 92,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 86,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 83,
+    "sentiment": "positive"
+  },
+  {
+    "word": "school",
+    "count": 83,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tablet",
+    "count": 82,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 78,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 77,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 74,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 73,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 72,
+    "sentiment": "positive"
+  },
+  {
+    "word": "awesome",
+    "count": 66,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 64,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 61,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 58,
+    "sentiment": "positive"
+  },
+  {
+    "word": "working",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "value",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "set",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 54,
+    "sentiment": "positive"
+  },
+  {
+    "word": "heavy",
+    "count": 52,
+    "sentiment": "positive"
+  },
+  {
+    "word": "service",
+    "count": 52,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 51,
+    "sentiment": "positive"
+  },
+  {
+    "word": "deal",
+    "count": 51,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 49,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
+    "count": 49,
+    "sentiment": "positive"
+  },
+  {
+    "word": "college",
+    "count": 47,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sale",
+    "count": 46,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 46,
+    "sentiment": "positive"
+  },
+  {
+    "word": "highly",
+    "count": 45,
+    "sentiment": "positive"
+  },
+  {
+    "word": "device",
+    "count": 44,
+    "sentiment": "positive"
+  },
+  {
+    "word": "smooth",
+    "count": 44,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sleek",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "while",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
+    "word": "big",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
+    "word": "experience",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "everyday",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "clear",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "definitely",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "super",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 40,
+    "sentiment": "positive"
+  },
+  {
+    "word": "first",
+    "count": 40,
+    "sentiment": "positive"
+  }
+]

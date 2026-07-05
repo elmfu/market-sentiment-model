@@ -1,0 +1,105 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 97,
+      "pct_of_reviews": 51.9,
+      "quotes": [
+        "The OmniBook Ultra is a small yet powerful business/college laptop.",
+        "I've had the opportunity to test out several high-performance laptops, and the HP OmniBook Ultra with Copilot stood its ground.",
+        "Nevertheless, greatly improved AI performance can be obtained with optional subscription services (examples: Gemini Advanced or Copilot PRO)."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 70,
+      "pct_of_reviews": 37.4,
+      "quotes": [
+        "=========\nDESIGN/SPECS:\nThe OmniBook is lightweight and sports a sleek meteor-sliver color.",
+        "The aluminum finish is exceptional, with a solid and sturdy construction that feels premium in the hand.",
+        "BOTTOM LINE - The HP OmniBook Ultra Copilot+ PC (14-fd0013dx) is a featured rich light weight portable laptop that delivers the goods."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 69,
+      "pct_of_reviews": 36.9,
+      "quotes": [
+        "=========\nDESIGN/SPECS:\nThe OmniBook is lightweight and sports a sleek meteor-sliver color.",
+        "Whether I'm editing high-resolution videos, running virtual machines, or simply browsing the web, the OmniBook Ultra held its own.",
+        "LIABILITIES - Are minor with an IPS (only 400-nit) screen that is prone to excessive glare and a somewhat difficult to access single USB-A port."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 57,
+      "pct_of_reviews": 30.5,
+      "quotes": [
+        "BATTERY LIFE:\n\nThe battery life on this is pretty impressive.",
+        "BATTERY - I must mention the battery life that is the best I have ever experienced.",
+        "No particular feature stands out besides the long battery life."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 49,
+      "pct_of_reviews": 26.2,
+      "quotes": [
+        "If you can pick up this on sale, then add another Star.",
+        "It feels cheap for some reason, the keys, the speakers, etc.",
+        "Apart from the AI features, however, this laptop is so much more, and it is reasonable to expect that from a laptop at this price point."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Price & Value",
+      "count": 5,
+      "pct_of_reviews": 2.7,
+      "quotes": [
+        "The product specifications and price make you buy it because it seems like a good idea, but it isn't.",
+        "Many have been patched with new BIOS updates, but it's still a really flakey experience, especially for the price.",
+        "I only planned to use it for the cost of the previous purchase."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 4,
+      "pct_of_reviews": 2.1,
+      "quotes": [
+        "Suddenly, it started showing vertical lines in the display.",
+        "The screen would freeze and turn off, even without doing any work.",
+        "I bought the HP OmniBook Ultra 14 (Ryzen AI 9 365, 32GB/1TB, 2.2K touch) and it has been a headache from day one."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 4,
+      "pct_of_reviews": 2.1,
+      "quotes": [
+        "I did everything by the book: factory reset, Windows updates, BIOS/driver updates (multiple times), HP diagnostics — the problems keep coming back.",
+        "Many have been patched with new BIOS updates, but it's still a really flakey experience, especially for the price.",
+        "Filled with unremovable bloatware and constantly updating cr@p from HP."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 3,
+      "pct_of_reviews": 1.6,
+      "quotes": [
+        "Battery life is only 5-6 hours while only surfing web and not as stated.",
+        "Poor virtualization support - Using any kind of virtual machine absolutely annihilates the battery life."
+      ]
+    },
+    {
+      "theme": "Repairability",
+      "count": 3,
+      "pct_of_reviews": 1.6,
+      "quotes": [
+        "Also, it shows that warranty started from September 2024 although I only bought it on February 2025.",
+        "Between the constant freezing, display glitches, and warranty run-around, I can’t recommend this model.",
+        "Just weeks before the manufacturer one year warranty ended, I had to send it in for repair and ended up having the motherboard replaced."
+      ]
+    }
+  ]
+}

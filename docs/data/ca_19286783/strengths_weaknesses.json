@@ -1,0 +1,98 @@
+{
+  "strengths": [
+    {
+      "theme": "Build & Keyboard",
+      "count": 11,
+      "pct_of_reviews": 20.8,
+      "quotes": [
+        "I love the darker keys on this one as the prior one had light grey keys and was difficult to read.",
+        "Aquile allows lots of text size/dimension tweaking and Sumatra is a lightweight PDF reader (Adobe works fine too but bulkier).",
+        "I'm 70 and I've been using HP for a long time and I am very pleased with the sleek look and ease of access to my Omnibook."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 8,
+      "pct_of_reviews": 15.1,
+      "quotes": [
+        "Had to replace my HP Flip with Intel with a new HP Omnibook X Flip with AMD as my cat knocked it off the table and the screen eventually broke!",
+        "Tbh, I haven't experienced any crashes yet:)\r\n\r\nThe touch screen and tablet+pen form is also very useful in school.",
+        "The main reason i like this laptop, is the 3K screen."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 7,
+      "pct_of_reviews": 13.2,
+      "quotes": [
+        "Had to replace my HP Flip with Intel with a new HP Omnibook X Flip with AMD as my cat knocked it off the table and the screen eventually broke!",
+        "Documents and light gaming are smooth (note: Win11 got rid of Wordpad so you need MS Office or an alternative).",
+        "The performance is good enough, considering it being a 2-in-1."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 3,
+      "pct_of_reviews": 5.7,
+      "quotes": [
+        "From what I can tell, no Windows laptop vendor comes with a built in solution.",
+        "I flip open the cover and I get logged in with my Windows Hello right away.",
+        "Windows 11 is completely different from 10 but I am slowly getting to work with it."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 2,
+      "pct_of_reviews": 3.8,
+      "quotes": [
+        "So ig sacrificing engineering-level performance for this is worth it."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Display Quality",
+      "count": 3,
+      "pct_of_reviews": 5.7,
+      "quotes": [
+        "Sometimes when I'm reading pdfs on WPS pdf reader, the touchscreen becomes unresponsive.",
+        "The screen flickers on and off continuously."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 3,
+      "pct_of_reviews": 5.7,
+      "quotes": [
+        "Many useful keys are replaced for useless ones like the right FN for copilot button and f11 for HP system utility launch.",
+        "And I could not get back on---a window pops up BIOS update!",
+        "I don’t know if you guys can do some software updates, but it would be nice if you did."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 2,
+      "pct_of_reviews": 3.8,
+      "quotes": [
+        "This Laptop has not been a smooth transition for me."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 2,
+      "pct_of_reviews": 3.8,
+      "quotes": [
+        "Battery life isn't so good because I'm usually only getting around 6hrs of continuous use."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 2,
+      "pct_of_reviews": 3.8,
+      "quotes": [
+        "Many useful keys are replaced for useless ones like the right FN for copilot button and f11 for HP system utility launch.",
+        "Touchpad isn't the best because for the price you would expect a better mechanical touchpad or a haptic one."
+      ]
+    }
+  ]
+}

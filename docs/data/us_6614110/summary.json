@@ -1,0 +1,25 @@
+{
+  "product": "HP OmniBook X Copilot+ PC 17.3\" FHD Touch, Glacier Silver",
+  "source": "bestbuy.com",
+  "market": "US",
+  "total": 161,
+  "with_text": 161,
+  "date_range": "2025-04-13 to 2026-06-05",
+  "avg_rating": 4.65,
+  "satisfaction_score": 91.9,
+  "star_distribution": {
+    "1": 4,
+    "2": 4,
+    "3": 5,
+    "4": 18,
+    "5": 130
+  },
+  "sentiment": {
+    "positive": 148,
+    "neutral": 5,
+    "negative": 8,
+    "positive_pct": 91.9,
+    "neutral_pct": 3.1,
+    "negative_pct": 5.0
+  }
+}

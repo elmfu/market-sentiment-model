@@ -1,0 +1,101 @@
+[
+  {
+    "topic": "performance",
+    "label": "Performance & Chip",
+    "total": 69,
+    "positive": 64,
+    "neutral": 3,
+    "negative": 2,
+    "positive_pct": 92.8,
+    "negative_pct": 2.9,
+    "net_score": 89.9
+  },
+  {
+    "topic": "display",
+    "label": "Display Quality",
+    "total": 52,
+    "positive": 51,
+    "neutral": 1,
+    "negative": 0,
+    "positive_pct": 98.1,
+    "negative_pct": 0.0,
+    "net_score": 98.1
+  },
+  {
+    "topic": "build_quality",
+    "label": "Build & Keyboard",
+    "total": 40,
+    "positive": 36,
+    "neutral": 2,
+    "negative": 2,
+    "positive_pct": 90.0,
+    "negative_pct": 5.0,
+    "net_score": 85.0
+  },
+  {
+    "topic": "software_ecosystem",
+    "label": "Software & Ecosystem",
+    "total": 29,
+    "positive": 27,
+    "neutral": 1,
+    "negative": 1,
+    "positive_pct": 93.1,
+    "negative_pct": 3.4,
+    "net_score": 89.7
+  },
+  {
+    "topic": "price_value",
+    "label": "Price & Value",
+    "total": 20,
+    "positive": 17,
+    "neutral": 2,
+    "negative": 1,
+    "positive_pct": 85.0,
+    "negative_pct": 5.0,
+    "net_score": 80.0
+  },
+  {
+    "topic": "battery",
+    "label": "Battery Life",
+    "total": 17,
+    "positive": 16,
+    "neutral": 0,
+    "negative": 1,
+    "positive_pct": 94.1,
+    "negative_pct": 5.9,
+    "net_score": 88.2
+  },
+  {
+    "topic": "repairability",
+    "label": "Repairability",
+    "total": 11,
+    "positive": 8,
+    "neutral": 1,
+    "negative": 2,
+    "positive_pct": 72.7,
+    "negative_pct": 18.2,
+    "net_score": 54.5
+  },
+  {
+    "topic": "ports",
+    "label": "Ports & Connectivity",
+    "total": 4,
+    "positive": 3,
+    "neutral": 0,
+    "negative": 1,
+    "positive_pct": 75.0,
+    "negative_pct": 25.0,
+    "net_score": 50.0
+  },
+  {
+    "topic": "thermals",
+    "label": "Thermals & Cooling",
+    "total": 2,
+    "positive": 2,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  }
+]

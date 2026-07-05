@@ -1,0 +1,74 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 4,
+      "reviews": [
+        {
+          "title": "Great Screen, Great Stamina",
+          "body": "The HP OmniBook X 14 offers a stylish design, long battery life, and a surprisingly premium feel for the price. It is the kind of laptop that does not try to be everything, but excels at the things that matter.\n\nBattery life is the standout. The OmniBook X configuration I tested, built around the Qu",
+          "excerpt": "It is not quite as featherlight as the MacBook Air 13, but it comes close and outclasses most competitors in this size category.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Almost perfect",
+          "body": "HP went and made an ARM version of their Omnibook and it is different; this would be comparable to the Macbook “M” series of devices. \n\nIf you have owned or used a HP laptop then you should have an idea of what to expect here the experience is no different it would just be the hardware. Now it is wo",
+          "excerpt": "HP went and made an ARM version of their Omnibook and it is different; this would be comparable to the Macbook “M” series of devices.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Beautiful, compact, and powerful",
+          "body": "The screen resolution of this laptop is absolutely amazing. The colors are so vivid, and the details of the images are incredibly sharp. Definitely the best picture/screen of any computer or laptop I have ever owned. I love the Copilot quick button to launch directly into AI mode. You can set up Cop",
+          "excerpt": "It is almost as thin as my iPad when closed.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "1 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 4,
+      "reviews": [
+        {
+          "title": "Perfect for Students, Professionals, and Travel",
+          "body": "The HP OmniBook X 14\" 2K OLED with the Snapdaragon X Plus  takes the most efficient Qualcomm chip, powers it with an OLED panel and effectively gives you up to a day and a half of battery life. The result is  a 2.9 pound, half-inch thick ultraportable that can compete with any laptop in its class. A",
+          "excerpt": "It has a smooth glass surface and seems responsive to touch gestures.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Perfect Laptop with Prolonged Battery !",
+          "body": "This HP Omnibook X seems to be a perfect laptop in all aspects for anyone who needs it for regular browsing, videos, music, learning, video calls, documentations and regular day to day work. This may not meant to be a work-horse or for gaming purposes, but for a student or a day to day casual use, t",
+          "excerpt": "But on a solid surface like a table or a lap desk, it’s perfectly fine.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Remember Windows on ARM? It Finally Works!",
+          "body": "This isn’t my first time with Windows on ARM. I had a Surface Pro X, so I’ve already lived through the early days when half the experience felt unfinished. The OmniBook X feels like the platform finally figured itself out.\n\nSetup\nSetup was quick. Windows handled updates, Wi‑Fi, and app installs with",
+          "excerpt": "I had a Surface Pro X, so I’ve already lived through the early days when half the experience felt unfinished.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "1 additional review(s) also mention Microsoft."
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Excellent Choice!",
+          "body": "Fantastic machine!\n\nFor this review, I am not going to go in depth into specs or benchmarks, since that information is freeley and readily available from multiple places... But what I will focus on is end-user experience and real-world performance.\n\nOK, first things first... I am recovering from a r",
+          "excerpt": "I had been using a Dell XPS 13\", and while it's an amazingly powerful machine, the keyboard is cramped.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

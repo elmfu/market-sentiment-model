@@ -1,0 +1,302 @@
+[
+  {
+    "word": "screen",
+    "count": 99,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 81,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 77,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 76,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 71,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 64,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 59,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "school",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 53,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 51,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tablet",
+    "count": 49,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 48,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 47,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 45,
+    "sentiment": "positive"
+  },
+  {
+    "word": "college",
+    "count": 45,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 45,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 40,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 39,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 35,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 33,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 29,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 29,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pretty",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "solid",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "while",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "want",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "set",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issues",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "around",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "enough",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "weight",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "graphics",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hours",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ryzen",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "definitely",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gaming",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feature",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amd",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "deal",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "clear",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "first",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tasks",
+    "count": 20,
+    "sentiment": "positive"
+  }
+]

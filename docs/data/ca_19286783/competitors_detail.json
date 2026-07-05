@@ -1,0 +1,32 @@
+{
+  "competitors": [
+    {
+      "brand": "Lenovo",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Horribly Designed",
+          "body": "I bought the laptop for $1099.99 and I would NOT recommend. I would recommend the Lenovo Yoga 7 with the intel core ultra 5 as it has a better build, speaker location, and better fans (from what I tested in store).\nKeyboard: \nThe keyboard is formatted so there is no space between keys, and over time",
+          "excerpt": "I would recommend the Lenovo Yoga 7 with the intel core ultra 5 as it has a better build, speaker location, and better fans (from what I tested in store).",
+          "rating": 1,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Very Happy Writer",
+          "body": "This Flip laptop is so versatile! I love being able to do some of my art on a tablet type surface and then open it up and use it as a PC. I'm 70 and I've been using HP for a long time and I am very pleased with the sleek look and ease of access to my Omnibook. I flip open the cover and I get logged ",
+          "excerpt": "I love being able to do some of my art on a tablet type surface and then open it up and use it as a PC.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

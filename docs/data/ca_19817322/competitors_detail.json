@@ -1,0 +1,32 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Great computer!",
+          "body": "I love my new laptop! I use it for my design business and my job as a remote assistant. I love the expanded keyboard and how smooth the keys are (I type a lot). Also, I have a history of bogging down computers with all the demands I place on them with my graphics, but this has been running well with",
+          "excerpt": "With my old computer I was always having to compare the images to my iPad to get a complete idea of where the colors were.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "HP OmniBook X 173 LT AI",
+          "body": "My wife and I needed new laptops that could run win 11.  After about a month of research I settled on this one.  We bought 2 and customized them a little.  We are 66 so wanted the largest screen we could get and these screens are large, 17in, and beautiful.  I ordered them with 32 gig of ram since w",
+          "excerpt": "The keys are flush with the surface of the case and really prefer they stick up a bit like my old laptop.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

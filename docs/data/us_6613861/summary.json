@@ -1,0 +1,25 @@
+{
+  "product": "HP OmniBook X Flip 2-in-1 14\" 2K Touch, Meteor Silver",
+  "source": "bestbuy.com",
+  "market": "US",
+  "total": 485,
+  "with_text": 485,
+  "date_range": "2025-04-25 to 2026-06-27",
+  "avg_rating": 4.71,
+  "satisfaction_score": 95.7,
+  "star_distribution": {
+    "1": 10,
+    "2": 5,
+    "3": 6,
+    "4": 72,
+    "5": 392
+  },
+  "sentiment": {
+    "positive": 464,
+    "neutral": 6,
+    "negative": 15,
+    "positive_pct": 95.7,
+    "neutral_pct": 1.2,
+    "negative_pct": 3.1
+  }
+}

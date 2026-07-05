@@ -1,0 +1,172 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 18,
+      "reviews": [
+        {
+          "title": "Simple albeit bulky convertible laptop/tablet",
+          "body": "I found myself somewhat conflicted as I was using this laptop trying to decide how to review it. Upon first start up, light bleeding from the edges of the screen was very noticeable. Once the computer was up and running the image quality is great, but I can see how the laptop would not necessarily p",
+          "excerpt": "The touchpad seemed to work well, but I still prefer the tactile and \"glassy\" feel of the touchpad on a MacBook or a Surface.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
+        {
+          "title": "The Screen Ruins An Otherwise Wonderful Laptop",
+          "body": "CONCLUSION 7.35/10:\n\nI think one of the most important metrics in a laptop is how it feels to use. Do you look forward to opening it up and getting on it or not? And for this guy I do enjoy using it. It has a sleek look. Made from aluminum. It is relatively lightweight for its size. I really enjoy t",
+          "excerpt": "For a student I think that would be great if you aren’t buying an iPad and wanting digital notes.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Nice computer",
+          "body": "After years of being loyal to my iMac, I finally made the switch to an HP laptop and I’m honestly glad I did. My old iMac was fine for a while, but it started to feel outdated and limited. I wanted something more flexible, portable, and practical for how I actually work. I wasn’t sure what to expect",
+          "excerpt": "My old iMac was fine for a while, but it started to feel outdated and limited.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "15 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 12,
+      "reviews": [
+        {
+          "title": "Didn’t like the keys flat and bunched together.",
+          "body": "Didn’t like the way all the keys were bunched together with no gaps in between nor were they raised any. I too the laptop back and got the Dell 2 and 1 with the 16in screen. Dell seems a lil faster but it’s heavier.",
+          "excerpt": "I too the laptop back and got the Dell 2 and 1 with the 16in screen.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Good Laptop, serving me well",
+          "body": "I bought a Dell 2 in 1 first and the keyboard of the laptop often get disconnected after I keep the laptop idle. Then I returned that one and decided to buy this laptop, has a great and big screen, so far seems very good. It's been 5 days of using the laptop and it is serving me good. Will give an u",
+          "excerpt": "I bought a Dell 2 in 1 first and the keyboard of the laptop often get disconnected after I keep the laptop idle.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great laptop, black friday price made it affordabl",
+          "body": "To be fair, i've only had it for about a month. But so far it's a great laptop, very crisp, bright display, battery life is excellent, and the unit is very responsive. So far, very pleased with this HP laptop. I've always had Dell systems and decided to try the HP",
+          "excerpt": "I've always had Dell systems and decided to try the HP",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "9 additional review(s) also mention Dell."
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 5,
+      "reviews": [
+        {
+          "title": "Simple albeit bulky convertible laptop/tablet",
+          "body": "I found myself somewhat conflicted as I was using this laptop trying to decide how to review it. Upon first start up, light bleeding from the edges of the screen was very noticeable. Once the computer was up and running the image quality is great, but I can see how the laptop would not necessarily p",
+          "excerpt": "I also do not like the idea of sitting the keyboard flush with whatever surface I am setting the tablet on.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
+        {
+          "title": "The Screen Ruins An Otherwise Wonderful Laptop",
+          "body": "CONCLUSION 7.35/10:\n\nI think one of the most important metrics in a laptop is how it feels to use. Do you look forward to opening it up and getting on it or not? And for this guy I do enjoy using it. It has a sleek look. Made from aluminum. It is relatively lightweight for its size. I really enjoy t",
+          "excerpt": "But lags behind MacBook’s force touch trackpad or the Microsoft Surface 7’s precision haptic touchpad.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "A Versatile Powerhouse",
+          "body": "The HP OmniBook X Flip 16-inch Laptop Next Gen AI does a good job at blending power and adaptability. Unlike a traditional laptop, its “Flipping” ability makes it a versatile machine with good hardware for many applications, and its AI feature is a welcome addition.\n\nThis model has 16GB of RAM, a ge",
+          "excerpt": "This is done through the AI Companion app; I tried a few features and they work as intended but I think it’s just scratching the surface of what AI assistance can truly do.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "2 additional review(s) also mention Microsoft."
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "OmbibookX needs a full keyboard to be great.",
+          "body": "The typical laptop gotchas with having to fix the mouse pad issues of palm sensitivity.  I could not operate with this keyboard layout. I kept hitting the caps lock instead of A. Just a difference between a standard keyboard with the num pad. \n\nAudio speaker was typical for a lap top. Not great.   T",
+          "excerpt": "I found this out after i tried the lenovo yoga.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Hp, pretty good computer",
+          "body": "Good computer overall. Nice speed of processing. I don't use the tablet feature much but it is nice to have as an option. The Copilot feature is not as robust as some other AI assistants like Gemini or ChatGPT. The power input is a Type C which is surprising, because I thought it would be more a str",
+          "excerpt": "I hope it lasts as long as my Lenovo which was nearly 5 years.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "ASUS",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "HP OmniBook upgrade to Windows 11 tech",
+          "body": "My old ASUS laptop stopped functioning properly on line, as a result of the cancellation of Microsoft Windows 10 support back in October.  It finally reached the point that I had to do something else to remain productive.  So, this HP OmniBook was my chosen solution.  I have had good luck with HP pr",
+          "excerpt": "My old ASUS laptop stopped functioning properly on line, as a result of the cancellation of Microsoft Windows 10 support back in October.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Hp omnibook  a good at home task  computer",
+          "body": "Great computer the image is very good i had it side by side to the asus 4k and honestly i still like mine the only reason i gave it 4 starts  its because compare to other computers  the sound is lets day high but lacks  bass or some deepness if u understand  is not like sorround sound? But good  per",
+          "excerpt": "Great computer the image is very good i had it side by side to the asus 4k and honestly i still like mine the only reason i gave it 4 starts  its because compare to other computers  the sound is lets ",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Just give it a try.",
+          "body": "This laptop was a recommendation from someone, now I'm not going to tell you this is the best bang for Buck laptop out there. This laptop cost $1,000 and it's on sale or is always on sale for almost half its own MSRP, this laptop has an Intel ultra i7 series 2 for its price of 600-700 bucks and havi",
+          "excerpt": "I purchased my gen 5 drive from Best buy and with Samsung so I have the 9100 and it is a 4 TB which I still have and it ran very smoothly fast and it was really great.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Powerful and great battery life.",
+          "body": "Coming from a Galaxy Book Pro. This computer has been great. Whether running design software, streaming or gaming, I have not run into any performance issues. Battery life has been as advertised. The AI feature has been great. Its helped with research for school assignments, planning and research fo",
+          "excerpt": "Coming from a Galaxy Book Pro.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Chromebook",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Great Laptop",
+          "body": "Great laptop. I bought this to replace a Chromebook for online school and it has made school 10 times easier. Easy to setup and navigate. The battery life is amazing as well. I was on a 12 hour trip and did not charge it once.",
+          "excerpt": "I bought this to replace a Chromebook for online school and it has made school 10 times easier.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Hp chromebook",
+          "body": "Love this laptop, my sales rep was very knowledgeable",
+          "excerpt": "Hp chromebook",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "topic": "display",
+    "label": "Display Quality",
+    "total": 32,
+    "positive": 28,
+    "neutral": 4,
+    "negative": 0,
+    "positive_pct": 87.5,
+    "negative_pct": 0.0,
+    "net_score": 87.5
+  },
+  {
+    "topic": "performance",
+    "label": "Performance & Chip",
+    "total": 25,
+    "positive": 24,
+    "neutral": 1,
+    "negative": 0,
+    "positive_pct": 96.0,
+    "negative_pct": 0.0,
+    "net_score": 96.0
+  },
+  {
+    "topic": "software_ecosystem",
+    "label": "Software & Ecosystem",
+    "total": 25,
+    "positive": 21,
+    "neutral": 3,
+    "negative": 1,
+    "positive_pct": 84.0,
+    "negative_pct": 4.0,
+    "net_score": 80.0
+  },
+  {
+    "topic": "build_quality",
+    "label": "Build & Keyboard",
+    "total": 21,
+    "positive": 18,
+    "neutral": 3,
+    "negative": 0,
+    "positive_pct": 85.7,
+    "negative_pct": 0.0,
+    "net_score": 85.7
+  },
+  {
+    "topic": "price_value",
+    "label": "Price & Value",
+    "total": 16,
+    "positive": 14,
+    "neutral": 1,
+    "negative": 1,
+    "positive_pct": 87.5,
+    "negative_pct": 6.2,
+    "net_score": 81.3
+  },
+  {
+    "topic": "ports",
+    "label": "Ports & Connectivity",
+    "total": 10,
+    "positive": 8,
+    "neutral": 2,
+    "negative": 0,
+    "positive_pct": 80.0,
+    "negative_pct": 0.0,
+    "net_score": 80.0
+  },
+  {
+    "topic": "repairability",
+    "label": "Repairability",
+    "total": 8,
+    "positive": 6,
+    "neutral": 2,
+    "negative": 0,
+    "positive_pct": 75.0,
+    "negative_pct": 0.0,
+    "net_score": 75.0
+  },
+  {
+    "topic": "battery",
+    "label": "Battery Life",
+    "total": 5,
+    "positive": 5,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "thermals",
+    "label": "Thermals & Cooling",
+    "total": 1,
+    "positive": 1,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  }
+]

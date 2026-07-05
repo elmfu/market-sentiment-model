@@ -1,0 +1,67 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "Inconsistent speed and bad video editing performan",
+          "body": "Bought open-box. In terms of specs, this should outclass m2 16gb (my old laptop) in premiere pro. On full resolution at 4k, my m2 could handle 4k editing pretty fine with some occasional stuttering. However, with this HP: the video editing playback at full res was awful with video flickering and tim",
+          "excerpt": "Imagine a 2 year old mac with half as much ram performing better than a 32gb next gen amd chip/\n\nOn internet, once in a while the trackpad would go unresponsive.",
+          "rating": 2,
+          "sentiment": "negative"
+        },
+        {
+          "title": "Excellent build quality, snappy speed!",
+          "body": "This is one powerhouse of a laptop. With 32GB RAM, 2TB SSD storage, and the AMD Ryzen AI 9 HX 375 processor, you can easily handle almost any task you could think of with daily use. Very snappy, fast chip that handles daily tasks with ease. Feels like it will age well going forward. \n\nThe built-in A",
+          "excerpt": "Coming from using solely Apple products for most of my life, it is refreshing to see other companies out there can also get the job done.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Excellent laptop",
+          "body": "I have bought this laptop a week ago as a backup device for software development. \nIt is blazing fast! Compilation time for biggest my projects is almost as fast as on my primary Mac Studio M2 Max!\n\nScreen is okay. I would love to have 120Hz, but 60Hz will do its job.\n\nTouchpad is not bad, would lik",
+          "excerpt": "Compilation time for biggest my projects is almost as fast as on my primary Mac Studio M2 Max!",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Excellent laptop",
+          "body": "I have bought this laptop a week ago as a backup device for software development. \nIt is blazing fast! Compilation time for biggest my projects is almost as fast as on my primary Mac Studio M2 Max!\n\nScreen is okay. I would love to have 120Hz, but 60Hz will do its job.\n\nTouchpad is not bad, would lik",
+          "excerpt": "Battery life is excellent comparing to my old Surface Pro 9.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Super Fast Laptop",
+          "body": "I replaced a Surface Book with this and I have been blown away.  Laptop's speed is absolutely incredible and I love the keyboard.",
+          "excerpt": "I replaced a Surface Book with this and I have been blown away.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "ASUS",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Powerful and fast, but some trade-offs",
+          "body": "I’ve been using the HP OmniBook Ultra mainly for office work and coursework, and in terms of performance it’s been great. The AMD Ryzen AI 9 and 32GB RAM make everything feel very fast and efficient, and the 2TB SSD is plenty of space. The keyboard is comfortable to type on, the speakers are good, a",
+          "excerpt": "On the downside, the display feels like a downgrade coming from an ASUS OLED laptop—it’s okay, but doesn’t have the same deep blacks or vibrant colors.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

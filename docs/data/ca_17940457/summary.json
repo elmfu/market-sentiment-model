@@ -1,0 +1,25 @@
+{
+  "product": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+  "source": "bestbuy.ca",
+  "market": "CA",
+  "total": 9,
+  "with_text": 5,
+  "date_range": "",
+  "avg_rating": 3.33,
+  "satisfaction_score": 55.6,
+  "star_distribution": {
+    "1": 3,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 5
+  },
+  "sentiment": {
+    "positive": 5,
+    "neutral": 0,
+    "negative": 4,
+    "positive_pct": 55.6,
+    "neutral_pct": 0.0,
+    "negative_pct": 44.4
+  }
+}

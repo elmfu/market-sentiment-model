@@ -1,0 +1,302 @@
+[
+  {
+    "word": "keyboard",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "weight",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "battery",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "having",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "work",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "light",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "fast",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "down",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "excellent",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flaws",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "example",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "high",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "resolution",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "press",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "key",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "making",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "enjoyable",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "typing",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "experiences",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "believe",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "aspect",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ratio",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "benefits",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "verticality",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "allowing",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "compared",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issues",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "bright",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "nits",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "though",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issue",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "primarily",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "indoors",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "care",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "refresh",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "rate",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ips",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "panel",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "options",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hard",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "impressed",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gonna",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "comment",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "others",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "leaves",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "desired",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "yeah",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "snapdragon",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "elite",
+    "count": 1,
+    "sentiment": "positive"
+  }
+]

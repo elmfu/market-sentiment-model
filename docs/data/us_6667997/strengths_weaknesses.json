@@ -1,0 +1,76 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 1,
+      "pct_of_reviews": 50.0,
+      "quotes": [
+        "Long time Lenovo user and thought I should give HP a try for this CPU generation."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 1,
+      "pct_of_reviews": 50.0,
+      "quotes": [
+        "It has a premium feel and look, and it handles both my work and a heavy gaming load without breaking a sweat."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 1,
+      "pct_of_reviews": 50.0,
+      "quotes": [
+        "It also would have been much nicer if this laptop shipped with a 2TB SSD by default, given its performance and price bracket."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 1,
+      "pct_of_reviews": 50.0,
+      "quotes": [
+        "The biggest drawback is that HP effectively forces you to use their companion software to access performance profiles."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Performance & Chip",
+      "count": 1,
+      "pct_of_reviews": 50.0,
+      "quotes": [
+        "I recommend another maker if you want intel panther lake 388h."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 1,
+      "pct_of_reviews": 50.0,
+      "quotes": []
+    },
+    {
+      "theme": "Battery Life",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Display Quality",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Thermals & Cooling",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    }
+  ]
+}

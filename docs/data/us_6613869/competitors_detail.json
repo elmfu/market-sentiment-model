@@ -1,0 +1,144 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 12,
+      "reviews": [
+        {
+          "title": "HP is better than MAC!",
+          "body": "Great laptop for music recording and engineering. It’s just as good as an Apple MacBook…lol just saying. It’s all about name brand it’s about quality and price point.",
+          "excerpt": "It’s just as good as an Apple MacBook…lol just saying.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "BUYER REMORSE",
+          "body": "I bought this laptop 8 months ago, have always kept it in a case, never dropped or damaged it in anyways, bought an anti virus for it, but despite all my efforts, it has never been great. First thought it was because I was used to Apple products and wanted to give it ample time to adjust. But it con",
+          "excerpt": "First thought it was because I was used to Apple products and wanted to give it ample time to adjust.",
+          "rating": 2,
+          "sentiment": "negative"
+        },
+        {
+          "title": "Touch screen and flippable keyboard",
+          "body": "I really like this computer, I use it for school and it works so good. Sometimes I forget to update it so my computer slows down but the updates are fast. The computer is a perfect size and I picked it because I was debating between an iPad and computer for school. This will last a long time. The on",
+          "excerpt": "The computer is a perfect size and I picked it because I was debating between an iPad and computer for school.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "9 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 8,
+      "reviews": [
+        {
+          "title": "Excellent buy!!!",
+          "body": "I got this for my girlfriend as she needed a new laptop and she works remotely, we love the keypad first of all, it is so different from the common style of keypads that we have in Dell or Lenovo laptops. The screen is perfect, not too small and not too big. The touch screen is so cool and that it i",
+          "excerpt": "I got this for my girlfriend as she needed a new laptop and she works remotely, we love the keypad first of all, it is so different from the common style of keypads that we have in Dell or Lenovo lapt",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Nice Keyboard",
+          "body": "Nice keyboard. Reminds me of the Dell XPS. A bit heavy.",
+          "excerpt": "Reminds me of the Dell XPS.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Conversion to new computer from old computer",
+          "body": "Very fast and efficient. Switching from a Dell Windows 7 that had windows 10 but had to upgrade and had to get use to new outlook. Geek Squad has helped a lot in this process.",
+          "excerpt": "Switching from a Dell Windows 7 that had windows 10 but had to upgrade and had to get use to new outlook.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "5 additional review(s) also mention Dell."
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 7,
+      "reviews": [
+        {
+          "title": "Excellent buy!!!",
+          "body": "I got this for my girlfriend as she needed a new laptop and she works remotely, we love the keypad first of all, it is so different from the common style of keypads that we have in Dell or Lenovo laptops. The screen is perfect, not too small and not too big. The touch screen is so cool and that it i",
+          "excerpt": "I got this for my girlfriend as she needed a new laptop and she works remotely, we love the keypad first of all, it is so different from the common style of keypads that we have in Dell or Lenovo lapt",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "I wanted new tech for a good price",
+          "body": "HP Omni book X-Flip Laptop - This was available at the time with good holiday pricing. I am more of a Dell person. I like their warranty onsite service . The ads for their laptops and Lenovo was listing older tech. I wanted USB-C 2.0 or better. \n\nThis laptop had better display resolution as well alo",
+          "excerpt": "The ads for their laptops and Lenovo was listing older tech.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Spend the extra money - Get a Lenovo or MS Pro LP",
+          "body": "Good afternoon, \nThe laptop was returned. Unfortunately, after about 45 days of use, the laptop would not boot up and became stuck in a loop, requiring the laptop to be reset. Well, many attempts were made to reset the laptop, but all failed. I haven't had good luck with HP products in the past, so ",
+          "excerpt": "Spend the extra money - Get a Lenovo or MS Pro LP",
+          "rating": 1,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": "4 additional review(s) also mention Lenovo."
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 4,
+      "reviews": [
+        {
+          "title": "Decent HP Laptop",
+          "body": "For the (sale) price, and the trade in I had that went toward it, I am absolutely stoked with this laptop. It runs great, but if I was to complain about a couple things it would be the bloatware (which is all removable) and the Windows Hello camera is slower and less accurate than my old Surface Lap",
+          "excerpt": "It runs great, but if I was to complain about a couple things it would be the bloatware (which is all removable) and the Windows Hello camera is slower and less accurate than my old Surface Laptop 3.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Worth The $$",
+          "body": "Absolutely worth breaking my budget!  It makes a large tablet with enough writing surface that my hands don't cramp.  My old computer putt putt along for as long as she could...this is the perfect replacement.  I am on it for as long as 18-20 hours daily, the battery life is very good -- I charge ea",
+          "excerpt": "It makes a large tablet with enough writing surface that my hands don't cramp.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great laptop.",
+          "body": "Bought this to replace my microsoft surface laptop.\nThought the surface laptop was good, but, this HP omnibook is by far a much better laptop, and the price was less than half of what I paid for my surface pro.\nDid a lot of searching for a great laptop, and Best Buy came through with the best deal.",
+          "excerpt": "Bought this to replace my microsoft surface laptop.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "1 additional review(s) also mention Microsoft."
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "very good dual use technology!",
+          "body": "Super easy purchase and a great deal on this HP laptop.  I love the flexibility of both a solid laptop, but also doubles as a tablet.  I'm eager to use this on my next flight as my Samsung tablet no longer works on AA airliners.  I'm very happy with the purchase a couple weeks in!",
+          "excerpt": "I'm eager to use this on my next flight as my Samsung tablet no longer works on AA airliners.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Chromebook",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Awesome laptop and a swell deal!",
+          "body": "This is a great laptop.  It’s heavy in a good way, it actually feels like a sturdy product.  It’s a zippy little thing. I got it to replace my Chromebook which I really didn’t care for.  Highly recommended!",
+          "excerpt": "I got it to replace my Chromebook which I really didn’t care for.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

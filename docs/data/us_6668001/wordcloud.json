@@ -1,0 +1,302 @@
+[
+  {
+    "word": "battery",
+    "count": 31,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "plus",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "snapdragon",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "port",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "web",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hours",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "browsing",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "apps",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ram",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "charge",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "videos",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "small",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "around",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "home",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "brightness",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "solid",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "charger",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "run",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "carry",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "microsoft",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "backlit",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tasks",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looks",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "premium",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "jack",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "office",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "video",
+    "count": 10,
+    "sentiment": "positive"
+  }
+]

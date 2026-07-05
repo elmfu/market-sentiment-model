@@ -1,0 +1,104 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 293,
+      "pct_of_reviews": 44.9,
+      "quotes": [
+        "Configuration\n------------------------\nWith Intel Core Ultra 9 288 V processor, 32GB RAM and 2 TB SSD, this is a high-end configuration laptop.",
+        "Overview and Specs\n===========================\nHP's newest OmniBook X Flip has everything except a powerful gaming-level GPU.",
+        "Touch screen is smooth and responsive, making tablet and tent modes genuinely useful."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 262,
+      "pct_of_reviews": 40.2,
+      "quotes": [
+        "This is a gorgeous, well-built, premium laptop that performs extremely well thanks to its high-end configurations and has a stunning OLED display.",
+        "It's a slim powerhouse with a great screen that is priced surprisingly low for a well spec'd device like this.",
+        "What I Loved\n\n✅ Stunning Display\nThe 16-inch 3K OLED touchscreen is absolutely gorgeous."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 172,
+      "pct_of_reviews": 26.4,
+      "quotes": [
+        "With a high quality hinge, this can be used in 4 modes - laptop, tent, stand and Tab mode.",
+        "Initial Setup\n===========================\nAn understated chassis is nice, especially compared to some of the recent gaming PCs I've checked out.",
+        "✅ Excellent Build Quality & Design\nThe chassis feels solid and premium with a clean, professional look."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 162,
+      "pct_of_reviews": 24.8,
+      "quotes": [
+        "In spite of the minor shortcomings, this laptop is worth the buy.",
+        "Summary\n==========================\nIt's hard to talk about a powerhouse PC like this HP Omnibook X Flip 16 as a bang-for-the-buck value, but it is!",
+        "HP could have achieved all this above on $1599 price tag..."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 95,
+      "pct_of_reviews": 14.6,
+      "quotes": [
+        "Performance is fast and smooth even with a lot of apps running.",
+        "Initial Setup\n===========================\nAn understated chassis is nice, especially compared to some of the recent gaming PCs I've checked out.",
+        "It took an hour to get it fully ready to go, over an hour of Windows, HP, Bios, firmware, and hardware updates."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Software & Ecosystem",
+      "count": 6,
+      "pct_of_reviews": 0.9,
+      "quotes": [
+        "The camera is producing a blurry image, making it unsuitable for use on Microsoft Teams.",
+        "I worked with HP for HOURS and WEEKS ON END, for them to send a thumb drive with a new Windows image, it failed.",
+        "The programs are all promotions for Microsoft."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 4,
+      "pct_of_reviews": 0.6,
+      "quotes": [
+        "On paper this thing looked greeat and i thought I got a great deal..",
+        "I’m lost because I spent all this money and can’t use the new computer.",
+        "Nothing special for the price I paid, should have went with a different brand"
+      ]
+    },
+    {
+      "theme": "Repairability",
+      "count": 3,
+      "pct_of_reviews": 0.5,
+      "quotes": [
+        "I have lost HOURS and HOURS of productivity working with them and giving the benefit of the doubt to stand behind their product and fix it.",
+        "When I went to register laptop the warranty had already been activated in September.",
+        "Bought this as an\"upgrade\" to a three-year-old LG because the LG battery was only lasting 2 hours."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 2,
+      "pct_of_reviews": 0.3,
+      "quotes": [
+        "But I am extremely disappointed with its performance.",
+        "This gets stuck a lot, I thought it was smooth but this not good at all \nDon’t buy this"
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 2,
+      "pct_of_reviews": 0.3,
+      "quotes": [
+        "Bought this as an\"upgrade\" to a three-year-old LG because the LG battery was only lasting 2 hours.",
+        "I purchased this laptop with the best configuration, hoping it would work well and last a long time."
+      ]
+    }
+  ]
+}

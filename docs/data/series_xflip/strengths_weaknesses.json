@@ -1,0 +1,106 @@
+{
+ "strengths": [
+  {
+   "theme": "Performance & Chip",
+   "count": 1923,
+   "pct_of_reviews": 31.6,
+   "quotes": [
+    "Configuration\n------------------------\nWith Intel Core Ultra 9 288 V processor, 32GB RAM and 2 TB SSD, this is a high-end configuration laptop.",
+    "It is snappy, doesn't lag, the battery lasts a really long time.",
+    "Could anyone please confirm if the CPU is AI 300 high tier or lower tier?"
+   ]
+  },
+  {
+   "theme": "Display Quality",
+   "count": 1630,
+   "pct_of_reviews": 26.8,
+   "quotes": [
+    "This is a gorgeous, well-built, premium laptop that performs extremely well thanks to its high-end configurations and has a stunning OLED display.",
+    "The display is where they cut corners here.",
+    "BOTTOM LINE: The HP OmniBook X Flip-14” is an excellent mid-range laptop with a foldable display, plus it’s light and thin."
+   ]
+  },
+  {
+   "theme": "Build & Keyboard",
+   "count": 1404,
+   "pct_of_reviews": 23.1,
+   "quotes": [
+    "With a high quality hinge, this can be used in 4 modes - laptop, tent, stand and Tab mode.",
+    "BOTTOM LINE: The HP OmniBook X Flip-14” is an excellent mid-range laptop with a foldable display, plus it’s light and thin.",
+    "=========\nDESIGN/SPECS:\nThe OmniBook X Flip 2-in-1 laptop sports a nice matte black color (HP calls it Eclipse Gray, but the color appears black)."
+   ]
+  },
+  {
+   "theme": "Price & Value",
+   "count": 1286,
+   "pct_of_reviews": 21.1,
+   "quotes": [
+    "In spite of the minor shortcomings, this laptop is worth the buy.",
+    "for $700 this is a good choice and a great value.",
+    "HP website is selling similar configuration Omnibook Ryzen AI 7 350 32GB RAM with similar price."
+   ]
+  },
+  {
+   "theme": "Battery Life",
+   "count": 752,
+   "pct_of_reviews": 12.3,
+   "quotes": [
+    "Battery\n----------------\nBattery easily lasts around 8 hours with continuous use.",
+    "It is snappy, doesn't lag, the battery lasts a really long time.",
+    "The new Ryzen AI5 340 Processor is fast while conserving battery life."
+   ]
+  }
+ ],
+ "weaknesses": [
+  {
+   "theme": "Display Quality",
+   "count": 48,
+   "pct_of_reviews": 0.8,
+   "quotes": [
+    "We have owned it under 2 months and the display screen won’t come on.",
+    "The first unit had horrible screen bleeding, the store display units did too.",
+    "The touchscreen would stop working until I pressed a something on the keyboard."
+   ]
+  },
+  {
+   "theme": "Software & Ecosystem",
+   "count": 44,
+   "pct_of_reviews": 0.7,
+   "quotes": [
+    "Since the initial setup, the device has been getting very hot.",
+    "In addition to this, the software is always freezing.",
+    "The laptop had an old WiFi driver and even after I installed the current one, it drops WiFi after a few minutes."
+   ]
+  },
+  {
+   "theme": "Price & Value",
+   "count": 39,
+   "pct_of_reviews": 0.6,
+   "quotes": [
+    "Even at the price of $500, it's still not getting what you paid for when half the features break or just don't work.",
+    "Delivered outside my apt 10pm at night.....for anyone to steal and refused to refund my money for a Brand new Lap Top!!!!!!!!!",
+    "other then that it ran fine just disappointed that i had to deal with that in the first place"
+   ]
+  },
+  {
+   "theme": "Build & Keyboard",
+   "count": 35,
+   "pct_of_reviews": 0.6,
+   "quotes": [
+    "A few of the keys stopped properly workong not even a month in.",
+    "The touchscreen would stop working until I pressed a something on the keyboard.",
+    "had no idea that a smaller keyboard would be so cumbersome."
+   ]
+  },
+  {
+   "theme": "Performance & Chip",
+   "count": 34,
+   "pct_of_reviews": 0.6,
+   "quotes": [
+    "Also, the battery performance has really disappointed me.",
+    "What’s most frustrating is that my 5-year-old Dell Inspiron with an Intel i7 still runs smoother and more reliably than this brand-new HP.",
+    "The only good thing about this laptop is the new AMD processor."
+   ]
+  }
+ ]
+}

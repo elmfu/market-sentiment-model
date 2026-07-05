@@ -1,0 +1,74 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "Pretty fly for a Mac guy",
+          "body": "I am coming from Apple computers for years, but I needed windows for work. I’m pretty comfortable with this. It’s slim and light, lasts all day on a battery, it’s fast and it doesn’t feel like a flimsy plastic toy. The trackpad is the underachiever of the platform, feels kinda cheap in the click - b",
+          "excerpt": "I am coming from Apple computers for years, but I needed windows for work.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great laptop!",
+          "body": "Great laptop for the money! I just purchased this today after my macbook of almost eight years died on me. I'm using this laptop for work and simple tasks so I didn't need anything that was top of the line. I really like the screen quality and resolution along with the quickness of the processor. I ",
+          "excerpt": "I just purchased this today after my macbook of almost eight years died on me.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Had audio issues but i liked it",
+          "body": "Unfortunately i had to return it even though it was 400 bucks off at the time, my audio kept failing on Apple music, A rap app i used , ect . Sale is over or i might of tried another unit",
+          "excerpt": "Unfortunately i had to return it even though it was 400 bucks off at the time, my audio kept failing on Apple music, A rap app i used , ect .",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Love it!",
+          "body": "This HP Omnibook is well priced with great graphics for video conferencing!                                      The only downside is that if you prefer a wired connection for remote work, there is no ethernet port.                                                                               So BUY",
+          "excerpt": "My Thinkpad started to overheat and screen freeze while I was working with it flat on the desk, and now, I’m getting a laptop stand for it.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "OmniBook X14 (Great Buy & Excellent Performance)",
+          "body": "I returned the Surface Laptop 7 plus for this OmniBook X plus and actually like it a lot better!  I notice a faster bootup and no occasional video lag with this laptop.  No issue with the software I have been using.  I use for everyday web, video, music and word processing.  Easy to carry and long b",
+          "excerpt": "I returned the Surface Laptop 7 plus for this OmniBook X plus and actually like it a lot better!",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Returned, screen inop",
+          "body": "Screen would go black after 2nd day of ownership. Would show boot animation but screen went black after. 2nd Samsung PC bought. 2nd Samsung PC returned.",
+          "excerpt": "2nd Samsung PC bought.",
+          "rating": 1,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

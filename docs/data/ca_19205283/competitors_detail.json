@@ -1,0 +1,39 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Hp omnibook x 14inch 2 - inch- 1 laptop, 1TB",
+          "body": "Amazing and comes with a pen. I was so happy to see the pen and the pen writing is smooth too. The pens magnets holds firm to the omnibook.\n\nThe laptop is pretty fast and the screen doesn’t wobble. It’s not as light as a 13inch Mac book but I don’t feel it when I carry it in my bag.\n\nIt’s very fast.",
+          "excerpt": "It’s not as light as a 13inch Mac book but I don’t feel it when I carry it in my bag.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "A ho hum PC. DIFFICULT TO ADJUST TO",
+          "body": "Have been a PC user and a MacBook user. This pc has been difficult to adjust to. Not very intuitive. Use it for routine office type jobs but performance is lackluster",
+          "excerpt": "Have been a PC user and a MacBook user.",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Ok Machine",
+          "body": "Good: For the price point> 32 GB ram, Strong processor, Convertible\r\nBad: Display still lagging behind (my 8 yrs old Surface book has much sharper display. Alos, Grainy if you see it closely. Not so bright as well, Not enough ports, Heavy.\r\nOverall: Researched heavily, Didn't find any other machine ",
+          "excerpt": "Good: For the price point> 32 GB ram, Strong processor, Convertible\r\nBad: Display still lagging behind (my 8 yrs old Surface book has much sharper display.",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

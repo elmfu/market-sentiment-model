@@ -1,0 +1,106 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 183,
+      "pct_of_reviews": 28.8,
+      "quotes": [
+        "Bold dedicated 8GB video memory for smooth gaming.",
+        "Super fast and smooth and great screen and battery life.",
+        "It has Face ID, the keyboard is very comfortable, and that’s touch screen is very very responsive, so it’s perfect."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 153,
+      "pct_of_reviews": 24.1,
+      "quotes": [
+        "16\" 2K Touchscreen for unique viewing feeling.",
+        "Super fast and smooth and great screen and battery life.",
+        "It has Face ID, the keyboard is very comfortable, and that’s touch screen is very very responsive, so it’s perfect."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 129,
+      "pct_of_reviews": 20.3,
+      "quotes": [
+        "Fantastic keyboard with largest key spaces.",
+        "It has Face ID, the keyboard is very comfortable, and that’s touch screen is very very responsive, so it’s perfect.",
+        "If you want a stylish, lightweight 2-in-1 laptop with long battery life and some cool new AI tools, the OmniBook X Flip is a solid pick."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 128,
+      "pct_of_reviews": 20.2,
+      "quotes": [
+        "Bought this laptop with a great sale as well.",
+        "Built solid with better materials than the less expensive pc’s.",
+        "If you’re just looking at this as an alternative to a MacBook Air and you want it to do similar things for less money?"
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 76,
+      "pct_of_reviews": 12.0,
+      "quotes": [
+        "Super fast and smooth and great screen and battery life.",
+        "The display is very nice, and battery life is IMPRESSIVE I bought it for school, and I’m so excited to use it, great job HP",
+        "If you want a stylish, lightweight 2-in-1 laptop with long battery life and some cool new AI tools, the OmniBook X Flip is a solid pick."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Display Quality",
+      "count": 5,
+      "pct_of_reviews": 0.8,
+      "quotes": [
+        "Display is glossy and reflections are handled less well than on Apple devices.",
+        "Your agent couldn’t even do it when he got on my computer via getting into my screen \nThe last Chromebook broke down.",
+        "got some screen issue then returned back in the same day"
+      ]
+    },
+    {
+      "theme": "Repairability",
+      "count": 5,
+      "pct_of_reviews": 0.8,
+      "quotes": [
+        "Can you tell that I REALLY don't like this \"upgrade?",
+        "Also HP will not honor the extended warranty coverage that I was offered by HP when I registered the computer on line with HP.",
+        "Bad for the \"right to repair\", the device's longevity and the planet\n\n7."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 4,
+      "pct_of_reviews": 0.6,
+      "quotes": [
+        "Windows OS/x64 eats battery for breakfast; significantly higher standby battery drain than Windows/Arm for a Snapdragon Omni 5 16 that I own \n\n5.",
+        "A good laptop but stopped charging after 5 months.",
+        "Your agent couldn’t even do it when he got on my computer via getting into my screen \nThe last Chromebook broke down."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 4,
+      "pct_of_reviews": 0.6,
+      "quotes": [
+        "A few of the keys stopped properly workong not even a month in.",
+        "The all-metal build does feel very good and for under $400 open-box+excellent it's good value ..",
+        "I’m disappointed with the quality control and would appreciate better testing before resale."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 4,
+      "pct_of_reviews": 0.6,
+      "quotes": [
+        "In addition to this, the software is always freezing.",
+        "Windows 11, despite all the self-serving hype is at least one if not two steps backward.",
+        "Windows OS/x64 eats battery for breakfast; significantly higher standby battery drain than Windows/Arm for a Snapdragon Omni 5 16 that I own \n\n5."
+      ]
+    }
+  ]
+}

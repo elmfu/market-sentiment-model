@@ -1,0 +1,74 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "A Darn Near Perfect School/Work Laptop!",
+          "body": "This review is going to be easy.  Rarely have I come away from setting up a laptop for my own use or for friends/family without SOME quibble about it, but frankly, for what it's for (school/work), the HP OmniBook Ultra 14 is a darn near perfect computer.  Ok, I did have two quibbles, but they were e",
+          "excerpt": "I'm a Mac guy and this thing is making me a tad jealous.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Excellent power and portability and very sleek!",
+          "body": "I think we finally have a great 14” MacBook Pro contender in Microsoft Windows land!\n\nHP outdid themselves on their latest Omnibook Ultra! This laptop is sleek, beautiful, light, and packed with power. The performance to battery ratio is also great. This is likely in big part thanks to the Intel Cor",
+          "excerpt": "I think we finally have a great 14” MacBook Pro contender in Microsoft Windows land!",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Compact Performance and Slick",
+          "body": "I have an HP 16” OmniBook and I love it.  However, lately, I have been traveling more was in need of a more compact laptop that allowed me to not only write/work but also have the ability to entertain me.  And that’s why I went with the OmniBook Ultra 14” laptop.\n\nSet Up:\n \nLike most electronics the",
+          "excerpt": "At one point, I had a video player, Word, Apple Music and Xbox Cloud Gaming opened.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Ultra Portable for workload of AI & still have fun",
+          "body": "Review of HP OmniBook\n\n\nThe latest laptop from HP for Ultra Mobile category out of box holding on hand feels  very compact and light, almost as could be as a tablet with keyboard.\n\nIn the box, it comes simply the notebook itself OmniBook Ultra, Charging Cable and Adapter.\n\nThen the usual and for lon",
+          "excerpt": "Now, on its weight, it weight appx 2.81lb, to give idea the Dell XPS with Serie 3 Intel Core 5 weight appx 2.2lb (1kg)., and approximately equivalent to 6 of iPhone 17 Pro.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Great laptop! Almost perfect.",
+          "body": "My expectations\nHP’s laptops have really come a long way. They weren’t always the prettiest, but they were feature rich, and offered some good specs. The same is true with the Omnibook Ultra, but this time, they do bring the pretty.\n\nInitial Thoughts\nI do like me some minimal packaging, and the pack",
+          "excerpt": "The touchpad has a large surface to work with.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "ASUS",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Perfectly small and compact with only a few flaws",
+          "body": "I am a sucker for laptops both large and small. I use large, powerful laptops for gaming, coding and video editing and smaller laptops for in field use or keep it in the front of my car for immediate use due to their small size and battery life. I currently use an Asus Vivobook Ultra 185 atm, but it",
+          "excerpt": "I currently use an Asus Vivobook Ultra 185 atm, but it is a bit too big to just \"toss\" in a bag and go and not be noticed or felt so I decided to give the HP Omnibook Ultra 14 a try and see how that s",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

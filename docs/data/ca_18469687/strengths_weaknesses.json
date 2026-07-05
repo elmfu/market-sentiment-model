@@ -1,0 +1,86 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 6,
+      "pct_of_reviews": 60.0,
+      "quotes": [
+        "Its powerful processor and ample RAM ensure smooth performance.",
+        "I specifically love the screen quality, design, battery life and performance.",
+        "The 14-inch touchscreen is bright and responsive, which makes everyday tasks a breeze."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 4,
+      "pct_of_reviews": 40.0,
+      "quotes": [
+        "Battery Life: The OmniBook Ultra 14 boasts excellent battery endurance, lasting up to 8 hours in real-world usage without compromising on features.",
+        "I specifically love the screen quality, design, battery life and performance.",
+        "However, the battery life could use some improvement, as I find myself needing to charge it more often than expected."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 4,
+      "pct_of_reviews": 40.0,
+      "quotes": [
+        "I specifically love the screen quality, design, battery life and performance.",
+        "The 14-inch touchscreen is bright and responsive, which makes everyday tasks a breeze.",
+        "For the price, the laptop needs to have a better screen."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 3,
+      "pct_of_reviews": 30.0,
+      "quotes": [
+        "-Design: The laptop's sleek aluminum chassis is well-built, but some critics find it bland and uninspired.",
+        "I specifically love the screen quality, design, battery life and performance.",
+        "Setting up was straightforward, and it’s been great for remote work and light graphic design."
+      ]
+    },
+    {
+      "theme": "Ports & Connectivity",
+      "count": 2,
+      "pct_of_reviews": 20.0,
+      "quotes": []
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Build & Keyboard",
+      "count": 1,
+      "pct_of_reviews": 10.0,
+      "quotes": [
+        "I tried reinstalling drivers and even a clean windows install but nothing works and the trackpad issues are still here."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 1,
+      "pct_of_reviews": 10.0,
+      "quotes": [
+        "I tried reinstalling drivers and even a clean windows install but nothing works and the trackpad issues are still here."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Battery Life",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Display Quality",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Redirecting…</title>
+<script>
+// product.html?id=us_6613865 → index.html#us_6613865 (single-page dashboard)
+const id = new URLSearchParams(location.search).get("id") || "";
+location.replace("index.html" + (id ? "#" + id : ""));
+</script></head><body></body></html>

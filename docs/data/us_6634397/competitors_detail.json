@@ -1,0 +1,193 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 14,
+      "reviews": [
+        {
+          "title": "Top Notch",
+          "body": "HP has been around for a while and they make some fantastic products. While I have tried a number of their products, I personally prefer their desktops & laptops. I was searching for a general laptop that can be used as a daily driver and not have to rely on my desktop. \n\nI want to point out that I ",
+          "excerpt": "This device is perfect for those who are comfortable with large laptops, if I were to compare this to anything it would be the Macbook Pro 16.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great if you can get it on sale, good if you don’t",
+          "body": "Got it on sale for BF for almost 500$ off. Worth the price if that’s the case. I needed a windows laptop for work, and was looking for a decent laptop with good enough specs to run for a few years. Coming from Apple ecosystem, the quality of the product isn’t bad at all. \n\nExcellent OLED Display, 2.",
+          "excerpt": "Coming from Apple ecosystem, the quality of the product isn’t bad at all.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Can’t recommend it enough",
+          "body": "10/10 would buy again. Here’s the deal, I was replacing my old MacBook, and wanted a windows computer to replace it. I always like the premium feel of the Mac, but hated its processing system. I spent 2 weeks looking at every review and feature to look for, and this laptop overwhelmingly came out on",
+          "excerpt": "This laptop in every way surpasses the Mac in terms of performance, as well as premium feel, and just in every day use.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "11 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 5,
+      "reviews": [
+        {
+          "title": "First time HP Laptop user",
+          "body": "This is my first HP laptop and so far I'm really loving it but I've only had it about a month. I've had Dell XPS13 laptops for the past 7-8 years and Dell Inspiron before that.  The DellXPS is significantly more expensive than this HP but I don't feel like I am missing anything.  The only thing I've",
+          "excerpt": "I've had Dell XPS13 laptops for the past 7-8 years and Dell Inspiron before that.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Very Happy with new HP OmniBook X Flip!",
+          "body": "I upgraded from a Dell and I'm glad I did.  The keys are easier to use, the response time is immediate, the colors on the screen are striking, more memory and AI Copilot is working great. I was able to transfer everything from my previous laptop without a hitch.  On top of that, I purchased during B",
+          "excerpt": "I upgraded from a Dell and I'm glad I did.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Mostly perfect laptop",
+          "body": "So far this Laptop has been amazing. It was too good of a deal to pass up. Beatiful OLED, and what seems like the best specs one can get without getting a dedicated GPU.\n\n The only thing I don't like that much is the keyboard. I'm used to my MacBook Pro M1, and the previously my Dell XPS 13. Both of",
+          "excerpt": "I'm used to my MacBook Pro M1, and the previously my Dell XPS 13.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "2 additional review(s) also mention Dell."
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 4,
+      "reviews": [
+        {
+          "title": "Not useful for drawing or sketching!",
+          "body": "I bought this for drawing capabilities but it sucks. Most of the time is not recognizing the pen. I have used 2 HP and 2 bamboo stylus and the problem persists with all of them.\nThe audio does not work always with all drivers updated and supposedly to work well when running analysis.\nUnfortunately I",
+          "excerpt": "Using my old Lenovo yoga instead, frustrating.",
+          "rating": 1,
+          "sentiment": "negative"
+        },
+        {
+          "title": "Power, awesome display, great value! Productivity!",
+          "body": "Overview and Specs\n===========================\nHP's newest OmniBook X Flip has everything except a powerful gaming-level GPU.  The popular 2-in-1 style may not always make sense at this size (I think the sweet spot is 13-14\"), but I'm curious to see how it performs overall. It's a slim powerhouse wi",
+          "excerpt": "Coming from Thinkpad keyboards as my preferred laptop typing choice, I was prepared to mostly hate this lattice-style keyboard, but it was better than expected and I think I got used to it pretty quic",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "A very capable machine",
+          "body": "I really liked this machine, in use and spec wise. A very balanced combination of top line features for a non-gaming laptop. I have been using a couple of gaming laptops over the past few years for general purpose with some minor gaming here and there, my biggest gripe was the constant fan noise to ",
+          "excerpt": "My 15\" Lenovo gaming laptop was able to fit a full numerical keypad without getting too narrow but here not only we do not have a numpad, but the arrow keys are also half size, the space bar is a tad ",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "1 additional review(s) also mention Lenovo."
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 4,
+      "reviews": [
+        {
+          "title": "Nice but could use some improvements.",
+          "body": "I'm not going to say this is a terrible laptop, but there are definitely some shortcomings. \n\nThe speed has been pretty decent, but I haven't exactly been impressed. I don't expect lightspeed, but I've rendered videos and PDF's on other machines with i7's and less memory in shorter time. Again, not ",
+          "excerpt": "The trackpad is roughly 50% of the keyboard's surface area.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
+        {
+          "title": "A very capable machine",
+          "body": "I really liked this machine, in use and spec wise. A very balanced combination of top line features for a non-gaming laptop. I have been using a couple of gaming laptops over the past few years for general purpose with some minor gaming here and there, my biggest gripe was the constant fan noise to ",
+          "excerpt": "The battery last longer, there are ample ports including a 40G USB C and a HDMI port, so you do not have to carry a dongle like a surface or some other 13\"-14\" super slim books.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Can’t recommend it enough",
+          "body": "10/10 would buy again. Here’s the deal, I was replacing my old MacBook, and wanted a windows computer to replace it. I always like the premium feel of the Mac, but hated its processing system. I spent 2 weeks looking at every review and feature to look for, and this laptop overwhelmingly came out on",
+          "excerpt": "My girlfriend currently has a Microsoft surface high end laptop, and after using mine, she’s already made her decision to get one of these too.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "1 additional review(s) also mention Microsoft."
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "Power, awesome display, great value! Productivity!",
+          "body": "Overview and Specs\n===========================\nHP's newest OmniBook X Flip has everything except a powerful gaming-level GPU.  The popular 2-in-1 style may not always make sense at this size (I think the sweet spot is 13-14\"), but I'm curious to see how it performs overall. It's a slim powerhouse wi",
+          "excerpt": "Personally, I think this size is too large to be used like a tablet, and this is coming from the owner of a Samsung S10 Ultra!",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "I love this computer!",
+          "body": "Beautiful display and blazing fast computer.  I love the 2 in 1, very convenient I love reading books on Kindle while it is flat like a tablet or tented.  I just love this computer so far and highly recommend.  It works seamlessly with my Samsung phone.",
+          "excerpt": "It works seamlessly with my Samsung phone.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "great buy!",
+          "body": "Such a great machine! After stupidly buying a Samsung Galaxy Book 12 years ago I almost lost faith in technology. This thing is a beast! I LOVE IT!",
+          "excerpt": "After stupidly buying a Samsung Galaxy Book 12 years ago I almost lost faith in technology.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "ASUS",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "excellent",
+          "body": "Excellent laptop, esp on sale. I use as a desktop replacement.  Couple of issues can be easily resolved with some add-ons:\n- screen glare: get a anti-glare screen protector ($10)\n- wifi 6e instead of wifi 7: get an external usb-c adapter in future (eg, asus rog, currently $80 will come down) ... wif",
+          "excerpt": "Couple of issues can be easily resolved with some add-ons:\n- screen glare: get a anti-glare screen protector ($10)\n- wifi 6e instead of wifi 7: get an external usb-c adapter in future (eg, asus rog, c",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "H.P. IS THE BEST!",
+          "body": "I love this new laptop, I believe HP is the BEST !!\n\nI HAD DELL, ASUS Q529,LENOVO WITH THE WORST CUSTOMER SERVICE,HP ENVY FLIP THAT WAS BUILT SOLID   IS THE REASON I WENT BACK TO H.P. !!!",
+          "excerpt": "I HAD DELL, ASUS Q529,LENOVO WITH THE WORST CUSTOMER SERVICE,HP ENVY FLIP THAT WAS BUILT SOLID   IS THE REASON I WENT BACK TO H.P.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Acer",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "The omnibook is AMAZING!",
+          "body": "The HP OmniBook X Flip is, without hyperbole, one of the most stunning hybrid laptops I've been able to try out, and while all devices have their flaws, the level of versatility and balance delivered here makes it a compelling option across a wide demographic from students to businesspeople to gener",
+          "excerpt": "The build quality, performance, and thoughtful touches of engineering it exhibits give it a feeling of luxury and reliability, and while it doesn't aspire to displace a high-end workstation or gaming ",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "LG",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Power, awesome display, great value! Productivity!",
+          "body": "Overview and Specs\n===========================\nHP's newest OmniBook X Flip has everything except a powerful gaming-level GPU.  The popular 2-in-1 style may not always make sense at this size (I think the sweet spot is 13-14\"), but I'm curious to see how it performs overall. It's a slim powerhouse wi",
+          "excerpt": "It doesn't have the same positive feel as my Thinkpad T or X-series laptop keyboards, nor is it as good as my LG Gram Style 14 (surprisingly solid!), but it's  well-sized with a shallow depth.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

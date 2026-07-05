@@ -1,0 +1,302 @@
+[
+  {
+    "word": "battery",
+    "count": 78,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 66,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 61,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 53,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 52,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 51,
+    "sentiment": "positive"
+  },
+  {
+    "word": "copilot",
+    "count": 44,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 44,
+    "sentiment": "positive"
+  },
+  {
+    "word": "snapdragon",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 40,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 40,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 38,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 38,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 38,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 37,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 36,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 34,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 33,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 31,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 31,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 30,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 29,
+    "sentiment": "positive"
+  },
+  {
+    "word": "elite",
+    "count": 29,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "microsoft",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hours",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "while",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "arm",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "highly",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "college",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "since",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "super",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feature",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "experience",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issues",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tasks",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "right",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "run",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "want",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "school",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ever",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "weight",
+    "count": 18,
+    "sentiment": "positive"
+  }
+]

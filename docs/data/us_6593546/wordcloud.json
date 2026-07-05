@@ -1,0 +1,302 @@
+[
+  {
+    "word": "battery",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "school",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "snapdragon",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pretty",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "weight",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "carry",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "value",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "processor",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "money",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "issue",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "small",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "working",
+    "count": 5,
+    "sentiment": "negative"
+  },
+  {
+    "word": "off",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "down",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "copilot",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "solid",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 4,
+    "sentiment": "negative"
+  },
+  {
+    "word": "perfect",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "web",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "fan",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "lightweight",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "key",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "times",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "beautiful",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sleek",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "bestbuy",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sale",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "returned",
+    "count": 4,
+    "sentiment": "negative"
+  },
+  {
+    "word": "return",
+    "count": 4,
+    "sentiment": "negative"
+  },
+  {
+    "word": "buying",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "plus",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "bad",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
+    "word": "office",
+    "count": 3,
+    "sentiment": "positive"
+  }
+]

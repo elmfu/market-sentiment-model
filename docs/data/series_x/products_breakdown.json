@@ -1,0 +1,122 @@
+[
+ {
+  "product_key": "us_6583279",
+  "name": "HP OmniBook X Copilot+ PC 14\" 2.2K Touch, Meteor Silver",
+  "market": "US",
+  "series": "X",
+  "sku": "6583279",
+  "reviews": 293,
+  "avg_rating": 4.51,
+  "satisfaction": 88.1,
+  "first_review": "2024-06-19",
+  "top_complaint": "Performance & Chip"
+ },
+ {
+  "product_key": "ca_19817322",
+  "name": "HP OmniBook X 17.3\" AI PC Touchscreen Laptop (Intel Core Ultra 7 356H/32GB RAM/1TB SSD/GeForce RTX 5050/Win11)",
+  "market": "CA",
+  "series": "X",
+  "sku": "19817322",
+  "reviews": 229,
+  "avg_rating": 4.38,
+  "satisfaction": 86.5,
+  "first_review": "",
+  "top_complaint": "Price & Value"
+ },
+ {
+  "product_key": "us_6614110",
+  "name": "HP OmniBook X Copilot+ PC 17.3\" FHD Touch, Glacier Silver",
+  "market": "US",
+  "series": "X",
+  "sku": "6614110",
+  "reviews": 161,
+  "avg_rating": 4.65,
+  "satisfaction": 91.9,
+  "first_review": "2025-04-13",
+  "top_complaint": "Performance & Chip"
+ },
+ {
+  "product_key": "us_6593546",
+  "name": "HP OmniBook X Copilot+ PC 14\" 2.2K Touch, Glacier Silver",
+  "market": "US",
+  "series": "X",
+  "sku": "6593546",
+  "reviews": 95,
+  "avg_rating": 4.39,
+  "satisfaction": 86.3,
+  "first_review": "2024-10-23",
+  "top_complaint": "Price & Value"
+ },
+ {
+  "product_key": "us_6668001",
+  "name": "HP - OmniBook X - 14\" 2K OLED Touchscreen Laptop - Snapdragon X Plus (2025) - 16GB Memory - 512GB SSD - Copilot+ PC - Meteor Silver",
+  "market": "US",
+  "series": "X",
+  "sku": "6668001",
+  "reviews": 46,
+  "avg_rating": 4.74,
+  "satisfaction": 95.7,
+  "first_review": "2026-04-10",
+  "top_complaint": "Battery Life"
+ },
+ {
+  "product_key": "ca_19205283",
+  "name": "HP Omnibook X 14\" 2-in-1 Touchscreen Laptop - Glacier Silver Aluminium (AMD Ryzen AI 7/32GB RAM/1TB SSD/Win11 Home)",
+  "market": "CA",
+  "series": "X",
+  "sku": "19205283",
+  "reviews": 38,
+  "avg_rating": 4.11,
+  "satisfaction": 76.3,
+  "first_review": "",
+  "top_complaint": "Battery Life"
+ },
+ {
+  "product_key": "ca_17940457",
+  "name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+  "market": "CA",
+  "series": "X",
+  "sku": "17940457",
+  "reviews": 9,
+  "avg_rating": 3.33,
+  "satisfaction": 55.6,
+  "first_review": "",
+  "top_complaint": "Performance & Chip"
+ },
+ {
+  "product_key": "ca_19817321",
+  "name": "HP OmniBook X 16\" Touchscreen 2-in-1 Laptop - Eclipse Grey (Intel Core Ultra 7-365H/32GB RAM/1TB SSD/Windows 11 Home)",
+  "market": "CA",
+  "series": "X",
+  "sku": "19817321",
+  "reviews": 3,
+  "avg_rating": 3.67,
+  "satisfaction": 33.3,
+  "first_review": "",
+  "top_complaint": "—"
+ },
+ {
+  "product_key": "ca_19817319",
+  "name": "HP OmniBook X 14\" Touchscreen 2-in-1 Laptop - Deep Espresso Aluminum (AMD Ryzen Ai7 450 (Zen 5c)/32GB RAM/1TB SSD/Windows 11 Home)",
+  "market": "CA",
+  "series": "X",
+  "sku": "19817319",
+  "reviews": 1,
+  "avg_rating": 4.0,
+  "satisfaction": 100.0,
+  "first_review": "",
+  "top_complaint": "—"
+ },
+ {
+  "product_key": "us_6593547",
+  "name": "HP OmniBook X Copilot+ PC 14\" 2.2K Touch, Meteor Silver",
+  "market": "US",
+  "series": "X",
+  "sku": "6593547",
+  "reviews": 1,
+  "avg_rating": 5.0,
+  "satisfaction": 100.0,
+  "first_review": "2024-10-28",
+  "top_complaint": "—"
+ }
+]

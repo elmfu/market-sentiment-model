@@ -1,0 +1,44 @@
+[
+  {
+    "review_id": "c0da5c47-4638-32a5-a9f1-fdba0d51b0cf",
+    "product_key": "us_6667998",
+    "market": "US",
+    "sku": "6667998",
+    "submitted_at": "2026-06-07T20:36:15.000-05:00",
+    "rating": 5,
+    "title": "Great Portable Premium Productivity Laptop",
+    "body": "The HP Omnibook Ultra 14 with the Snapdragon X2 Elite processor is a thin and light premium laptop that is a great for general productivity.  I purchased this 14-inch laptop for the low weight and portability of this form factor.  The build quality is solid and feels great in the hand.  Unlike my last laptop that has all USB ports on the left side, this laptop has USB ports on both slides which helps with cable management as I can plug in the power cable on either side. I had no issues with running older programs that are not compiled for the ARM instruction set and thus are running through emulation.  Online reviews indicate that the Snapdragon X2 Elite laptops are some of the fastest windows laptops available, but not for serious gaming.  For serious gaming, a dedicated gaming laptop should be considered.  But since I am not a gamer, this is a non-issue for me.",
+    "is_recommended": true,
+    "helpful_votes": 2,
+    "verified": false,
+    "lang": "en"
+  },
+  {
+    "review_id": "97b7d868-065f-3d9d-84f1-17e6f976ef4c",
+    "product_key": "us_6667998",
+    "market": "US",
+    "sku": "6667998",
+    "submitted_at": "2026-05-15T14:08:39.000-05:00",
+    "rating": 5,
+    "title": "Thumbs up",
+    "body": "My best computer in years, at a very reasonable price: cheaper than what HP sells it for at their own site,",
+    "is_recommended": true,
+    "helpful_votes": 2,
+    "verified": false,
+    "lang": "en"
+  },
+  {
+    "review_id": "38321b50-99d7-35df-b695-d7f65ce95295",
+    "product_key": "us_6667998",
+    "market": "US",
+    "sku": "6667998",
+    "submitted_at": "2026-05-09T12:28:34.000-05:00",
+    "rating": 5,
+    "title": "Speedy Snapdragon X2 Elite",
+    "body": "Highly recommend the HP OmniBook Ultra Snapdragon X2 Elite for it's speed and screen.",
+    "is_recommended": true,
+    "helpful_votes": 3,
+    "verified": false,
+    "lang": "en"
+  }
+]

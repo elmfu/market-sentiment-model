@@ -1,0 +1,92 @@
+{
+  "strengths": [
+    {
+      "theme": "Build & Keyboard",
+      "count": 8,
+      "pct_of_reviews": 21.1,
+      "quotes": [
+        "I wanted something thin, fast, a convertible, with backlit keys, and a touch screen.",
+        "It is compact, thin, light, and the battery lasts all day - i dont wven pack ny charger going to uni, and I am on it all day!",
+        "Only negative I would add is the keyboard feels quite flimsy and thin; I've fixed this by buying a portable keyboard."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 7,
+      "pct_of_reviews": 18.4,
+      "quotes": [
+        "I wanted something thin, fast, a convertible, with backlit keys, and a touch screen.",
+        "It is a powerful machine, but most of the functional software that makes it whole is already monetised by HP, unfortunately.",
+        "I was so happy to see the pen and the pen writing is smooth too."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 7,
+      "pct_of_reviews": 18.4,
+      "quotes": [
+        "I wanted something thin, fast, a convertible, with backlit keys, and a touch screen.",
+        "The screen is quite good for short notes with the pen (sold separately), so its thr perfect study companion.",
+        "The laptop is pretty fast and the screen doesn’t wobble."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 4,
+      "pct_of_reviews": 10.5,
+      "quotes": [
+        "The price was just right because of the promotion, and I saved a significant amount.",
+        "A pretty great laptop for the price; I got it on sale, too, which was great.",
+        "Bought at 1399 on sale, never been happier with HP."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 2,
+      "pct_of_reviews": 5.3,
+      "quotes": [
+        "It is compact, thin, light, and the battery lasts all day - i dont wven pack ny charger going to uni, and I am on it all day!",
+        "The new sleek design, battery life, and screen is next level."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Battery Life",
+      "count": 2,
+      "pct_of_reviews": 5.3,
+      "quotes": [
+        "Everything it does takes 10x longer than my last computer.",
+        "Very short battery life, difficulty connecting and staying connected to wifi"
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 1,
+      "pct_of_reviews": 2.6,
+      "quotes": []
+    },
+    {
+      "theme": "Display Quality",
+      "count": 1,
+      "pct_of_reviews": 2.6,
+      "quotes": [
+        "Screen failed on one unit after 2 weeks, took about 8hrs of chat help and 1 week to get it fixed."
+      ]
+    },
+    {
+      "theme": "Ports & Connectivity",
+      "count": 1,
+      "pct_of_reviews": 2.6,
+      "quotes": [
+        "Very short battery life, difficulty connecting and staying connected to wifi"
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 1,
+      "pct_of_reviews": 2.6,
+      "quotes": []
+    }
+  ]
+}

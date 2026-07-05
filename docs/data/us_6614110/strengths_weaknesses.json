@@ -1,0 +1,98 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 64,
+      "pct_of_reviews": 39.8,
+      "quotes": [
+        "PROs:\nPerformance - Exceptional in terms of speed and transitions from one webpage and/or software to the next.",
+        "The Ultra7 processor opens the pictures and functions super quick.",
+        "It boots up fast, and it's handled everything I've thrown at it so far."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 51,
+      "pct_of_reviews": 31.7,
+      "quotes": [
+        "Visuals/Display - Great picture, nice color and pixel quality.",
+        "The very latge screen is just fine as well, as I love the touch screen.",
+        "It lots loads of memory and a big screen."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 36,
+      "pct_of_reviews": 22.4,
+      "quotes": [
+        "Visuals/Display - Great picture, nice color and pixel quality.",
+        "It has the bigger screen I prefer and I don't carry it around so the added weight isn't an issue for me.",
+        "The keyboard takes a little getting used to with larger keys but not too bad."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 27,
+      "pct_of_reviews": 16.8,
+      "quotes": [
+        "PROs:\nPerformance - Exceptional in terms of speed and transitions from one webpage and/or software to the next.",
+        "Printer drives and other software I had loaded perfectly.",
+        "Once you get comfortable using Windows 11 with it's new features, it's a very nice PC."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 17,
+      "pct_of_reviews": 10.6,
+      "quotes": [
+        "Overall, I think the laptop is a good value for the price I paid (was on sale at Best Buy) and I expect it to meet my needs for an everyday laptop.",
+        "He finally found one here that was what he wanted for the price he wanted to pay.",
+        "A $20 cord wasn't worth the hassle for me so I kept it and got my own cord."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Performance & Chip",
+      "count": 2,
+      "pct_of_reviews": 1.2,
+      "quotes": [
+        "Downloaded an Intel Driver dection & downloaded 4 updated drivers.",
+        "Terrible the keyboard does not communicate with the processor."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 2,
+      "pct_of_reviews": 1.2,
+      "quotes": [
+        "Terrible the keyboard does not communicate with the processor.",
+        "Body is not good, no back light in keyboard, mouse pad is poor and keyboard is bad"
+      ]
+    },
+    {
+      "theme": "Repairability",
+      "count": 2,
+      "pct_of_reviews": 1.2,
+      "quotes": [
+        "I can't tell you yet what we think of the new 1000$ computer with the 400$ Geek Squad extend warranty ?"
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 1,
+      "pct_of_reviews": 0.6,
+      "quotes": [
+        "But the biggest disappointment for me is the battery life."
+      ]
+    },
+    {
+      "theme": "Ports & Connectivity",
+      "count": 1,
+      "pct_of_reviews": 0.6,
+      "quotes": [
+        "Had to buy a WIFI Receiver for the lack of WIFI Connection."
+      ]
+    }
+  ]
+}

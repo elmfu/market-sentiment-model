@@ -1,0 +1,302 @@
+[
+  {
+    "word": "screen",
+    "count": 100,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 77,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 65,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 64,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 60,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 59,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ultra",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 54,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 54,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 53,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 46,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 45,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "intel",
+    "count": 40,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 39,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 36,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 35,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 33,
+    "sentiment": "positive"
+  },
+  {
+    "word": "open",
+    "count": 33,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 33,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 32,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 32,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 32,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 32,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 32,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 31,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tablet",
+    "count": 30,
+    "sentiment": "positive"
+  },
+  {
+    "word": "box",
+    "count": 30,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
+    "count": 30,
+    "sentiment": "positive"
+  },
+  {
+    "word": "copilot",
+    "count": 29,
+    "sentiment": "positive"
+  },
+  {
+    "word": "back",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gaming",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "while",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hours",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "core",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looks",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "beautiful",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "experience",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "premium",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "powerful",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "highly",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "colors",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "around",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sound",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speakers",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "right",
+    "count": 23,
+    "sentiment": "positive"
+  }
+]

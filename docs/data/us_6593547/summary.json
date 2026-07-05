@@ -1,0 +1,25 @@
+{
+  "product": "HP OmniBook X Copilot+ PC 14\" 2.2K Touch, Meteor Silver",
+  "source": "bestbuy.com",
+  "market": "US",
+  "total": 1,
+  "with_text": 1,
+  "date_range": "2024-10-28 to 2024-10-28",
+  "avg_rating": 5.0,
+  "satisfaction_score": 100.0,
+  "star_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+  },
+  "sentiment": {
+    "positive": 1,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "neutral_pct": 0.0,
+    "negative_pct": 0.0
+  }
+}

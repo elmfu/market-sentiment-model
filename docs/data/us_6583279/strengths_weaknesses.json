@@ -1,0 +1,105 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 118,
+      "pct_of_reviews": 40.3,
+      "quotes": [
+        "The speed and battery life of this PC is amazing.",
+        "A “snappy” keyboard for my fingers to “fly”.",
+        "With a Snapdragon X Elite ARM CPU and a host of features designed to make any geek swoon, this machine promises to be a game-changer."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 85,
+      "pct_of_reviews": 29.0,
+      "quotes": [
+        "BUILD QUALITY, KEYBOARD, TRACKPAD, PORTS\n\nThe all-metal case is an addictive, luxurious feel with a perfect heft that stirs me to carry it everywhere.",
+        "It's a solid all-day performer, no doubt about it.",
+        "Nothing has come close to this with how quiet it is, how thin it is, and how performant it is."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 77,
+      "pct_of_reviews": 26.3,
+      "quotes": [
+        "The speed and battery life of this PC is amazing.",
+        "Combined with the Omnibook’s long battery life, it’s a good portable solution.",
+        "The HP OmniBook X flaunts a battery life that lasts over 11 hours on a single charge."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 67,
+      "pct_of_reviews": 22.9,
+      "quotes": [
+        "It's like windows is trying to become Mac faster than Mac can become Windows.",
+        "BEST FOR EARLY ADOPTERS AND PRODUCTIVITY\n\nThe HP Omnibook X isn’t your typical Windows 11 notebook, and that’s an important consideration.",
+        "Meet the HP OmniBook X, a Copilot+ Laptop that's got me feeling like a tech wizard and a productivity machine all at once."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 60,
+      "pct_of_reviews": 20.5,
+      "quotes": [
+        "On whole, I like what I see in the Omnibook X -- except its dim screen.",
+        "—Display—\n\nThe panel is an IPS, not OLED, and it tops out at around 300 nits.",
+        "The resolution of the program may be lower than usual, but that's due to resolution of it and scaling."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Performance & Chip",
+      "count": 4,
+      "pct_of_reviews": 1.4,
+      "quotes": [
+        "[Employee of bestbuy] Laptop is super slow and freeze this is the third factory reset and still presenting problems.",
+        "It worked great until the snapdragon wasn’t compatible with half the software I use",
+        "I am a HUGE FAN of Snapdragon ARM Windows laptops."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 4,
+      "pct_of_reviews": 1.4,
+      "quotes": [
+        "Finally, the price, it's been going on sale a lot!",
+        "The laptop cost that much on Black Friday."
+      ]
+    },
+    {
+      "theme": "Repairability",
+      "count": 4,
+      "pct_of_reviews": 1.4,
+      "quotes": [
+        "Hopefully they address these things with updates, or hopefully they fix any defects.",
+        "HP doesn't make good on their warranty rebates.",
+        "I had to ship it to HP and they replaced the motherboard under warranty."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 3,
+      "pct_of_reviews": 1.0,
+      "quotes": [
+        "The touchpad is great, not haptic but I didn't care about that.",
+        "I took it to Best Buy and they wanted $700 to fix the hinge.",
+        "It doesn't allow many programs and, to be honest, the quality is low."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 3,
+      "pct_of_reviews": 1.0,
+      "quotes": [
+        "It worked great until the snapdragon wasn’t compatible with half the software I use",
+        "I am a HUGE FAN of Snapdragon ARM Windows laptops.",
+        "I powered on the laptop for the first time and it began the setup process."
+      ]
+    }
+  ]
+}

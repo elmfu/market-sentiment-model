@@ -1,0 +1,106 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 329,
+      "pct_of_reviews": 30.9,
+      "quotes": [
+        "It is snappy, doesn't lag, the battery lasts a really long time.",
+        "My model is Intel Core Ultra 5, 2k touchsreen 400 nits, 16 GB Memory, 512 GB SSD.",
+        "very fast, comfortable to work with and has a good battery life"
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 279,
+      "pct_of_reviews": 26.2,
+      "quotes": [
+        "The display is where they cut corners here.",
+        "My model is Intel Core Ultra 5, 2k touchsreen 400 nits, 16 GB Memory, 512 GB SSD.",
+        "The touchscreen feature and 2-1 ability are great additions."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 265,
+      "pct_of_reviews": 24.9,
+      "quotes": [
+        "THIS IS WHY I TOOK A STAR OFF - in 2025, mouse trackpad should work fine in all laptops.",
+        "Its fairly light weight, super portable, the flip feature comes in handy a lot too.",
+        "Doesn’t have issues with overheating that I’ve seen, powers on and off relatively quickly and smoothly, good quality cord."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 208,
+      "pct_of_reviews": 19.5,
+      "quotes": [
+        "for $700 this is a good choice and a great value.",
+        "Overall a decent machine if priced right (I got mine on back-to-school discount and I believe that is actually the right price for it).",
+        "Got this laptop on sale for $529, amazing deal for that price."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 155,
+      "pct_of_reviews": 14.6,
+      "quotes": [
+        "It is snappy, doesn't lag, the battery lasts a really long time.",
+        "very fast, comfortable to work with and has a good battery life",
+        "This laptop has a powerful battery life and portability."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Performance & Chip",
+      "count": 10,
+      "pct_of_reviews": 0.9,
+      "quotes": [
+        "What’s most frustrating is that my 5-year-old Dell Inspiron with an Intel i7 still runs smoother and more reliably than this brand-new HP.",
+        "Very slow,painful slow.Sometimes processor just stop working together,leaving the laptop frozen and unusable.",
+        "All time is going slow and bad user experience."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 8,
+      "pct_of_reviews": 0.8,
+      "quotes": [
+        "The laptop had an old WiFi driver and even after I installed the current one, it drops WiFi after a few minutes.",
+        "I even went to the Best Buy in Dayton for support, but all they did was check for updates and couldn’t provide any real solution.",
+        "However, the software needs improvement."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 7,
+      "pct_of_reviews": 0.7,
+      "quotes": [
+        "The battery life was only 1/3 of what is advertised.",
+        "brand new computer would not charge, had to return they would not send replacemwnt",
+        "I was also told that they were charging me $85+ for the fix, which I disputed."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 7,
+      "pct_of_reviews": 0.7,
+      "quotes": [
+        "The first laptop i got came with a dead display light.",
+        "I only give two stars because the touchscreen is pretty nice, as is the ability to use the laptop as a tablet.",
+        "Freezes all the time, goes toblack screen\nHad to factory reset the device TWICE."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 6,
+      "pct_of_reviews": 0.6,
+      "quotes": [
+        "It's definitely not worth the investment.",
+        "It would have been nice to have the HP pen included for the price of the device.",
+        "The most frustrating part is that my previous laptop, an older Lenovo that cost less than this computer, was significantly more reliable."
+      ]
+    }
+  ]
+}

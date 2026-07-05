@@ -1,0 +1,44 @@
+[
+  {
+    "review_id": "392749417",
+    "product_key": "ca_19817321",
+    "market": "CA",
+    "sku": "19817321",
+    "submitted_at": "",
+    "rating": 3,
+    "title": "Specs mentioned not matching the product received",
+    "body": "I ordered this laptop from the Bramalea City Centre Best Buy store and received it yesterday.\n\nMy initial impression of the laptop itself is a mix of positive and doubtful. I have concerns about the accuracy of the product specifications listed on the website.\n\nThe bestbuy.ca product page and the sales representative indicated that the laptop includes a fingerprint sensor. After receiving and setting up the device, I was unable to locate a fingerprint reader on the unit.\nThe product page lists the processor as an Intel Core Ultra 7 365H. However, the processor reported by the system appears to be an Intel Core Ultra 7 356H.\nI have also been unable to find detailed information for this exact model on HP's official website, making it difficult to verify the specifications independently.\n\nAt this point, I am still evaluating the laptop.",
+    "is_recommended": null,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en"
+  },
+  {
+    "review_id": "393662823",
+    "product_key": "ca_19817321",
+    "market": "CA",
+    "sku": "19817321",
+    "submitted_at": "",
+    "rating": 3,
+    "title": "great laptop overall",
+    "body": "Very fast, and running cool.\nVery easy to do maintenance.\nRAM is soldered. Could've have used CAMM2 like Lenovo.\n2nd M.2 slot would be nice.\n2.5Gb ethernet port would be nice.",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en"
+  },
+  {
+    "review_id": "393579588",
+    "product_key": "ca_19817321",
+    "market": "CA",
+    "sku": "19817321",
+    "submitted_at": "",
+    "rating": 5,
+    "title": "Really awesome Laptop!",
+    "body": "It's everything my daughter was looking for. It's not finger print resistant and it could be bothersome to some people but overall, my daughter is extremely happy.",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en"
+  }
+]

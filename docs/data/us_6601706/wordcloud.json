@@ -1,0 +1,302 @@
+[
+  {
+    "word": "fast",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ultra",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "super",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "high",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "powerful",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ever",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 9,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "features",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "memory",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "small",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "specs",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "around",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "especially",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "weight",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "top",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "value",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pretty",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "awesome",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "daily",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "reliable",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "enough",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easily",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "run",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "worth",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "back",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "business",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "ports",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hard",
+    "count": 6,
+    "sentiment": "neutral"
+  }
+]

@@ -1,0 +1,130 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 20,
+      "reviews": [
+        {
+          "title": "What you need to know",
+          "body": "Out of everything in store that compares, this unit is your best option at this point. It is beautiful, I love the deep blue, looks like a jewelry piece. The keyboard is excellent, it feels good to type, I don't seem to make mistakes while I type, the letters on the keys are clearly visible no matte",
+          "excerpt": "But when I put it side by side with my MacBook from 2019, then I can see how much better the display on the old Apple machine looks.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Solid budget laptop",
+          "body": "I had this laptop for 2 weeks now. My model is Intel Core Ultra 5, 2k touchsreen 400 nits, 16 GB Memory, 512 GB SSD. Overall a decent machine if priced right (I got mine on back-to-school discount and I believe that is actually the right price for it). \n\nPros:\n- Fast for lightweight work\n- 16 GB mem",
+          "excerpt": "- Screen is not the most vibrant (62.5% RGB) and the viewing angles are so-so - I put it next to my higher end Dell monitors and next to macbook monitors and you can tell the difference.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Good Computer",
+          "body": "I bought the Omnibook when my Mac went out. The processing is fast, but the keyboard is different. There is no space between the keys. \nIt can flip over like a tablet or sit-up like a laptop.\nI ended up giving it to my daughter because I bought another Mac.",
+          "excerpt": "I bought the Omnibook when my Mac went out.",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": "17 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 7,
+      "reviews": [
+        {
+          "title": "Solid budget laptop",
+          "body": "I had this laptop for 2 weeks now. My model is Intel Core Ultra 5, 2k touchsreen 400 nits, 16 GB Memory, 512 GB SSD. Overall a decent machine if priced right (I got mine on back-to-school discount and I believe that is actually the right price for it). \n\nPros:\n- Fast for lightweight work\n- 16 GB mem",
+          "excerpt": "- Screen is not the most vibrant (62.5% RGB) and the viewing angles are so-so - I put it next to my higher end Dell monitors and next to macbook monitors and you can tell the difference.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Extremely Disappointed",
+          "body": "I bought the HP OmniBook X Flip 20 days ago, and it’s been nothing but trouble. The laptop frequently freezes, even during basic tasks, forcing me to restart constantly.\n\nI even went to the Best Buy in Dayton for support, but all they did was check for updates and couldn’t provide any real solution.",
+          "excerpt": "What’s most frustrating is that my 5-year-old Dell Inspiron with an Intel i7 still runs smoother and more reliably than this brand-new HP.",
+          "rating": 1,
+          "sentiment": "negative"
+        },
+        {
+          "title": "Frequently hangs and I'm getting ads.",
+          "body": "Have been using this as a work laptop. No wonder Apple is winning on every front. Should have gone with MacBook Air instead.\n\nThe computer has been hanging frequently and stuck on \"Stage 2 of 2 Cleaning up. You're 0% there. Please keep your computer on.\" for hours on end. If I force restart, the Win",
+          "excerpt": "My work is getting affected at this point and I will try to return this and probably buy a Dell or Lenovo.",
+          "rating": 2,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": "4 additional review(s) also mention Dell."
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "Solid budget laptop",
+          "body": "I had this laptop for 2 weeks now. My model is Intel Core Ultra 5, 2k touchsreen 400 nits, 16 GB Memory, 512 GB SSD. Overall a decent machine if priced right (I got mine on back-to-school discount and I believe that is actually the right price for it). \n\nPros:\n- Fast for lightweight work\n- 16 GB mem",
+          "excerpt": "Coming from Lenovo and Mac, this does not even come close in performance.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "One of the Most Frustrating Laptops I've Owned",
+          "body": "I rarely leave negative reviews, but this has been one of the most frustrating laptop purchases I've ever made.\n\nI bought this HP OmniBook X for nursing school and expected a reliable computer for exams, assignments, online learning, and everyday use. Instead, I've experienced ongoing problems with ",
+          "excerpt": "The most frustrating part is that my previous laptop, an older Lenovo that cost less than this computer, was significantly more reliable.",
+          "rating": 1,
+          "sentiment": "negative"
+        },
+        {
+          "title": "Okay but had screen issues",
+          "body": "Ordered this laptop online.  Received and set up and realized the upper edge of the screen looked like it was separated from the bezel. In the littlw times that I tried using it,  seemed a little slow to respond and i d didn't like the keyboard setup. Returned to the nearest Best Buy store and repla",
+          "excerpt": "Returned to the nearest Best Buy store and replaced it with a Lenovo Yoga, which I like better.",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "Amazing machine",
+          "body": "I’ve been using the HP OmniBook X Flip (14-fm0013dx) for work, notes, and light creative tasks. The headline is portability + ports: it’s light, the 360° hinge is sturdy, and having Thunderbolt 4, a second USB-C, two USB-A, HDMI, and a headphone jack on a thin 14\" convertible is fantastic.\n\nPerforma",
+          "excerpt": "I also tested it with a Microsoft Surface Pen (MPP)—inking, tilt, and palm rejection work great; Apple Pencil does not work on Windows.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Nice versatile laptop",
+          "body": "It is small enough to be portable for travel and has all the features I like - touchscreen compatible with Surface pen, face recognition, etc. But I had to do some maneuvers to get it to connect to my older printer.",
+          "excerpt": "It is small enough to be portable for travel and has all the features I like - touchscreen compatible with Surface pen, face recognition, etc.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Compact AI",
+          "body": "This has turned out to be the exactly what I was looking for in size with the flip touch screen.  The weight is the only negative for I was used to the lite weigth of the surface I had before this purchase.",
+          "excerpt": "The weight is the only negative for I was used to the lite weigth of the surface I had before this purchase.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Acer",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Perfect purchase",
+          "body": "Perfect purchase! Portable and swift processing. The money spent was worth it.",
+          "excerpt": "Portable and swift processing.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

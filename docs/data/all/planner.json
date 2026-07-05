@@ -1,0 +1,434 @@
+{
+ "reviews_total": 7709,
+ "topics": [
+  {
+   "topic": "performance",
+   "label": "Performance & Chip",
+   "mentions": 2705,
+   "attention_share": 22.6,
+   "negative_rate": 2.0,
+   "positive": 2570,
+   "negative": 53,
+   "priority_score": 0.44
+  },
+  {
+   "topic": "display",
+   "label": "Display Quality",
+   "mentions": 2244,
+   "attention_share": 18.8,
+   "negative_rate": 3.1,
+   "positive": 2100,
+   "negative": 70,
+   "priority_score": 0.58
+  },
+  {
+   "topic": "build_quality",
+   "label": "Build & Keyboard",
+   "mentions": 2050,
+   "attention_share": 17.1,
+   "negative_rate": 2.8,
+   "positive": 1894,
+   "negative": 58,
+   "priority_score": 0.48
+  },
+  {
+   "topic": "price_value",
+   "label": "Price & Value",
+   "mentions": 1691,
+   "attention_share": 14.1,
+   "negative_rate": 3.7,
+   "positive": 1572,
+   "negative": 62,
+   "priority_score": 0.52
+  },
+  {
+   "topic": "battery",
+   "label": "Battery Life",
+   "mentions": 1195,
+   "attention_share": 10.0,
+   "negative_rate": 3.4,
+   "positive": 1107,
+   "negative": 41,
+   "priority_score": 0.34
+  },
+  {
+   "topic": "software_ecosystem",
+   "label": "Software & Ecosystem",
+   "mentions": 1084,
+   "attention_share": 9.1,
+   "negative_rate": 6.0,
+   "positive": 971,
+   "negative": 65,
+   "priority_score": 0.54
+  },
+  {
+   "topic": "ports",
+   "label": "Ports & Connectivity",
+   "mentions": 394,
+   "attention_share": 3.3,
+   "negative_rate": 5.8,
+   "positive": 346,
+   "negative": 23,
+   "priority_score": 0.19
+  },
+  {
+   "topic": "thermals",
+   "label": "Thermals & Cooling",
+   "mentions": 312,
+   "attention_share": 2.6,
+   "negative_rate": 5.8,
+   "positive": 268,
+   "negative": 18,
+   "priority_score": 0.15
+  },
+  {
+   "topic": "repairability",
+   "label": "Repairability",
+   "mentions": 293,
+   "attention_share": 2.4,
+   "negative_rate": 11.9,
+   "positive": 236,
+   "negative": 35,
+   "priority_score": 0.29
+  }
+ ],
+ "iteration_priorities": [
+  {
+   "topic": "display",
+   "label": "Display Quality",
+   "mentions": 2244,
+   "attention_share": 18.8,
+   "negative_rate": 3.1,
+   "positive": 2100,
+   "negative": 70,
+   "priority_score": 0.58
+  },
+  {
+   "topic": "software_ecosystem",
+   "label": "Software & Ecosystem",
+   "mentions": 1084,
+   "attention_share": 9.1,
+   "negative_rate": 6.0,
+   "positive": 971,
+   "negative": 65,
+   "priority_score": 0.54
+  },
+  {
+   "topic": "price_value",
+   "label": "Price & Value",
+   "mentions": 1691,
+   "attention_share": 14.1,
+   "negative_rate": 3.7,
+   "positive": 1572,
+   "negative": 62,
+   "priority_score": 0.52
+  },
+  {
+   "topic": "build_quality",
+   "label": "Build & Keyboard",
+   "mentions": 2050,
+   "attention_share": 17.1,
+   "negative_rate": 2.8,
+   "positive": 1894,
+   "negative": 58,
+   "priority_score": 0.48
+  },
+  {
+   "topic": "performance",
+   "label": "Performance & Chip",
+   "mentions": 2705,
+   "attention_share": 22.6,
+   "negative_rate": 2.0,
+   "positive": 2570,
+   "negative": 53,
+   "priority_score": 0.44
+  }
+ ],
+ "biggest_strength": {
+  "topic": "performance",
+  "label": "Performance & Chip",
+  "mentions": 2705,
+  "attention_share": 22.6,
+  "negative_rate": 2.0,
+  "positive": 2570,
+  "negative": 53,
+  "priority_score": 0.44
+ },
+ "cohorts": [
+  {
+   "cohort": "2024",
+   "products": 6,
+   "reviews": 969,
+   "avg_rating": 4.51,
+   "neg_rate": 6.6,
+   "top_complaints": [
+    {
+     "label": "Display Quality",
+     "count": 17
+    },
+    {
+     "label": "Price & Value",
+     "count": 16
+    },
+    {
+     "label": "Build & Keyboard",
+     "count": 14
+    }
+   ],
+   "top_praise": [
+    {
+     "label": "Performance & Chip",
+     "count": 422
+    },
+    {
+     "label": "Build & Keyboard",
+     "count": 328
+    }
+   ]
+  },
+  {
+   "cohort": "2025",
+   "products": 8,
+   "reviews": 6268,
+   "avg_rating": 4.72,
+   "neg_rate": 2.8,
+   "top_complaints": [
+    {
+     "label": "Display Quality",
+     "count": 45
+    },
+    {
+     "label": "Software & Ecosystem",
+     "count": 42
+    },
+    {
+     "label": "Price & Value",
+     "count": 41
+    }
+   ],
+   "top_praise": [
+    {
+     "label": "Performance & Chip",
+     "count": 2030
+    },
+    {
+     "label": "Display Quality",
+     "count": 1703
+    }
+   ]
+  },
+  {
+   "cohort": "2026",
+   "products": 4,
+   "reviews": 74,
+   "avg_rating": 4.72,
+   "neg_rate": 2.7,
+   "top_complaints": [
+    {
+     "label": "Build & Keyboard",
+     "count": 2
+    },
+    {
+     "label": "Performance & Chip",
+     "count": 1
+    },
+    {
+     "label": "Battery Life",
+     "count": 1
+    }
+   ],
+   "top_praise": [
+    {
+     "label": "Performance & Chip",
+     "count": 58
+    },
+    {
+     "label": "Build & Keyboard",
+     "count": 56
+    }
+   ]
+  }
+ ],
+ "quarterly": [
+  {
+   "quarter": "2024-Q2",
+   "reviews": 17,
+   "avg_rating": 4.24,
+   "neg_rate": 11.8,
+   "topic_neg_rate": {
+    "performance": 18.2,
+    "display": 0.0,
+    "build_quality": 0.0,
+    "price_value": null,
+    "battery": 0.0
+   }
+  },
+  {
+   "quarter": "2024-Q3",
+   "reviews": 98,
+   "avg_rating": 4.48,
+   "neg_rate": 2.0,
+   "topic_neg_rate": {
+    "performance": 3.0,
+    "display": 2.1,
+    "build_quality": 1.7,
+    "price_value": 3.4,
+    "battery": 0.0
+   }
+  },
+  {
+   "quarter": "2024-Q4",
+   "reviews": 197,
+   "avg_rating": 4.5,
+   "neg_rate": 5.1,
+   "topic_neg_rate": {
+    "performance": 1.9,
+    "display": 4.5,
+    "build_quality": 3.0,
+    "price_value": 0.0,
+    "battery": 0.0
+   }
+  },
+  {
+   "quarter": "2025-Q1",
+   "reviews": 174,
+   "avg_rating": 4.47,
+   "neg_rate": 6.9,
+   "topic_neg_rate": {
+    "performance": 1.2,
+    "display": 7.5,
+    "build_quality": 7.8,
+    "price_value": 9.8,
+    "battery": 4.3
+   }
+  },
+  {
+   "quarter": "2025-Q2",
+   "reviews": 476,
+   "avg_rating": 4.62,
+   "neg_rate": 4.6,
+   "topic_neg_rate": {
+    "performance": 1.1,
+    "display": 2.6,
+    "build_quality": 2.4,
+    "price_value": 3.6,
+    "battery": 2.8
+   }
+  },
+  {
+   "quarter": "2025-Q3",
+   "reviews": 1783,
+   "avg_rating": 4.71,
+   "neg_rate": 3.1,
+   "topic_neg_rate": {
+    "performance": 2.0,
+    "display": 2.2,
+    "build_quality": 2.5,
+    "price_value": 4.4,
+    "battery": 2.7
+   }
+  },
+  {
+   "quarter": "2025-Q4",
+   "reviews": 2367,
+   "avg_rating": 4.75,
+   "neg_rate": 2.2,
+   "topic_neg_rate": {
+    "performance": 1.1,
+    "display": 2.1,
+    "build_quality": 1.8,
+    "price_value": 1.6,
+    "battery": 2.6
+   }
+  },
+  {
+   "quarter": "2026-Q1",
+   "reviews": 1378,
+   "avg_rating": 4.69,
+   "neg_rate": 3.6,
+   "topic_neg_rate": {
+    "performance": 1.7,
+    "display": 3.6,
+    "build_quality": 3.4,
+    "price_value": 4.4,
+    "battery": 4.4
+   }
+  },
+  {
+   "quarter": "2026-Q2",
+   "reviews": 801,
+   "avg_rating": 4.67,
+   "neg_rate": 4.6,
+   "topic_neg_rate": {
+    "performance": 2.9,
+    "display": 3.6,
+    "build_quality": 3.3,
+    "price_value": 6.2,
+    "battery": 4.3
+   }
+  },
+  {
+   "quarter": "2026-Q3",
+   "reviews": 20,
+   "avg_rating": 4.25,
+   "neg_rate": 15.0,
+   "topic_neg_rate": {
+    "performance": 0.0,
+    "display": null,
+    "build_quality": null,
+    "price_value": null,
+    "battery": null
+   }
+  }
+ ],
+ "top5_topics": [
+  {
+   "topic": "performance",
+   "label": "Performance & Chip"
+  },
+  {
+   "topic": "display",
+   "label": "Display Quality"
+  },
+  {
+   "topic": "build_quality",
+   "label": "Build & Keyboard"
+  },
+  {
+   "topic": "price_value",
+   "label": "Price & Value"
+  },
+  {
+   "topic": "battery",
+   "label": "Battery Life"
+  }
+ ],
+ "members": [
+  "ca_17940457",
+  "ca_18469687",
+  "ca_19205282",
+  "ca_19205283",
+  "ca_19286783",
+  "ca_19817319",
+  "ca_19817321",
+  "ca_19817322",
+  "us_6583279",
+  "us_6589592",
+  "us_6589598",
+  "us_6593546",
+  "us_6593547",
+  "us_6593552",
+  "us_6601706",
+  "us_6613861",
+  "us_6613865",
+  "us_6613868",
+  "us_6613869",
+  "us_6613870",
+  "us_6614110",
+  "us_6634397",
+  "us_6667997",
+  "us_6667998",
+  "us_6668001",
+  "us_6668006"
+ ]
+}

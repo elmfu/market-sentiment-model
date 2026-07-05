@@ -1,0 +1,25 @@
+{
+  "product": "HP - OmniBook Ultra - 14\" 3K OLED Touchscreen Laptop - Intel Core Ultra 7 (2026) - 16GB Memory - 1TB SSD - Copilot+ PC - Silk Sand",
+  "source": "bestbuy.com",
+  "market": "US",
+  "total": 23,
+  "with_text": 23,
+  "date_range": "2026-06-13 to 2026-07-04",
+  "avg_rating": 4.83,
+  "satisfaction_score": 100.0,
+  "star_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 4,
+    "5": 19
+  },
+  "sentiment": {
+    "positive": 23,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "neutral_pct": 0.0,
+    "negative_pct": 0.0
+  }
+}

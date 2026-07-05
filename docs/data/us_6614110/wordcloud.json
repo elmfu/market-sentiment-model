@@ -1,0 +1,302 @@
+[
+  {
+    "word": "screen",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 37,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 29,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "memory",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "awesome",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "storage",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ram",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "set",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "copilot",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "plenty",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "geek",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "back",
+    "count": 8,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "getting",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "squad",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ultra",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "seems",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "service",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "big",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "wanted",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quickly",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "high",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "large",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "working",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "super",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keys",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "weight",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "home",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "omni",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issue",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "never",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "core",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feature",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "while",
+    "count": 5,
+    "sentiment": "positive"
+  }
+]

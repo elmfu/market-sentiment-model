@@ -1,0 +1,302 @@
+[
+  {
+    "word": "screen",
+    "count": 339,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 284,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 269,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 232,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 225,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 197,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 182,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 181,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 176,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 171,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 166,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 161,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 147,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 146,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 140,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 136,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 128,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 124,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 119,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 114,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tablet",
+    "count": 114,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 108,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 107,
+    "sentiment": "positive"
+  },
+  {
+    "word": "service",
+    "count": 100,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 95,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 95,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 90,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 89,
+    "sentiment": "positive"
+  },
+  {
+    "word": "school",
+    "count": 87,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 86,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
+    "count": 80,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 77,
+    "sentiment": "positive"
+  },
+  {
+    "word": "working",
+    "count": 76,
+    "sentiment": "positive"
+  },
+  {
+    "word": "storage",
+    "count": 74,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 73,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 71,
+    "sentiment": "positive"
+  },
+  {
+    "word": "set",
+    "count": 71,
+    "sentiment": "positive"
+  },
+  {
+    "word": "college",
+    "count": 67,
+    "sentiment": "positive"
+  },
+  {
+    "word": "highly",
+    "count": 66,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 66,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 65,
+    "sentiment": "positive"
+  },
+  {
+    "word": "smooth",
+    "count": 64,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 64,
+    "sentiment": "positive"
+  },
+  {
+    "word": "awesome",
+    "count": 63,
+    "sentiment": "positive"
+  },
+  {
+    "word": "value",
+    "count": 59,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 58,
+    "sentiment": "positive"
+  },
+  {
+    "word": "super",
+    "count": 58,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keys",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "runs",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "getting",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sleek",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
+    "word": "memory",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
+    "word": "back",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
+    "word": "heavy",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 54,
+    "sentiment": "positive"
+  },
+  {
+    "word": "large",
+    "count": 54,
+    "sentiment": "positive"
+  },
+  {
+    "word": "copilot",
+    "count": 54,
+    "sentiment": "positive"
+  },
+  {
+    "word": "clear",
+    "count": 53,
+    "sentiment": "positive"
+  },
+  {
+    "word": "home",
+    "count": 53,
+    "sentiment": "positive"
+  },
+  {
+    "word": "helpful",
+    "count": 53,
+    "sentiment": "positive"
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 10,
+      "reviews": [
+        {
+          "title": "My first touch screen laptop and I love it!",
+          "body": "I've been a MacBook user since my college days because ever since I tried one in college, I fell in love with the sleek, premium aluminum build. Over the years, I came to accept that Windows laptops couldn't compete with that design. But little by little things are chaging, and more Windows laptops ",
+          "excerpt": "I've been a MacBook user since my college days because ever since I tried one in college, I fell in love with the sleek, premium aluminum build.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Perfect for everyday",
+          "body": "This was on sale at best buy nice for every day yse like watching movies like , emails , small work documenting as for gaming from your ps5 which I have remot play is pretty good not much lag but it always which game you playing I like it flip laptop no complaints there brightness is good picture qu",
+          "excerpt": "This was on sale at best buy nice for every day yse like watching movies like , emails , small work documenting as for gaming from your ps5 which I have remot play is pretty good not much lag but it a",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Bmuhammad",
+          "body": "While I am not computer savvy, the product seems reputable. Loaded with various features that I have yet to familiarize myself with. As a 70+year old elder, some of the features are complex requiring additional registration and more passwords to remember or forget. For more than fifteen years, I use",
+          "excerpt": "For more than fifteen years, I used a MacBook Pro and this HP will take quite a bit of getting used to.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "7 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 4,
+      "reviews": [
+        {
+          "title": "Size, speed, storage & user friendly, to boot!",
+          "body": "Needed to replace my Dell Inspiron that was still running on Windows 10, so I took some time researching laptops that would meet my needs. This HP checked all my boxes, including my budget. It was easy to set up and start using and I’m very satisfied with my purchase. I love my new laptop!",
+          "excerpt": "Needed to replace my Dell Inspiron that was still running on Windows 10, so I took some time researching laptops that would meet my needs.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Fast and pretty",
+          "body": "Fast, pretty, got it at a good deal. Yes it does have backlighting. Great mid range laptop to get some video editing done. I was thinking of getting a Dell or Lenovo, but this was prettier. Former Mac user so I’m spoiled with looks. 2k isn’t bad.",
+          "excerpt": "I was thinking of getting a Dell or Lenovo, but this was prettier.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Good Buy",
+          "body": "Replacement for a 12 year old Dell & does everything I wanted",
+          "excerpt": "Replacement for a 12 year old Dell & does everything I wanted",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "1 additional review(s) also mention Dell."
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Easy to transition",
+          "body": "This was a great deal!  After being a Micosoft Surface Book for 20 years I was leary of switching.  But since I've retired I don't use my laptop daily.  This laptop was very similar, easy to use and the Geek Squad set it up for me perfectly.  Great price too!!",
+          "excerpt": "After being a Micosoft Surface Book for 20 years I was leary of switching.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Fit the bill",
+          "body": "Great for light gaming and work stuff. Didn't think I would use the tablet but I had an old Surface Pen and it synced up seamlessly. Great for OneNote!",
+          "excerpt": "Didn't think I would use the tablet but I had an old Surface Pen and it synced up seamlessly.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Nice size, nice specs, nice laptop",
+          "body": "The grey “clam” case design seems well constructed with sturdy hinges. At 3.11 lbs., it is heavier than I expected but still light enough to make it easy to travel with as does the 2 in 1 design and the Gorilla Glass 3 screen. It should more than meet your work, light gaming and streaming needs. \n\nI",
+          "excerpt": "I transferred a 7GB movie file from a Samsung T7 M.2 external ssd in under 10 seconds, using any of the USB connections.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Affordable 2-in-1 laptop w/12-hr battery life",
+          "body": "Executive summary:\n\nI have been looking for a 2-in-1 laptop with a long battery life, and this laptop fits the bill. It's rather light (3.1 lbs), has a large enough screen (14\"), and can flip transform between the laptop and tablet modes. I wanted the laptop mode to type conveniently. I also wanted ",
+          "excerpt": "Funny enough, when I do the same things on my Samsung Galaxy Tab S10 Ultra, I don't see as much lag, because Android is lighter on the system.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Avoid it",
+          "body": "The only good thing about this laptop is the new AMD processor. It is unusually slow considering it runs a new processor. Lenovo Yoga, with the same specs, is a lot faster. It comes with a lot of useless software installed. It's getting super hot. The screen is terrible( low res and washed out color",
+          "excerpt": "Lenovo Yoga, with the same specs, is a lot faster.",
+          "rating": 2,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "ASUS",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Avoid it",
+          "body": "The only good thing about this laptop is the new AMD processor. It is unusually slow considering it runs a new processor. Lenovo Yoga, with the same specs, is a lot faster. It comes with a lot of useless software installed. It's getting super hot. The screen is terrible( low res and washed out color",
+          "excerpt": "Consider the Asus ZenBook or the Lenovo Yoga",
+          "rating": 2,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Chromebook",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Great Omni book",
+          "body": "My son loved, it said it’s better than his old Chromebook",
+          "excerpt": "My son loved, it said it’s better than his old Chromebook",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

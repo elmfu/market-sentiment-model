@@ -1,0 +1,302 @@
+[
+  {
+    "word": "screen",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keys",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "set",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "setup",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ever",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "drive",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "another",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "right",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "getting",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "value",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "top",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "colors",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "envy",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "home",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "difficult",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "see",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "numeric",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keypad",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "down",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sometimes",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "last",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "key",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "type",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "large",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "money",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "want",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "beautiful",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sure",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "faster",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "wish",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "haven't",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "spent",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "owned",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "less",
+    "count": 4,
+    "sentiment": "positive"
+  }
+]

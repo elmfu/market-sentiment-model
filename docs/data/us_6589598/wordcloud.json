@@ -1,0 +1,302 @@
+[
+  {
+    "word": "fast",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amd",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 9,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "speed",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "port",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "working",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "worth",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ultra",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "storage",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "super",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "multiple",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "open",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "feels",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "another",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "recommend",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "powerful",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ssd",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "gaming",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "service",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "happy",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "solid",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "runs",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "wanted",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "away",
+    "count": 5,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "built",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "first",
+    "count": 5,
+    "sentiment": "negative"
+  },
+  {
+    "word": "copilot",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sleek",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "box",
+    "count": 5,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "store",
+    "count": 5,
+    "sentiment": "negative"
+  },
+  {
+    "word": "experience",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "daily",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "impressed",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "same",
+    "count": 4,
+    "sentiment": "neutral"
+  }
+]

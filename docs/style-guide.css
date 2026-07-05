@@ -1,0 +1,280 @@
+/*
+ * MacBook Neo Market Intelligence — Shared Style Guide
+ * All :root tokens and reusable component classes.
+ * Import or link this file in any dashboard page.
+ */
+
+/* ── Design Tokens ─────────────────────────────────────────────────────────── */
+:root {
+  /* Backgrounds */
+  --bg:        #faf8f3;
+  --bg2:       #f5f2ea;
+  --bg3:       #efebd8;
+
+  /* Cards */
+  --card:      #ffffff;
+  --card2:     #fdfbf7;
+
+  /* Borders */
+  --border:    #e4dfd0;
+  --border2:   #d4cfc0;
+
+  /* Text */
+  --text:      #2c2820;
+  --text-mid:  #5a5248;
+  --text-mute: #8a8070;
+
+  /* Highlight color pairs (background / border+text) */
+  --hl-yellow:   #fff0a0;  --hl-yellow-b: #e8d840;
+  --hl-green:    #d4f0d4;  --hl-green-b:  #72c472;
+  --hl-blue:     #d4e8f8;  --hl-blue-b:   #70a8d8;
+  --hl-orange:   #fde8c8;  --hl-orange-b: #e8a040;
+  --hl-pink:     #f8d8e8;  --hl-pink-b:   #d87898;
+  --hl-purple:   #e8d8f8;  --hl-purple-b: #a878d8;
+  --hl-teal:     #d0f0ec;  --hl-teal-b:   #50b0a8;
+  --hl-red:      #fde0d8;  --hl-red-b:    #e87060;
+
+  /* Semantic aliases — keep JS/template references working */
+  --green:    #72c472;
+  --red:      #e87060;
+  --yellow:   #e8d840;
+  --muted:    #8a8070;
+  --accent:   #70a8d8;
+  --accent2:  #a878d8;
+  --surface:  var(--card);
+  --surface2: var(--bg2);
+
+  --radius: 8px;
+}
+
+/* ── Fonts ──────────────────────────────────────────────────────────────────── */
+/* Include this <link> in <head>:
+   https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700
+   &family=Instrument+Serif:ital@0;1&family=DM+Sans:wght@400;500;600;700
+   &display=swap
+*/
+
+/* ── Reset & Base ───────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg2); }
+::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+
+/* ── Card ───────────────────────────────────────────────────────────────────── */
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+}
+
+.card-title {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--text-mute);
+  margin-bottom: 14px;
+}
+
+/* ── KPI Card ───────────────────────────────────────────────────────────────── */
+.kpi-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  transition: border-color 0.2s;
+}
+.kpi-card:hover { border-color: var(--border2); }
+
+.kpi-icon  { font-size: 1.1rem; margin-bottom: 8px; }
+.kpi-label {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-mute);
+  margin-bottom: 6px;
+}
+.kpi-value {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.1;
+}
+.kpi-sub {
+  font-size: 11px;
+  color: var(--text-mute);
+  margin-top: 5px;
+}
+
+/* ── Section Label ──────────────────────────────────────────────────────────── */
+.section-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-mute);
+  margin-bottom: 10px;
+  margin-top: 28px;
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+.section-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 8px;
+  flex-shrink: 0;
+}
+
+/* ── Sentiment Badges ───────────────────────────────────────────────────────── */
+.sentiment-badge {
+  display: inline-block;
+  padding: 2px 9px;
+  border-radius: 999px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: capitalize;
+  border: 1px solid transparent;
+}
+.sentiment-badge.positive {
+  background: var(--hl-green);
+  color: #2a6a2a;
+  border-color: var(--hl-green-b);
+}
+.sentiment-badge.neutral {
+  background: var(--hl-yellow);
+  color: #7a6800;
+  border-color: var(--hl-yellow-b);
+}
+.sentiment-badge.negative {
+  background: var(--hl-red);
+  color: #8a2010;
+  border-color: var(--hl-red-b);
+}
+.sentiment-badge.pending {
+  background: var(--bg3);
+  color: var(--text-mute);
+  border-color: var(--border2);
+}
+
+/* ── Topic Pill Tags ────────────────────────────────────────────────────────── */
+.topic-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 20px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  font-weight: 600;
+  border: 1px solid transparent;
+  margin: 1px 2px 1px 0;
+}
+.topic-tag.vs_windows  { background: var(--hl-blue);   border-color: var(--hl-blue-b);   color: #1a4870; }
+.topic-tag.price       { background: var(--hl-orange);  border-color: var(--hl-orange-b); color: #6a3c00; }
+.topic-tag.battery     { background: var(--hl-green);   border-color: var(--hl-green-b);  color: #1a5a1a; }
+.topic-tag.display     { background: var(--hl-purple);  border-color: var(--hl-purple-b); color: #4a1a7a; }
+.topic-tag.thermals    { background: var(--hl-red);     border-color: var(--hl-red-b);    color: #6a1800; }
+.topic-tag.complaint   { background: var(--hl-pink);    border-color: var(--hl-pink-b);   color: #6a1840; }
+.topic-tag.performance { background: var(--hl-teal);    border-color: var(--hl-teal-b);   color: #0a5050; }
+.topic-tag.switch      { background: var(--hl-yellow);  border-color: var(--hl-yellow-b); color: #6a5800; }
+.topic-tag.port        { background: var(--hl-orange);  border-color: var(--hl-orange-b); color: #6a3c00; }
+
+/* ── Signal Pill ────────────────────────────────────────────────────────────── */
+.signal-pill {
+  display: inline-block;
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--text-mid);
+  margin-top: 10px;
+}
+
+/* ── Score Pill ─────────────────────────────────────────────────────────────── */
+.score-pill {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 2px 8px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-mid);
+  white-space: nowrap;
+}
+
+/* ── Buttons & Selects ──────────────────────────────────────────────────────── */
+select, .btn {
+  background: var(--card);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 5px 10px;
+  border-radius: 6px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 12px;
+  cursor: pointer;
+  outline: none;
+  transition: border-color 0.15s;
+}
+select:focus, .btn:hover { border-color: var(--border2); }
+.btn.active {
+  background: var(--text);
+  border-color: var(--text);
+  color: var(--card);
+}
+
+/* ── Skeleton Loader ────────────────────────────────────────────────────────── */
+.sk {
+  background: linear-gradient(90deg,
+    var(--bg2) 25%, var(--bg3) 50%, var(--bg2) 75%);
+  background-size: 200% 100%;
+  animation: sk-anim 1.4s infinite;
+  border-radius: 5px;
+  display: inline-block;
+}
+@keyframes sk-anim {
+  0%   { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+.sk-lg { height: 2rem; width: 75%; }
+.sk-sm { height: 0.75em; width: 60%; margin-top: 5px; }
+
+/* ── Error Banner ───────────────────────────────────────────────────────────── */
+.error-banner {
+  display: none;
+  background: var(--hl-red);
+  border: 1px solid var(--hl-red-b);
+  border-radius: var(--radius);
+  padding: 12px 18px;
+  color: #8a2010;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+.error-banner code {
+  background: rgba(232,112,96,0.15);
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-family: 'JetBrains Mono', monospace;
+}

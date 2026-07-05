@@ -1,0 +1,101 @@
+[
+  {
+    "topic": "performance",
+    "label": "Performance & Chip",
+    "total": 572,
+    "positive": 554,
+    "neutral": 13,
+    "negative": 5,
+    "positive_pct": 96.9,
+    "negative_pct": 0.9,
+    "net_score": 96.0
+  },
+  {
+    "topic": "display",
+    "label": "Display Quality",
+    "total": 468,
+    "positive": 447,
+    "neutral": 9,
+    "negative": 12,
+    "positive_pct": 95.5,
+    "negative_pct": 2.6,
+    "net_score": 92.9
+  },
+  {
+    "topic": "build_quality",
+    "label": "Build & Keyboard",
+    "total": 404,
+    "positive": 379,
+    "neutral": 15,
+    "negative": 10,
+    "positive_pct": 93.8,
+    "negative_pct": 2.5,
+    "net_score": 91.3
+  },
+  {
+    "topic": "price_value",
+    "label": "Price & Value",
+    "total": 342,
+    "positive": 326,
+    "neutral": 7,
+    "negative": 9,
+    "positive_pct": 95.3,
+    "negative_pct": 2.6,
+    "net_score": 92.7
+  },
+  {
+    "topic": "battery",
+    "label": "Battery Life",
+    "total": 213,
+    "positive": 205,
+    "neutral": 7,
+    "negative": 1,
+    "positive_pct": 96.2,
+    "negative_pct": 0.5,
+    "net_score": 95.7
+  },
+  {
+    "topic": "software_ecosystem",
+    "label": "Software & Ecosystem",
+    "total": 200,
+    "positive": 189,
+    "neutral": 7,
+    "negative": 4,
+    "positive_pct": 94.5,
+    "negative_pct": 2.0,
+    "net_score": 92.5
+  },
+  {
+    "topic": "repairability",
+    "label": "Repairability",
+    "total": 66,
+    "positive": 60,
+    "neutral": 4,
+    "negative": 2,
+    "positive_pct": 90.9,
+    "negative_pct": 3.0,
+    "net_score": 87.9
+  },
+  {
+    "topic": "ports",
+    "label": "Ports & Connectivity",
+    "total": 50,
+    "positive": 43,
+    "neutral": 2,
+    "negative": 5,
+    "positive_pct": 86.0,
+    "negative_pct": 10.0,
+    "net_score": 76.0
+  },
+  {
+    "topic": "thermals",
+    "label": "Thermals & Cooling",
+    "total": 48,
+    "positive": 42,
+    "neutral": 5,
+    "negative": 1,
+    "positive_pct": 87.5,
+    "negative_pct": 2.1,
+    "net_score": 85.4
+  }
+]

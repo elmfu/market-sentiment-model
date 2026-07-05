@@ -1,0 +1,101 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 161,
+      "pct_of_reviews": 33.2,
+      "quotes": [
+        "The Touchscreen is responsive in any position and appears bright and colorful indoors.",
+        "The AMD Risen AI 5 with Radeon 840M integrated GPU feels quick and snappy.",
+        "Pretty fast and battery life is excellent."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 143,
+      "pct_of_reviews": 29.5,
+      "quotes": [
+        "BOTTOM LINE: The HP OmniBook X Flip-14” is an excellent mid-range laptop with a foldable display, plus it’s light and thin.",
+        "I was really impressed with the feel and build quality of this laptop.",
+        "The backlit keyboard is a nice addition when using the OmniBook as a traditional laptop."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 130,
+      "pct_of_reviews": 26.8,
+      "quotes": [
+        "BOTTOM LINE: The HP OmniBook X Flip-14” is an excellent mid-range laptop with a foldable display, plus it’s light and thin.",
+        "The screen is very glossy, 14\" and seems to be an IPS panel.",
+        "With a resolution of just 1920 x 1200, the 14-inch screen is still clear, and the font is legible and smooth."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 103,
+      "pct_of_reviews": 21.2,
+      "quotes": [
+        "Manufactures can choose less bright screens, with a lower NITS value, and then compensate by using a glossy screen.",
+        "It is not a deal breaker by any means, but it's 2025 and having at least a 120hz refresh rate will make a laptop feel so much better.",
+        "Its actuation feels cheap and the keys have no texture to easily differentiate one from another."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 93,
+      "pct_of_reviews": 19.2,
+      "quotes": [
+        "The new Ryzen AI5 340 Processor is fast while conserving battery life.",
+        "It really sips on battery while performing some intense tasks.",
+        "Pretty fast and battery life is excellent."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Display Quality",
+      "count": 4,
+      "pct_of_reviews": 0.8,
+      "quotes": [
+        "The screen is terrible( low res and washed out colors).",
+        "Less than a month passed before the screen sensors started having issues.",
+        "Now has a frozen unresponsive error screen."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 4,
+      "pct_of_reviews": 0.8,
+      "quotes": [
+        "It comes with a lot of useless software installed.",
+        "Apparently not a hardware issue but the software, THAT CAME WITH THE COMPUTER so not covered by the warranty.",
+        "It did not automatically save my updates."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 2,
+      "pct_of_reviews": 0.4,
+      "quotes": [
+        "The only good thing about this laptop is the new AMD processor.",
+        "Extremely slow with basic tasks like chrome only after one year."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 2,
+      "pct_of_reviews": 0.4,
+      "quotes": [
+        "HP should start paying more attention to quality."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 2,
+      "pct_of_reviews": 0.4,
+      "quotes": [
+        "I lost hours, even days, worth of work because of this computer."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "2025-08": {
+    "count": 2,
+    "avg_rating": 5.0
+  },
+  "2025-09": {
+    "count": 35,
+    "avg_rating": 4.89
+  },
+  "2025-10": {
+    "count": 51,
+    "avg_rating": 4.73
+  },
+  "2025-11": {
+    "count": 152,
+    "avg_rating": 4.77
+  },
+  "2025-12": {
+    "count": 180,
+    "avg_rating": 4.77
+  },
+  "2026-01": {
+    "count": 112,
+    "avg_rating": 4.76
+  },
+  "2026-02": {
+    "count": 36,
+    "avg_rating": 4.81
+  },
+  "2026-03": {
+    "count": 35,
+    "avg_rating": 4.6
+  },
+  "2026-04": {
+    "count": 27,
+    "avg_rating": 4.41
+  },
+  "2026-05": {
+    "count": 8,
+    "avg_rating": 5.0
+  },
+  "2026-06": {
+    "count": 14,
+    "avg_rating": 4.57
+  }
+}

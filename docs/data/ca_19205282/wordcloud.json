@@ -1,0 +1,302 @@
+[
+  {
+    "word": "screen",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "getting",
+    "count": 5,
+    "sentiment": "negative"
+  },
+  {
+    "word": "battery",
+    "count": 5,
+    "sentiment": "negative"
+  },
+  {
+    "word": "easy",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feature",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "heavy",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "itself",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quite",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "off",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "service",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tablet",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "specs",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pen",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "storage",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "i've",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "right",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lots",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "high",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ram",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "device",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "hot",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "disappointed",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
+    "word": "hours",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "keyboard",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pad",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "key",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "definitely",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "user",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "enough",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "owned",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "set",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "helpful",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fine",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "specifically",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "software",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "perfect",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "doing",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sleek",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "look",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "first",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ryzen",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "anyone",
+    "count": 2,
+    "sentiment": "neutral"
+  }
+]

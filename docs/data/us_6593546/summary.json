@@ -1,0 +1,25 @@
+{
+  "product": "HP OmniBook X Copilot+ PC 14\" 2.2K Touch, Glacier Silver",
+  "source": "bestbuy.com",
+  "market": "US",
+  "total": 95,
+  "with_text": 95,
+  "date_range": "2024-10-23 to 2026-06-29",
+  "avg_rating": 4.39,
+  "satisfaction_score": 86.3,
+  "star_distribution": {
+    "1": 7,
+    "2": 3,
+    "3": 3,
+    "4": 15,
+    "5": 67
+  },
+  "sentiment": {
+    "positive": 82,
+    "neutral": 3,
+    "negative": 10,
+    "positive_pct": 86.3,
+    "neutral_pct": 3.2,
+    "negative_pct": 10.5
+  }
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "word": "screen",
+    "count": 119,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 91,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 88,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 83,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 74,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 67,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 65,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 59,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 59,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 54,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 54,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 51,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 48,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tablet",
+    "count": 46,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
+    "word": "school",
+    "count": 39,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 38,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 35,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 35,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 34,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 32,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 31,
+    "sentiment": "positive"
+  },
+  {
+    "word": "highly",
+    "count": 30,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 30,
+    "sentiment": "positive"
+  },
+  {
+    "word": "service",
+    "count": 30,
+    "sentiment": "positive"
+  },
+  {
+    "word": "set",
+    "count": 30,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 29,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sale",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "super",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "awesome",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "value",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "definitely",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "heavy",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "geek",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "squad",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "help",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "right",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "working",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "large",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "want",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "getting",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "smooth",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sleek",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "college",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "big",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keys",
+    "count": 19,
+    "sentiment": "positive"
+  }
+]

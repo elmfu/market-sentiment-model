@@ -1,0 +1,67 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 6,
+      "reviews": [
+        {
+          "title": "Couldn t complain",
+          "body": "I enjoyed it, but in the end, I decided to stick with my iPad",
+          "excerpt": "I enjoyed it, but in the end, I decided to stick with my iPad",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Best Windows laptop I’ve ever owned",
+          "body": "I’ve owned laptops since 1987 (the first had just two floppy drives), and this HP Omnibook Ultra Flip is the best Windows laptop I’ve ever used.\n\nIn fact, it’s a close second to my M4 Macbook Air, which is a zephyr among laptops and sets a pretty high bar to surpass. The Omnibook Ultra is just sligh",
+          "excerpt": "In fact, it’s a close second to my M4 Macbook Air, which is a zephyr among laptops and sets a pretty high bar to surpass.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Amazing specs and get...(when on sale)",
+          "body": "Great new PC.  I had a studio laptop and enjoyed the use but was a bit bulky and not really ideal for mobility.  I got intrigued with the new copilot + options and when this was on sale I went for it.\n- Great specs and options for the price (when on sale)\n- Copilot+ is awesome and really improves cr",
+          "excerpt": "- The screen is a gem with HDR and OLED (not nearly as good as Apple devices though).",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "3 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Very good option to consider",
+          "body": "I came from a 6 years old Yoga 9I. In my case I noted pretty well the improvement on performance. Lovely screen with lovely colors and definition.\n\nThe chip is the best one you can have from intel Lunar Lake series.\n\nThe DEL button is exactly next ot it of the power button, for make doesn't make sen",
+          "excerpt": "I came from a 6 years old Yoga 9I.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Best Windows laptop I’ve ever owned",
+          "body": "I’ve owned laptops since 1987 (the first had just two floppy drives), and this HP Omnibook Ultra Flip is the best Windows laptop I’ve ever used.\n\nIn fact, it’s a close second to my M4 Macbook Air, which is a zephyr among laptops and sets a pretty high bar to surpass. The Omnibook Ultra is just sligh",
+          "excerpt": "Last but not least, it has both facial recognition and a very good fingerprint reader, so Windows Hello rarely insists that I enter my pin, unlike the Lenovo Yoga Slim 9i (a very similar laptop) which",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Not perfect but so far a good buy.",
+          "body": "Overall the laptop is great but not perfect. So far it is worth keeping. \nUpgrading from AMD 7480u HP laptop. Mainly needed 32gb of ram. \nUSB-C ports are rejecting half of my docking stations and USB4 hubs. Just odd as I can run a display with USB-C to HDMI cable but the same monitor will not run ov",
+          "excerpt": "Just odd as I can run a display with USB-C to HDMI cable but the same monitor will not run over USB-4 dock or USB 3.1 Dell dock.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "product": "HP OmniBook Ultra 14\" Touchscreen Gen AI PC Laptop - Meteor silver (AMD Ryzen AI 9 365/16GB RAM/1TB SSD/Win11)",
+  "source": "bestbuy.ca",
+  "market": "CA",
+  "total": 10,
+  "with_text": 9,
+  "date_range": "",
+  "avg_rating": 4.3,
+  "satisfaction_score": 90.0,
+  "star_distribution": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 3,
+    "5": 6
+  },
+  "sentiment": {
+    "positive": 9,
+    "neutral": 0,
+    "negative": 1,
+    "positive_pct": 90.0,
+    "neutral_pct": 0.0,
+    "negative_pct": 10.0
+  }
+}

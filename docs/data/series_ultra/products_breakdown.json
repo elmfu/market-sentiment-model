@@ -1,0 +1,74 @@
+[
+ {
+  "product_key": "us_6589592",
+  "name": "HP OmniBook Ultra Copilot+ PC 14\" 2.2K Touch, Meteor Silver",
+  "market": "US",
+  "series": "Ultra",
+  "sku": "6589592",
+  "reviews": 187,
+  "avg_rating": 4.44,
+  "satisfaction": 87.2,
+  "first_review": "2024-09-14",
+  "top_complaint": "Price & Value"
+ },
+ {
+  "product_key": "us_6589598",
+  "name": "HP OmniBook Ultra Copilot+ PC 14\" 2.2K Touch, Meteor Silver",
+  "market": "US",
+  "series": "Ultra",
+  "sku": "6589598",
+  "reviews": 79,
+  "avg_rating": 4.43,
+  "satisfaction": 84.8,
+  "first_review": "2024-10-28",
+  "top_complaint": "Display Quality"
+ },
+ {
+  "product_key": "us_6668006",
+  "name": "HP - OmniBook Ultra - 14\" 3K OLED Touchscreen Laptop - Intel Core Ultra 7 (2026) - 16GB Memory - 1TB SSD - Copilot+ PC - Silk Sand",
+  "market": "US",
+  "series": "Ultra",
+  "sku": "6668006",
+  "reviews": 23,
+  "avg_rating": 4.83,
+  "satisfaction": 100.0,
+  "first_review": "2026-06-13",
+  "top_complaint": "—"
+ },
+ {
+  "product_key": "ca_18469687",
+  "name": "HP OmniBook Ultra 14\" Touchscreen Gen AI PC Laptop - Meteor silver (AMD Ryzen AI 9 365/16GB RAM/1TB SSD/Win11)",
+  "market": "CA",
+  "series": "Ultra",
+  "sku": "18469687",
+  "reviews": 10,
+  "avg_rating": 4.3,
+  "satisfaction": 90.0,
+  "first_review": "",
+  "top_complaint": "Build & Keyboard"
+ },
+ {
+  "product_key": "us_6667998",
+  "name": "HP - OmniBook Ultra 14\" 3K OLED Touchscreen Laptop - Snapdragon X2 Elite - 32GB Memory - 1TB SSD - Copilot+ PC - Stone Blue",
+  "market": "US",
+  "series": "Ultra",
+  "sku": "6667998",
+  "reviews": 3,
+  "avg_rating": 5.0,
+  "satisfaction": 100.0,
+  "first_review": "2026-05-09",
+  "top_complaint": "—"
+ },
+ {
+  "product_key": "us_6667997",
+  "name": "HP - OmniBook Ultra - 14\" 3K OLED Touchscreen Laptop - Intel Core Ultra X9 (2026) - 32GB Memory - 1TB SSD - Copilot+ PC - Silk Sand",
+  "market": "US",
+  "series": "Ultra",
+  "sku": "6667997",
+  "reviews": 2,
+  "avg_rating": 2.5,
+  "satisfaction": 50.0,
+  "first_review": "2026-05-29",
+  "top_complaint": "Performance & Chip"
+ }
+]

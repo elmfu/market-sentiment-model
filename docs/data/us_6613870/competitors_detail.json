@@ -1,0 +1,172 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 6,
+      "reviews": [
+        {
+          "title": "Not Just a 2-in-1",
+          "body": "Coming from a clamshell laptop, this omnibook x flip 2-in-1 is amazing! I don't need top specs for heavy tasks, and the versatility of flipping it into a (thick) tablet is a breath of fresh air. The keyboard when folded into tablet mode doesn't get activated when you place it on your lap or scrunche",
+          "excerpt": "Now I rarely touch my iPad Air since I can do most of if not all my daily routines on this omnibook with a bigger screen and a true desktop environment.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Love It!!",
+          "body": "Absolutely love my new laptop! I was always a MacBook fan, but mine crapped out on me, and this has been the best possible replacement! I’m a teacher and I’m planning a wedding, so it is working hard and working well! Would definitely buy again!",
+          "excerpt": "I was always a MacBook fan, but mine crapped out on me, and this has been the best possible replacement!",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "decent ...but could be better",
+          "body": "The all-metal build does feel very good and for under $400 open-box+excellent it's good value .. but some aspects highlighted by Ad-like sounding reviews need to be highlighted\n\n1. the speakers are *not* located left/right of the keyboard; those are fake speaker grilles. The speakers are behind the ",
+          "excerpt": "Display is glossy and reflections are handled less well than on Apple devices.",
+          "rating": 2,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": "3 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 4,
+      "reviews": [
+        {
+          "title": "Love this",
+          "body": "I started with the Lenovo yoga, but after a week, the screen went black, so I went back and got this one instead to replace it, and I am so happy with it. It has Face ID, the keyboard is very comfortable, and that’s touch screen is very very responsive, so it’s perfect. The display is very nice, and",
+          "excerpt": "I started with the Lenovo yoga, but after a week, the screen went black, so I went back and got this one instead to replace it, and I am so happy with it.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "You want YOGA",
+          "body": "Very sleek luxurious design. I absolutely love how light but sturdy this computer is and the display is beautifully crisp and clear!",
+          "excerpt": "You want YOGA",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Fair Laptop",
+          "body": "So i got two of these Copilot+ PC laptops/ tablet. This one is HP and it’s good overall but the display hurts my eyes, 1020x1200 it’s not crisp sharp like not at all, I got a lenovo with the same display but the screen is oled and it’s a big difference, i’ll be returning this one soon, not worth it.",
+          "excerpt": "This one is HP and it’s good overall but the display hurts my eyes, 1020x1200 it’s not crisp sharp like not at all, I got a lenovo with the same display but the screen is oled and it’s a big differenc",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": "1 additional review(s) also mention Lenovo."
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "Copilot game pc, Buy the victus instead .",
+          "body": "Nice computer, BUT! Did not know it was a Copilot PC. The Ram is not in any way upgradable and the M.2 SSD is upgradable with a large caveat. Because this is a copilot pc it is running a special edition of windows 11, witch can not be clean installed.. Instead you need to create a recovery drive and",
+          "excerpt": "All in all it’s a good replacement for my aging DELL business machine.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Poor quality",
+          "body": "I was looking forward to buying this laptop as a replacement for my Dell Inspiron that was almost a decade old. After using this for 2 months, I am so disappointed with the built quality compared to my Dell. There is so much backlight bleeding, and the materials feel CHEAP. I dropped the laptop from",
+          "excerpt": "I was looking forward to buying this laptop as a replacement for my Dell Inspiron that was almost a decade old.",
+          "rating": 2,
+          "sentiment": "negative"
+        },
+        {
+          "title": "So far so goid",
+          "body": "The hp rep was on-site and was able to find a replacement for the Dell that was an upgrade.  With windows 10 home edition being end of life there was little choice but to upgrade to windows 11.  So far no complaints other than the usual migration from old to new",
+          "excerpt": "The hp rep was on-site and was able to find a replacement for the Dell that was an upgrade.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Chromebook",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "Great for Online College Courses",
+          "body": "This was the perfect laptop for my wife to use for online college courses.  Works great with the lockdown browser she needs to use when taking tests.  She needed this to replace her Chromebook that was not compatible.",
+          "excerpt": "She needed this to replace her Chromebook that was not compatible.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Terrible Best Buy is GONE Lauren Marcove",
+          "body": "It just freezes \nI didn’t like the way the salesman rushed \nI can’t download my pictures. Your agent couldn’t even do it when he got on my computer via getting into my screen \nThe last Chromebook broke down. The guy came over couldn’t even fix it didn’t even try. Told me I had to take it in. I could",
+          "excerpt": "Your agent couldn’t even do it when he got on my computer via getting into my screen \nThe last Chromebook broke down.",
+          "rating": 1,
+          "sentiment": "negative"
+        },
+        {
+          "title": "It's amazing and so is Best Buy",
+          "body": "I had an old Chromebook laptop, and when I bought this one, it took some getting used to, but it is amazing.  It is faster than fast, the picture is great, and I really love it.  I've only had this for a few weeks.  Already, I can't imagine not having this laptop.  The employees at Best Buy are amaz",
+          "excerpt": "I had an old Chromebook laptop, and when I bought this one, it took some getting used to, but it is amazing.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "decent ...but could be better",
+          "body": "The all-metal build does feel very good and for under $400 open-box+excellent it's good value .. but some aspects highlighted by Ad-like sounding reviews need to be highlighted\n\n1. the speakers are *not* located left/right of the keyboard; those are fake speaker grilles. The speakers are behind the ",
+          "excerpt": "The speakers are behind the touch rest and the sound comes out of 2 small slits facing the users - for usable sound the laptop will need to be placed on a hard surface (i.e.",
+          "rating": 2,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "ASUS",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "decent ...but could be better",
+          "body": "The all-metal build does feel very good and for under $400 open-box+excellent it's good value .. but some aspects highlighted by Ad-like sounding reviews need to be highlighted\n\n1. the speakers are *not* located left/right of the keyboard; those are fake speaker grilles. The speakers are behind the ",
+          "excerpt": "Sound quality (stereo separation, clarity, \"fullness\") is light years away from Asus Zephyrus G16, G14 + MBP 14 devices I own.",
+          "rating": 2,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Acer",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Great 2-in-1 laptop with stylus support.",
+          "body": "I was shopping for a convertible touchscreen, 2-in-1 with stylus support, that had decent processor speeds, Windows Home 11, decent at a decent price. This was on sale for about %40 off, has backlit keyboard that can be turned on/off, face recognition, among others. Even though Home does not come eq",
+          "excerpt": "i bought this for my side gig and had purchased an ACER laptop about a year earlier for personaL use.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Upgrade To HP",
+          "body": "This laptop is just what I needed to upgrade my old Slow Samsung laptop. The battery life is amazing and the screen pops to life when I am ready to use it. I get comfort in knowing that HP backs up their products.",
+          "excerpt": "This laptop is just what I needed to upgrade my old Slow Samsung laptop.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "competitors": [
+    {
+      "brand": "Lenovo",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Great Laptop in the Rampocalypse Era",
+          "body": "Long time Lenovo user and thought I should give HP a try for this CPU generation. Very happy with this laptop overall. It has a premium feel and look, and it handles both my work and a heavy gaming load without breaking a sweat. I genuinely couldn’t be happier with the performance and build quality ",
+          "excerpt": "Long time Lenovo user and thought I should give HP a try for this CPU generation.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

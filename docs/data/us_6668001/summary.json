@@ -1,0 +1,25 @@
+{
+  "product": "HP - OmniBook X - 14\" 2K OLED Touchscreen Laptop - Snapdragon X Plus (2025) - 16GB Memory - 512GB SSD - Copilot+ PC - Meteor Silver",
+  "source": "bestbuy.com",
+  "market": "US",
+  "total": 46,
+  "with_text": 46,
+  "date_range": "2026-04-10 to 2026-07-03",
+  "avg_rating": 4.74,
+  "satisfaction_score": 95.7,
+  "star_distribution": {
+    "1": 0,
+    "2": 1,
+    "3": 1,
+    "4": 7,
+    "5": 37
+  },
+  "sentiment": {
+    "positive": 44,
+    "neutral": 1,
+    "negative": 1,
+    "positive_pct": 95.7,
+    "neutral_pct": 2.2,
+    "negative_pct": 2.2
+  }
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "topic": "performance",
+    "label": "Performance & Chip",
+    "total": 104,
+    "positive": 97,
+    "neutral": 5,
+    "negative": 2,
+    "positive_pct": 93.3,
+    "negative_pct": 1.9,
+    "net_score": 91.4
+  },
+  {
+    "topic": "display",
+    "label": "Display Quality",
+    "total": 78,
+    "positive": 69,
+    "neutral": 5,
+    "negative": 4,
+    "positive_pct": 88.5,
+    "negative_pct": 5.1,
+    "net_score": 83.4
+  },
+  {
+    "topic": "build_quality",
+    "label": "Build & Keyboard",
+    "total": 77,
+    "positive": 70,
+    "neutral": 5,
+    "negative": 2,
+    "positive_pct": 90.9,
+    "negative_pct": 2.6,
+    "net_score": 88.3
+  },
+  {
+    "topic": "battery",
+    "label": "Battery Life",
+    "total": 64,
+    "positive": 57,
+    "neutral": 4,
+    "negative": 3,
+    "positive_pct": 89.1,
+    "negative_pct": 4.7,
+    "net_score": 84.4
+  },
+  {
+    "topic": "price_value",
+    "label": "Price & Value",
+    "total": 57,
+    "positive": 49,
+    "neutral": 3,
+    "negative": 5,
+    "positive_pct": 86.0,
+    "negative_pct": 8.8,
+    "net_score": 77.2
+  },
+  {
+    "topic": "software_ecosystem",
+    "label": "Software & Ecosystem",
+    "total": 50,
+    "positive": 43,
+    "neutral": 3,
+    "negative": 4,
+    "positive_pct": 86.0,
+    "negative_pct": 8.0,
+    "net_score": 78.0
+  },
+  {
+    "topic": "ports",
+    "label": "Ports & Connectivity",
+    "total": 35,
+    "positive": 32,
+    "neutral": 2,
+    "negative": 1,
+    "positive_pct": 91.4,
+    "negative_pct": 2.9,
+    "net_score": 88.5
+  },
+  {
+    "topic": "thermals",
+    "label": "Thermals & Cooling",
+    "total": 22,
+    "positive": 19,
+    "neutral": 3,
+    "negative": 0,
+    "positive_pct": 86.4,
+    "negative_pct": 0.0,
+    "net_score": 86.4
+  },
+  {
+    "topic": "repairability",
+    "label": "Repairability",
+    "total": 7,
+    "positive": 3,
+    "neutral": 1,
+    "negative": 3,
+    "positive_pct": 42.9,
+    "negative_pct": 42.9,
+    "net_score": 0.0
+  }
+]

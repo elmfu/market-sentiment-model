@@ -1,0 +1,172 @@
+{
+  "competitors": [
+    {
+      "brand": "Microsoft",
+      "total_mentions": 8,
+      "reviews": [
+        {
+          "title": "No bueno and returned.",
+          "body": "Positives: Great trackpad and keyboard\n\nProblems: Rounded corners make it hard to open when closed. The screen surface was uneven where glued at the top of the screen across the body of the lid causing glare and reflection issues when looking at the screen. Body is coated in something that made it f",
+          "excerpt": "The screen surface was uneven where glued at the top of the screen across the body of the lid causing glare and reflection issues when looking at the screen.",
+          "rating": 2,
+          "sentiment": "negative"
+        },
+        {
+          "title": "Nice going",
+          "body": "Fast, smooth. Compared with the nightmare I've had with the Surface 11 ARM (which couldnt connect with anything), the Lenovo Yogo (which couldnt connect with my headset), the Dell 9450 (crazy expensive, slow, heavy, crashed non-stop), this is a very good buy. I only wish the 32g version was readily ",
+          "excerpt": "Compared with the nightmare I've had with the Surface 11 ARM (which couldnt connect with anything), the Lenovo Yogo (which couldnt connect with my headset), the Dell 9450 (crazy expensive, slow, heavy",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Awesome featured all around home/business laptop",
+          "body": "A couple months ago, I was on the market for a home laptop. My requirements, something decently powerful that I could use for compile heavy tech projects or to run ECAD software locally. It would need an okay GPU, not top of the line but able to handle ECAD and occasional gaming sessions. I wanted i",
+          "excerpt": "While theoretically, the surface should be a fingerprint magnet, in practice, I’ve found that it doesn’t seem to pick them up that much and so I rarely notice.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "5 additional review(s) also mention Microsoft."
+    },
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 7,
+      "reviews": [
+        {
+          "title": "The HP Omnibook Ultra Flip is the Total Package",
+          "body": "Over the past few years, I've been in search of an ultraportable Windows premium laptop that combines everything -- an eye-popping display, a responsive haptic trackpad, a buttery keyboard, long battery life, snappy performance, and easy portability.\n\nI've tried the Lenovo X1 Carbon, the Dell XPS,  ",
+          "excerpt": "* It has the best haptic trackpad of any Windows device I've used (although MacBook Pro trackpads are superb),\n\n*  The keyboard is outstanding with large letters and nice travel.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "HP and Intel made a wonderful machine.",
+          "body": "As like most people, I'm normally biased to windows based laptops having the highest specs in certain areas, but I became very interested in this model due to it being one of the first options with an Intel Lunar Lake SoC. While I have had and used stronger laptops in regards to overall CPU/GPU perf",
+          "excerpt": "It was obviously quite balanced and powerful relative to other market options, but it did struggle to hold its own versus something like a MacBook with Apple silicon when it came to sheer battery life",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Elegant and superior 2-in-1 from HP!",
+          "body": "The HP OmniBook Ultra Flip is a major, major, major GO! I cannot speak for anyone else, but the keyboard and trackpad are utter magic; I would say it is a shorter travel distance, chicklet style keyboard that is Macbook Pro-like but better and quieter.  The build quality seems to be the best I have ",
+          "excerpt": "I cannot speak for anyone else, but the keyboard and trackpad are utter magic; I would say it is a shorter travel distance, chicklet style keyboard that is Macbook Pro-like but better and quieter.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "4 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 6,
+      "reviews": [
+        {
+          "title": "The HP Omnibook Ultra Flip is the Total Package",
+          "body": "Over the past few years, I've been in search of an ultraportable Windows premium laptop that combines everything -- an eye-popping display, a responsive haptic trackpad, a buttery keyboard, long battery life, snappy performance, and easy portability.\n\nI've tried the Lenovo X1 Carbon, the Dell XPS,  ",
+          "excerpt": "I've tried the Lenovo X1 Carbon, the Dell XPS,  the Lenovo Slim 7x and the Asus Zenbook OLED models.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Nice going",
+          "body": "Fast, smooth. Compared with the nightmare I've had with the Surface 11 ARM (which couldnt connect with anything), the Lenovo Yogo (which couldnt connect with my headset), the Dell 9450 (crazy expensive, slow, heavy, crashed non-stop), this is a very good buy. I only wish the 32g version was readily ",
+          "excerpt": "Compared with the nightmare I've had with the Surface 11 ARM (which couldnt connect with anything), the Lenovo Yogo (which couldnt connect with my headset), the Dell 9450 (crazy expensive, slow, heavy",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Not a spectre replacement",
+          "body": "Having owned two Spectre laptops prior to this Omnibook, I have noticed a significant decline in build quality. Despite resembling the Spectre in shape, the Omnibook feels far less robust. The screen frequently cuts in and out with every flip and even while adjusting the angle in laptop mode, which ",
+          "excerpt": "The outer shell lacks a premium feel that competitors provide; for instance, Lenovo uses beautiful metal, Asus innovates with ceraluminum, and Dell delivers a more high-end build quality.",
+          "rating": 2,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": "3 additional review(s) also mention Lenovo."
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 5,
+      "reviews": [
+        {
+          "title": "The HP Omnibook Ultra Flip is the Total Package",
+          "body": "Over the past few years, I've been in search of an ultraportable Windows premium laptop that combines everything -- an eye-popping display, a responsive haptic trackpad, a buttery keyboard, long battery life, snappy performance, and easy portability.\n\nI've tried the Lenovo X1 Carbon, the Dell XPS,  ",
+          "excerpt": "I've tried the Lenovo X1 Carbon, the Dell XPS,  the Lenovo Slim 7x and the Asus Zenbook OLED models.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Nice going",
+          "body": "Fast, smooth. Compared with the nightmare I've had with the Surface 11 ARM (which couldnt connect with anything), the Lenovo Yogo (which couldnt connect with my headset), the Dell 9450 (crazy expensive, slow, heavy, crashed non-stop), this is a very good buy. I only wish the 32g version was readily ",
+          "excerpt": "Compared with the nightmare I've had with the Surface 11 ARM (which couldnt connect with anything), the Lenovo Yogo (which couldnt connect with my headset), the Dell 9450 (crazy expensive, slow, heavy",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Not a spectre replacement",
+          "body": "Having owned two Spectre laptops prior to this Omnibook, I have noticed a significant decline in build quality. Despite resembling the Spectre in shape, the Omnibook feels far less robust. The screen frequently cuts in and out with every flip and even while adjusting the angle in laptop mode, which ",
+          "excerpt": "The outer shell lacks a premium feel that competitors provide; for instance, Lenovo uses beautiful metal, Asus innovates with ceraluminum, and Dell delivers a more high-end build quality.",
+          "rating": 2,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": "2 additional review(s) also mention Dell."
+    },
+    {
+      "brand": "ASUS",
+      "total_mentions": 5,
+      "reviews": [
+        {
+          "title": "The HP Omnibook Ultra Flip is the Total Package",
+          "body": "Over the past few years, I've been in search of an ultraportable Windows premium laptop that combines everything -- an eye-popping display, a responsive haptic trackpad, a buttery keyboard, long battery life, snappy performance, and easy portability.\n\nI've tried the Lenovo X1 Carbon, the Dell XPS,  ",
+          "excerpt": "I've tried the Lenovo X1 Carbon, the Dell XPS,  the Lenovo Slim 7x and the Asus Zenbook OLED models.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Not a spectre replacement",
+          "body": "Having owned two Spectre laptops prior to this Omnibook, I have noticed a significant decline in build quality. Despite resembling the Spectre in shape, the Omnibook feels far less robust. The screen frequently cuts in and out with every flip and even while adjusting the angle in laptop mode, which ",
+          "excerpt": "The outer shell lacks a premium feel that competitors provide; for instance, Lenovo uses beautiful metal, Asus innovates with ceraluminum, and Dell delivers a more high-end build quality.",
+          "rating": 2,
+          "sentiment": "negative"
+        },
+        {
+          "title": "Worth the extra",
+          "body": "I've tried both the Vivobook and the XPS 13 in the Lunar lake line. The vivobook was almost good but the build quality was just meh. The XPS was beautiful but the keyboard is just awful. I thought I could get used to it but it's just form over function. \n\nThe omnibook has been great. Touchscreen and",
+          "excerpt": "I've tried both the Vivobook and the XPS 13 in the Lunar lake line.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "2 additional review(s) also mention ASUS."
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "HP and Intel made a wonderful machine.",
+          "body": "As like most people, I'm normally biased to windows based laptops having the highest specs in certain areas, but I became very interested in this model due to it being one of the first options with an Intel Lunar Lake SoC. While I have had and used stronger laptops in regards to overall CPU/GPU perf",
+          "excerpt": "I believe it uses an alt variation of the original Samsung 120hz model that showed up in early laptops this year.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Chromebook",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Awesome featured all around home/business laptop",
+          "body": "A couple months ago, I was on the market for a home laptop. My requirements, something decently powerful that I could use for compile heavy tech projects or to run ECAD software locally. It would need an okay GPU, not top of the line but able to handle ECAD and occasional gaming sessions. I wanted i",
+          "excerpt": "I was leaning a bit towards a chromebook but once I added the need to compile locally versus doing the work over remote desktop to my desktop computer, that eliminated those.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 34,
+      "pct_of_reviews": 35.8,
+      "quotes": [
+        "Nothing else stands out as different between the two in terms of performance for remote video conferencing work.",
+        "I like HP, and this new laptop with the Snapdragon X Plus chip and HP’s AI software is great.",
+        "I notice a faster bootup and no occasional video lag with this laptop."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 26,
+      "pct_of_reviews": 27.4,
+      "quotes": [
+        "The features I like are the camera closing slide, touch screen if desired, it is sleek, and it is not slow.",
+        "It’s slim and light, lasts all day on a battery, it’s fast and it doesn’t feel like a flimsy plastic toy.",
+        "I really like the screen quality and resolution along with the quickness of the processor."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 24,
+      "pct_of_reviews": 25.3,
+      "quotes": [
+        "It has an extremely superior battery compared to the Thinkpad.",
+        "Battery life is around 14-18 hours, but Spotify and Power Automate can drain it.",
+        "Clear picture, very light, long battery life."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 18,
+      "pct_of_reviews": 18.9,
+      "quotes": [
+        "(I’m no tech geek.)                    So, I am loving the HP Omnibook alot more; even though it was less than half the price of my Thinkpad T14 Gen5!",
+        "For the price, this laptop performs well, and I’m happy with my purchase.",
+        "If not for the sale price, I would not have purchased because of the input issue."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 16,
+      "pct_of_reviews": 16.8,
+      "quotes": [
+        "Overall o am pleased with the hardware and window11+ copilot operating system.",
+        "I bought this laptop to replace my HP Star Wars laptop, which couldn’t meet Windows 11’s hardware requirements.",
+        "No issue with the software I have been using."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Price & Value",
+      "count": 3,
+      "pct_of_reviews": 3.2,
+      "quotes": [
+        "Money wasted im never buying any hp product."
+      ]
+    },
+    {
+      "theme": "Repairability",
+      "count": 3,
+      "pct_of_reviews": 3.2,
+      "quotes": [
+        "I've talked to HP but they want to fight me on this and are reluctant to fix the touchpad.",
+        "Please Lord let the warranty still apply...",
+        "Now it has been sent off for \"repair.\" Will be over 2 weeks at least."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 2,
+      "pct_of_reviews": 2.1,
+      "quotes": [
+        "Screen would go black after 2nd day of ownership.",
+        "And now all of a sudden less than 6 months later the screen is black, fan is blowing constantly and it won't turn on."
+      ]
+    },
+    {
+      "theme": "Thermals & Cooling",
+      "count": 2,
+      "pct_of_reviews": 2.1,
+      "quotes": [
+        "And now all of a sudden less than 6 months later the screen is black, fan is blowing constantly and it won't turn on."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 2,
+      "pct_of_reviews": 2.1,
+      "quotes": [
+        "I've talked to HP but they want to fight me on this and are reluctant to fix the touchpad.",
+        "Must restart multiple times for the trackpad to register inputs at start up when it stops working."
+      ]
+    }
+  ]
+}

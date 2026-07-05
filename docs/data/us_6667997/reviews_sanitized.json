@@ -1,0 +1,30 @@
+[
+  {
+    "review_id": "f7215f50-45a3-3bf3-8200-7b27e2479b7b",
+    "product_key": "us_6667997",
+    "market": "US",
+    "sku": "6667997",
+    "submitted_at": "2026-06-28T01:16:08.000-05:00",
+    "rating": 4,
+    "title": "Great Laptop in the Rampocalypse Era",
+    "body": "Long time Lenovo user and thought I should give HP a try for this CPU generation. Very happy with this laptop overall. It has a premium feel and look, and it handles both my work and a heavy gaming load without breaking a sweat. I genuinely couldn’t be happier with the performance and build quality from HP.\n\nThe biggest drawback is that HP effectively forces you to use their companion software to access performance profiles. If you do a fresh install of Windows 11 and skip HP’s app, the system will aggressively throttle, so having access to HP’s performance profiles is essential to get the performance you paid for.\n\nI also run Fedora 44 on this machine. As of this writing, onboard sound doesn’t work under Fedora yet, and it will likely require a newer kernel before audio support is fully functional. It also would have been much nicer if this laptop shipped with a 2TB SSD by default, given its performance and price bracket.\n\nInterestingly, I also tried the Omnibook X with the Panther Lake X7, and gaming performance on that weaker configuration was actually better than on this X9 model. Overall, I’m still optimistic this laptop will carry me comfortably through Rampocalypse 2026",
+    "is_recommended": true,
+    "helpful_votes": 2,
+    "verified": false,
+    "lang": "en"
+  },
+  {
+    "review_id": "c3a4ca2b-6892-318a-9d22-16ea7af7b6ec",
+    "product_key": "us_6667997",
+    "market": "US",
+    "sku": "6667997",
+    "submitted_at": "2026-05-29T10:38:00.000-05:00",
+    "rating": 1,
+    "title": "Horrible laptop",
+    "body": "This laptop was huge disappointment.  Build quality is Horrible.  Proformance is even worse.  \nIts not intel chip thats the issue. Its HP failed again with this gen. I recommend another maker if you want intel panther lake 388h.",
+    "is_recommended": false,
+    "helpful_votes": 1,
+    "verified": false,
+    "lang": "en"
+  }
+]

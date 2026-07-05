@@ -1,0 +1,103 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 132,
+      "pct_of_reviews": 42.0,
+      "quotes": [
+        "* The Lunar Lake Intel processor is plenty quick, even with multiple Chrome tabs and Office apps open.",
+        "Fast Bluetooth & WiFi, Intel Arc graphics & long battery life add to this dream machine.",
+        "Processor and Storage:\nThe Intel Core Ultra 7 Series 2 Evo Edition processor is very fast."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 124,
+      "pct_of_reviews": 39.5,
+      "quotes": [
+        "The haptic touchpad is oversize; the keyboard is backlit & the keys are large, further enhancing the ease of use.",
+        "The Design\nThis is just a beautiful computer and hats off to HP for coming up with a very awesome machine.",
+        "*The overall design, Keyboard, trackpad and audio are all above my expectations."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 123,
+      "pct_of_reviews": 39.2,
+      "quotes": [
+        "I've tried the Lenovo X1 Carbon, the Dell XPS,  the Lenovo Slim 7x and the Asus Zenbook OLED models.",
+        "This dark gray color perfectly blends with virtually any office or home.",
+        "On the top right is the power button in a light blue color, also doubles as a finger print scanner which I found to work about half the time."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 75,
+      "pct_of_reviews": 23.9,
+      "quotes": [
+        "* The battery life is long, and I can easily get through a full day on a single charge.",
+        "Fast Bluetooth & WiFi, Intel Arc graphics & long battery life add to this dream machine.",
+        "Battery Life: Very good so far in the past weeks I have been using it."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 70,
+      "pct_of_reviews": 22.3,
+      "quotes": [
+        "* The Lunar Lake Intel processor is plenty quick, even with multiple Chrome tabs and Office apps open.",
+        "The HP - OmniBook Ultra Flip - Copilot+ PC is the latest example.",
+        "the Bluetooth adapter would not recognize or pair a Bluetooth Microsoft mouse."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Build & Keyboard",
+      "count": 5,
+      "pct_of_reviews": 1.6,
+      "quotes": [
+        "Build quality is great, screen etc just like the previous hp spectres.",
+        "Positives: Great trackpad and keyboard\n\nProblems: Rounded corners make it hard to open when closed.",
+        "Looks good but it’s build quality is not good."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 4,
+      "pct_of_reviews": 1.3,
+      "quotes": [
+        "ive tried everything but the numbers are comparable to or below 8000u ryzen series igpu performance.",
+        "To me this is unacceptable, inconsistent with HP warranty terms, and abysmal performance relative to HP's key competitors (primarily Dell)."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 4,
+      "pct_of_reviews": 1.3,
+      "quotes": [
+        "Build quality is great, screen etc just like the previous hp spectres.",
+        "I looked at other display units in store after the fact and they all had similar issues with the screen.",
+        "The screen frequently cuts in and out with every flip and even while adjusting the angle in laptop mode, which is both frustrating and distracting."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 3,
+      "pct_of_reviews": 1.0,
+      "quotes": [
+        "The keys and keyboard also feel cheap and plastic, which is disappointing for a laptop at this price point.",
+        "Horrible service especially price matched experience",
+        "I guess if you want to have a tablet and pc, maybe it would be worth the money."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 2,
+      "pct_of_reviews": 0.6,
+      "quotes": [
+        "Audio did not work, reinstalling driver and finaly factory reset did not help"
+      ]
+    }
+  ]
+}

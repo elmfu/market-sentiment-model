@@ -1,0 +1,106 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 383,
+      "pct_of_reviews": 27.2,
+      "quotes": [
+        "I am able to enjoy windows 11 spectacular performance, as well as a great battery life.",
+        "The integrated NPU (Neural Processing Unit) and Ryzen AI 5 work silently in the background to make everything smoother.",
+        "I needed a high-performance machine with plenty of RAM, a powerful processor, and a good-quality display—and this laptop delivers on all fronts."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 353,
+      "pct_of_reviews": 25.0,
+      "quotes": [
+        "The price I paid for what I got was phenomenal!",
+        "The one i was looking at was around 300 on sale and thus one was 600 on sale.",
+        "It’s all about name brand it’s about quality and price point."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 339,
+      "pct_of_reviews": 24.0,
+      "quotes": [
+        "The touch screen display is very vivid and bright too!",
+        "Stunning Design and Display: The Meteor Silver finish is sleek, professional, and feels premium.",
+        "The screen is perfect, not too small and not too big."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 296,
+      "pct_of_reviews": 21.0,
+      "quotes": [
+        "Stunning Design and Display: The Meteor Silver finish is sleek, professional, and feels premium.",
+        "It’s all about name brand it’s about quality and price point.",
+        "I needed a high-performance machine with plenty of RAM, a powerful processor, and a good-quality display—and this laptop delivers on all fronts."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 130,
+      "pct_of_reviews": 9.2,
+      "quotes": [
+        "I am able to enjoy windows 11 spectacular performance, as well as a great battery life.",
+        "Battery Life is a Game-Changer: HP's claims are not exaggerated.",
+        "The RAM and the memory capacity is just about right for daily office work and the resolution is fantastic and the battery lasts longer than my Dell!!!"
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Display Quality",
+      "count": 14,
+      "pct_of_reviews": 1.0,
+      "quotes": [
+        "The first unit had horrible screen bleeding, the store display units did too.",
+        "The touchscreen would stop working until I pressed a something on the keyboard.",
+        "The Experience:\nI attempted to render a standard 1.5-hour video at only 480p resolution."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 13,
+      "pct_of_reviews": 0.9,
+      "quotes": [
+        "Even at the price of $500, it's still not getting what you paid for when half the features break or just don't work.",
+        "Delivered outside my apt 10pm at night.....for anyone to steal and refused to refund my money for a Brand new Lap Top!!!!!!!!!",
+        "The sleek design is not worth the constant thermal failures."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 12,
+      "pct_of_reviews": 0.9,
+      "quotes": [
+        "I have installed all the updates and it keeps giving me the same problem.",
+        "They told me it was essentially a corrupted software trying to fix itself.",
+        "I finally got fed up with not getting anything accomplished due to the MANY windows 11 updates or getting kicked of the internet."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 11,
+      "pct_of_reviews": 0.8,
+      "quotes": [
+        "The touchscreen would stop working until I pressed a something on the keyboard.",
+        "The left side of the chassis becomes dangerously hot while the right side remains cold, indicating a major flaw in internal heat distribution.",
+        "I could deal with the weight of the laptop but not the pin issue."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 10,
+      "pct_of_reviews": 0.7,
+      "quotes": [
+        "I am extremely disappointed with the thermal performance of this laptop.",
+        "Display is good, speed is good but not worth it for a laptop that internally breaks less than a year in!",
+        "When Copilot+ runs it makes the laptop get too hot to use on a lap as the case heats up and the fans run full speed."
+      ]
+    }
+  ]
+}

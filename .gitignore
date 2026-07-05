@@ -16,6 +16,19 @@ env/
 .env
 *.env
 secrets.json
+.claude/
+
+# Local-only data — raw scraped JSON with usernames/PII. NEVER commit.
+_private/
+raw_data/
+bby_reviews_*.json
+.scrape_state.json
+
+# Old database paths (purged from history via filter-repo 2026-07-05)
+data/reddit_databasev3/
+data/bby_databasev3/
+data/hn_databasev3/
+data/devto_databasev3/
 
 # SQLite databases (large binary — use exported JSON files instead)
 *.db
@@ -34,5 +47,11 @@ checkpoint.json
 *.tmp
 *.bak
 
-# Build artifacts (standalone_v3.html is committed intentionally)
+# Build artifacts
 __pycache__/
+
+# LLM input files contain full review text — not for public repo
+_private/llm_input/
+
+# Local archive (old project files)
+_archive/
