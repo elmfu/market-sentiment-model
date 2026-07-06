@@ -113,8 +113,11 @@ body { margin:0; display:flex; min-height:100vh; }
 .msg { max-width:85%; padding:9px 12px; border-radius:10px; font-size:13px; line-height:1.5; white-space:pre-wrap; }
 .msg.user { align-self:flex-end; background:var(--hl-blue); color:var(--text); }
 .msg.bot { align-self:flex-start; background:var(--bg2); border:1px solid var(--border); color:var(--text); }
-.msg.bot table { border-collapse:collapse; margin-top:6px; font-size:12px; }
-.msg.bot td, .msg.bot th { border:1px solid var(--border2); padding:4px 8px; }
+.msg.bot table { border-collapse:collapse; margin:6px 0; font-size:11.5px; display:block;
+  overflow-x:auto; max-width:100%; white-space:nowrap; }
+.msg.bot td, .msg.bot th { border:1px solid var(--border2); padding:4px 8px; text-align:left; }
+.msg.bot th { background:var(--bg3); font-weight:600; }
+.msg.bot code { background:var(--bg3); padding:1px 4px; border-radius:4px; font-size:11px; }
 .msg.sys { align-self:center; font-size:12px; color:var(--text-mute); background:none; }
 #aiLogin { padding:22px 18px; display:flex; flex-direction:column; gap:10px; }
 #aiLogin input, #aiInputRow input { padding:9px 12px; border:1px solid var(--border2); border-radius:8px;
@@ -435,7 +438,7 @@ function addMsg(cls, text) {
 }
 
 function renderBot(text) {
-  // supports the JSON contract {text, table:{headers,rows}} from the worker
+  // 1. JSON contract {text, table:{headers,rows}} from the worker
   const m = text.match(/```json\s*([\s\S]*?)```/);
   if (m) {
     try {
@@ -446,7 +449,40 @@ function renderBot(text) {
       return html;
     } catch(e) {}
   }
-  return esc(text);
+  // 2. Markdown fallback: tables, bold, bullets, headings
+  return renderMarkdown(text);
+}
+
+function renderMarkdown(text) {
+  const inline = s => esc(s)
+    .replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>")
+    .replace(/`([^`]+)`/g, "<code>$1</code>");
+
+  const lines = text.split(/\r?\n/);
+  let html = "", tableRows = [];
+
+  const flushTable = () => {
+    if (!tableRows.length) return;
+    const rows = tableRows.filter(r => !/^\s*\|?[\s:|-]+\|?\s*$/.test(r)); // drop |---| separator
+    html += "<table>" + rows.map((r, i) => {
+      const cells = r.replace(/^\s*\|/, "").replace(/\|\s*$/, "").split("|").map(c => c.trim());
+      const tag = i === 0 ? "th" : "td";
+      return "<tr>" + cells.map(c => `<${tag}>${inline(c)}</${tag}>`).join("") + "</tr>";
+    }).join("") + "</table>";
+    tableRows = [];
+  };
+
+  for (const line of lines) {
+    if (/^\s*\|.*\|\s*$/.test(line)) { tableRows.push(line); continue; }
+    flushTable();
+    const t = line.trim();
+    if (t === "") { html += "<br>"; continue; }
+    if (/^###?\s+/.test(t)) { html += `<b>${inline(t.replace(/^#+\s+/, ""))}</b><br>`; continue; }
+    if (/^[-*]\s+/.test(t)) { html += `&bull; ${inline(t.replace(/^[-*]\s+/, ""))}<br>`; continue; }
+    html += inline(t) + "<br>";
+  }
+  flushTable();
+  return html.replace(/(<br>)+$/, "");
 }
 
 function aiContextString() {
