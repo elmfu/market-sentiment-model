@@ -458,6 +458,13 @@ function renderMarkdown(text) {
     .replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>")
     .replace(/`([^`]+)`/g, "<code>$1</code>");
 
+  // Repair single-line tables (no newline before any pipe): split at row junctions
+  if (text.includes("|") && !/\n\s*\|/.test(text)) {
+    text = text
+      .replace(/\|\s+\|/g, "|\n|")          // "| |" row junction → newline
+      .replace(/([:.])\s{2,}\|/g, "$1\n|"); // prose ending before table start
+  }
+
   const lines = text.split(/\r?\n/);
   let html = "", tableRows = [];
 
