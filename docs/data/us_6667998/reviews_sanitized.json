@@ -11,7 +11,10 @@
     "is_recommended": true,
     "helpful_votes": 2,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP - OmniBook Ultra 14\" 3K OLED Touchscreen Laptop - Snapdragon X2 Elite - 32GB Memory - 1TB SSD - Copilot+ PC - Stone Blue",
+    "topics": "Performance & Chip, Battery Life, Build & Keyboard, Ports & Connectivity, Software & Ecosystem",
+    "competitors": ""
   },
   {
     "review_id": "97b7d868-065f-3d9d-84f1-17e6f976ef4c",
@@ -25,7 +28,10 @@
     "is_recommended": true,
     "helpful_votes": 2,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP - OmniBook Ultra 14\" 3K OLED Touchscreen Laptop - Snapdragon X2 Elite - 32GB Memory - 1TB SSD - Copilot+ PC - Stone Blue",
+    "topics": "Price & Value",
+    "competitors": ""
   },
   {
     "review_id": "38321b50-99d7-35df-b695-d7f65ce95295",
@@ -39,6 +45,9 @@
     "is_recommended": true,
     "helpful_votes": 3,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP - OmniBook Ultra 14\" 3K OLED Touchscreen Laptop - Snapdragon X2 Elite - 32GB Memory - 1TB SSD - Copilot+ PC - Stone Blue",
+    "topics": "Performance & Chip, Display Quality",
+    "competitors": ""
   }
 ]

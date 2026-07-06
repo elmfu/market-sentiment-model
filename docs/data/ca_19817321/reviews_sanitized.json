@@ -11,7 +11,10 @@
     "is_recommended": null,
     "helpful_votes": 0,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 16\" Touchscreen 2-in-1 Laptop - Eclipse Grey (Intel Core Ultra 7-365H/32GB RAM/1TB SSD/Windows 11 Home)",
+    "topics": "Performance & Chip",
+    "competitors": ""
   },
   {
     "review_id": "393662823",
@@ -25,7 +28,10 @@
     "is_recommended": true,
     "helpful_votes": 0,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 16\" Touchscreen 2-in-1 Laptop - Eclipse Grey (Intel Core Ultra 7-365H/32GB RAM/1TB SSD/Windows 11 Home)",
+    "topics": "Performance & Chip, Ports & Connectivity",
+    "competitors": ""
   },
   {
     "review_id": "393579588",
@@ -39,6 +45,9 @@
     "is_recommended": true,
     "helpful_votes": 0,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 16\" Touchscreen 2-in-1 Laptop - Eclipse Grey (Intel Core Ultra 7-365H/32GB RAM/1TB SSD/Windows 11 Home)",
+    "topics": "",
+    "competitors": ""
   }
 ]

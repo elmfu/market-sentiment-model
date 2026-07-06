@@ -106,6 +106,21 @@ def pick_quotes(reviews, topic, positive, n=3):
     return quotes
 
 
+def enrich_reviews(product, reviews):
+    """Add planner columns to each review: topics, full product name, competitors."""
+    pname = product.get("name", product.get("product_key", ""))
+    for r in reviews:
+        text = full_text(r)
+        padded = " " + text.lower() + " "
+        r["product_name"] = pname
+        r["topics"] = ", ".join(TOPIC_LABELS[t] for t in topics_of(text))
+        r["competitors"] = ", ".join(
+            b for b, aliases in COMPETITOR_ALIASES.items()
+            if any(a in padded for a in aliases)
+        )
+    return reviews
+
+
 def consolidate(product, reviews):
     key, market = product["product_key"], product["market"]
     total = len(reviews)
@@ -264,6 +279,8 @@ def main():
         reviews = json.loads(rev_path.read_text(encoding="utf-8"))
         if not reviews:
             continue
+        enrich_reviews(prod, reviews)
+        rev_path.write_text(json.dumps(reviews, ensure_ascii=False, indent=2), encoding="utf-8")
         summary, topics, sw = consolidate(prod, reviews)
         out = DOCS_DATA / key
         (out / "summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8")

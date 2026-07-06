@@ -11,7 +11,10 @@
     "is_recommended": true,
     "helpful_votes": 2,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+    "topics": "Performance & Chip, Battery Life, Display Quality, Build & Keyboard",
+    "competitors": ""
   },
   {
     "review_id": "316898598",
@@ -25,7 +28,10 @@
     "is_recommended": true,
     "helpful_votes": 3,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+    "topics": "",
+    "competitors": ""
   },
   {
     "review_id": "314953526",
@@ -39,7 +45,10 @@
     "is_recommended": null,
     "helpful_votes": 4,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+    "topics": "Performance & Chip, Build & Keyboard",
+    "competitors": ""
   },
   {
     "review_id": "315292815",
@@ -53,7 +62,10 @@
     "is_recommended": true,
     "helpful_votes": 0,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+    "topics": "",
+    "competitors": ""
   },
   {
     "review_id": "294186168",
@@ -67,7 +79,10 @@
     "is_recommended": null,
     "helpful_votes": 0,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+    "topics": "",
+    "competitors": ""
   },
   {
     "review_id": "288326570",
@@ -81,7 +96,10 @@
     "is_recommended": null,
     "helpful_votes": 0,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+    "topics": "Display Quality, Software & Ecosystem",
+    "competitors": ""
   },
   {
     "review_id": "287437076",
@@ -95,7 +113,10 @@
     "is_recommended": true,
     "helpful_votes": 0,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+    "topics": "Battery Life, Display Quality, Build & Keyboard",
+    "competitors": ""
   },
   {
     "review_id": "283465551",
@@ -109,7 +130,10 @@
     "is_recommended": null,
     "helpful_votes": 0,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+    "topics": "Performance & Chip, Display Quality, Build & Keyboard",
+    "competitors": ""
   },
   {
     "review_id": "282597406",
@@ -123,6 +147,9 @@
     "is_recommended": null,
     "helpful_votes": 0,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+    "topics": "",
+    "competitors": ""
   }
 ]

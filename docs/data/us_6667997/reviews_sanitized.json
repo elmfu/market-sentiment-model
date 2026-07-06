@@ -11,7 +11,10 @@
     "is_recommended": true,
     "helpful_votes": 2,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP - OmniBook Ultra - 14\" 3K OLED Touchscreen Laptop - Intel Core Ultra X9 (2026) - 32GB Memory - 1TB SSD - Copilot+ PC - Silk Sand",
+    "topics": "Performance & Chip, Build & Keyboard, Price & Value, Software & Ecosystem",
+    "competitors": "Lenovo"
   },
   {
     "review_id": "c3a4ca2b-6892-318a-9d22-16ea7af7b6ec",
@@ -25,6 +28,9 @@
     "is_recommended": false,
     "helpful_votes": 1,
     "verified": false,
-    "lang": "en"
+    "lang": "en",
+    "product_name": "HP - OmniBook Ultra - 14\" 3K OLED Touchscreen Laptop - Intel Core Ultra X9 (2026) - 32GB Memory - 1TB SSD - Copilot+ PC - Silk Sand",
+    "topics": "Performance & Chip, Build & Keyboard",
+    "competitors": ""
   }
 ]
