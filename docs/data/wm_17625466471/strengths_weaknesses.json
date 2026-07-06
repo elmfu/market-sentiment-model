@@ -1,0 +1,98 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 17,
+      "pct_of_reviews": 60.7,
+      "quotes": [
+        "Its still fairly early days for my Snapdragon laptop and the experience is not without some irritations.",
+        "I didn't buy it for gaming, but I've tried Roblox, Call of Duty, and Elder Scrolls, and they all played brilliantly with no lag or glitches.",
+        "I also love the modern AI features and Copilot integration, which make everything feel smarter and more responsive."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 16,
+      "pct_of_reviews": 57.1,
+      "quotes": [
+        "Seller Verified Purchase This laptop is excellent for battery life and generally works well with most Office / Adobie apps I use along simple games.",
+        "The battery easily lasts all day, which makes it perfect for students or anyone who needs a reliable laptop to carry around.",
+        "Battery life is another standout — it easily lasts all day and charges super quickly when needed."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 14,
+      "pct_of_reviews": 50.0,
+      "quotes": [
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
+        "The HP physical build and erganomices are to the expected high standard."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 10,
+      "pct_of_reviews": 35.7,
+      "quotes": [
+        "Seller Verified Purchase This laptop is excellent for battery life and generally works well with most Office / Adobie apps I use along simple games.",
+        "We’re thrilled the OLED screen is making your apps look sharp and that the Snapdragon® X AI features are keeping things efficient.",
+        "It's beautifully designed, lightweight for its size, and runs whisper-quiet even with multiple apps open."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 8,
+      "pct_of_reviews": 28.6,
+      "quotes": [
+        "We’re thrilled the OLED screen is making your apps look sharp and that the Snapdragon® X AI features are keeping things efficient.",
+        "We designed the 16\" OLED to be a total showstopper, so we’re delighted it’s living up to the hype.",
+        "It sounds like the combination of that 16-inch screen and the 'lasts for ages' battery is exactly what you needed."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Software & Ecosystem",
+      "count": 3,
+      "pct_of_reviews": 10.7,
+      "quotes": [
+        "Seller Verified Purchase There is software issues and the complaint is made.",
+        "To bridge your setup, we highly recommend using a multi-port USB-C hub or adapter."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 2,
+      "pct_of_reviews": 7.1,
+      "quotes": [
+        "Seller Verified Purchase Keyboard light does not illuminate the character on the key.",
+        "We want every part of your experience to feel premium, from the display quality to the touchpad response."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 1,
+      "pct_of_reviews": 3.6,
+      "quotes": [
+        "We designed this OmniBook with ultra-fast USB-C ports to maximize portability, but we know how crucial your existing tools are for daily work."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 1,
+      "pct_of_reviews": 3.6,
+      "quotes": [
+        "We want every part of your experience to feel premium, from the display quality to the touchpad response."
+      ]
+    },
+    {
+      "theme": "Ports & Connectivity",
+      "count": 1,
+      "pct_of_reviews": 3.6,
+      "quotes": [
+        "Seller Verified Purchase For the right person this may be a good computer- however no HDMI, did not work with most of my other needed work hardware."
+      ]
+    }
+  ]
+}

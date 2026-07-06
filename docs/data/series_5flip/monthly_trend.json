@@ -1,0 +1,34 @@
+{
+ "2025-11": {
+  "count": 5,
+  "avg_rating": 5.0
+ },
+ "2025-12": {
+  "count": 10,
+  "avg_rating": 4.4
+ },
+ "2026-01": {
+  "count": 12,
+  "avg_rating": 4.67
+ },
+ "2026-02": {
+  "count": 9,
+  "avg_rating": 4.33
+ },
+ "2026-03": {
+  "count": 2,
+  "avg_rating": 4.5
+ },
+ "2026-04": {
+  "count": 6,
+  "avg_rating": 5.0
+ },
+ "2026-05": {
+  "count": 4,
+  "avg_rating": 4.0
+ },
+ "2026-06": {
+  "count": 2,
+  "avg_rating": 5.0
+ }
+}

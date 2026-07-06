@@ -1,0 +1,58 @@
+{
+  "2025-05": {
+    "count": 1,
+    "avg_rating": 5.0
+  },
+  "2025-06": {
+    "count": 2,
+    "avg_rating": 4.5
+  },
+  "2025-07": {
+    "count": 1,
+    "avg_rating": 5.0
+  },
+  "2025-08": {
+    "count": 7,
+    "avg_rating": 3.43
+  },
+  "2025-09": {
+    "count": 5,
+    "avg_rating": 4.6
+  },
+  "2025-10": {
+    "count": 2,
+    "avg_rating": 4.0
+  },
+  "2025-11": {
+    "count": 18,
+    "avg_rating": 4.06
+  },
+  "2025-12": {
+    "count": 17,
+    "avg_rating": 3.53
+  },
+  "2026-01": {
+    "count": 45,
+    "avg_rating": 4.24
+  },
+  "2026-02": {
+    "count": 20,
+    "avg_rating": 3.75
+  },
+  "2026-03": {
+    "count": 27,
+    "avg_rating": 3.48
+  },
+  "2026-04": {
+    "count": 12,
+    "avg_rating": 4.25
+  },
+  "2026-05": {
+    "count": 8,
+    "avg_rating": 4.38
+  },
+  "2026-06": {
+    "count": 6,
+    "avg_rating": 4.5
+  }
+}

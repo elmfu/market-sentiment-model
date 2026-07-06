@@ -27,7 +27,7 @@ SERIES_META = [
 ]
 
 CARD_FIELDS = [
-    "product_key", "market", "sku", "series",
+    "product_key", "market", "sku", "series", "retailer",
     "name", "model", "cpu_ram_ssd", "enabled",
 ]
 

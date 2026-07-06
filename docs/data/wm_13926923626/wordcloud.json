@@ -1,0 +1,302 @@
+[
+  {
+    "word": "helpful",
+    "count": 60,
+    "sentiment": "positive"
+  },
+  {
+    "word": "imyw",
+    "count": 60,
+    "sentiment": "positive"
+  },
+  {
+    "word": "com",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "seller",
+    "count": 39,
+    "sentiment": "positive"
+  },
+  {
+    "word": "store",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "international",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "delete",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "incentivized",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "app",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "company",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "photo",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "https",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "walmartimages",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "dfw",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "customer",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "personal",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "business",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "office",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "reviews",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "page",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "www",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "walmart",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "departments",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "directory",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "careers",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "corporate",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "sell",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "marketplace",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "utm",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "source",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "medium",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "link",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "campaign",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "footer",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "help",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "recalls",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "accessibility",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "article",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "responsible",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "policies",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "dab",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "ffc",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "tax",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "exempt",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "program",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "exemption",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "onelink",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "uiev",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "pid",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "web",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "fwww",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "fcp",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "fwalmart",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "mobile",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "site",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "safety",
+    "count": 7,
+    "sentiment": "neutral"
+  }
+]

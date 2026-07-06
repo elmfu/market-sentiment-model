@@ -2,7 +2,7 @@
  "competitors": [
   {
    "brand": "Apple/Mac",
-   "total_mentions": 130,
+   "total_mentions": 133,
    "reviews": [
     {
      "title": "The HP Omnibook Ultra Flip is the Total Package",
@@ -26,11 +26,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "127 additional review(s) also mention Apple/Mac."
+   "summary_of_remaining": "130 additional review(s) also mention Apple/Mac."
   },
   {
    "brand": "Dell",
-   "total_mentions": 49,
+   "total_mentions": 53,
    "reviews": [
     {
      "title": "The HP Omnibook Ultra Flip is the Total Package",
@@ -54,11 +54,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "46 additional review(s) also mention Dell."
+   "summary_of_remaining": "50 additional review(s) also mention Dell."
   },
   {
    "brand": "Microsoft",
-   "total_mentions": 43,
+   "total_mentions": 44,
    "reviews": [
     {
      "title": "Simple albeit bulky convertible laptop/tablet",
@@ -82,7 +82,7 @@
      "sentiment": "negative"
     }
    ],
-   "summary_of_remaining": "40 additional review(s) also mention Microsoft."
+   "summary_of_remaining": "41 additional review(s) also mention Microsoft."
   },
   {
    "brand": "Lenovo",
@@ -114,7 +114,7 @@
   },
   {
    "brand": "Samsung",
-   "total_mentions": 15,
+   "total_mentions": 16,
    "reviews": [
     {
      "title": "HP Omnibook - Software Issues",
@@ -138,7 +138,7 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "12 additional review(s) also mention Samsung."
+   "summary_of_remaining": "13 additional review(s) also mention Samsung."
   },
   {
    "brand": "ASUS",
@@ -198,7 +198,7 @@
   },
   {
    "brand": "Acer",
-   "total_mentions": 3,
+   "total_mentions": 5,
    "reviews": [
     {
      "title": "The omnibook is AMAZING!",
@@ -215,14 +215,14 @@
      "sentiment": "positive"
     },
     {
-     "title": "Perfect purchase",
-     "body": "Perfect purchase! Portable and swift processing. The money spent was worth it.",
-     "excerpt": "Portable and swift processing.",
+     "title": "Laptop Replacement",
+     "body": "Seller Verified Purchase I bought this laptop to replace my old windows 10 acer laptop Review from **hp.com** Helpful?(0) (0) 6VM04EKT4QO317625466471 reply from **HP Customer Experience** Hi Terry, welcome to the HP Family! 💙 ---",
+     "excerpt": "Seller Verified Purchase I bought this laptop to replace my old windows 10 acer laptop Review from **hp.com** Helpful?(0) (0) 6VM04EKT4QO317625466471 reply from **HP Customer Experience** Hi Terry, we",
      "rating": 5,
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": ""
+   "summary_of_remaining": "2 additional review(s) also mention Acer."
   },
   {
    "brand": "LG",

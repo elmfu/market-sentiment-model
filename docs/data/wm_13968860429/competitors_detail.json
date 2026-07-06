@@ -1,0 +1,39 @@
+{
+  "competitors": [
+    {
+      "brand": "Dell",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "",
+          "body": "I bought this as a gift and I wanted an average spec pc for daily office work and some basic electrical engineering simulation softwares . This pc gives you that. I used it for 3days to do basic set up and everything went smoothly. As a new pc it's pretty fast for basic web browsing and some streami",
+          "excerpt": "On my Dell the 2k clearly stated it's FHD and the images are much sharper.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Very happy with HP Omni Book 5 Ultra 7 laptop",
+          "body": "Delivered to and picked up at local Walmart - No issues. Computer set - up easily and appears to be working flawlessly for over a week. Easily transferred files and favorites from my old slow Win 10 Dell laptop to my new HP. I wanted to stay with Dell but couldn't pass up this deal. This laptop seem",
+          "excerpt": "Easily transferred files and favorites from my old slow Win 10 Dell laptop to my new HP.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "A Solid Laptop for school",
+          "body": "I bought this laptop for school. I have used it heavily for the past two weeks and performs just as good as my Microsoft surface laptop 7 that has 32 gb.. Im impressed for the value with the specs it has. Its fast and everything comes up immediately, not a lot of lag. The battery last all day so its",
+          "excerpt": "I have used it heavily for the past two weeks and performs just as good as my Microsoft surface laptop 7 that has 32 gb..",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

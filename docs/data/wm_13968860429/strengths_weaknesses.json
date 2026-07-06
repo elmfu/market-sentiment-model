@@ -1,0 +1,106 @@
+{
+  "strengths": [
+    {
+      "theme": "Build & Keyboard",
+      "count": 81,
+      "pct_of_reviews": 27.2,
+      "quotes": [
+        "The screen is bright and the keyboard types very well.",
+        "I have had nothing from HP computers for years, including an ultra lightweight but slower 16\" with the N200 processor.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 73,
+      "pct_of_reviews": 24.5,
+      "quotes": [
+        "The processor is decent and with the RAM, it gets the job done.",
+        "I use 2 EliteDesk 800s in my home office and my main laptop is a 16\" Envy with the i9 processor.",
+        "The speed is perfect for my work, and it connects seamlessly to my active board."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 64,
+      "pct_of_reviews": 21.5,
+      "quotes": [
+        "And during the set up you have to get updates?",
+        "Hopefully it can last me a while, my last laptop was only 2 years old and ran out of space completely when I updated to Windows 11.",
+        "Comes with plenty of software pre-installed that'll let you take care of work and enjoy yourself in play seamlessly so."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 62,
+      "pct_of_reviews": 20.8,
+      "quotes": [
+        "Purchased this item during Black Friday and the price was under $500 and well worth it!",
+        "Seller Verified Purchase I bought this during a great sale specifically for portable amatuer radio use.",
+        "The price was right in the range I was looking for."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 51,
+      "pct_of_reviews": 17.1,
+      "quotes": [
+        "The screen is bright and the keyboard types very well.",
+        "The screen is not a 4k, but the laptop weighs a lot less.",
+        "Seller Verified Purchase I have been unable to set the OPENING screen to MY location, and/or eliminate the \"information\" boxes such as the quiz."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Software & Ecosystem",
+      "count": 16,
+      "pct_of_reviews": 5.4,
+      "quotes": [
+        "Seller Verified Purchase MICROSOFT LOCKED ME OUT ON DAY ONE!",
+        "Also, Outlook software provided did not allow for easy transfer of data files from old to new laptop.",
+        "The rep said yes it will update, it's down because of the power outage."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 10,
+      "pct_of_reviews": 3.4,
+      "quotes": [
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 10,
+      "pct_of_reviews": 3.4,
+      "quotes": [
+        "Walmart dumps you onto Allstate, and Allstate uses the \"sale price\" on your receipt to lowball you if anything actually breaks.",
+        "If I could still get the computer at the price I paid for it or at a better price as the tech is now older, then I'd reconsider.",
+        "I think it's a scam to get me to buy a more expensive item from the store."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 9,
+      "pct_of_reviews": 3.0,
+      "quotes": [
+        "The display changes colors all the time and its very uncomfortable, horrible white colors and not so vivid colors on the images.",
+        "Seller Verified Purchase Product review - Has a touch screen - I didn't know that.",
+        "My main concern of mine is the way that it freezes without notice, and I am very disappointed with the main screen."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 7,
+      "pct_of_reviews": 2.3,
+      "quotes": [
+        "It has the Intel Core Ultra 7, but it relies on integrated Intel Arc graphics instead of a dedicated GPU.",
+        "The battery performance (which is supposedly AI managed) is mediocre at best.",
+        "On Walmart website, the processor speed display 5.1 GHz vs on laptop settings, it displays 2.0 GHz."
+      ]
+    }
+  ]
+}

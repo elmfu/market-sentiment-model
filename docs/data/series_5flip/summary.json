@@ -1,0 +1,25 @@
+{
+ "product": "HP OmniBook 5 Convertible — all models (Walmart US)",
+ "source": "bestbuy.com + bestbuy.ca",
+ "market": "US+CA",
+ "total": 50,
+ "with_text": 50,
+ "date_range": "2025-11-13 to 2026-06-21",
+ "avg_rating": 4.58,
+ "satisfaction_score": 88.0,
+ "star_distribution": {
+  "1": 0,
+  "2": 2,
+  "3": 4,
+  "4": 7,
+  "5": 37
+ },
+ "sentiment": {
+  "positive": 44,
+  "neutral": 4,
+  "negative": 2,
+  "positive_pct": 88.0,
+  "neutral_pct": 8.0,
+  "negative_pct": 4.0
+ }
+}

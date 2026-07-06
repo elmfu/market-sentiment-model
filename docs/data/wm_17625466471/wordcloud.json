@@ -1,0 +1,302 @@
+[
+  {
+    "word": "com",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "helpful",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ekt",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "reply",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "customer",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "experience",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hear",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "https",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "walmartimages",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "dfw",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "seller",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "thank",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "image",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "photos",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "jpg",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "odnwidth",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amp",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "odnheight",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "odnbg",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ffffff",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "influenster",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "star",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sounds",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "know",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "international",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "thrilled",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "brilliant",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "snapdragon",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "found",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "store",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "login",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "help",
+    "count": 5,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "next",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "delighted",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hardware",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "feedback",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "support",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "office",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quick",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hours",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "delete",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "business",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "we're",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "settings",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "machine",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 4,
+    "sentiment": "positive"
+  }
+]

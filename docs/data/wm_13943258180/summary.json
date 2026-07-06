@@ -1,0 +1,25 @@
+{
+  "product": "HP OmniBook 5 16\" Laptop, AMD Ryzen AI 7 350, 16GB RAM, 512GB SSD, Glacier Silver",
+  "source": "walmart.com",
+  "market": "US",
+  "total": 186,
+  "with_text": 186,
+  "date_range": "2025-05-25 to 2026-06-30",
+  "avg_rating": 3.98,
+  "satisfaction_score": 74.2,
+  "star_distribution": {
+    "1": 29,
+    "2": 8,
+    "3": 11,
+    "4": 28,
+    "5": 110
+  },
+  "sentiment": {
+    "positive": 138,
+    "neutral": 11,
+    "negative": 37,
+    "positive_pct": 74.2,
+    "neutral_pct": 5.9,
+    "negative_pct": 19.9
+  }
+}

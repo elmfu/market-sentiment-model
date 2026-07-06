@@ -1,0 +1,98 @@
+[
+ {
+  "product_key": "wm_13968860429",
+  "name": "HP OmniBook 5 16\" 2K Touch Laptop, Intel Core Ultra 7 255U, 16GB RAM, 1TB SSD, Glacier Silver",
+  "market": "US",
+  "series": "FiveClamshell",
+  "sku": "13968860429",
+  "reviews": 298,
+  "avg_rating": 4.1,
+  "satisfaction": 77.2,
+  "first_review": "2025-06-29",
+  "top_complaint": "Software & Ecosystem"
+ },
+ {
+  "product_key": "wm_13943258180",
+  "name": "HP OmniBook 5 16\" Laptop, AMD Ryzen AI 7 350, 16GB RAM, 512GB SSD, Glacier Silver",
+  "market": "US",
+  "series": "FiveClamshell",
+  "sku": "13943258180",
+  "reviews": 186,
+  "avg_rating": 3.98,
+  "satisfaction": 74.2,
+  "first_review": "2025-05-25",
+  "top_complaint": "Display Quality"
+ },
+ {
+  "product_key": "wm_17065969745",
+  "name": "HP OmniBook 5 16\" 2K Touch Laptop, Intel Core Ultra 7, 16GB RAM",
+  "market": "US",
+  "series": "FiveClamshell",
+  "sku": "17065969745",
+  "reviews": 127,
+  "avg_rating": 4.18,
+  "satisfaction": 81.9,
+  "first_review": "2025-08-06",
+  "top_complaint": "Software & Ecosystem"
+ },
+ {
+  "product_key": "wm_13926923626",
+  "name": "HP OmniBook 5 16\" Laptop, AMD Ryzen 5-8540U, 8GB RAM, 512GB SSD, Glacier Silver",
+  "market": "US",
+  "series": "FiveClamshell",
+  "sku": "13926923626",
+  "reviews": 60,
+  "avg_rating": 4.43,
+  "satisfaction": 86.7,
+  "first_review": "2025-07-19",
+  "top_complaint": "Build & Keyboard"
+ },
+ {
+  "product_key": "wm_17761662419",
+  "name": "HP OmniBook 5 16\" 2K Laptop, Snapdragon X, 16GB RAM, 256GB SSD",
+  "market": "US",
+  "series": "FiveClamshell",
+  "sku": "17761662419",
+  "reviews": 44,
+  "avg_rating": 4.48,
+  "satisfaction": 88.6,
+  "first_review": "2025-08-18",
+  "top_complaint": "Build & Keyboard"
+ },
+ {
+  "product_key": "wm_17688270243",
+  "name": "HP OmniBook 5 14\" 2K Laptop, Snapdragon X, 16GB RAM, 512GB SSD",
+  "market": "US",
+  "series": "FiveClamshell",
+  "sku": "17688270243",
+  "reviews": 36,
+  "avg_rating": 4.5,
+  "satisfaction": 91.7,
+  "first_review": "2025-08-04",
+  "top_complaint": "Build & Keyboard"
+ },
+ {
+  "product_key": "wm_17625466471",
+  "name": "HP OmniBook 5 16\" 2K Laptop, Snapdragon X, 16GB RAM, 512GB SSD",
+  "market": "US",
+  "series": "FiveClamshell",
+  "sku": "17625466471",
+  "reviews": 28,
+  "avg_rating": 4.54,
+  "satisfaction": 89.3,
+  "first_review": "2025-08-18",
+  "top_complaint": "Software & Ecosystem"
+ },
+ {
+  "product_key": "wm_17067151191",
+  "name": "HP OmniBook 5 14\" 2K Touch Laptop, Intel Core 5, 8GB RAM, 256GB SSD",
+  "market": "US",
+  "series": "FiveClamshell",
+  "sku": "17067151191",
+  "reviews": 22,
+  "avg_rating": 4.5,
+  "satisfaction": 86.4,
+  "first_review": "2025-11-29",
+  "top_complaint": "Performance & Chip"
+ }
+]

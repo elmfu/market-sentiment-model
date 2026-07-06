@@ -22,13 +22,16 @@ from consolidate import (consolidate, build_wordcloud, build_competitors,
 SERIES_KEYS = {
     "Ultra": "series_ultra", "UltraFlip": "series_ultraflip",
     "X": "series_x", "XFlip": "series_xflip",
+    "FiveClamshell": "series_5clam", "FiveConvertible": "series_5flip",
 }
 SERIES_TITLES = {
     "series_ultra": "HP OmniBook Ultra — all models (US + CA)",
     "series_ultraflip": "HP OmniBook Ultra Flip — all models (US + CA)",
     "series_x": "HP OmniBook X — all models (US + CA)",
     "series_xflip": "HP OmniBook X Flip — all models (US + CA)",
-    "all": "HP OmniBook Ultra & X portfolio — all models (US + CA)",
+    "series_5clam": "HP OmniBook 5 Clamshell — all models (Walmart US)",
+    "series_5flip": "HP OmniBook 5 Convertible — all models (Walmart US)",
+    "all": "HP OmniBook portfolio — all models (Best Buy US+CA, Walmart US)",
 }
 
 

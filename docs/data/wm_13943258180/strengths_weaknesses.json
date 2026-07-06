@@ -1,0 +1,106 @@
+{
+  "strengths": [
+    {
+      "theme": "Build & Keyboard",
+      "count": 50,
+      "pct_of_reviews": 26.9,
+      "quotes": [
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 42,
+      "pct_of_reviews": 22.6,
+      "quotes": [
+        "The processor is very fast; graphics are great.",
+        "It significantly outperforms my previous HP i7 Gen 3 laptop in both speed and functionality.",
+        "Extremely impressed with the performance and specs especially at the price they were offered that we bought three of them."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 36,
+      "pct_of_reviews": 19.4,
+      "quotes": [
+        "This laptop is an excellent setup for the cost.",
+        "Wish it had more AI TOPS, and screen could be led clear but it's pretty good for the price.",
+        "Extremely impressed with the performance and specs especially at the price they were offered that we bought three of them."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 35,
+      "pct_of_reviews": 18.8,
+      "quotes": [
+        "This laptop is an excellent setup for the cost.",
+        "The AI features are impressive and enhance my overall daily experience.",
+        "Estimates indicate that the Windows 12 Operating System will launch as early as Quarter 4 of 2026."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 24,
+      "pct_of_reviews": 12.9,
+      "quotes": [
+        "Wish it had more AI TOPS, and screen could be led clear but it's pretty good for the price.",
+        "from power on i get to the log in screen in about 5 seconds.",
+        "The 16\" screen is nice for watching videos."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Display Quality",
+      "count": 11,
+      "pct_of_reviews": 5.9,
+      "quotes": [
+        "the information they have on display about the hard drive 512 GB is wrong misinformation.",
+        "For its price, you'd expect it to have touchscreen functionality but it does not.",
+        "screen is misaligned -- it is skew (not square in the bezel)."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 11,
+      "pct_of_reviews": 5.9,
+      "quotes": [
+        "Not good for multitasking as it tends to become slow when opening apps.",
+        "It started crashing and restarting during the initial setup process, before I even had a chance to properly use it.",
+        "HP Omnibook 5 16 inch Windows 11 Laptop AMD Ryzen 7 AI PC 16GB RAM 512GB SSD Glacier Silver locked up 3 different times during initial set-up."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 9,
+      "pct_of_reviews": 4.8,
+      "quotes": [
+        "For its price, you'd expect it to have touchscreen functionality but it does not.",
+        "Since I am currently outside of the US, returning a defective item is extremely expensive and difficult.",
+        "I reported this to Walmart .com and they refuse to refund my money or send me another HP Omni book computer ."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 8,
+      "pct_of_reviews": 4.3,
+      "quotes": [
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
+        "In a quest to be \"MacBook Air-thin\"....Memory (RAM) is soldered to the board...ALL 4 sticks of 4GB.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 5,
+      "pct_of_reviews": 2.7,
+      "quotes": [
+        "Not good for multitasking as it tends to become slow when opening apps.",
+        "HP Omnibook 5 16 inch Windows 11 Laptop AMD Ryzen 7 AI PC 16GB RAM 512GB SSD Glacier Silver locked up 3 different times during initial set-up.",
+        "Product was returned to new egg and refund has been extremely slow."
+      ]
+    }
+  ]
+}

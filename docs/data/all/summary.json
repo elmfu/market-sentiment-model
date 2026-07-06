@@ -1,25 +1,25 @@
 {
- "product": "HP OmniBook Ultra & X portfolio — all models (US + CA)",
+ "product": "HP OmniBook portfolio — all models (Best Buy US+CA, Walmart US)",
  "source": "bestbuy.com + bestbuy.ca",
  "market": "US+CA",
- "total": 7709,
- "with_text": 7535,
+ "total": 8560,
+ "with_text": 8386,
  "date_range": "2024-06-19 to 2026-07-04",
- "avg_rating": 4.67,
- "satisfaction_score": 93.4,
+ "avg_rating": 4.62,
+ "satisfaction_score": 92.1,
  "star_distribution": {
-  "1": 183,
-  "2": 98,
-  "3": 229,
-  "4": 1052,
-  "5": 6147
+  "1": 269,
+  "2": 133,
+  "3": 275,
+  "4": 1192,
+  "5": 6691
  },
  "sentiment": {
-  "positive": 7199,
-  "neutral": 229,
-  "negative": 281,
-  "positive_pct": 93.4,
-  "neutral_pct": 3.0,
-  "negative_pct": 3.6
+  "positive": 7883,
+  "neutral": 275,
+  "negative": 402,
+  "positive_pct": 92.1,
+  "neutral_pct": 3.2,
+  "negative_pct": 4.7
  }
 }

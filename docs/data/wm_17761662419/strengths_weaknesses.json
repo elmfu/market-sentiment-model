@@ -1,0 +1,100 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 20,
+      "pct_of_reviews": 45.5,
+      "quotes": [
+        "When you log on it loads up very quick which is a bonus.",
+        "Its still fairly early days for my Snapdragon laptop and the experience is not without some irritations.",
+        "I didn't buy it for gaming, but I've tried Roblox, Call of Duty, and Elder Scrolls, and they all played brilliantly with no lag or glitches."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 20,
+      "pct_of_reviews": 45.5,
+      "quotes": [
+        "First off, the laptop itself is sleek in design, it looks really nice.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 17,
+      "pct_of_reviews": 38.6,
+      "quotes": [
+        "Last, but not least, the battery - I've not used it a great deal without the charger being plugged in, but so far it appears to hold a good charge.",
+        "Seller Verified Purchase This laptop is excellent for battery life and generally works well with most Office / Adobie apps I use along simple games.",
+        "The battery easily lasts all day, which makes it perfect for students or anyone who needs a reliable laptop to carry around."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 14,
+      "pct_of_reviews": 31.8,
+      "quotes": [
+        "I use this for guitar lessons, and can say the sound is clear, and the video is very sharp; the larger screen helps with the video call for sure.",
+        "We’re thrilled the OLED screen is making your apps look sharp and that the Snapdragon® X AI features are keeping things efficient.",
+        "It sounds like the combination of that 16-inch screen and the 'lasts for ages' battery is exactly what you needed."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 11,
+      "pct_of_reviews": 25.0,
+      "quotes": [
+        "I'm new to Windows 11 so that took a bit of getting used to, but once I got by that, personalising the laptop was very easy to pick up.",
+        "Seller Verified Purchase This laptop is excellent for battery life and generally works well with most Office / Adobie apps I use along simple games.",
+        "We’re thrilled the OLED screen is making your apps look sharp and that the Snapdragon® X AI features are keeping things efficient."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Build & Keyboard",
+      "count": 3,
+      "pct_of_reviews": 6.8,
+      "quotes": [
+        "We want every part of your experience to feel premium, from the display quality to the touchpad response.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
+        "Seller Verified Purchase Keyboard light does not illuminate the character on the key."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 3,
+      "pct_of_reviews": 6.8,
+      "quotes": [
+        "Seller Verified Purchase There is software issues and the complaint is made.",
+        "To bridge your setup, we highly recommend using a multi-port USB-C hub or adapter."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 2,
+      "pct_of_reviews": 4.5,
+      "quotes": [
+        "We want every part of your experience to feel premium, from the display quality to the touchpad response.",
+        "i've used hp computers for 20 years and never had any problems but this one after 3-4 times using it the screen goes black when you sign in."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 1,
+      "pct_of_reviews": 2.3,
+      "quotes": [
+        "We designed this OmniBook with ultra-fast USB-C ports to maximize portability, but we know how crucial your existing tools are for daily work."
+      ]
+    },
+    {
+      "theme": "Ports & Connectivity",
+      "count": 1,
+      "pct_of_reviews": 2.3,
+      "quotes": [
+        "Seller Verified Purchase For the right person this may be a good computer- however no HDMI, did not work with most of my other needed work hardware."
+      ]
+    }
+  ]
+}

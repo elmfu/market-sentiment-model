@@ -1,0 +1,32 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Good Laptop for school work and game streaming,",
+          "body": "Ryzen processor does well and benchmarks well against intel. Screen is the low point not bad but not the 3x Amoled I'm used to. Large 16 inch canvas for getting work and school done. Was surprised how well performs with only 8GB ram. Backlit keyboard and metal casing. Track pad is not Mac or Galaxy ",
+          "excerpt": "Track pad is not Mac or Galaxy Book Pro.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Good Laptop for school work and game streaming,",
+          "body": "Ryzen processor does well and benchmarks well against intel. Screen is the low point not bad but not the 3x Amoled I'm used to. Large 16 inch canvas for getting work and school done. Was surprised how well performs with only 8GB ram. Backlit keyboard and metal casing. Track pad is not Mac or Galaxy ",
+          "excerpt": "Track pad is not Mac or Galaxy Book Pro.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

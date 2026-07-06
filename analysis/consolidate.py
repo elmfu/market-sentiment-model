@@ -132,7 +132,7 @@ def consolidate(product, reviews):
 
     summary = {
         "product": product.get("name", key),
-        "source": "bestbuy.com" if market == "US" else "bestbuy.ca",
+        "source": "walmart.com" if product.get("retailer") == "walmart" else ("bestbuy.com" if market == "US" else "bestbuy.ca"),
         "market": market,
         "total": total,
         "with_text": with_text,

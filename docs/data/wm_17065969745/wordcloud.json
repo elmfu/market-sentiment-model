@@ -1,0 +1,302 @@
+[
+  {
+    "word": "com",
+    "count": 127,
+    "sentiment": "positive"
+  },
+  {
+    "word": "helpful",
+    "count": 127,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pvrmdd",
+    "count": 127,
+    "sentiment": "positive"
+  },
+  {
+    "word": "seller",
+    "count": 123,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "international",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "store",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "customer",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "https",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "walmartimages",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "dfw",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "office",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "data",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "brand",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "help",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "web",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "personal",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "company",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "link",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "program",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "safety",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "terms",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "choices",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "information",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "shop",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "business",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "social",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "media",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "know",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "reviews",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "page",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "www",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "walmart",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "departments",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "directory",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "careers",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "corporate",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sell",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "marketplace",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "utm",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "source",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "medium",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "campaign",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "footer",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recalls",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "accessibility",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "article",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "responsible",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "policies",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "dab",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ffc",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tax",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "exempt",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "exemption",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "app",
+    "count": 14,
+    "sentiment": "positive"
+  }
+]

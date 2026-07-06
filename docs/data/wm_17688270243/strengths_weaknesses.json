@@ -1,0 +1,88 @@
+{
+  "strengths": [
+    {
+      "theme": "Build & Keyboard",
+      "count": 22,
+      "pct_of_reviews": 61.1,
+      "quotes": [
+        "We designed this as the ultimate \"carry-anywhere\" companion, so it’s fantastic to know the lightweight design and battery life are hitting the mark.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 19,
+      "pct_of_reviews": 52.8,
+      "quotes": [
+        "💙 It’s brilliant that the superb display and smooth performance are making such an impact.",
+        "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes.",
+        "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 18,
+      "pct_of_reviews": 50.0,
+      "quotes": [
+        "💙 It’s brilliant that the superb display and smooth performance are making such an impact.",
+        "The display is perfect and the sound clear.",
+        "It’s great to hear that the combination of lightning-fast performance, the color-rich screen, and that sleek-yet-durable design is hitting the mark."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 15,
+      "pct_of_reviews": 41.7,
+      "quotes": [
+        "We designed this as the ultimate \"carry-anywhere\" companion, so it’s fantastic to know the lightweight design and battery life are hitting the mark.",
+        "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes.",
+        "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 14,
+      "pct_of_reviews": 38.9,
+      "quotes": [
+        "Microsoft Office software is included but it is basic.",
+        "Microsoft Office software is included but it is basic.",
+        "It’s brilliant that the Snapdragon® X processor and Copilot key are making your AI experience so fast."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Build & Keyboard",
+      "count": 1,
+      "pct_of_reviews": 2.8,
+      "quotes": [
+        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 1,
+      "pct_of_reviews": 2.8,
+      "quotes": []
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Battery Life",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Display Quality",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    }
+  ]
+}

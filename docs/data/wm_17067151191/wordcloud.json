@@ -1,0 +1,302 @@
+[
+  {
+    "word": "com",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "helpful",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "seller",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "international",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "https",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "walmartimages",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "dfw",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "customer",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "image",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "photos",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "jpg",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "odnwidth",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amp",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "odnheight",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "odnbg",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ffffff",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "store",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "influenster",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "know",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "mobile",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "app",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "terms",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ram",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "storage",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pen",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "video",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "quality",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "multitasking",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "old",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "faster",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "office",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "health",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "fine",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "videos",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "www",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "walmart",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "reviews",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "page",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "departments",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "directory",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "careers",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "company",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "corporate",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "sell",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "marketplace",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "utm",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "source",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "medium",
+    "count": 3,
+    "sentiment": "neutral"
+  }
+]

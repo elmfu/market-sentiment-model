@@ -217,8 +217,8 @@ body { margin:0; display:flex; min-height:100vh; }
   </div>
 </div>
 <script>
-const SERIES_LABEL = {Ultra:"OmniBook Ultra", UltraFlip:"OmniBook Ultra Flip", X:"OmniBook X", XFlip:"OmniBook X Flip"};
-const SERIES_ORDER = ["Ultra","UltraFlip","X","XFlip"];
+const SERIES_LABEL = {Ultra:"OmniBook Ultra", UltraFlip:"OmniBook Ultra Flip", X:"OmniBook X", XFlip:"OmniBook X Flip", FiveClamshell:"OmniBook 5 Clamshell (Walmart)", FiveConvertible:"OmniBook 5 Convertible (Walmart)"};
+const SERIES_ORDER = ["Ultra","UltraFlip","X","XFlip","FiveClamshell","FiveConvertible"];
 const COLORS = {pos:"#72c472", neu:"#8a8070", neg:"#e87060"};
 const OVERVIEWS = [
   {product_key:"all",              name:"All Products",   series_label:"Portfolio"},
@@ -226,6 +226,8 @@ const OVERVIEWS = [
   {product_key:"series_ultraflip", name:"Ultra Flip",     series_label:"Series"},
   {product_key:"series_x",         name:"X",              series_label:"Series"},
   {product_key:"series_xflip",     name:"X Flip",         series_label:"Series"},
+  {product_key:"series_5clam",     name:"5 Clamshell (WM)", series_label:"Series"},
+  {product_key:"series_5flip",     name:"5 Convertible (WM)", series_label:"Series"},
 ];
 let manifest = [], current = null, reviewsCache = {};
 
@@ -271,9 +273,11 @@ function renderSidebar() {
     for (const p of items) {
       const el = document.createElement("div");
       el.className = "side-item"; el.id = "side_" + p.product_key;
-      el.innerHTML = `<span class="side-dot" style="background:${p.market==="US"?"var(--accent)":"var(--hl-orange-b)"}"></span>
+      const dot = p.retailer === "walmart" ? "var(--hl-yellow-b)" : (p.market === "US" ? "var(--accent)" : "var(--hl-orange-b)");
+      const mkt = p.retailer === "walmart" ? "WM" : p.market;
+      el.innerHTML = `<span class="side-dot" style="background:${dot}"></span>
         <span class="side-name" title="${esc(p.name)}">${esc(shortName(p))}</span>
-        <span class="side-meta">${p.market} · ${p.review_count ?? "?"}</span>`;
+        <span class="side-meta">${mkt} · ${p.review_count ?? "?"}</span>`;
       el.onclick = () => select(p.product_key);
       box.appendChild(el);
     }
@@ -316,7 +320,7 @@ async function select(key) {
   $("loadmsg").style.display = "none"; $("content").style.display = "block";
 }
 function render(s, topics, sw, wc, comp) {
-  $("subtitle").textContent = s.product + " · Best Buy " + s.market + " · " + s.date_range;
+  $("subtitle").textContent = s.product + " · " + (s.source || ("Best Buy " + s.market)) + " · " + s.date_range;
   $("kTotal").textContent = s.total.toLocaleString();
   $("kRange").textContent = s.date_range.replace(" to ", " – ");
   $("kSat").textContent = Math.round(s.satisfaction_score);
@@ -555,4 +559,33 @@ function renderPlanner(p, breakdown) {
   const big = p.biggest_strength;
   const top = p.iteration_priorities[0];
   $("pCallouts").innerHTML =
-    (big ? `<div class="callout good"><b>Biggest strength:</b> ${esc(big.label)} — ${big.positive.toLocaleString()}
+    (big ? `<div class="callout good"><b>Biggest strength:</b> ${esc(big.label)} — ${big.positive.toLocaleString()} positive mentions (${big.attention_share}% of all topic signals, only ${big.negative_rate}% negative)</div>` : "") +
+    (top ? `<div class="callout warn"><b>Fix first:</b> ${esc(top.label)} — buyers talk about it (${top.attention_share}% attention) and it has the worst pain score (${top.negative_rate}% negative)</div>` : "");
+  $("pPriorities").innerHTML = p.iteration_priorities.map((t, i) => `
+    <tr><td class="mono">${i+1}</td><td><b>${esc(t.label)}</b></td>
+    <td class="mono">${t.attention_share}%</td><td>${heat(t.negative_rate)}</td>
+    <td class="mono">${t.priority_score}</td></tr>`).join("");
+
+  $("pCohorts").innerHTML = p.cohorts.map(c => `
+    <tr><td class="mono"><b>${c.cohort}</b></td><td class="mono">${c.products}</td>
+    <td class="mono">${c.reviews.toLocaleString()}</td><td class="mono">${c.avg_rating}</td>
+    <td>${heat(c.neg_rate)}</td>
+    <td>${c.top_complaints.map(x => `<span class="pill bad">${esc(x.label)} ${x.count}</span>`).join("")}</td></tr>`).join("");
+
+  $("pQHead").innerHTML = "<th>Quarter</th><th>Rev</th><th>Avg ★</th><th>Neg%</th>" +
+    p.top5_topics.map(t => `<th>${esc(t.label.split(" ")[0].replace("&",""))}</th>`).join("");
+  $("pQuarterly").innerHTML = p.quarterly.map(q => `
+    <tr><td>${q.quarter}</td><td>${q.reviews}</td><td>${q.avg_rating}</td><td>${heat(q.neg_rate)}</td>
+    ${p.top5_topics.map(t => `<td>${heat(q.topic_neg_rate[t.topic])}</td>`).join("")}</tr>`).join("");
+
+  $("pBreakdown").innerHTML = breakdown.map(m => `
+    <tr><td><a href="#${m.product_key}" onclick="select('${m.product_key}')" style="color:var(--accent);text-decoration:none">${esc(m.name.slice(0,60))}</a></td>
+    <td class="mono">${m.market}</td><td class="mono">${m.reviews.toLocaleString()}</td>
+    <td class="mono">${m.avg_rating}</td><td class="mono">${m.satisfaction}</td>
+    <td class="mono">${m.first_review}</td><td><span class="pill bad">${esc(m.top_complaint)}</span></td></tr>`).join("");
+}
+
+init();
+</script>
+</body>
+</html>

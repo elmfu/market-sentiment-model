@@ -1,0 +1,26 @@
+[
+ {
+  "product_key": "wm_16611304092",
+  "name": "HP OmniBook 5 Flip 14\" FHD+ 2-in-1 Touch Laptop, Intel Core 5 120U, 8GB RAM, 512GB SSD",
+  "market": "US",
+  "series": "FiveConvertible",
+  "sku": "16611304092",
+  "reviews": 26,
+  "avg_rating": 4.62,
+  "satisfaction": 88.5,
+  "first_review": "2025-11-13",
+  "top_complaint": "Performance & Chip"
+ },
+ {
+  "product_key": "wm_16865170963",
+  "name": "HP OmniBook 5 Flip 14\" FHD+ 2-in-1 Touch Laptop, Intel Core 7 150U, 16GB RAM, 512GB SSD",
+  "market": "US",
+  "series": "FiveConvertible",
+  "sku": "16865170963",
+  "reviews": 24,
+  "avg_rating": 4.54,
+  "satisfaction": 87.5,
+  "first_review": "2025-11-29",
+  "top_complaint": "Performance & Chip"
+ }
+]

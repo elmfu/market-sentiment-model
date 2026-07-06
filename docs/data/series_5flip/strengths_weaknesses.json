@@ -1,0 +1,98 @@
+{
+ "strengths": [
+  {
+   "theme": "Build & Keyboard",
+   "count": 19,
+   "pct_of_reviews": 38.0,
+   "quotes": [
+    "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
+    "2.Long lasting battery 3.Great audio and video quality 4.Easy connectivity with mobile and bluetooth device 5.Excellent for multitasking.",
+    "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
+   ]
+  },
+  {
+   "theme": "Display Quality",
+   "count": 14,
+   "pct_of_reviews": 28.0,
+   "quotes": [
+    "It has 2x USB-A ports, 2x USB-C, 1x HDMI, 1x display.",
+    "It has 2x USB-A ports, 2x USB-C, 1x HDMI, 1x display.",
+    "The touch screen works really smoothly and it is very easy to use both touchscreen and the touchpad."
+   ]
+  },
+  {
+   "theme": "Performance & Chip",
+   "count": 10,
+   "pct_of_reviews": 20.0,
+   "quotes": [
+    "Seller Verified Purchase 1.Run internet very fast.",
+    "It gets to 50% recharge in just 45 minutes with HP Fast Charger.",
+    "It gets to 50% recharge in just 45 minutes with HP Fast Charger."
+   ]
+  },
+  {
+   "theme": "Battery Life",
+   "count": 10,
+   "pct_of_reviews": 20.0,
+   "quotes": [
+    "2.Long lasting battery 3.Great audio and video quality 4.Easy connectivity with mobile and bluetooth device 5.Excellent for multitasking.",
+    "You get to 15 hours of battery life - I found that I can easily get 6+ hours doing intensive tasks.",
+    "You get to 15 hours of battery life - I found that I can easily get 6+ hours doing intensive tasks."
+   ]
+  },
+  {
+   "theme": "Ports & Connectivity",
+   "count": 8,
+   "pct_of_reviews": 16.0,
+   "quotes": [
+    "2.Long lasting battery 3.Great audio and video quality 4.Easy connectivity with mobile and bluetooth device 5.Excellent for multitasking.",
+    "It has 2x USB-A ports, 2x USB-C, 1x HDMI, 1x display.",
+    "It has 2x USB-A ports, 2x USB-C, 1x HDMI, 1x display."
+   ]
+  }
+ ],
+ "weaknesses": [
+  {
+   "theme": "Performance & Chip",
+   "count": 2,
+   "pct_of_reviews": 4.0,
+   "quotes": [
+    "Professional Use Review: Significant lag while using VDI and during Microsoft Teams calls.",
+    "Professional Use Review: Significant lag while using VDI and during Microsoft Teams calls."
+   ]
+  },
+  {
+   "theme": "Display Quality",
+   "count": 2,
+   "pct_of_reviews": 4.0,
+   "quotes": [
+    "I even faced a screen light‑leak issue within a short time of usage.",
+    "I even faced a screen light‑leak issue within a short time of usage."
+   ]
+  },
+  {
+   "theme": "Build & Keyboard",
+   "count": 2,
+   "pct_of_reviews": 4.0,
+   "quotes": [
+    "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
+    "Display quality and speakers are below expectations, and the performance issues severely impact productivity."
+   ]
+  },
+  {
+   "theme": "Software & Ecosystem",
+   "count": 2,
+   "pct_of_reviews": 4.0,
+   "quotes": [
+    "Professional Use Review: Significant lag while using VDI and during Microsoft Teams calls.",
+    "Professional Use Review: Significant lag while using VDI and during Microsoft Teams calls."
+   ]
+  },
+  {
+   "theme": "Battery Life",
+   "count": 0,
+   "pct_of_reviews": 0.0,
+   "quotes": []
+  }
+ ]
+}
