@@ -1,7 +1,8 @@
 /**
  * HP OmniBook Review Intelligence — Cloudflare Worker v2
  *
- * RAG-lite: injects structured context from pre-computed JSON into every Gemini call.
+ * RAG-lite: injects structured context from pre-computed JSON into every OpenAI call.
+ * (Filename kept as gemini-proxy.js so the deployed worker name/URL stays unchanged.)
  *
  * Request format (POST /ask):
  *   New: { product_key, question, history, token }
@@ -14,17 +15,20 @@
  *   "series_x"         → manifest filtered to X
  *   "series_xflip"     → manifest filtered to XFlip
  *
- * Env vars (wrangler secret put):
- *   GEMINI_API_KEY   — Gemini API key
+ * Env vars (wrangler secret put / dashboard):
+ *   OPENAI_API_KEY   — OpenAI API key (project-scoped, budget-capped)
  *   API_TOKEN        — Bearer token validated on every request
  *
  * KV bindings (wrangler.toml):
  *   CACHE            — KVNamespace for caching product JSON + rate-limit state
  */
 
-const DATA_BASE    = "https://raw.githubusercontent.com/elmfu/market-sentiment-model/main/docs/data";
-const GEMINI_MODEL = "gemini-2.5-flash";
-const GEMINI_BASE  = "https://generativelanguage.googleapis.com/v1beta/models";
+const DATA_BASE     = "https://raw.githubusercontent.com/elmfu/market-sentiment-model/main/docs/data";
+const OPENAI_URL    = "https://api.openai.com/v1/chat/completions";
+// Swap these two constants when newer/cheaper models ship:
+const MODEL_MINI     = "gpt-4o-mini";  // everyday questions
+const MODEL_STANDARD = "gpt-4o";       // compare / analyze / why questions
+const ESCALATE_PAT   = /\b(compare|comparison|analy[sz]e|analysis|why|versus|vs\.?)\b|為什麼|比較|分析/i;
 
 const SERIES_MAP = {
   series_ultra:     "Ultra",
@@ -38,7 +42,9 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     if (request.method === "OPTIONS") return cors(new Response(null, { status: 204 }));
-    if (url.pathname === "/ask" && request.method === "POST") return handleAsk(request, env);
+    // Accept POST on both "/" (frontend default) and "/ask"
+    if ((url.pathname === "/" || url.pathname === "/ask") && request.method === "POST")
+      return handleAsk(request, env);
     return cors(new Response("Not found", { status: 404 }));
   },
 };
@@ -74,8 +80,8 @@ async function handleAsk(request, env) {
     context = body.context + "\n\n" + context;
   }
 
-  const stream = new URL(request.url).searchParams.get("stream") !== "false";
-  return callGemini(env, context, history, question, stream);
+  // Frontend consumes plain JSON (res.json()) — always non-streaming.
+  return callOpenAI(env, context, history, question);
 }
 
 // ── Context builder ───────────────────────────────────────────────────────────
@@ -229,84 +235,49 @@ function matchReviews(reviews, question) {
     }));
 }
 
-// ── Gemini call ───────────────────────────────────────────────────────────────
-async function callGemini(env, context, history, question, streaming) {
-  const systemInstruction = `You are a review analyst for HP OmniBook laptops. You have access to structured review intelligence data extracted from verified purchaser reviews on Best Buy US and CA. Answer questions accurately using the provided context. Be concise and factual. Format tabular comparisons as markdown tables. When summarising topics, reference specific net scores. Never fabricate review data or statistics.`;
+// ── OpenAI call ───────────────────────────────────────────────────────────────
+async function callOpenAI(env, context, history, question) {
+  const systemInstruction =
+    "You are a review analyst for HP OmniBook laptops. You have access to structured review " +
+    "intelligence data extracted from verified purchaser reviews on Best Buy US and CA. " +
+    "Answer questions accurately using ONLY the provided context. Be concise and factual. " +
+    "Format tabular comparisons as markdown tables. When summarising topics, reference " +
+    "specific net scores. Never fabricate review data or statistics.\n\n" +
+    `<context>\n${context}\n</context>`;
 
-  const contextMsg = { role: "user",  parts: [{ text: `<context>\n${context}\n</context>` }] };
-  const contextAck = { role: "model", parts: [{ text: "Context loaded." }] };
+  const messages = [
+    { role: "system", content: systemInstruction },
+    ...history.map(m => ({
+      role: m.role === "model" || m.role === "assistant" ? "assistant" : "user",
+      content: String(m.content || ""),
+    })),
+    { role: "user", content: question },
+  ];
 
-  const convHistory = history.flatMap(m => [{
-    role: m.role === "assistant" ? "model" : "user",
-    parts: [{ text: m.content }],
-  }]);
+  const model = ESCALATE_PAT.test(question) ? MODEL_STANDARD : MODEL_MINI;
 
-  const contents = [contextMsg, contextAck, ...convHistory,
-    { role: "user", parts: [{ text: question }] }];
-
-  const endpoint = streaming
-    ? `${GEMINI_BASE}/${GEMINI_MODEL}:streamGenerateContent?alt=sse&key=${env.GEMINI_API_KEY}`
-    : `${GEMINI_BASE}/${GEMINI_MODEL}:generateContent?key=${env.GEMINI_API_KEY}`;
-
-  const geminiResp = await fetch(endpoint, {
+  const resp = await fetch(OPENAI_URL, {
     method:  "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: {
+      "Content-Type":  "application/json",
+      "Authorization": `Bearer ${env.OPENAI_API_KEY}`,
+    },
     body: JSON.stringify({
-      systemInstruction: { parts: [{ text: systemInstruction }] },
-      contents,
-      generationConfig: { temperature: 0.3, maxOutputTokens: 1024, topP: 0.8 },
+      model,
+      messages,
+      temperature: 0.3,
+      max_tokens: 1024,
     }),
   });
 
-  if (!geminiResp.ok) {
-    const txt = await geminiResp.text();
-    return err(502, `Gemini ${geminiResp.status}: ${txt.substring(0, 200)}`);
+  if (!resp.ok) {
+    const txt = await resp.text();
+    return err(502, `OpenAI ${resp.status}: ${txt.substring(0, 200)}`);
   }
 
-  if (!streaming) {
-    const data = await geminiResp.json();
-    const text = data?.candidates?.[0]?.content?.parts?.[0]?.text || "";
-    return cors(Response.json({ response: text }));
-  }
-
-  // Forward SSE stream
-  const { readable, writable } = new TransformStream();
-  const writer = writable.getWriter();
-  const enc    = new TextEncoder();
-
-  (async () => {
-    const reader = geminiResp.body.getReader();
-    const dec    = new TextDecoder();
-    let buf = "";
-    try {
-      while (true) {
-        const { done, value } = await reader.read();
-        if (done) break;
-        buf += dec.decode(value, { stream: true });
-        const lines = buf.split("\n");
-        buf = lines.pop();
-        for (const line of lines) {
-          if (!line.startsWith("data: ")) continue;
-          const raw = line.slice(6).trim();
-          if (!raw || raw === "[DONE]") continue;
-          try {
-            const delta = JSON.parse(raw)?.candidates?.[0]?.content?.parts?.[0]?.text || "";
-            if (delta) await writer.write(enc.encode(`data: ${JSON.stringify({ delta })}\n\n`));
-          } catch {}
-        }
-      }
-    } catch {}
-    await writer.write(enc.encode("data: [DONE]\n\n"));
-    await writer.close();
-  })();
-
-  return cors(new Response(readable, {
-    headers: {
-      "Content-Type":      "text/event-stream",
-      "Cache-Control":     "no-cache",
-      "X-Accel-Buffering": "no",
-    },
-  }));
+  const data = await resp.json();
+  const text = data?.choices?.[0]?.message?.content || "";
+  return cors(Response.json({ response: text, model }));
 }
 
 // ── Rate limiter ──────────────────────────────────────────────────────────────
