@@ -4,12 +4,10 @@ compatibility_date = "2024-09-02"
 compatibility_flags = ["nodejs_compat"]
 
 # KV namespace for caching product JSON + rate-limit state.
-# Create it: wrangler kv namespace create CACHE
-# Then replace the id below.
 [[kv_namespaces]]
 binding = "CACHE"
-id      = "REPLACE_WITH_YOUR_KV_ID"
+id      = "1dd0d3b0b4da4bd7b876c02cba00d935"
 
-# Secrets (set via CLI, never hard-code):
-#   wrangler secret put GEMINI_API_KEY
-#   wrangler secret put API_TOKEN
+# Secrets (set in Cloudflare dashboard or wrangler secret put, never hard-code):
+#   OPENAI_API_KEY — OpenAI key (project-scoped, budget-capped)
+#   API_TOKEN      — team access token for the chat widget
