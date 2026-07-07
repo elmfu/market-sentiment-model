@@ -587,5 +587,404 @@ function renderPlanner(p, breakdown) {
 
 init();
 </script>
+<!-- ═══════════ UI v2 enhancement layer (fonts · motion · filter · compare) ═══════════ -->
+<style id="ui2css">
+/* Aptos font stack (local font on Win11/Office machines; graceful fallback) */
+body, button, input, .kpi .lbl, .panel h3, .side-item, .subtitle, .msg {
+  font-family: "Aptos", "Aptos Display", "Segoe UI Variable Text", "Segoe UI", "DM Sans", system-ui, sans-serif;
+}
+/* Bigger, bolder title with accent underline */
+#main h1 { font-size: 40px; letter-spacing: -0.5px; padding-bottom: 10px; position: relative; }
+#main h1::after { content:""; position:absolute; left:0; bottom:0; width:130px; height:4px; border-radius:2px;
+  background: linear-gradient(90deg, var(--hl-blue-b), var(--hl-purple-b)); }
+/* Gradient + hover interactions (keep cream palette) */
+.btn-export, #aiQuick button {
+  background: linear-gradient(135deg, var(--card) 0%, var(--bg3) 100%);
+  transition: transform .18s ease, box-shadow .18s ease, filter .18s ease; }
+.btn-export:hover, #aiQuick button:hover { transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(44,40,32,.12); filter: brightness(1.02); }
+#aiLoginBtn, #aiSend, .cmp-btn {
+  background: linear-gradient(135deg, #2c2820 0%, #4a4438 100%) !important;
+  transition: transform .18s ease, box-shadow .18s ease; }
+#aiLoginBtn:hover, #aiSend:hover, .cmp-btn:hover { transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(44,40,32,.28); }
+.panel { transition: transform .22s ease, box-shadow .22s ease; }
+.panel:hover { transform: translateY(-3px); box-shadow: 0 8px 22px rgba(44,40,32,.08); }
+.side-item { transition: background .15s ease, padding-left .15s ease; }
+.side-item:hover { padding-left: 28px; }
+#aiToggle { transition: transform .2s ease; }
+#aiToggle:hover { transform: scale(1.1) rotate(8deg); }
+/* Collapsible sidebar groups */
+.sgroup-head { display:flex; align-items:center; gap:8px; padding:12px 22px 8px; cursor:pointer;
+  font-size:12px; letter-spacing:1.2px; text-transform:uppercase; color:var(--text-mid); font-weight:700;
+  user-select:none; transition: color .15s ease; }
+.sgroup-head:hover { color: var(--text); }
+.sgroup-head .caret { display:inline-block; transition: transform .25s ease; font-size:10px; color:var(--text-mute); }
+.sgroup.open .caret { transform: rotate(90deg); }
+.sgroup-head .cnt { margin-left:auto; font-family:'JetBrains Mono',monospace; font-size:10px;
+  background:var(--bg3); border-radius:9px; padding:1px 7px; color:var(--text-mute); }
+.sgroup-body { overflow:hidden; height:0; }
+.sgroup.open .sgroup-body { height:auto; }
+/* Compare checkboxes + bar + overlay */
+.cmp-check { width:14px; height:14px; accent-color:#2c2820; flex-shrink:0; cursor:pointer;
+  opacity:.35; transition:opacity .15s ease; }
+.side-item:hover .cmp-check, .cmp-check:checked { opacity:1; }
+#cmpBar { position:fixed; left:50%; bottom:24px; transform:translateX(-50%) translateY(80px);
+  background:var(--card); border:1px solid var(--border2); border-radius:30px; padding:10px 18px;
+  display:flex; align-items:center; gap:12px; box-shadow:0 8px 24px rgba(44,40,32,.18); z-index:70;
+  transition:transform .3s ease; font-size:13px; }
+#cmpBar.show { transform:translateX(-50%) translateY(0); }
+.cmp-btn { color:#fff; border:none; border-radius:20px; padding:8px 18px; font-size:13px; cursor:pointer; }
+#cmpOverlay { position:fixed; inset:0; background:rgba(44,40,32,.35); z-index:80; display:none;
+  align-items:flex-start; justify-content:center; padding:5vh 3vw; overflow:auto; }
+#cmpOverlay.show { display:flex; }
+#cmpCard { background:var(--bg); border-radius:14px; padding:28px 32px; max-width:1100px; width:100%;
+  box-shadow:0 20px 60px rgba(44,40,32,.3); }
+#cmpCard h2 { margin:0 0 18px; font-size:24px; }
+#cmpCard table { width:100%; border-collapse:collapse; font-size:13px; }
+#cmpCard th { text-align:left; padding:8px 12px; border-bottom:2px solid var(--border2);
+  font-size:12px; vertical-align:bottom; }
+#cmpCard td { padding:7px 12px; border-bottom:1px solid var(--border); color:var(--text-mid); }
+#cmpCard td.num { font-family:'JetBrains Mono',monospace; }
+.netbar { display:inline-block; height:8px; border-radius:4px; background:var(--hl-green-b); vertical-align:middle; }
+.netbar.neg { background:var(--hl-red-b); }
+/* Time filter bar */
+#tfBar { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin:0 0 20px; }
+#tfBar .tf-chip { padding:6px 14px; border-radius:18px; border:1px solid var(--border2); font-size:12.5px;
+  cursor:pointer; background:var(--card); color:var(--text-mid); transition:all .18s ease; }
+#tfBar .tf-chip:hover { transform:translateY(-1px); box-shadow:0 3px 8px rgba(44,40,32,.1); }
+#tfBar .tf-chip.on { background:linear-gradient(135deg,#2c2820,#4a4438); color:#fff; border-color:#2c2820; }
+#tfBar input[type=date] { border:1px solid var(--border2); border-radius:8px; padding:5px 8px;
+  font-size:12px; background:var(--card2); color:var(--text); }
+#tfNote { font-size:11.5px; color:var(--text-mute); font-style:italic; }
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script id="ui2js">
+/* ═══ UI v2: sidebar groups · display names · GSAP motion · time filter · compare ═══ */
+const ABBREV = { Ultra:"OBU", UltraFlip:"OBU Flip", X:"OBX", XFlip:"OBX Flip",
+                 FiveClamshell:"OB5 Clam (WM)", FiveConvertible:"OB5 Flip (WM)" };
+
+// ── Normalized display name: 16" Ultra 7 255U · 16GB/1TB ──
+function displayName(p) {
+  const n = p.name || "";
+  const size = (n.match(/(1[3-7](?:\.\d)?)\s*(?:["”″]|[- ]?inch|in\b)/i) || [])[1];
+  let cpu = "";
+  const pats = [
+    [/snapdragon\s*x2\s*elite/i, "SD X2 Elite"], [/snapdragon\s*x\s*elite/i, "SD X Elite"],
+    [/snapdragon\s*x\s*plus/i, "SD X Plus"], [/snapdragon\s*x/i, "SD X"],
+    [/ryzen\s*ai\s*([579])(?:\s*hx)?\s*(\d{3})/i, m => `Ryzen AI ${m[1]} ${m[2]}`],
+    [/ryzen\s*ai\s*([579])/i, m => `Ryzen AI ${m[1]}`],
+    [/ryzen\s*([579])[- ]?(\d{4}\w*)/i, m => `Ryzen ${m[1]}-${m[2]}`],
+    [/core\s*ultra\s*(x?[579])[- ]?(\d{3}\w*)?/i, m => `Ultra ${m[1].toUpperCase()}${m[2] ? " " + m[2] : ""}`],
+    [/(?:intel\s*)?core\s*([579])\s*(\d{3}\w*)?/i, m => `Core ${m[1]}${m[2] ? " " + m[2] : ""}`],
+  ];
+  for (const [re, out] of pats) {
+    const m = n.match(re);
+    if (m) { cpu = typeof out === "function" ? out(m) : out; break; }
+  }
+  const ram = (n.match(/(\d{1,2})\s*GB\b/i) || [])[1];
+  let ssd = (n.match(/(\d+)\s*TB/i) || [])[1];
+  ssd = ssd ? ssd + "TB" : ((n.match(/(\d{3,4})\s*GB\s*SSD/i) || n.match(/SSD[^0-9]*(\d{3,4})\s*GB/i) || [])[1] || "") && ((n.match(/(\d{3,4})\s*GB\s*SSD/i) || [])[1] + "GB" || "");
+  const bits = [];
+  if (size) bits.push(size + '"');
+  if (cpu) bits.push(cpu);
+  const spec = [ram ? ram + "GB" : "", ssd].filter(Boolean).join("/");
+  if (spec) bits.push("· " + spec);
+  return bits.length >= 2 ? bits.join(" ") : shortName(p);
+}
+
+// ── Collapsible sidebar with abbreviations ──
+function enhanceSidebar() {
+  const box = $("sideList");
+  if (!box || box.dataset.enhanced === "1" || !box.children.length) return;
+  box.dataset.enhanced = "1";
+  const nodes = [...box.children];
+  box.innerHTML = "";
+  let group = null, body = null;
+  const activeKey = location.hash.slice(1);
+  for (const el of nodes) {
+    if (el.classList.contains("side-group")) {
+      const label = el.textContent.trim();
+      const slug = Object.keys(SERIES_LABEL).find(k => SERIES_LABEL[k] === label);
+      const title = label === "Overviews" ? "Overviews" : (ABBREV[slug] || label);
+      group = document.createElement("div");
+      group.className = "sgroup";
+      const head = document.createElement("div");
+      head.className = "sgroup-head";
+      head.innerHTML = `<span class="caret">▶</span><span>${esc(title)}</span><span class="cnt">0</span>`;
+      body = document.createElement("div");
+      body.className = "sgroup-body";
+      head.onclick = () => toggleGroup(group);
+      group.append(head, body);
+      box.appendChild(group);
+    } else if (body) {
+      body.appendChild(el);
+      // add compare checkbox to product items (not overviews)
+      const key = (el.id || "").replace("side_", "");
+      if (key && !key.startsWith("series_") && key !== "all" && !el.querySelector(".cmp-check")) {
+        const cb = document.createElement("input");
+        cb.type = "checkbox"; cb.className = "cmp-check"; cb.dataset.key = key;
+        cb.onclick = ev => { ev.stopPropagation(); toggleCompare(key, cb); };
+        el.prepend(cb);
+      }
+      // normalized display name
+      const p = manifest.find(x => x.product_key === key);
+      const nameEl = el.querySelector(".side-name");
+      if (p && nameEl) nameEl.textContent = displayName(p);
+    }
+  }
+  // counts + default states: Overviews open, group containing active item open
+  [...box.querySelectorAll(".sgroup")].forEach((g, i) => {
+    const items = g.querySelectorAll(".side-item").length;
+    g.querySelector(".cnt").textContent = items;
+    const hasActive = !!g.querySelector(".side-item.active") ||
+      !!g.querySelector("#side_" + CSS.escape(activeKey));
+    if (i === 0 || hasActive) toggleGroup(g, true);
+  });
+}
+function toggleGroup(g, forceOpen) {
+  const body = g.querySelector(".sgroup-body");
+  const open = forceOpen === true ? false : g.classList.contains("open");
+  if (open) {
+    if (window.gsap) gsap.to(body, { height: 0, duration: .28, ease: "power2.inOut" });
+    else body.style.height = "0";
+    g.classList.remove("open");
+  } else {
+    g.classList.add("open");
+    if (window.gsap) {
+      gsap.set(body, { height: "auto" });
+      gsap.from(body, { height: 0, duration: .32, ease: "power2.out", clearProps: "height" });
+    } else body.style.height = "auto";
+  }
+}
+</script>
+<script id="ui2js-filter">
+/* ── Time filter: recompute KPIs / stars / donut / topics from raw reviews ── */
+let tfRange = null;   // {from:"YYYY-MM-DD", to:"YYYY-MM-DD"} or null = all time
+const LABEL2TOPIC = Object.fromEntries(Object.entries({
+  performance:"Performance & Chip", battery:"Battery Life", display:"Display Quality",
+  thermals:"Thermals & Cooling", build_quality:"Build & Keyboard", ports:"Ports & Connectivity",
+  price_value:"Price & Value", software_ecosystem:"Software & Ecosystem", repairability:"Repairability",
+}).map(([k,v]) => [v,k]));
+
+function injectFilterBar() {
+  if ($("tfBar")) return;
+  const bar = document.createElement("div");
+  bar.id = "tfBar";
+  bar.innerHTML = `
+    <span style="font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--text-mute);font-weight:600">Time&nbsp;filter</span>
+    <button class="tf-chip on" data-d="all">All time</button>
+    <button class="tf-chip" data-d="365">12 mo</button>
+    <button class="tf-chip" data-d="180">6 mo</button>
+    <button class="tf-chip" data-d="90">90 d</button>
+    <input type="date" id="tfFrom"> – <input type="date" id="tfTo">
+    <button class="tf-chip" id="tfApply">Apply</button>
+    <span id="tfNote"></span>`;
+  const content = $("content");
+  content.parentNode.insertBefore(bar, content);
+  bar.addEventListener("click", async e => {
+    const chip = e.target.closest(".tf-chip");
+    if (!chip) return;
+    [...bar.querySelectorAll(".tf-chip")].forEach(c => c.classList.remove("on"));
+    chip.classList.add("on");
+    if (chip.id === "tfApply") {
+      const f = $("tfFrom").value, t = $("tfTo").value;
+      tfRange = (f || t) ? { from: f || "1970-01-01", to: t || "299-12-31" } : null;
+    } else if (chip.dataset.d === "all") {
+      tfRange = null;
+    } else {
+      const d = new Date(Date.now() - parseInt(chip.dataset.d) * 864e5);
+      tfRange = { from: d.toISOString().slice(0,10), to: "2099-12-31" };
+    }
+    await applyTimeFilter();
+  });
+}
+
+async function loadReviewsFor(key) {
+  if (reviewsCache[key]) return reviewsCache[key];
+  if (current && current.overview) {
+    const planner = await j("data/" + key + "/planner.json");
+    const parts = await Promise.all(planner.members.map(m =>
+      j("data/" + m + "/reviews_sanitized.json").catch(() => [])));
+    reviewsCache[key] = parts.flat();
+  } else {
+    reviewsCache[key] = await j("data/" + key + "/reviews_sanitized.json");
+  }
+  return reviewsCache[key];
+}
+
+async function applyTimeFilter() {
+  if (!current) return;
+  const note = $("tfNote");
+  if (!tfRange) { note.textContent = ""; select(current.product_key); return; }
+  let revs;
+  try { revs = await loadReviewsFor(current.product_key); }
+  catch (e) { note.textContent = "no raw reviews for this view"; return; }
+  const sel = revs.filter(r => {
+    const d = (r.submitted_at || "").slice(0,10);
+    return d >= tfRange.from && d <= tfRange.to;
+  });
+  note.textContent = `${sel.length.toLocaleString()} of ${revs.length.toLocaleString()} reviews in range · S&W / word cloud / competitors remain all-time`;
+  if (!sel.length) return;
+
+  // KPIs
+  const total = sel.length;
+  const pos = sel.filter(r => r.rating >= 4).length, neu = sel.filter(r => r.rating === 3).length;
+  const neg = total - pos - neu;
+  const avg = sel.reduce((s,r) => s + (r.rating||0), 0) / total;
+  const dates = sel.map(r => (r.submitted_at||"").slice(0,10)).filter(Boolean).sort();
+  animNum($("kTotal"), total);
+  $("kRange").textContent = (dates[0]||"?") + " – " + (dates[dates.length-1]||"?");
+  animNum($("kSat"), Math.round(pos/total*100));
+  $("kAvg").textContent = avg.toFixed(1) + "★";
+  // Stars
+  const starColors = {5:"#2e9e44",4:"#8fd694",3:"#e8d840",2:"#e8a040",1:"#e87060"};
+  const dist = {1:0,2:0,3:0,4:0,5:0};
+  sel.forEach(r => { const k = Math.min(5, Math.max(1, r.rating||1)); dist[k]++; });
+  const mx = Math.max(...Object.values(dist), 1);
+  $("starBars").innerHTML = [5,4,3,2,1].map(st => `
+    <div class="star-row"><span class="star-lab">${st}★</span>
+    <div class="star-track"><div class="star-fill" style="width:${dist[st]/mx*100}%;background:${starColors[st]}"></div></div>
+    <span class="star-n">${dist[st].toLocaleString()}</span></div>`).join("");
+  // Donut + legend
+  const pct = k => Math.round(k/total*1000)/10;
+  const seg = [["positive", pos, "#72c472"], ["neutral", neu, "#8a8070"], ["negative", neg, "#e87060"]];
+  let off = 25, svg = "";
+  for (const [,n,col] of seg) {
+    const p = pct(n);
+    svg += `<circle cx="21" cy="21" r="15.9" fill="none" stroke="${col}" stroke-width="7" stroke-dasharray="${p} ${100-p}" stroke-dashoffset="${off}"></circle>`;
+    off -= p;
+  }
+  $("donut").innerHTML = svg;
+  $("sentLegend").innerHTML = seg.map(([k,n,col]) =>
+    `<div><span class="sw" style="background:${col}"></span>${k[0].toUpperCase()+k.slice(1)}<span class="n">${n.toLocaleString()} (${pct(n)}%)</span></div>`).join("");
+  // Topic coverage from per-review topics labels
+  const tstat = {};
+  Object.values(LABEL2TOPIC).forEach(() => {});
+  for (const label of Object.keys(LABEL2TOPIC)) tstat[label] = {t:0,p:0,n:0};
+  for (const r of sel) {
+    const s = r.rating >= 4 ? "p" : (r.rating === 3 ? "0" : "n");
+    for (const label of (r.topics || "").split(",").map(x => x.trim()).filter(Boolean)) {
+      if (!tstat[label]) continue;
+      tstat[label].t++;
+      if (s === "p") tstat[label].p++; else if (s === "n") tstat[label].n++;
+    }
+  }
+  const rows = Object.entries(tstat).sort((a,b) => b[1].t - a[1].t);
+  const mt = Math.max(...rows.map(([,v]) => v.t), 1);
+  $("topicBars").innerHTML = rows.map(([label,v]) => {
+    const w = v.t/mt*100, pp = v.t ? v.p/v.t*100 : 0, np = v.t ? v.n/v.t*100 : 0;
+    return `<div class="topic-row"><span class="topic-lab">${esc(label)}</span>
+      <div class="topic-track" style="max-width:${w}%">
+        <div style="width:${pp}%;background:#72c472"></div>
+        <div style="width:${100-pp-np}%;background:#d4cfc0"></div>
+        <div style="width:${np}%;background:#e87060"></div>
+      </div><span class="topic-n">${v.t}</span></div>`;
+  }).join("");
+}
+
+function animNum(el, target) {
+  if (!window.gsap) { el.textContent = target.toLocaleString(); return; }
+  const o = { v: 0 };
+  gsap.to(o, { v: target, duration: .7, ease: "power2.out",
+    onUpdate: () => el.textContent = Math.round(o.v).toLocaleString() });
+}
+</script>
+<script id="ui2js-compare">
+/* ── Compare mode: pick 2–3 products, side-by-side overlay ── */
+const cmpSel = [];
+
+function toggleCompare(key, cb) {
+  const i = cmpSel.indexOf(key);
+  if (i >= 0) cmpSel.splice(i, 1);
+  else {
+    if (cmpSel.length >= 3) { cb.checked = false; return; }
+    cmpSel.push(key);
+  }
+  updateCmpBar();
+}
+function updateCmpBar() {
+  let bar = $("cmpBar");
+  if (!bar) {
+    bar = document.createElement("div");
+    bar.id = "cmpBar";
+    bar.innerHTML = `<span id="cmpTxt"></span>
+      <button class="cmp-btn" onclick="openCompare()">Compare →</button>
+      <button class="tf-chip" onclick="clearCompare()">Clear</button>`;
+    document.body.appendChild(bar);
+  }
+  $("cmpTxt").textContent = cmpSel.length + " selected (2–3 to compare)";
+  bar.classList.toggle("show", cmpSel.length >= 1);
+  bar.querySelector(".cmp-btn").style.opacity = cmpSel.length >= 2 ? 1 : .4;
+}
+function clearCompare() {
+  cmpSel.length = 0;
+  document.querySelectorAll(".cmp-check").forEach(c => c.checked = false);
+  updateCmpBar();
+}
+async function openCompare() {
+  if (cmpSel.length < 2) return;
+  const cols = await Promise.all(cmpSel.map(async key => {
+    const [summary, topics, sw] = await Promise.all([
+      j(`data/${key}/summary.json`), j(`data/${key}/topics.json`),
+      j(`data/${key}/strengths_weaknesses.json`)]);
+    const p = manifest.find(x => x.product_key === key) || {};
+    return { key, p, summary, topics, sw };
+  }));
+  let ov = $("cmpOverlay");
+  if (!ov) {
+    ov = document.createElement("div");
+    ov.id = "cmpOverlay";
+    ov.onclick = e => { if (e.target === ov) ov.classList.remove("show"); };
+    document.body.appendChild(ov);
+  }
+  const TOPICS9 = cols[0].topics.map(t => t.label);
+  const row = (label, fn, cls) => `<tr><td>${label}</td>${cols.map(c =>
+    `<td class="${cls||""}">${fn(c)}</td>`).join("")}</tr>`;
+  const netCell = (c, label) => {
+    const t = c.topics.find(x => x.label === label) || {};
+    const net = t.net_score || 0, w = Math.min(60, Math.abs(net) * 0.6);
+    return `<span class="netbar ${net<0?"neg":""}" style="width:${w}px"></span>
+      <span style="font-family:'JetBrains Mono',monospace;font-size:11px"> ${net.toFixed(0)} <i style="color:var(--text-mute)">(${t.total||0})</i></span>`;
+  };
+  ov.innerHTML = `<div id="cmpCard">
+    <div style="display:flex;justify-content:space-between;align-items:center">
+      <h2>Product Comparison</h2>
+      <button class="tf-chip" onclick="document.getElementById('cmpOverlay').classList.remove('show')">✕ Close</button>
+    </div>
+    <table>
+      <tr><th></th>${cols.map(c => `<th>${esc(displayName(c.p))}<br>
+        <span style="font-weight:400;color:var(--text-mute);font-size:11px">${esc((c.p.name||c.key).slice(0,60))}</span></th>`).join("")}</tr>
+      ${row("Source", c => (c.p.retailer === "walmart" ? "Walmart US" : "Best Buy " + (c.p.market||"")))}
+      ${row("Reviews", c => (c.summary.total||0).toLocaleString(), "num")}
+      ${row("Avg rating", c => (c.summary.avg_rating||0).toFixed(2) + "★", "num")}
+      ${row("Satisfaction", c => Math.round(c.summary.satisfaction_score||0) + "%", "num")}
+      ${row("Date range", c => c.summary.date_range || "", "num")}
+      ${row("Top strength", c => `<span class="pill good">${esc((c.sw.strengths[0]||{}).theme||"—")}</span>`)}
+      ${row("Top weakness", c => `<span class="pill bad">${esc((c.sw.weaknesses[0]||{}).theme||"—")}</span>`)}
+      <tr><th colspan="${cols.length+1}" style="padding-top:16px">Topic net scores (positive% − negative%)</th></tr>
+      ${TOPICS9.map(lbl => row(lbl, c => netCell(c, lbl))).join("")}
+    </table></div>`;
+  ov.classList.add("show");
+  if (window.gsap) gsap.from("#cmpCard", { y: 40, opacity: 0, duration: .4, ease: "power2.out" });
+}
+
+/* ── Hooks: wrap renderSidebar & select so enhancements re-apply ── */
+const _renderSidebar = renderSidebar;
+renderSidebar = function() { _renderSidebar(); enhanceSidebar(); };
+const _select = select;
+select = async function(key) {
+  await _select(key);
+  injectFilterBar();
+  if (tfRange) applyTimeFilter();
+  if (window.gsap && $("content").style.display !== "none") {
+    gsap.from("#content .panel, #content .kpi", { y: 14, opacity: 0, duration: .4, stagger: .05, ease: "power2.out", clearProps: "all" });
+  }
+  // re-check compare boxes after sidebar active-state refresh
+  cmpSel.forEach(k => { const cb = document.querySelector(`.cmp-check[data-key="${k}"]`); if (cb) cb.checked = true; });
+};
+// If init already rendered before this script loaded, enhance now
+if ($("sideList") && $("sideList").children.length) { enhanceSidebar(); injectFilterBar(); }
+</script>
 </body>
 </html>
