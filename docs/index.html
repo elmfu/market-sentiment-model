@@ -714,7 +714,6 @@ function enhanceSidebar() {
       head.innerHTML = `<span class="caret">▶</span><span>${esc(title)}</span><span class="cnt">0</span>`;
       body = document.createElement("div");
       body.className = "sgroup-body";
-      head.onclick = () => toggleGroup(group);
       group.append(head, body);
       box.appendChild(group);
     } else if (body) {
@@ -739,23 +738,8 @@ function enhanceSidebar() {
     g.querySelector(".cnt").textContent = items;
     const hasActive = !!g.querySelector(".side-item.active") ||
       !!g.querySelector("#side_" + CSS.escape(activeKey));
-    if (i === 0 || hasActive) toggleGroup(g, true);
+    if (i === 0 || hasActive) g.classList.add("open");
   });
-}
-function toggleGroup(g, forceOpen) {
-  const body = g.querySelector(".sgroup-body");
-  const open = forceOpen === true ? false : g.classList.contains("open");
-  if (open) {
-    if (window.gsap) gsap.to(body, { height: 0, duration: .28, ease: "power2.inOut" });
-    else body.style.height = "0";
-    g.classList.remove("open");
-  } else {
-    g.classList.add("open");
-    if (window.gsap) {
-      gsap.set(body, { height: "auto" });
-      gsap.from(body, { height: 0, duration: .32, ease: "power2.out", clearProps: "height" });
-    } else body.style.height = "auto";
-  }
 }
 </script>
 <script id="ui2js-filter">
@@ -988,9 +972,10 @@ if ($("sideList") && $("sideList").children.length) { enhanceSidebar(); injectFi
 </script>
 <!-- ═══════════ UI v2.1: fixes + dark mode + sidebar collapse + wordcloud hover ═══════════ -->
 <style id="ui21css">
-/* Robust group collapse (display-based — overrides height-based v2 rules) */
-.sgroup-body { display:none; height:auto !important; overflow:visible; }
-.sgroup.open .sgroup-body { display:block; }
+/* Group collapse — pure display switch, overrides any height-based v2 rules */
+.sgroup-body { display:none !important; height:auto !important; overflow:visible !important; }
+.sgroup.open .sgroup-body { display:block !important; }
+.sgroup-head { pointer-events:auto; }
 /* Word cloud hover: scale + count tooltip */
 #wordcloud span { transition: transform .15s ease; cursor: default; position: relative; }
 #wordcloud span:hover { transform: scale(1.35); z-index: 5; }
@@ -1032,16 +1017,19 @@ body, .panel, .kpi, .side-item, #sidebar { transition: background .3s ease, colo
 <script id="ui21js">
 /* ═══ UI v2.1 overrides & additions ═══ */
 
-// 1. Robust group toggle (display-based; overrides v2 height animation)
-function toggleGroup(g, forceOpen) {
-  const willOpen = forceOpen === true ? true : !g.classList.contains("open");
+// 1. Single delegated toggle — one listener for all groups, pure display switch.
+document.addEventListener("click", function (e) {
+  const head = e.target.closest(".sgroup-head");
+  if (!head) return;
+  const g = head.closest(".sgroup");
+  const willOpen = !g.classList.contains("open");
   g.classList.toggle("open", willOpen);
   if (willOpen && window.gsap) {
-    const items = g.querySelectorAll(".side-item");
-    gsap.from(items, { opacity: 0, x: -10, duration: .25, stagger: .03,
-      ease: "power2.out", clearProps: "all" });
+    gsap.from(g.querySelectorAll(".side-item"),
+      { opacity: 0, x: -10, duration: .25, stagger: .03, ease: "power2.out", clearProps: "all" });
   }
-}
+});
+function toggleGroup(g, open) { g.classList.toggle("open", open !== false); }  // legacy no-op-ish
 
 // 2. Whole-sidebar collapse button
 (function () {
