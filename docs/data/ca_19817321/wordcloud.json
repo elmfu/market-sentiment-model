@@ -1,18 +1,98 @@
 [
   {
+    "word": "specs",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "mentioned",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "specifications",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "unit",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "core",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ultra",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "find",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "information",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "model",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "making",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
     "word": "overall",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "specs",
-    "count": 1,
-    "sentiment": "neutral"
+    "word": "easy",
+    "count": 2,
+    "sentiment": "positive"
   },
   {
-    "word": "mentioned",
-    "count": 1,
-    "sentiment": "neutral"
+    "word": "ram",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "extremely",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "experience",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "off",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "help",
+    "count": 2,
+    "sentiment": "positive"
   },
   {
     "word": "matching",
@@ -100,11 +180,6 @@
     "sentiment": "neutral"
   },
   {
-    "word": "specifications",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
     "word": "listed",
     "count": 1,
     "sentiment": "neutral"
@@ -185,32 +260,12 @@
     "sentiment": "neutral"
   },
   {
-    "word": "unit",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
     "word": "lists",
     "count": 1,
     "sentiment": "neutral"
   },
   {
-    "word": "processor",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
     "word": "intel",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "core",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "ultra",
     "count": 1,
     "sentiment": "neutral"
   },
@@ -235,67 +290,12 @@
     "sentiment": "neutral"
   },
   {
-    "word": "find",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
     "word": "detailed",
     "count": 1,
     "sentiment": "neutral"
   },
   {
-    "word": "information",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
     "word": "exact",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "model",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "hp's",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "official",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "making",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "difficult",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "verify",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "independently",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "point",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "evaluating",
     "count": 1,
     "sentiment": "neutral"
   }

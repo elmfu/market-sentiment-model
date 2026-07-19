@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07",
+  "generated_at": "2026-07-19",
   "series": [
     {
       "slug": "Ultra",
@@ -60,9 +60,9 @@
       "model": "",
       "cpu_ram_ssd": "Ryzen AI 7 / 32GB / 1TB",
       "enabled": true,
-      "total": 38,
-      "avg_rating": 4.11,
-      "satisfaction_score": 76.3,
+      "total": 39,
+      "avg_rating": 4.13,
+      "satisfaction_score": 76.9,
       "date_range": ""
     },
     {
@@ -98,9 +98,9 @@
       "model": "",
       "cpu_ram_ssd": "Core Ultra 7-365H / 32GB / 1TB",
       "enabled": true,
-      "total": 3,
-      "avg_rating": 3.67,
-      "satisfaction_score": 33.3,
+      "total": 5,
+      "avg_rating": 4.2,
+      "satisfaction_score": 60.0,
       "date_range": ""
     },
     {
@@ -112,9 +112,9 @@
       "model": "",
       "cpu_ram_ssd": "Core Ultra 7 356H / 32GB / 1TB + RTX 5050",
       "enabled": true,
-      "total": 229,
-      "avg_rating": 4.38,
-      "satisfaction_score": 86.5,
+      "total": 233,
+      "avg_rating": 4.39,
+      "satisfaction_score": 86.7,
       "date_range": ""
     },
     {
@@ -417,10 +417,10 @@
       "model": "",
       "cpu_ram_ssd": "",
       "enabled": true,
-      "total": 186,
-      "avg_rating": 3.98,
-      "satisfaction_score": 74.2,
-      "date_range": "2025-05-25 to 2026-06-30"
+      "total": 20,
+      "avg_rating": 4.5,
+      "satisfaction_score": 90.0,
+      "date_range": "2026-04-24 to 2026-07-08"
     },
     {
       "product_key": "wm_13968860429",

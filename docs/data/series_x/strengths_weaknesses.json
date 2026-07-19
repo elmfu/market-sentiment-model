@@ -2,7 +2,7 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 284,
+   "count": 286,
    "pct_of_reviews": 32.4,
    "quotes": [
     "The HP  OmniBook X with Snapdragon X Plus processor is the perfect laptop for travelers.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 209,
-   "pct_of_reviews": 23.9,
+   "count": 212,
+   "pct_of_reviews": 24.0,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
     "Visuals/Display - Great picture, nice color and pixel quality.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 192,
-   "pct_of_reviews": 21.9,
+   "count": 195,
+   "pct_of_reviews": 22.1,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
     "Visuals/Display - Great picture, nice color and pixel quality.",
@@ -31,23 +31,23 @@
    ]
   },
   {
+   "theme": "Battery Life",
+   "count": 159,
+   "pct_of_reviews": 18.0,
+   "quotes": [
+    "Best of all, the Snapdragon processor provides the best battery life of any laptop I have ever used.",
+    "The speed and battery life of this PC is amazing.",
+    "Combined with the Omnibook’s long battery life, it’s a good portable solution."
+   ]
+  },
+  {
    "theme": "Software & Ecosystem",
-   "count": 158,
+   "count": 159,
    "pct_of_reviews": 18.0,
    "quotes": [
     "Everyday tasks such as watching videos, web browsing, and using software applications are an absolute pleasure with this laptop.",
     "PROs:\nPerformance - Exceptional in terms of speed and transitions from one webpage and/or software to the next.",
     "It's like windows is trying to become Mac faster than Mac can become Windows."
-   ]
-  },
-  {
-   "theme": "Battery Life",
-   "count": 157,
-   "pct_of_reviews": 17.9,
-   "quotes": [
-    "Best of all, the Snapdragon processor provides the best battery life of any laptop I have ever used.",
-    "The speed and battery life of this PC is amazing.",
-    "Combined with the Omnibook’s long battery life, it’s a good portable solution."
    ]
   }
  ],
@@ -55,7 +55,7 @@
   {
    "theme": "Price & Value",
    "count": 11,
-   "pct_of_reviews": 1.3,
+   "pct_of_reviews": 1.2,
    "quotes": [
     "Finally, the price, it's been going on sale a lot!",
     "that's 1000$ on sale normally priced 1400 $.",

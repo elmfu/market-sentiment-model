@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 2799,
-   "pct_of_reviews": 32.7,
+   "count": 2764,
+   "pct_of_reviews": 32.9,
    "quotes": [
     "The HP  OmniBook X with Snapdragon X Plus processor is the perfect laptop for travelers.",
     "* The Lunar Lake Intel processor is plenty quick, even with multiple Chrome tabs and Office apps open.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 2276,
-   "pct_of_reviews": 26.6,
+   "count": 2258,
+   "pct_of_reviews": 26.9,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
     "I've tried the Lenovo X1 Carbon, the Dell XPS,  the Lenovo Slim 7x and the Asus Zenbook OLED models.",
@@ -22,7 +22,7 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 2173,
+   "count": 2133,
    "pct_of_reviews": 25.4,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
@@ -32,7 +32,7 @@
   },
   {
    "theme": "Price & Value",
-   "count": 1720,
+   "count": 1688,
    "pct_of_reviews": 20.1,
    "quotes": [
     "* The price tag is a bit steep, but I was able to snap this up on sale.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Battery Life",
-   "count": 1227,
-   "pct_of_reviews": 14.3,
+   "count": 1213,
+   "pct_of_reviews": 14.4,
    "quotes": [
     "Best of all, the Snapdragon processor provides the best battery life of any laptop I have ever used.",
     "* The battery life is long, and I can easily get through a full day on a single charge.",
@@ -54,8 +54,8 @@
  "weaknesses": [
   {
    "theme": "Software & Ecosystem",
-   "count": 115,
-   "pct_of_reviews": 1.3,
+   "count": 104,
+   "pct_of_reviews": 1.2,
    "quotes": [
     "Disable the trackpad, and expected my mouse to work, which is a Microsoft mouse, and wake up the device.",
     "Like, the bluetooth in gone (not in device manager anymore - so cannot reinstall a driver).",
@@ -64,8 +64,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 99,
-   "pct_of_reviews": 1.2,
+   "count": 88,
+   "pct_of_reviews": 1.0,
    "quotes": [
     "Everything looked brand new when I opened the box, but in trying to set it up, it didn't display any options to connect to internet.",
     "Suddenly, it started showing vertical lines in the display.",
@@ -74,8 +74,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 91,
-   "pct_of_reviews": 1.1,
+   "count": 83,
+   "pct_of_reviews": 1.0,
    "quotes": [
     "Build quality is great, screen etc just like the previous hp spectres.",
     "My hands are rather large, so that means I'm consistently hitting the trackpad.",
@@ -84,8 +84,8 @@
   },
   {
    "theme": "Price & Value",
-   "count": 87,
-   "pct_of_reviews": 1.0,
+   "count": 78,
+   "pct_of_reviews": 0.9,
    "quotes": [
     "Even at the price of $500, it's still not getting what you paid for when half the features break or just don't work.",
     "I did, but since open box, all they would do it give me a refund, not replace it (and no more open boxes of this model either at that price).",
@@ -94,8 +94,8 @@
   },
   {
    "theme": "Performance & Chip",
-   "count": 75,
-   "pct_of_reviews": 0.9,
+   "count": 70,
+   "pct_of_reviews": 0.8,
    "quotes": [
     "[Employee of bestbuy] Laptop is super slow and freeze this is the third factory reset and still presenting problems.",
     "ive tried everything but the numbers are comparable to or below 8000u ryzen series igpu performance.",

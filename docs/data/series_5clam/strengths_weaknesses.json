@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Build & Keyboard",
-   "count": 260,
-   "pct_of_reviews": 32.5,
+   "count": 217,
+   "pct_of_reviews": 34.2,
    "quotes": [
     "First off, the laptop itself is sleek in design, it looks really nice.",
     "The screen is bright and the keyboard types very well.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Performance & Chip",
-   "count": 219,
-   "pct_of_reviews": 27.3,
+   "count": 182,
+   "pct_of_reviews": 28.7,
    "quotes": [
     "When you log on it loads up very quick which is a bonus.",
     "The processor is decent and with the RAM, it gets the job done.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Software & Ecosystem",
-   "count": 183,
-   "pct_of_reviews": 22.8,
+   "count": 152,
+   "pct_of_reviews": 23.9,
    "quotes": [
     "I'm new to Windows 11 so that took a bit of getting used to, but once I got by that, personalising the laptop was very easy to pick up.",
     "I can easily handle multiple applications at once, including browser tabs, productivity software, and light creative tasks, without experiencing lag.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 162,
-   "pct_of_reviews": 20.2,
+   "count": 141,
+   "pct_of_reviews": 22.2,
    "quotes": [
     "I use this for guitar lessons, and can say the sound is clear, and the video is very sharp; the larger screen helps with the video call for sure.",
     "The screen is bright and the keyboard types very well.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Price & Value",
-   "count": 144,
-   "pct_of_reviews": 18.0,
+   "count": 111,
+   "pct_of_reviews": 17.5,
    "quotes": [
     "Last, but not least, the battery - I've not used it a great deal without the charger being plugged in, but so far it appears to hold a good charge.",
     "Purchased this item during Black Friday and the price was under $500 and well worth it!",
@@ -54,18 +54,18 @@
  "weaknesses": [
   {
    "theme": "Software & Ecosystem",
-   "count": 48,
-   "pct_of_reviews": 6.0,
+   "count": 37,
+   "pct_of_reviews": 5.8,
    "quotes": [
     "Professional Use Review: Significant lag while using VDI and during Microsoft Teams calls.",
     "Seller Verified Purchase There is software issues and the complaint is made.",
-    "Not good for multitasking as it tends to become slow when opening apps."
+    "Seller Verified Purchase MICROSOFT LOCKED ME OUT ON DAY ONE!"
    ]
   },
   {
    "theme": "Build & Keyboard",
-   "count": 31,
-   "pct_of_reviews": 3.9,
+   "count": 23,
+   "pct_of_reviews": 3.6,
    "quotes": [
     "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
     "We want every part of your experience to feel premium, from the display quality to the touchpad response.",
@@ -74,32 +74,32 @@
   },
   {
    "theme": "Display Quality",
-   "count": 27,
-   "pct_of_reviews": 3.4,
+   "count": 16,
+   "pct_of_reviews": 2.5,
    "quotes": [
     "I even faced a screen light‑leak issue within a short time of usage.",
     "We want every part of your experience to feel premium, from the display quality to the touchpad response.",
-    "the information they have on display about the hard drive 512 GB is wrong misinformation."
+    "Seller Verified Purchase Product review - Has a touch screen - I didn't know that."
    ]
   },
   {
    "theme": "Price & Value",
-   "count": 25,
-   "pct_of_reviews": 3.1,
+   "count": 16,
+   "pct_of_reviews": 2.5,
    "quotes": [
-    "For its price, you'd expect it to have touchscreen functionality but it does not.",
     "Seller Verified Purchase Thought it was a deal...",
-    "Since I am currently outside of the US, returning a defective item is extremely expensive and difficult."
+    "Walmart dumps you onto Allstate, and Allstate uses the \"sale price\" on your receipt to lowball you if anything actually breaks.",
+    "If I could still get the computer at the price I paid for it or at a better price as the tech is now older, then I'd reconsider."
    ]
   },
   {
    "theme": "Performance & Chip",
-   "count": 20,
-   "pct_of_reviews": 2.5,
+   "count": 15,
+   "pct_of_reviews": 2.4,
    "quotes": [
     "Professional Use Review: Significant lag while using VDI and during Microsoft Teams calls.",
-    "Not good for multitasking as it tends to become slow when opening apps.",
-    "It has the Intel Core Ultra 7, but it relies on integrated Intel Arc graphics instead of a dedicated GPU."
+    "It has the Intel Core Ultra 7, but it relies on integrated Intel Arc graphics instead of a dedicated GPU.",
+    "We designed this OmniBook with ultra-fast USB-C ports to maximize portability, but we know how crucial your existing tools are for daily work."
    ]
   }
  ]

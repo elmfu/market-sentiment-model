@@ -2,24 +2,24 @@
   "product": "HP OmniBook X 16\" Touchscreen 2-in-1 Laptop - Eclipse Grey (Intel Core Ultra 7-365H/32GB RAM/1TB SSD/Windows 11 Home)",
   "source": "bestbuy.ca",
   "market": "CA",
-  "total": 3,
-  "with_text": 3,
+  "total": 5,
+  "with_text": 5,
   "date_range": "",
-  "avg_rating": 3.67,
-  "satisfaction_score": 33.3,
+  "avg_rating": 4.2,
+  "satisfaction_score": 60.0,
   "star_distribution": {
     "1": 0,
     "2": 0,
     "3": 2,
     "4": 0,
-    "5": 1
+    "5": 3
   },
   "sentiment": {
-    "positive": 1,
+    "positive": 3,
     "neutral": 2,
     "negative": 0,
-    "positive_pct": 33.3,
-    "neutral_pct": 66.7,
+    "positive_pct": 60.0,
+    "neutral_pct": 40.0,
     "negative_pct": 0.0
   }
 }

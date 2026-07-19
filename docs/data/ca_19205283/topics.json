@@ -1,5 +1,27 @@
 [
   {
+    "topic": "display",
+    "label": "Display Quality",
+    "total": 11,
+    "positive": 8,
+    "neutral": 2,
+    "negative": 1,
+    "positive_pct": 72.7,
+    "negative_pct": 9.1,
+    "net_score": 63.6
+  },
+  {
+    "topic": "build_quality",
+    "label": "Build & Keyboard",
+    "total": 11,
+    "positive": 9,
+    "neutral": 2,
+    "negative": 0,
+    "positive_pct": 81.8,
+    "negative_pct": 0.0,
+    "net_score": 81.8
+  },
+  {
     "topic": "performance",
     "label": "Performance & Chip",
     "total": 10,
@@ -9,28 +31,6 @@
     "positive_pct": 70.0,
     "negative_pct": 10.0,
     "net_score": 60.0
-  },
-  {
-    "topic": "display",
-    "label": "Display Quality",
-    "total": 10,
-    "positive": 7,
-    "neutral": 2,
-    "negative": 1,
-    "positive_pct": 70.0,
-    "negative_pct": 10.0,
-    "net_score": 60.0
-  },
-  {
-    "topic": "build_quality",
-    "label": "Build & Keyboard",
-    "total": 10,
-    "positive": 8,
-    "neutral": 2,
-    "negative": 0,
-    "positive_pct": 80.0,
-    "negative_pct": 0.0,
-    "net_score": 80.0
   },
   {
     "topic": "price_value",

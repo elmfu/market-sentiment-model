@@ -2,24 +2,24 @@
  "product": "HP OmniBook 5 Clamshell — all models (Walmart US)",
  "source": "bestbuy.com + bestbuy.ca",
  "market": "US+CA",
- "total": 801,
- "with_text": 801,
- "date_range": "2025-05-25 to 2026-06-30",
- "avg_rating": 4.18,
- "satisfaction_score": 79.9,
+ "total": 635,
+ "with_text": 635,
+ "date_range": "2025-06-29 to 2026-07-08",
+ "avg_rating": 4.24,
+ "satisfaction_score": 81.9,
  "star_distribution": {
-  "1": 86,
-  "2": 33,
-  "3": 42,
-  "4": 133,
-  "5": 507
+  "1": 58,
+  "2": 25,
+  "3": 32,
+  "4": 109,
+  "5": 411
  },
  "sentiment": {
-  "positive": 640,
-  "neutral": 42,
-  "negative": 119,
-  "positive_pct": 79.9,
-  "neutral_pct": 5.2,
-  "negative_pct": 14.9
+  "positive": 520,
+  "neutral": 32,
+  "negative": 83,
+  "positive_pct": 81.9,
+  "neutral_pct": 5.0,
+  "negative_pct": 13.1
  }
 }

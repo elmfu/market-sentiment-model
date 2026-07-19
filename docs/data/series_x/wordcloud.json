@@ -1,7 +1,7 @@
 [
  {
   "word": "screen",
-  "count": 167,
+  "count": 170,
   "sentiment": "positive"
  },
  {
@@ -21,17 +21,17 @@
  },
  {
   "word": "easy",
-  "count": 119,
+  "count": 121,
   "sentiment": "positive"
  },
  {
   "word": "keyboard",
-  "count": 108,
+  "count": 110,
   "sentiment": "positive"
  },
  {
   "word": "work",
-  "count": 108,
+  "count": 110,
   "sentiment": "positive"
  },
  {
@@ -41,17 +41,17 @@
  },
  {
   "word": "excellent",
-  "count": 86,
+  "count": 88,
   "sentiment": "positive"
  },
  {
   "word": "perfect",
-  "count": 78,
+  "count": 79,
   "sentiment": "positive"
  },
  {
   "word": "quality",
-  "count": 77,
+  "count": 78,
   "sentiment": "positive"
  },
  {
@@ -61,12 +61,12 @@
  },
  {
   "word": "light",
-  "count": 72,
+  "count": 73,
   "sentiment": "positive"
  },
  {
   "word": "price",
-  "count": 72,
+  "count": 73,
   "sentiment": "positive"
  },
  {
@@ -76,12 +76,12 @@
  },
  {
   "word": "copilot",
-  "count": 70,
+  "count": 71,
   "sentiment": "positive"
  },
  {
   "word": "features",
-  "count": 69,
+  "count": 70,
   "sentiment": "positive"
  },
  {
@@ -106,12 +106,12 @@
  },
  {
   "word": "processor",
-  "count": 62,
+  "count": 63,
   "sentiment": "positive"
  },
  {
   "word": "windows",
-  "count": 61,
+  "count": 62,
   "sentiment": "positive"
  },
  {
@@ -146,12 +146,17 @@
  },
  {
   "word": "long",
-  "count": 49,
+  "count": 50,
   "sentiment": "positive"
  },
  {
   "word": "software",
-  "count": 49,
+  "count": 50,
+  "sentiment": "positive"
+ },
+ {
+  "word": "without",
+  "count": 48,
   "sentiment": "positive"
  },
  {
@@ -165,8 +170,8 @@
   "sentiment": "positive"
  },
  {
-  "word": "without",
-  "count": 47,
+  "word": "happy",
+  "count": 46,
   "sentiment": "positive"
  },
  {
@@ -175,13 +180,8 @@
   "sentiment": "positive"
  },
  {
-  "word": "happy",
-  "count": 45,
-  "sentiment": "positive"
- },
- {
   "word": "because",
-  "count": 44,
+  "count": 45,
   "sentiment": "positive"
  },
  {
@@ -191,12 +191,22 @@
  },
  {
   "word": "better",
-  "count": 43,
+  "count": 44,
   "sentiment": "positive"
  },
  {
   "word": "while",
+  "count": 44,
+  "sentiment": "positive"
+ },
+ {
+  "word": "now",
   "count": 43,
+  "sentiment": "positive"
+ },
+ {
+  "word": "touchscreen",
+  "count": 42,
   "sentiment": "positive"
  },
  {
@@ -205,7 +215,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "now",
+  "word": "ram",
+  "count": 42,
+  "sentiment": "positive"
+ },
+ {
+  "word": "memory",
   "count": 42,
   "sentiment": "positive"
  },
@@ -215,22 +230,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "touchscreen",
-  "count": 41,
-  "sentiment": "positive"
- },
- {
   "word": "amazing",
   "count": 41,
   "sentiment": "positive"
  },
  {
-  "word": "ram",
-  "count": 41,
-  "sentiment": "positive"
- },
- {
-  "word": "memory",
+  "word": "plus",
   "count": 41,
   "sentiment": "positive"
  },
@@ -240,12 +245,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "right",
+  "word": "design",
   "count": 40,
   "sentiment": "positive"
  },
  {
-  "word": "plus",
+  "word": "right",
   "count": 40,
   "sentiment": "positive"
  },
@@ -260,42 +265,37 @@
   "sentiment": "positive"
  },
  {
-  "word": "design",
-  "count": 38,
+  "word": "over",
+  "count": 39,
   "sentiment": "positive"
  },
  {
   "word": "microsoft",
-  "count": 38,
-  "sentiment": "positive"
- },
- {
-  "word": "solid",
-  "count": 37,
-  "sentiment": "positive"
- },
- {
-  "word": "super",
-  "count": 37,
+  "count": 39,
   "sentiment": "positive"
  },
  {
   "word": "little",
-  "count": 37,
-  "sentiment": "positive"
- },
- {
-  "word": "arm",
-  "count": 37,
+  "count": 38,
   "sentiment": "positive"
  },
  {
   "word": "run",
+  "count": 38,
+  "sentiment": "positive"
+ },
+ {
+  "word": "high",
   "count": 37,
   "sentiment": "positive"
  },
  {
-  "word": "over",
+  "word": "issues",
+  "count": 37,
+  "sentiment": "positive"
+ },
+ {
+  "word": "solid",
   "count": 37,
   "sentiment": "positive"
  }

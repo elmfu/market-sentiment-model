@@ -12,18 +12,6 @@
   "top_complaint": "Software & Ecosystem"
  },
  {
-  "product_key": "wm_13943258180",
-  "name": "HP OmniBook 5 16\" Laptop, AMD Ryzen AI 7 350, 16GB RAM, 512GB SSD, Glacier Silver",
-  "market": "US",
-  "series": "FiveClamshell",
-  "sku": "13943258180",
-  "reviews": 186,
-  "avg_rating": 3.98,
-  "satisfaction": 74.2,
-  "first_review": "2025-05-25",
-  "top_complaint": "Display Quality"
- },
- {
   "product_key": "wm_17065969745",
   "name": "HP OmniBook 5 16\" 2K Touch Laptop, Intel Core Ultra 7, 16GB RAM",
   "market": "US",
@@ -94,5 +82,17 @@
   "satisfaction": 86.4,
   "first_review": "2025-11-29",
   "top_complaint": "Performance & Chip"
+ },
+ {
+  "product_key": "wm_13943258180",
+  "name": "HP OmniBook 5 16\" Laptop, AMD Ryzen AI 7 350, 16GB RAM, 512GB SSD, Glacier Silver",
+  "market": "US",
+  "series": "FiveClamshell",
+  "sku": "13943258180",
+  "reviews": 20,
+  "avg_rating": 4.5,
+  "satisfaction": 90.0,
+  "first_review": "2026-04-24",
+  "top_complaint": "—"
  }
 ]

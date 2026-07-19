@@ -113,9 +113,9 @@
   "market": "CA",
   "series": "X",
   "sku": "19817322",
-  "reviews": 229,
-  "avg_rating": 4.38,
-  "satisfaction": 86.5,
+  "reviews": 233,
+  "avg_rating": 4.39,
+  "satisfaction": 86.7,
   "first_review": "",
   "top_complaint": "Price & Value"
  },
@@ -130,18 +130,6 @@
   "satisfaction": 87.2,
   "first_review": "2024-09-14",
   "top_complaint": "Price & Value"
- },
- {
-  "product_key": "wm_13943258180",
-  "name": "HP OmniBook 5 16\" Laptop, AMD Ryzen AI 7 350, 16GB RAM, 512GB SSD, Glacier Silver",
-  "market": "US",
-  "series": "FiveClamshell",
-  "sku": "13943258180",
-  "reviews": 186,
-  "avg_rating": 3.98,
-  "satisfaction": 74.2,
-  "first_review": "2025-05-25",
-  "top_complaint": "Display Quality"
  },
  {
   "product_key": "us_6614110",
@@ -269,9 +257,9 @@
   "market": "CA",
   "series": "X",
   "sku": "19205283",
-  "reviews": 38,
-  "avg_rating": 4.11,
-  "satisfaction": 76.3,
+  "reviews": 39,
+  "avg_rating": 4.13,
+  "satisfaction": 76.9,
   "first_review": "",
   "top_complaint": "Battery Life"
  },
@@ -348,6 +336,18 @@
   "top_complaint": "Performance & Chip"
  },
  {
+  "product_key": "wm_13943258180",
+  "name": "HP OmniBook 5 16\" Laptop, AMD Ryzen AI 7 350, 16GB RAM, 512GB SSD, Glacier Silver",
+  "market": "US",
+  "series": "FiveClamshell",
+  "sku": "13943258180",
+  "reviews": 20,
+  "avg_rating": 4.5,
+  "satisfaction": 90.0,
+  "first_review": "2026-04-24",
+  "top_complaint": "—"
+ },
+ {
   "product_key": "ca_18469687",
   "name": "HP OmniBook Ultra 14\" Touchscreen Gen AI PC Laptop - Meteor silver (AMD Ryzen AI 9 365/16GB RAM/1TB SSD/Win11)",
   "market": "CA",
@@ -377,9 +377,9 @@
   "market": "CA",
   "series": "X",
   "sku": "19817321",
-  "reviews": 3,
-  "avg_rating": 3.67,
-  "satisfaction": 33.3,
+  "reviews": 5,
+  "avg_rating": 4.2,
+  "satisfaction": 60.0,
   "first_review": "",
   "top_complaint": "—"
  },

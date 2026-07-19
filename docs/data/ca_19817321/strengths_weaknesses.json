@@ -2,33 +2,39 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
+      "count": 1,
+      "pct_of_reviews": 20.0,
+      "quotes": [
+        "I've wanted to do this for a decade but found it slow and frustrating on both pc and android phone."
+      ]
     },
     {
       "theme": "Battery Life",
-      "count": 0,
-      "pct_of_reviews": 0.0,
+      "count": 1,
+      "pct_of_reviews": 20.0,
       "quotes": []
     },
     {
       "theme": "Display Quality",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Thermals & Cooling",
-      "count": 0,
-      "pct_of_reviews": 0.0,
+      "count": 1,
+      "pct_of_reviews": 20.0,
       "quotes": []
     },
     {
       "theme": "Build & Keyboard",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
+      "count": 1,
+      "pct_of_reviews": 20.0,
+      "quotes": [
+        "The build quality is far better than i expected including the hinge design."
+      ]
+    },
+    {
+      "theme": "Ports & Connectivity",
+      "count": 1,
+      "pct_of_reviews": 20.0,
+      "quotes": [
+        "During the setup you can connect your phone, wirelessly or by cable should you want."
+      ]
     }
   ],
   "weaknesses": [

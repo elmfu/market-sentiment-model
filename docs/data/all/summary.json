@@ -2,24 +2,24 @@
  "product": "HP OmniBook portfolio — all models (Best Buy US+CA, Walmart US)",
  "source": "bestbuy.com + bestbuy.ca",
  "market": "US+CA",
- "total": 8560,
- "with_text": 8386,
- "date_range": "2024-06-19 to 2026-07-04",
- "avg_rating": 4.62,
- "satisfaction_score": 92.1,
+ "total": 8401,
+ "with_text": 8225,
+ "date_range": "2024-06-19 to 2026-07-08",
+ "avg_rating": 4.64,
+ "satisfaction_score": 92.5,
  "star_distribution": {
-  "1": 269,
-  "2": 133,
-  "3": 275,
-  "4": 1192,
-  "5": 6691
+  "1": 241,
+  "2": 125,
+  "3": 265,
+  "4": 1169,
+  "5": 6601
  },
  "sentiment": {
-  "positive": 7883,
-  "neutral": 275,
-  "negative": 402,
-  "positive_pct": 92.1,
+  "positive": 7770,
+  "neutral": 265,
+  "negative": 366,
+  "positive_pct": 92.5,
   "neutral_pct": 3.2,
-  "negative_pct": 4.7
+  "negative_pct": 4.4
  }
 }

@@ -1,7 +1,7 @@
 [
   {
     "word": "screen",
-    "count": 26,
+    "count": 27,
     "sentiment": "positive"
   },
   {
@@ -10,18 +10,18 @@
     "sentiment": "positive"
   },
   {
+    "word": "keyboard",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
     "word": "fast",
     "count": 14,
     "sentiment": "positive"
   },
   {
-    "word": "keyboard",
-    "count": 14,
-    "sentiment": "positive"
-  },
-  {
     "word": "old",
-    "count": 13,
+    "count": 14,
     "sentiment": "positive"
   },
   {
@@ -105,6 +105,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "little",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
     "word": "ports",
     "count": 6,
     "sentiment": "positive"
@@ -115,17 +120,22 @@
     "sentiment": "positive"
   },
   {
+    "word": "envy",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "see",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
     "word": "right",
     "count": 5,
     "sentiment": "positive"
   },
   {
     "word": "size",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "little",
     "count": 5,
     "sentiment": "positive"
   },
@@ -145,6 +155,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "without",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
     "word": "colors",
     "count": 5,
     "sentiment": "positive"
@@ -155,7 +170,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "envy",
+    "word": "wish",
     "count": 5,
     "sentiment": "positive"
   },
@@ -170,17 +185,17 @@
     "sentiment": "neutral"
   },
   {
-    "word": "see",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
     "word": "numeric",
     "count": 4,
     "sentiment": "positive"
   },
   {
     "word": "keypad",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "replacement",
     "count": 4,
     "sentiment": "positive"
   },
@@ -205,6 +220,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "inch",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
     "word": "key",
     "count": 4,
     "sentiment": "positive"
@@ -215,17 +235,17 @@
     "sentiment": "positive"
   },
   {
+    "word": "take",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
     "word": "type",
     "count": 4,
     "sentiment": "positive"
   },
   {
     "word": "large",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "without",
     "count": 4,
     "sentiment": "positive"
   },
@@ -260,11 +280,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "wish",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
     "word": "haven't",
     "count": 4,
     "sentiment": "positive"
@@ -281,21 +296,6 @@
   },
   {
     "word": "perfect",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "better",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "works",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "less",
     "count": 4,
     "sentiment": "positive"
   }

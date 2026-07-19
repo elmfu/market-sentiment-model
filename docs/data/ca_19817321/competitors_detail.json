@@ -1,3 +1,18 @@
 {
-  "competitors": []
+  "competitors": [
+    {
+      "brand": "Samsung",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "This has exceeded expectations so far",
+          "body": "I've only had this for a few days, so far it has exceeded my expectations in everyway. The build quality is far better than i expected including the hinge design. It came with the HP pen in the box, something I was unsure of. I find computers frustrating and I've truly hated my windows ten pc since ",
+          "excerpt": "I have it connected wirelessly to my Samsung s23 ultra, it took about a minute to do so.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
 }
