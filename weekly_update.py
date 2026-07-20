@@ -75,7 +75,7 @@ BUILD_STEPS = [
      "required": True},
     {"name": "validate_output",
      "cmd":  [sys.executable, "analysis/validate_output.py"],
-     "required": False},
+     "required": True},
 ]
 
 # git 只允許 add 這些路徑（原始評論與 state 永不進公開 repo）

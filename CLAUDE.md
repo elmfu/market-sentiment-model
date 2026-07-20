@@ -91,8 +91,13 @@ python weekly_update.py --no-push
 
 Task Scheduler 設定（使用 `run_weekly.bat`）：
 - **程式**：`C:\Users\hp\Side Project\reddit-sentiment\run_weekly.bat`
-- **參數**：`--no-push`
+- **參數**：*(留空)* — Task Scheduler 全自動執行包含 push，不要填 `--no-push`
 - **起始於**：`C:\Users\hp\Side Project\reddit-sentiment`
+
+Walmart 被擋時的補抓（只能在互動 session 手動執行，不可排程）：
+```powershell
+python run_weekly.py --only walmart --headed
+```
 
 ### Walmart 被擋時
 

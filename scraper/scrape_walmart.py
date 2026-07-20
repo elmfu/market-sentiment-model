@@ -28,7 +28,7 @@ import re
 from datetime import date, datetime, timezone
 from pathlib import Path
 
-from _browser import new_stealth_context, looks_blocked
+from _browser import new_walmart_context, looks_blocked
 
 ROOT = Path(__file__).parent.parent
 CONFIG_PATH = ROOT / "config" / "products.json"
@@ -109,8 +109,8 @@ async def scrape_item(page_obj, item, incremental):
         url = (f"https://www.walmart.com/reviews/product/{item}"
                f"?sort=submission-desc&page={pg}")
         try:
-            resp = await page_obj.goto(url, wait_until="domcontentloaded", timeout=45_000)
-            await page_obj.wait_for_timeout(random.randint(1500, 3000))
+            resp = await page_obj.goto(url, wait_until="domcontentloaded", timeout=60_000)
+            await page_obj.wait_for_timeout(random.randint(2500, 5000))
         except Exception as exc:
             print(f"    [ERROR] {key} p{pg}: {exc}"); break
 
@@ -155,7 +155,8 @@ async def scrape_item(page_obj, item, incremental):
 
         if stop:
             print(f"    hit last-seen id, stopping early"); break
-        await asyncio.sleep(random.uniform(1.5, 3.5))
+        # 5–8 s base + up to 2 s jitter to avoid rhythmic fingerprinting
+        await asyncio.sleep(random.uniform(5, 8) + random.uniform(0, 2))
 
     if collected:
         save_state(key, {"last_seen_review_id": first_id,
@@ -173,13 +174,13 @@ async def main_async(args):
     print(f"Scraping {len(prods)} Walmart product(s)...")
     total = 0
     async with async_playwright() as p:
-        browser, ctx = await new_stealth_context(p, headed=args.headed)
+        ctx = await new_walmart_context(p, headed=args.headed)
         page_obj = await ctx.new_page()
         for prod in prods:
             print(f"\n[WM] {prod['name'][:70]} (item {prod['sku']})")
             total += await scrape_item(page_obj, prod["sku"], args.incremental)
-            await asyncio.sleep(random.uniform(3, 6))
-        await browser.close()
+            await asyncio.sleep(random.uniform(10, 18))
+        await ctx.close()   # persistent context: close ctx, not a separate browser object
     print(f"\nWalmart scrape complete: {total} reviews across {len(prods)} product(s).")
 
 

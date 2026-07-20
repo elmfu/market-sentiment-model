@@ -62,7 +62,7 @@ def main():
     run("Consolidate per-product dashboards", "analysis/consolidate.py")
     run("Aggregate series + all overviews", "analysis/aggregate_series.py")
     run("Rebuild manifest", "analysis/build_manifest.py")
-    run("Validate output schema", "analysis/validate_output.py", optional=True)
+    run("Validate output schema", "analysis/validate_output.py")
 
     mins = (time.time() - t0) / 60
     print(f"\n{'='*66}\n✓ Weekly refresh done in {mins:.1f} min.")

@@ -18,6 +18,7 @@ and it will be applied automatically when available.
 
 import json
 import random
+from pathlib import Path
 
 UA_POOL = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
@@ -67,6 +68,54 @@ async def new_stealth_context(p, headed: bool = False):
     except ImportError:
         pass
     return browser, ctx
+
+
+async def new_walmart_context(p, headed: bool = False):
+    """
+    Persistent-profile context for Walmart scraping.
+
+    Uses launch_persistent_context so cookies and solved CAPTCHAs survive
+    between runs (.pw_profile_walmart/ at repo root, gitignored).
+    Tries channel='chrome' (real Chrome) first; silently falls back to
+    Playwright's built-in Chromium if Chrome is not installed.
+    Returns only the context — no separate browser object.
+    Caller must call: await ctx.close()
+    """
+    profile_dir = Path(__file__).parent.parent / ".pw_profile_walmart"
+    profile_dir.mkdir(parents=True, exist_ok=True)
+
+    base_kwargs = dict(
+        headless=not headed,
+        args=LAUNCH_ARGS,
+        user_agent=random.choice(UA_POOL),
+        locale="en-US",
+        timezone_id="America/New_York",
+        viewport={"width": 1366, "height": 900},
+        extra_http_headers={"Accept-Language": "en-US,en;q=0.9"},
+    )
+
+    ctx = None
+    for channel in ("chrome", None):
+        try:
+            kwargs = dict(base_kwargs)
+            if channel:
+                kwargs["channel"] = channel
+            ctx = await p.chromium.launch_persistent_context(
+                str(profile_dir), **kwargs
+            )
+            break
+        except Exception as exc:
+            if channel is None:
+                raise
+            print(f"  [WARN] channel=chrome unavailable ({exc}); falling back to Chromium")
+
+    await ctx.add_init_script(INIT_SCRIPT)
+    try:
+        from playwright_stealth import stealth_async  # type: ignore
+        await stealth_async(ctx)
+    except ImportError:
+        pass
+    return ctx
 
 
 def looks_blocked(text: str) -> bool:

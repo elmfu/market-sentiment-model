@@ -101,3 +101,34 @@ push 後 GitHub Pages 會自動重新部署,約 1-2 分鐘;若動到 `worker/` �
 
 ## 設定成真正「每週自動」(選配)
 若要完全免手動,Claude Code 可幫 Claire 建一個 Windows 工作排程器任務,每週一早上跑 `python run_weekly.py`,並在完成後開啟一個提示視窗請 Claire 檢查後 push(抓取仍建議人工過目再 push,因為 Walmart/BBY 偶爾會改版)。要做再跟 Claude Code 說「幫我設 Windows 排程每週一跑 run_weekly」。
+
+---
+
+## 排程注意事項
+
+### Windows 工作排程器（Task Scheduler）
+
+| 欄位 | 值 |
+|---|---|
+| **程式** | `C:\Users\hp\Side Project\reddit-sentiment\run_weekly.bat` |
+| **參數** | *(留空)* |
+| **起始於** | `C:\Users\hp\Side Project\reddit-sentiment` |
+
+**參數欄位必須留空**（不要填 `--no-push`）。`weekly_update.py` 在全自動排程下會完整執行包含 `git push`；填了 `--no-push` 只會 commit 不 push，每次還要手動補推。
+
+### Walmart 被擋時的補抓（只能互動 session 手動跑）
+
+Walmart 爬蟲在無人值守的 headless 模式下常被防爬機制擋住（印出 `[BLOCKED]`）。遇到這種情況：
+
+1. **必須在你自己已登入 Windows 的互動 session 執行**（不能透過 Task Scheduler 的 SYSTEM 帳號）
+2. 執行指令：
+   ```powershell
+   python run_weekly.py --only walmart --headed
+   ```
+3. `--headed` 會開啟可見的 Chrome 視窗；若遇到人機驗證，手動過一次後讓爬蟲繼續
+4. Cookies 會儲存在 `.pw_profile_walmart/`（gitignored），下次 headless 模式可能就不再被擋
+
+### 為什麼不用 `--only walmart --headed` 排程？
+
+headless=False 需要桌面 session，排程器在鎖定畫面或 SYSTEM 帳號下無法開啟視窗。
+Walmart 資料缺一週不影響 BBY 數據，手動補跑即可。

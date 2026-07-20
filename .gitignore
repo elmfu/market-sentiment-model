@@ -55,3 +55,7 @@ _private/llm_input/
 
 # Local archive (old project files)
 _archive/
+
+# Playwright persistent browser profiles (contain cookies / login state)
+.pw_profile_*/
+logs/

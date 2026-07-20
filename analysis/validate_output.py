@@ -37,7 +37,7 @@ def check(product_key: str) -> list[str]:
     if not summary_path.exists():
         errors.append(f"MISSING: summary.json")
     else:
-        s = json.loads(summary_path.read_text())
+        s = json.loads(summary_path.read_text(encoding="utf-8"))
         missing = REQUIRED_SUMMARY_KEYS - s.keys()
         if missing:
             errors.append(f"summary.json missing keys: {missing}")
@@ -47,7 +47,7 @@ def check(product_key: str) -> list[str]:
     if not topics_path.exists():
         errors.append("MISSING: topics.json")
     else:
-        topics = json.loads(topics_path.read_text())
+        topics = json.loads(topics_path.read_text(encoding="utf-8"))
         if len(topics) != 9:
             errors.append(f"topics.json: expected 9 entries, got {len(topics)}")
         found_slugs = {t.get("topic") for t in topics}
@@ -64,7 +64,7 @@ def check(product_key: str) -> list[str]:
     if not sw_path.exists():
         errors.append("MISSING: strengths_weaknesses.json")
     else:
-        sw = json.loads(sw_path.read_text())
+        sw = json.loads(sw_path.read_text(encoding="utf-8"))
         for side in ("strengths", "weaknesses"):
             items = sw.get(side, [])
             if len(items) != 5:
@@ -80,10 +80,10 @@ def check(product_key: str) -> list[str]:
     if not wc_path.exists():
         errors.append("MISSING: wordcloud.json")
     else:
-        wc = json.loads(wc_path.read_text())
+        wc = json.loads(wc_path.read_text(encoding="utf-8"))
         n_reviews = 0
         if summary_path.exists():
-            n_reviews = json.loads(summary_path.read_text()).get("total", 0)
+            n_reviews = json.loads(summary_path.read_text(encoding="utf-8")).get("total", 0)
         if len(wc) < 30 and n_reviews >= 10:  # tiny products can't reach 30 words
             errors.append(f"wordcloud.json: only {len(wc)} entries (expected ≥30)")
 
@@ -95,7 +95,7 @@ def check(product_key: str) -> list[str]:
     # reviews_sanitized.json — check no author fields
     rev_path = base / "reviews_sanitized.json"
     if rev_path.exists():
-        reviews = json.loads(rev_path.read_text())
+        reviews = json.loads(rev_path.read_text(encoding="utf-8"))
         pii_keys = {"author", "nickname", "authorNickname", "userId", "userNickname"}
         for rev in reviews[:20]:
             found_pii = pii_keys & rev.keys()
