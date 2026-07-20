@@ -111,7 +111,7 @@ def main() -> None:
     ap.add_argument("--key")
     args = ap.parse_args()
 
-    products = json.loads(CONFIG_PATH.read_text())["products"]
+    products = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))["products"]
     if args.key:
         products = [p for p in products if p["product_key"] == args.key]
 
