@@ -94,8 +94,11 @@ async def new_walmart_context(p, headed: bool = False):
         extra_http_headers={"Accept-Language": "en-US,en;q=0.9"},
     )
 
+    # channel="chrome" (real Chrome) only when headed; headless Chrome 112+ crashes
+    # with launch_persistent_context — Playwright's bundled Chromium is fine headless.
+    channels = ("chrome", None) if headed else (None,)
     ctx = None
-    for channel in ("chrome", None):
+    for channel in channels:
         try:
             kwargs = dict(base_kwargs)
             if channel:
