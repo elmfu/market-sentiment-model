@@ -1118,5 +1118,182 @@ function injectFilterBar() {
 // 6. Safety: if sidebar rendered before scripts loaded, enhance now
 if ($("sideList") && $("sideList").children.length && $("sideList").dataset.enhanced !== "1") enhanceSidebar();
 </script>
+<!-- ═══════════ UI v3: same-family merged comparison page (2 products, same segment only) ═══════════ -->
+<style id="ui3css">
+#mergeBanner { display:flex; align-items:center; gap:12px; flex-wrap:wrap; background:var(--hl-blue);
+  border:1px solid var(--border2); border-radius:10px; padding:12px 16px; margin:0 0 18px; font-size:13px; }
+#mergeBanner .mb-item { background:var(--card); border:1px solid var(--border); border-radius:8px;
+  padding:6px 12px; cursor:pointer; transition:transform .15s ease; }
+#mergeBanner .mb-item:hover { transform:translateY(-1px); background:var(--bg2); }
+#mergeBanner .mb-meta { font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--text-mute); margin-left:6px; }
+.cmp-btn.merge { background:linear-gradient(135deg,#1d5c8a,#2c7ec4) !important; }
+body.dark #mergeBanner { background:var(--hl-blue); }
+</style>
+<script id="ui3js-merge">
+/* Merged full-page view: exactly 2 products from the same family (Ultra / X / 5). Reuses render(). */
+const SEGMENT = { Ultra:"U", UltraFlip:"U", X:"X", XFlip:"X", FiveClamshell:"5", FiveConvertible:"5" };
+const SEG_NAME = { U:"Ultra family", X:"X family", "5":"OmniBook 5 family" };
+function segOf(key){ const p = manifest.find(x => x.product_key === key); return p ? (SEGMENT[p.series] || null) : null; }
+function mergeEligible(){ return cmpSel.length === 2 && !!segOf(cmpSel[0]) && segOf(cmpSel[0]) === segOf(cmpSel[1]); }
+
+/* Redefine compare bar to add the Merged-page button (same-family pairs only) */
+updateCmpBar = function () {
+  let bar = $("cmpBar");
+  if (!bar) {
+    bar = document.createElement("div");
+    bar.id = "cmpBar";
+    bar.innerHTML = `<span id="cmpTxt"></span>
+      <button class="cmp-btn merge" id="cmpMergeBtn" onclick="openMerged()">Merged page →</button>
+      <button class="cmp-btn" id="cmpTableBtn" onclick="openCompare()">Compare →</button>
+      <button class="tf-chip" onclick="clearCompare()">Clear</button>`;
+    document.body.appendChild(bar);
+  }
+  const ok = mergeEligible();
+  $("cmpMergeBtn").style.display = ok ? "" : "none";
+  $("cmpTxt").textContent =
+    cmpSel.length === 2 && !ok ? "2 selected — merged page needs 2 models from the same family (Ultra / X / 5)"
+    : ok ? "2 selected · same family — merged page available"
+    : cmpSel.length + " selected (2–3 to compare)";
+  bar.classList.toggle("show", cmpSel.length >= 1);
+  $("cmpTableBtn").style.opacity = cmpSel.length >= 2 ? 1 : .4;
+};
+
+function openMerged(){ if (mergeEligible()) select("cmp:" + cmpSel.slice().sort().join("+")); }
+
+/* ── data fusion (counts summed; rating & satisfaction weighted by review count) ── */
+function mergeSummaries(a, b, pa, pb) {
+  const total = (a.total||0) + (b.total||0) || 1;
+  const stars = {}; [1,2,3,4,5].forEach(k => stars[k] = (a.star_distribution[k]||0) + (b.star_distribution[k]||0));
+  const sen = {};
+  ["positive","neutral","negative"].forEach(k => sen[k] = (a.sentiment[k]||0) + (b.sentiment[k]||0));
+  ["positive","neutral","negative"].forEach(k => sen[k+"_pct"] = Math.round(sen[k]/total*1000)/10);
+  const dr = [a.date_range, b.date_range].map(x => (x||"").split(" to "));
+  const from = [dr[0][0], dr[1][0]].filter(Boolean).sort()[0] || "";
+  const to = [dr[0][1], dr[1][1]].filter(Boolean).sort().pop() || "";
+  return {
+    product: displayName(pa) + "  +  " + displayName(pb),
+    source: "merged · " + (a.source||"") + " + " + (b.source||""),
+    market: a.market === b.market ? a.market : "US+CA",
+    total, with_text: (a.with_text||0) + (b.with_text||0),
+    date_range: from + " to " + to,
+    avg_rating: Math.round(((a.avg_rating*(a.total||0)) + (b.avg_rating*(b.total||0))) / total * 100) / 100,
+    satisfaction_score: Math.round(((a.satisfaction_score*(a.total||0)) + (b.satisfaction_score*(b.total||0))) / total * 10) / 10,
+    star_distribution: stars, sentiment: sen,
+  };
+}
+function mergeTopics(a, b) {
+  const m = new Map();
+  for (const t of [...a, ...b]) {
+    const o = m.get(t.topic) || { topic:t.topic, label:t.label, total:0, positive:0, neutral:0, negative:0 };
+    o.total += t.total; o.positive += t.positive; o.neutral += t.neutral; o.negative += t.negative;
+    m.set(t.topic, o);
+  }
+  return [...m.values()].map(o => {
+    o.positive_pct = o.total ? Math.round(o.positive/o.total*1000)/10 : 0;
+    o.negative_pct = o.total ? Math.round(o.negative/o.total*1000)/10 : 0;
+    o.net_score = Math.round((o.positive_pct - o.negative_pct)*10)/10;
+    return o;
+  }).sort((x,y) => y.total - x.total);
+}
+function mergeSWList(a, b, total) {
+  const m = new Map();
+  for (const it of [...a, ...b]) {
+    const o = m.get(it.theme) || { theme:it.theme, count:0, quotes:[] };
+    o.count += it.count; o.quotes.push(...(it.quotes||[]).slice(0,1));
+    m.set(it.theme, o);
+  }
+  return [...m.values()].sort((x,y) => y.count - x.count).slice(0,5)
+    .map(o => ({ ...o, pct_of_reviews: Math.round(o.count/total*1000)/10, quotes: o.quotes.slice(0,2) }));
+}
+function mergeWordcloud(a, b) {
+  const m = new Map();
+  for (const w of [...a, ...b]) {
+    const o = m.get(w.word);
+    if (!o) m.set(w.word, { ...w });
+    else { if (w.count > o.count) o.sentiment = w.sentiment; o.count += w.count; }
+  }
+  return [...m.values()].sort((x,y) => y.count - x.count).slice(0,44);
+}
+function mergeCompetitors(a, b) {
+  const m = new Map();
+  for (const c of [...(a.competitors||[]), ...(b.competitors||[])]) {
+    const o = m.get(c.brand);
+    if (!o) m.set(c.brand, { brand:c.brand, total_mentions:c.total_mentions||0,
+      reviews:(c.reviews||[]).slice(0,2), summary_of_remaining:c.summary_of_remaining||"" });
+    else {
+      o.total_mentions += c.total_mentions||0;
+      o.reviews = o.reviews.concat((c.reviews||[]).slice(0,2)).slice(0,3);
+      if (c.summary_of_remaining) o.summary_of_remaining =
+        [o.summary_of_remaining, c.summary_of_remaining].filter(Boolean).join(" · ");
+    }
+  }
+  return { competitors: [...m.values()].sort((x,y) => y.total_mentions - x.total_mentions) };
+}
+
+async function renderMergedPage(key) {
+  const keys = key.slice(4).split("+");
+  const seg = segOf(keys[0]);
+  if (keys.length !== 2 || !seg || seg !== segOf(keys[1])) return;   // gate: same-family pairs only
+  const pa = manifest.find(x => x.product_key === keys[0]), pb = manifest.find(x => x.product_key === keys[1]);
+  if (!pa || !pb) return;
+  $("loadmsg").style.display = "block"; $("content").style.display = "none";
+  try {
+    const [da, db] = await Promise.all(keys.map(async k => {
+      const base = "data/" + k + "/";
+      const [summary, topics, sw, wc, comp] = await Promise.all([
+        j(base+"summary.json"), j(base+"topics.json"), j(base+"strengths_weaknesses.json"),
+        j(base+"wordcloud.json"), j(base+"competitors_detail.json")]);
+      return { summary, topics, sw, wc, comp };
+    }));
+    const summary = mergeSummaries(da.summary, db.summary, pa, pb);
+    const sw = { strengths: mergeSWList(da.sw.strengths, db.sw.strengths, summary.total),
+                 weaknesses: mergeSWList(da.sw.weaknesses, db.sw.weaknesses, summary.total) };
+    render(summary, mergeTopics(da.topics, db.topics), sw,
+           mergeWordcloud(da.wc, db.wc), mergeCompetitors(da.comp, db.comp));
+    current = { product_key:key, name:summary.product, market:summary.market,
+                review_count:summary.total, merged:true, members:keys, series:pa.series };
+    location.hash = key;
+    document.querySelectorAll(".side-item").forEach(e => e.classList.remove("active"));
+    keys.forEach(k => { const el = $("side_"+k); if (el) el.classList.add("active"); });
+    $("plannerWrap").style.display = "none";
+    let bn = $("mergeBanner"); if (bn) bn.remove();
+    bn = document.createElement("div"); bn.id = "mergeBanner";
+    bn.innerHTML = `<b>Merged view · ${esc(SEG_NAME[seg]||seg)}</b>` + keys.map((k,i) => {
+      const p = i ? pb : pa, s = i ? db.summary : da.summary;
+      return `<span class="mb-item" onclick="select('${k}')">${esc(displayName(p))}<span class="mb-meta">${s.total.toLocaleString()} rev · ${s.avg_rating.toFixed(1)}★ · sat ${Math.round(s.satisfaction_score)}</span></span>`;
+    }).join(`<span style="color:var(--text-mute)">+</span>`) +
+      `<span style="margin-left:auto;font-size:11.5px;color:var(--text-mute)">weighted by review count · click a model for its own page</span>`;
+    $("content").insertBefore(bn, $("content").firstChild);
+    // preload raw reviews so CSV export & time filter work on the merged key
+    Promise.all(keys.map(k => reviewsCache[k] ? Promise.resolve(reviewsCache[k])
+      : j("data/"+k+"/reviews_sanitized.json").catch(() => [])))
+      .then(parts => { keys.forEach((k,i) => reviewsCache[k] = parts[i]); reviewsCache[key] = parts.flat(); });
+    $("aiCtx").textContent = "Context: merged " + displayName(pa) + " + " + displayName(pb) + " (" + summary.market + ")";
+    const ovl = $("cmpOverlay"); if (ovl) ovl.classList.remove("show");
+  } catch (e) { $("loadmsg").textContent = "Could not build merged view: " + e.message; return; }
+  $("loadmsg").style.display = "none"; $("content").style.display = "block";
+  injectFilterBar();
+  if (window.gsap) gsap.from("#content .panel, #content .kpi",
+    { y:14, opacity:0, duration:.4, stagger:.05, ease:"power2.out", clearProps:"all" });
+}
+
+/* route cmp: keys through select(); drop stale banner on normal navigation */
+const _select4 = select;
+select = async function (key) {
+  if (String(key).startsWith("cmp:")) return renderMergedPage(key);
+  const bn = $("mergeBanner"); if (bn) bn.remove();
+  return _select4(key);
+};
+
+/* restore merged view from URL hash (shareable link #cmp:keyA+keyB) */
+(function () {
+  const h = decodeURIComponent(location.hash.slice(1));
+  if (!h.startsWith("cmp:")) return;
+  const t = setInterval(() => {
+    if (Array.isArray(manifest) && manifest.length) { clearInterval(t); setTimeout(() => select(h), 250); }
+  }, 150);
+  setTimeout(() => clearInterval(t), 12000);
+})();
+</script>
 </body>
 </html>
