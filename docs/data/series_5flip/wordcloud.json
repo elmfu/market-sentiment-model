@@ -1,122 +1,27 @@
 [
  {
-  "word": "helpful",
-  "count": 50,
-  "sentiment": "positive"
- },
- {
-  "word": "com",
-  "count": 44,
-  "sentiment": "positive"
- },
- {
-  "word": "seller",
-  "count": 28,
-  "sentiment": "positive"
- },
- {
-  "word": "vadlhf",
-  "count": 26,
-  "sentiment": "positive"
- },
- {
-  "word": "irr",
-  "count": 26,
-  "sentiment": "positive"
- },
- {
-  "word": "international",
-  "count": 25,
-  "sentiment": "positive"
- },
- {
-  "word": "eoya",
-  "count": 24,
-  "sentiment": "positive"
- },
- {
-  "word": "aico",
-  "count": 24,
-  "sentiment": "positive"
- },
- {
-  "word": "https",
-  "count": 22,
-  "sentiment": "positive"
- },
- {
-  "word": "walmartimages",
-  "count": 22,
-  "sentiment": "positive"
- },
- {
-  "word": "dfw",
-  "count": 22,
-  "sentiment": "positive"
- },
- {
-  "word": "customer",
-  "count": 22,
-  "sentiment": "positive"
- },
- {
-  "word": "image",
-  "count": 17,
-  "sentiment": "positive"
- },
- {
-  "word": "photos",
-  "count": 17,
-  "sentiment": "positive"
- },
- {
-  "word": "jpg",
-  "count": 17,
-  "sentiment": "positive"
- },
- {
-  "word": "odnwidth",
-  "count": 17,
-  "sentiment": "positive"
- },
- {
-  "word": "amp",
-  "count": 17,
-  "sentiment": "positive"
- },
- {
-  "word": "odnheight",
-  "count": 17,
-  "sentiment": "positive"
- },
- {
-  "word": "odnbg",
-  "count": 17,
-  "sentiment": "positive"
- },
- {
-  "word": "ffffff",
-  "count": 17,
-  "sentiment": "positive"
- },
- {
   "word": "flip",
-  "count": 15,
-  "sentiment": "positive"
- },
- {
-  "word": "store",
-  "count": 12,
+  "count": 18,
   "sentiment": "positive"
  },
  {
   "word": "screen",
-  "count": 12,
+  "count": 16,
   "sentiment": "positive"
  },
  {
-  "word": "influenster",
-  "count": 11,
+  "word": "easy",
+  "count": 15,
+  "sentiment": "positive"
+ },
+ {
+  "word": "works",
+  "count": 13,
+  "sentiment": "positive"
+ },
+ {
+  "word": "touchscreen",
+  "count": 12,
   "sentiment": "positive"
  },
  {
@@ -125,27 +30,17 @@
   "sentiment": "positive"
  },
  {
-  "word": "easy",
-  "count": 9,
+  "word": "battery",
+  "count": 10,
   "sentiment": "positive"
  },
  {
-  "word": "incentivized",
-  "count": 9,
+  "word": "work",
+  "count": 10,
   "sentiment": "positive"
  },
  {
-  "word": "know",
-  "count": 9,
-  "sentiment": "positive"
- },
- {
-  "word": "works",
-  "count": 9,
-  "sentiment": "positive"
- },
- {
-  "word": "touchscreen",
+  "word": "storage",
   "count": 8,
   "sentiment": "positive"
  },
@@ -155,44 +50,69 @@
   "sentiment": "positive"
  },
  {
-  "word": "battery",
+  "word": "tablet",
   "count": 8,
   "sentiment": "positive"
  },
  {
-  "word": "app",
+  "word": "video",
   "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "quality",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "expected",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "life",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "keyboard",
+  "count": 7,
+  "sentiment": "positive"
+ },
+ {
+  "word": "old",
+  "count": 7,
+  "sentiment": "positive"
+ },
+ {
+  "word": "i've",
+  "count": 7,
   "sentiment": "neutral"
  },
  {
-  "word": "terms",
-  "count": 8,
-  "sentiment": "positive"
- },
- {
-  "word": "design",
-  "count": 8,
-  "sentiment": "positive"
- },
- {
-  "word": "mobile",
+  "word": "feels",
   "count": 7,
   "sentiment": "positive"
  },
  {
-  "word": "work",
-  "count": 7,
-  "sentiment": "positive"
- },
- {
-  "word": "product",
-  "count": 7,
-  "sentiment": "positive"
- },
- {
-  "word": "storage",
+  "word": "responsive",
   "count": 6,
   "sentiment": "positive"
+ },
+ {
+  "word": "processor",
+  "count": 6,
+  "sentiment": "positive"
+ },
+ {
+  "word": "ram",
+  "count": 6,
+  "sentiment": "neutral"
+ },
+ {
+  "word": "ssd",
+  "count": 6,
+  "sentiment": "neutral"
  },
  {
   "word": "pen",
@@ -205,14 +125,14 @@
   "sentiment": "neutral"
  },
  {
-  "word": "video",
+  "word": "multitasking",
   "count": 6,
   "sentiment": "neutral"
  },
  {
-  "word": "multitasking",
+  "word": "faster",
   "count": 6,
-  "sentiment": "neutral"
+  "sentiment": "positive"
  },
  {
   "word": "overall",
@@ -220,12 +140,17 @@
   "sentiment": "neutral"
  },
  {
-  "word": "office",
+  "word": "lag",
   "count": 6,
   "sentiment": "neutral"
  },
  {
-  "word": "health",
+  "word": "calls",
+  "count": 6,
+  "sentiment": "neutral"
+ },
+ {
+  "word": "smoothly",
   "count": 6,
   "sentiment": "neutral"
  },
@@ -240,63 +165,138 @@
   "sentiment": "neutral"
  },
  {
+  "word": "speakers",
+  "count": 6,
+  "sentiment": "neutral"
+ },
+ {
   "word": "videos",
   "count": 6,
   "sentiment": "neutral"
  },
  {
-  "word": "www",
+  "word": "display",
   "count": 6,
   "sentiment": "neutral"
  },
  {
-  "word": "walmart",
+  "word": "hinge",
   "count": 6,
+  "sentiment": "positive"
+ },
+ {
+  "word": "sound",
+  "count": 6,
+  "sentiment": "positive"
+ },
+ {
+  "word": "now",
+  "count": 5,
+  "sentiment": "positive"
+ },
+ {
+  "word": "recommend",
+  "count": 5,
+  "sentiment": "positive"
+ },
+ {
+  "word": "okay",
+  "count": 5,
   "sentiment": "neutral"
  },
  {
-  "word": "reviews",
-  "count": 6,
+  "word": "set",
+  "count": 5,
+  "sentiment": "positive"
+ },
+ {
+  "word": "versatile",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "stylish",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "inch",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "smooth",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "performance",
+  "count": 4,
   "sentiment": "neutral"
  },
  {
-  "word": "page",
-  "count": 6,
+  "word": "intel",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "core",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "premium",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "build",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "students",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "style",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "mode",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "touch",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "run",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "internet",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "audio",
+  "count": 4,
   "sentiment": "neutral"
  },
  {
-  "word": "departments",
-  "count": 6,
-  "sentiment": "neutral"
+  "word": "connectivity",
+  "count": 4,
+  "sentiment": "positive"
  },
  {
-  "word": "directory",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "careers",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "company",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "corporate",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "sell",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "marketplace",
-  "count": 6,
-  "sentiment": "neutral"
+  "word": "solid",
+  "count": 4,
+  "sentiment": "positive"
  }
 ]

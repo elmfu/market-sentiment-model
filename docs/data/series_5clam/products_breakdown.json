@@ -5,10 +5,10 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "13968860429",
-  "reviews": 298,
-  "avg_rating": 4.1,
-  "satisfaction": 77.2,
-  "first_review": "2025-06-29",
+  "reviews": 301,
+  "avg_rating": 4.11,
+  "satisfaction": 77.1,
+  "first_review": "2025-08-07",
   "top_complaint": "Software & Ecosystem"
  },
  {
@@ -17,9 +17,9 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17065969745",
-  "reviews": 127,
-  "avg_rating": 4.18,
-  "satisfaction": 81.9,
+  "reviews": 137,
+  "avg_rating": 4.22,
+  "satisfaction": 82.5,
   "first_review": "2025-08-06",
   "top_complaint": "Software & Ecosystem"
  },
@@ -29,11 +29,11 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "13926923626",
-  "reviews": 60,
-  "avg_rating": 4.43,
-  "satisfaction": 86.7,
+  "reviews": 72,
+  "avg_rating": 4.47,
+  "satisfaction": 87.5,
   "first_review": "2025-07-19",
-  "top_complaint": "Build & Keyboard"
+  "top_complaint": "Price & Value"
  },
  {
   "product_key": "wm_17761662419",
@@ -41,9 +41,9 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17761662419",
-  "reviews": 44,
-  "avg_rating": 4.48,
-  "satisfaction": 88.6,
+  "reviews": 47,
+  "avg_rating": 4.47,
+  "satisfaction": 87.2,
   "first_review": "2025-08-18",
   "top_complaint": "Build & Keyboard"
  },
@@ -53,11 +53,11 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17688270243",
-  "reviews": 36,
-  "avg_rating": 4.5,
-  "satisfaction": 91.7,
+  "reviews": 37,
+  "avg_rating": 4.51,
+  "satisfaction": 91.9,
   "first_review": "2025-08-04",
-  "top_complaint": "Build & Keyboard"
+  "top_complaint": "—"
  },
  {
   "product_key": "wm_17625466471",
@@ -65,11 +65,11 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17625466471",
-  "reviews": 28,
-  "avg_rating": 4.54,
-  "satisfaction": 89.3,
+  "reviews": 35,
+  "avg_rating": 4.49,
+  "satisfaction": 88.6,
   "first_review": "2025-08-18",
-  "top_complaint": "Software & Ecosystem"
+  "top_complaint": "Build & Keyboard"
  },
  {
   "product_key": "wm_17067151191",

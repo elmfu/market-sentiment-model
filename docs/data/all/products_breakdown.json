@@ -89,10 +89,10 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "13968860429",
-  "reviews": 298,
-  "avg_rating": 4.1,
-  "satisfaction": 77.2,
-  "first_review": "2025-06-29",
+  "reviews": 301,
+  "avg_rating": 4.11,
+  "satisfaction": 77.1,
+  "first_review": "2025-08-07",
   "top_complaint": "Software & Ecosystem"
  },
  {
@@ -113,9 +113,9 @@
   "market": "CA",
   "series": "X",
   "sku": "19817322",
-  "reviews": 233,
-  "avg_rating": 4.39,
-  "satisfaction": 86.7,
+  "reviews": 235,
+  "avg_rating": 4.4,
+  "satisfaction": 86.8,
   "first_review": "",
   "top_complaint": "Price & Value"
  },
@@ -149,9 +149,9 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17065969745",
-  "reviews": 127,
-  "avg_rating": 4.18,
-  "satisfaction": 81.9,
+  "reviews": 137,
+  "avg_rating": 4.22,
+  "satisfaction": 82.5,
   "first_review": "2025-08-06",
   "top_complaint": "Software & Ecosystem"
  },
@@ -197,11 +197,11 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "13926923626",
-  "reviews": 60,
-  "avg_rating": 4.43,
-  "satisfaction": 86.7,
+  "reviews": 72,
+  "avg_rating": 4.47,
+  "satisfaction": 87.5,
   "first_review": "2025-07-19",
-  "top_complaint": "Build & Keyboard"
+  "top_complaint": "Price & Value"
  },
  {
   "product_key": "ca_19205282",
@@ -228,6 +228,18 @@
   "top_complaint": "Display Quality"
  },
  {
+  "product_key": "wm_17761662419",
+  "name": "HP OmniBook 5 16\" 2K Laptop, Snapdragon X, 16GB RAM, 256GB SSD",
+  "market": "US",
+  "series": "FiveClamshell",
+  "sku": "17761662419",
+  "reviews": 47,
+  "avg_rating": 4.47,
+  "satisfaction": 87.2,
+  "first_review": "2025-08-18",
+  "top_complaint": "Build & Keyboard"
+ },
+ {
   "product_key": "us_6668001",
   "name": "HP - OmniBook X - 14\" 2K OLED Touchscreen Laptop - Snapdragon X Plus (2025) - 16GB Memory - 512GB SSD - Copilot+ PC - Meteor Silver",
   "market": "US",
@@ -238,18 +250,6 @@
   "satisfaction": 95.7,
   "first_review": "2026-04-10",
   "top_complaint": "Battery Life"
- },
- {
-  "product_key": "wm_17761662419",
-  "name": "HP OmniBook 5 16\" 2K Laptop, Snapdragon X, 16GB RAM, 256GB SSD",
-  "market": "US",
-  "series": "FiveClamshell",
-  "sku": "17761662419",
-  "reviews": 44,
-  "avg_rating": 4.48,
-  "satisfaction": 88.6,
-  "first_review": "2025-08-18",
-  "top_complaint": "Build & Keyboard"
  },
  {
   "product_key": "ca_19205283",
@@ -269,11 +269,11 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17688270243",
-  "reviews": 36,
-  "avg_rating": 4.5,
-  "satisfaction": 91.7,
+  "reviews": 37,
+  "avg_rating": 4.51,
+  "satisfaction": 91.9,
   "first_review": "2025-08-04",
-  "top_complaint": "Build & Keyboard"
+  "top_complaint": "—"
  },
  {
   "product_key": "wm_17625466471",
@@ -281,11 +281,11 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17625466471",
-  "reviews": 28,
-  "avg_rating": 4.54,
-  "satisfaction": 89.3,
+  "reviews": 35,
+  "avg_rating": 4.49,
+  "satisfaction": 88.6,
   "first_review": "2025-08-18",
-  "top_complaint": "Software & Ecosystem"
+  "top_complaint": "Build & Keyboard"
  },
  {
   "product_key": "wm_16611304092",
@@ -293,9 +293,9 @@
   "market": "US",
   "series": "FiveConvertible",
   "sku": "16611304092",
-  "reviews": 26,
-  "avg_rating": 4.62,
-  "satisfaction": 88.5,
+  "reviews": 28,
+  "avg_rating": 4.61,
+  "satisfaction": 89.3,
   "first_review": "2025-11-13",
   "top_complaint": "Performance & Chip"
  },
@@ -305,9 +305,9 @@
   "market": "US",
   "series": "FiveConvertible",
   "sku": "16865170963",
-  "reviews": 24,
-  "avg_rating": 4.54,
-  "satisfaction": 87.5,
+  "reviews": 25,
+  "avg_rating": 4.56,
+  "satisfaction": 88.0,
   "first_review": "2025-11-29",
   "top_complaint": "Performance & Chip"
  },
@@ -377,9 +377,9 @@
   "market": "CA",
   "series": "X",
   "sku": "19817321",
-  "reviews": 5,
-  "avg_rating": 4.2,
-  "satisfaction": 60.0,
+  "reviews": 7,
+  "avg_rating": 4.43,
+  "satisfaction": 71.4,
   "first_review": "",
   "top_complaint": "—"
  },

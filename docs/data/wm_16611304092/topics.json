@@ -1,18 +1,29 @@
 [
   {
-    "topic": "build_quality",
-    "label": "Build & Keyboard",
-    "total": 12,
-    "positive": 11,
-    "neutral": 0,
-    "negative": 1,
-    "positive_pct": 91.7,
-    "negative_pct": 8.3,
-    "net_score": 83.4
-  },
-  {
     "topic": "display",
     "label": "Display Quality",
+    "total": 11,
+    "positive": 9,
+    "neutral": 1,
+    "negative": 1,
+    "positive_pct": 81.8,
+    "negative_pct": 9.1,
+    "net_score": 72.7
+  },
+  {
+    "topic": "build_quality",
+    "label": "Build & Keyboard",
+    "total": 11,
+    "positive": 10,
+    "neutral": 0,
+    "negative": 1,
+    "positive_pct": 90.9,
+    "negative_pct": 9.1,
+    "net_score": 81.8
+  },
+  {
+    "topic": "performance",
+    "label": "Performance & Chip",
     "total": 9,
     "positive": 7,
     "neutral": 1,
@@ -22,37 +33,15 @@
     "net_score": 66.7
   },
   {
-    "topic": "performance",
-    "label": "Performance & Chip",
-    "total": 7,
-    "positive": 5,
-    "neutral": 1,
-    "negative": 1,
-    "positive_pct": 71.4,
-    "negative_pct": 14.3,
-    "net_score": 57.1
-  },
-  {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 5,
-    "positive": 5,
+    "total": 6,
+    "positive": 6,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
     "negative_pct": 0.0,
     "net_score": 100.0
-  },
-  {
-    "topic": "software_ecosystem",
-    "label": "Software & Ecosystem",
-    "total": 5,
-    "positive": 3,
-    "neutral": 1,
-    "negative": 1,
-    "positive_pct": 60.0,
-    "negative_pct": 20.0,
-    "net_score": 40.0
   },
   {
     "topic": "ports",
@@ -66,8 +55,30 @@
     "net_score": 100.0
   },
   {
+    "topic": "software_ecosystem",
+    "label": "Software & Ecosystem",
+    "total": 4,
+    "positive": 2,
+    "neutral": 1,
+    "negative": 1,
+    "positive_pct": 50.0,
+    "negative_pct": 25.0,
+    "net_score": 25.0
+  },
+  {
     "topic": "price_value",
     "label": "Price & Value",
+    "total": 3,
+    "positive": 3,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "thermals",
+    "label": "Thermals & Cooling",
     "total": 2,
     "positive": 2,
     "neutral": 0,
@@ -86,16 +97,5 @@
     "positive_pct": 50.0,
     "negative_pct": 0.0,
     "net_score": 50.0
-  },
-  {
-    "topic": "thermals",
-    "label": "Thermals & Cooling",
-    "total": 1,
-    "positive": 1,
-    "neutral": 0,
-    "negative": 0,
-    "positive_pct": 100.0,
-    "negative_pct": 0.0,
-    "net_score": 100.0
   }
 ]

@@ -2,39 +2,42 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 1,
-      "pct_of_reviews": 20.0,
+      "count": 2,
+      "pct_of_reviews": 28.6,
       "quotes": [
-        "I've wanted to do this for a decade but found it slow and frustrating on both pc and android phone."
+        "I've wanted to do this for a decade but found it slow and frustrating on both pc and android phone.",
+        "Build quality is really good and has very good specs with a powerful processor."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 2,
+      "pct_of_reviews": 28.6,
+      "quotes": []
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 2,
+      "pct_of_reviews": 28.6,
+      "quotes": [
+        "The build quality is far better than i expected including the hinge design.",
+        "Build quality is really good and has very good specs with a powerful processor."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 2,
+      "pct_of_reviews": 28.6,
+      "quotes": [
+        "If your considering a 2 in 1 format, for $1999 (on sale), its an incredible value.",
+        "Got this on sale about a week ago and is exceeding expectations."
       ]
     },
     {
       "theme": "Battery Life",
       "count": 1,
-      "pct_of_reviews": 20.0,
+      "pct_of_reviews": 14.3,
       "quotes": []
-    },
-    {
-      "theme": "Display Quality",
-      "count": 1,
-      "pct_of_reviews": 20.0,
-      "quotes": []
-    },
-    {
-      "theme": "Build & Keyboard",
-      "count": 1,
-      "pct_of_reviews": 20.0,
-      "quotes": [
-        "The build quality is far better than i expected including the hinge design."
-      ]
-    },
-    {
-      "theme": "Ports & Connectivity",
-      "count": 1,
-      "pct_of_reviews": 20.0,
-      "quotes": [
-        "During the setup you can connect your phone, wirelessly or by cable should you want."
-      ]
     }
   ],
   "weaknesses": [

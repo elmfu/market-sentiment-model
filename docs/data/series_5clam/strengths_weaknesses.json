@@ -2,104 +2,104 @@
  "strengths": [
   {
    "theme": "Build & Keyboard",
-   "count": 217,
-   "pct_of_reviews": 34.2,
+   "count": 198,
+   "pct_of_reviews": 29.5,
    "quotes": [
-    "First off, the laptop itself is sleek in design, it looks really nice.",
-    "The screen is bright and the keyboard types very well.",
-    "The laptop's design is clean and professional, with a sturdy build that feels durable yet not overly heavy for a 16-inch device."
+    "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
+    "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
+    "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect."
    ]
   },
   {
    "theme": "Performance & Chip",
-   "count": 182,
-   "pct_of_reviews": 28.7,
+   "count": 195,
+   "pct_of_reviews": 29.1,
    "quotes": [
-    "When you log on it loads up very quick which is a bonus.",
-    "The processor is decent and with the RAM, it gets the job done.",
-    "Performance-wise, the Intel Core i5 processor paired with 16GB of RAM delivers smooth and efficient performance."
-   ]
-  },
-  {
-   "theme": "Software & Ecosystem",
-   "count": 152,
-   "pct_of_reviews": 23.9,
-   "quotes": [
-    "I'm new to Windows 11 so that took a bit of getting used to, but once I got by that, personalising the laptop was very easy to pick up.",
-    "I can easily handle multiple applications at once, including browser tabs, productivity software, and light creative tasks, without experiencing lag.",
-    "And during the set up you have to get updates?"
+    "Laptop is very fast and the best for multi tasking.",
+    "Laptop is very fast and the best for multi tasking.",
+    "Setup was very smooth, just following the online directions."
    ]
   },
   {
    "theme": "Display Quality",
-   "count": 141,
-   "pct_of_reviews": 22.2,
+   "count": 155,
+   "pct_of_reviews": 23.1,
    "quotes": [
-    "I use this for guitar lessons, and can say the sound is clear, and the video is very sharp; the larger screen helps with the video call for sure.",
-    "The screen is bright and the keyboard types very well.",
-    "The screen is not a 4k, but the laptop weighs a lot less."
+    "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
+    "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
+    "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect."
    ]
   },
   {
    "theme": "Price & Value",
-   "count": 111,
-   "pct_of_reviews": 17.5,
+   "count": 127,
+   "pct_of_reviews": 18.9,
    "quotes": [
-    "Last, but not least, the battery - I've not used it a great deal without the charger being plugged in, but so far it appears to hold a good charge.",
-    "Purchased this item during Black Friday and the price was under $500 and well worth it!",
-    "Seller Verified Purchase I bought this during a great sale specifically for portable amatuer radio use."
+    "$20 upgrade for blue case was so worth it.",
+    "$20 upgrade for blue case was so worth it.",
+    "At full price it is a little pricey but still a good buy, and if you catch it on sale, it is a steal....."
+   ]
+  },
+  {
+   "theme": "Battery Life",
+   "count": 107,
+   "pct_of_reviews": 15.9,
+   "quotes": [
+    "I would say this laptop has the best battery power in the industry.",
+    "I would say this laptop has the best battery power in the industry.",
+    "Battery life and display quality are impressive, making it a reliable choice for work and entertainment."
    ]
   }
  ],
  "weaknesses": [
   {
    "theme": "Software & Ecosystem",
-   "count": 37,
-   "pct_of_reviews": 5.8,
-   "quotes": [
-    "Professional Use Review: Significant lag while using VDI and during Microsoft Teams calls.",
-    "Seller Verified Purchase There is software issues and the complaint is made.",
-    "Seller Verified Purchase MICROSOFT LOCKED ME OUT ON DAY ONE!"
-   ]
-  },
-  {
-   "theme": "Build & Keyboard",
    "count": 23,
-   "pct_of_reviews": 3.6,
+   "pct_of_reviews": 3.4,
    "quotes": [
-    "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
-    "We want every part of your experience to feel premium, from the display quality to the touchpad response.",
-    "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
-   ]
-  },
-  {
-   "theme": "Display Quality",
-   "count": 16,
-   "pct_of_reviews": 2.5,
-   "quotes": [
-    "I even faced a screen light‑leak issue within a short time of usage.",
-    "We want every part of your experience to feel premium, from the display quality to the touchpad response.",
-    "Seller Verified Purchase Product review - Has a touch screen - I didn't know that."
+    "very slow when opening apps and navigating around.",
+    "very slow when opening apps and navigating around.",
+    "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
    ]
   },
   {
    "theme": "Price & Value",
    "count": 16,
-   "pct_of_reviews": 2.5,
+   "pct_of_reviews": 2.4,
    "quotes": [
-    "Seller Verified Purchase Thought it was a deal...",
-    "Walmart dumps you onto Allstate, and Allstate uses the \"sale price\" on your receipt to lowball you if anything actually breaks.",
-    "If I could still get the computer at the price I paid for it or at a better price as the tech is now older, then I'd reconsider."
+    "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop.",
+    "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop.",
+    "I think it's a scam to get me to buy a more expensive item from the store."
+   ]
+  },
+  {
+   "theme": "Display Quality",
+   "count": 14,
+   "pct_of_reviews": 2.1,
+   "quotes": [
+    "Product review -\nHas a touch screen - I didn't know that.",
+    "Product review -\nHas a touch screen - I didn't know that.",
+    "I even faced a screen light‑leak issue within a short time of usage."
    ]
   },
   {
    "theme": "Performance & Chip",
-   "count": 15,
-   "pct_of_reviews": 2.4,
+   "count": 13,
+   "pct_of_reviews": 1.9,
    "quotes": [
-    "Professional Use Review: Significant lag while using VDI and during Microsoft Teams calls.",
-    "It has the Intel Core Ultra 7, but it relies on integrated Intel Arc graphics instead of a dedicated GPU.",
-    "We designed this OmniBook with ultra-fast USB-C ports to maximize portability, but we know how crucial your existing tools are for daily work."
+    "very slow when opening apps and navigating around.",
+    "very slow when opening apps and navigating around.",
+    "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
+   ]
+  },
+  {
+   "theme": "Build & Keyboard",
+   "count": 12,
+   "pct_of_reviews": 1.8,
+   "quotes": [
+    "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
+    "Keyboard light does not illuminate the character on the key.",
+    "Keyboard light does not illuminate the character on the key."
    ]
   }
  ]

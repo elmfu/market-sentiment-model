@@ -48,59 +48,59 @@
   "avg_rating": 4.47
  },
  "2025-06": {
-  "count": 274,
+  "count": 273,
   "avg_rating": 4.72
  },
  "2025-07": {
-  "count": 456,
+  "count": 454,
   "avg_rating": 4.73
  },
  "2025-08": {
-  "count": 526,
+  "count": 525,
   "avg_rating": 4.72
  },
  "2025-09": {
-  "count": 886,
+  "count": 888,
   "avg_rating": 4.68
  },
  "2025-10": {
-  "count": 741,
-  "avg_rating": 4.72
+  "count": 746,
+  "avg_rating": 4.73
  },
  "2025-11": {
-  "count": 747,
+  "count": 750,
   "avg_rating": 4.68
  },
  "2025-12": {
-  "count": 1136,
+  "count": 1148,
   "avg_rating": 4.68
  },
  "2026-01": {
-  "count": 796,
-  "avg_rating": 4.66
+  "count": 808,
+  "avg_rating": 4.65
  },
  "2026-02": {
-  "count": 375,
-  "avg_rating": 4.61
+  "count": 381,
+  "avg_rating": 4.59
  },
  "2026-03": {
-  "count": 385,
+  "count": 389,
   "avg_rating": 4.61
  },
  "2026-04": {
-  "count": 388,
+  "count": 391,
   "avg_rating": 4.65
  },
  "2026-05": {
-  "count": 251,
+  "count": 254,
   "avg_rating": 4.63
  },
  "2026-06": {
-  "count": 301,
-  "avg_rating": 4.6
+  "count": 309,
+  "avg_rating": 4.57
  },
  "2026-07": {
-  "count": 21,
-  "avg_rating": 4.29
+  "count": 30,
+  "avg_rating": 4.27
  }
 }

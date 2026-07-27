@@ -1,52 +1,52 @@
 {
   "strengths": [
     {
-      "theme": "Build & Keyboard",
-      "count": 42,
-      "pct_of_reviews": 33.1,
-      "quotes": [
-        "The laptop's design is clean and professional, with a sturdy build that feels durable yet not overly heavy for a 16-inch device.",
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
-      ]
-    },
-    {
-      "theme": "Software & Ecosystem",
-      "count": 36,
-      "pct_of_reviews": 28.3,
-      "quotes": [
-        "I can easily handle multiple applications at once, including browser tabs, productivity software, and light creative tasks, without experiencing lag.",
-        "When multiple apps are open, the operating system and apps run smooth.",
-        "Comes with plenty of software pre-installed that'll let you take care of work and enjoy yourself in play seamlessly so."
-      ]
-    },
-    {
       "theme": "Performance & Chip",
-      "count": 35,
-      "pct_of_reviews": 27.6,
+      "count": 37,
+      "pct_of_reviews": 27.0,
       "quotes": [
-        "Performance-wise, the Intel Core i5 processor paired with 16GB of RAM delivers smooth and efficient performance.",
-        "When multiple apps are open, the operating system and apps run smooth.",
-        "The performance is excellent, and overall the laptop is very good."
+        "Setup was very smooth, just following the online directions.",
+        "The setup was quick and easy right out of the box, and everything runs smoothly.",
+        "It's working ok, from time to time I have to restart because the response gets real slow, or the printer does recognize print file created on notebook"
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 35,
+      "pct_of_reviews": 25.5,
+      "quotes": [
+        "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
+        "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect.",
+        "Quality Laptop, would be 5/5 but they had McAfee on it by default."
       ]
     },
     {
       "theme": "Display Quality",
-      "count": 29,
-      "pct_of_reviews": 22.8,
+      "count": 32,
+      "pct_of_reviews": 23.4,
       "quotes": [
-        "The laptop picture is so clear, bright and colors are so vibrant that they almost jump out at you.",
-        "With full high-definition display that'll let you see all you'll ever need to with no problem.",
-        "The screen is not a 4k, but the laptop weighs a lot less."
+        "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
+        "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect.",
+        "It works great for everything we need, and the screen size is perfect."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 28,
+      "pct_of_reviews": 20.4,
+      "quotes": [
+        "I purchased the Omni Book because support for Windows 10 was ending.",
+        "Quality Laptop, would be 5/5 but they had McAfee on it by default.",
+        "The setup was quick and easy right out of the box, and everything runs smoothly."
       ]
     },
     {
       "theme": "Price & Value",
-      "count": 23,
-      "pct_of_reviews": 18.1,
+      "count": 26,
+      "pct_of_reviews": 19.0,
       "quotes": [
-        "Whether you're one of those lucky ones (like myself) that got it for less than half its original price when it was on a special sale.",
-        "Seller Verified Purchase I bought this during a great sale specifically for portable amatuer radio use.",
+        "$20 upgrade for blue case was so worth it.",
+        "HP is reliable and high quality without breaking the budget.",
         "Finally, the price: very low cost to this wonderful laptop computer."
       ]
     }
@@ -54,48 +54,48 @@
   "weaknesses": [
     {
       "theme": "Software & Ecosystem",
-      "count": 10,
-      "pct_of_reviews": 7.9,
+      "count": 8,
+      "pct_of_reviews": 5.8,
       "quotes": [
-        "Also, Outlook software provided did not allow for easy transfer of data files from old to new laptop.",
-        "Seller Verified Purchase I felt pressured to get a new machine because of Windows 10 support ending.",
-        "This product does not work well with copilot."
+        "very slow when opening apps and navigating around.",
+        "corrupted all of my devices I wanted a simple machine with windows 11 comes loaded to take over all of your devices with junk",
+        "Also, Outlook software provided did not allow for easy transfer of data files from old to new laptop."
       ]
     },
     {
       "theme": "Performance & Chip",
       "count": 4,
-      "pct_of_reviews": 3.1,
+      "pct_of_reviews": 2.9,
       "quotes": [
-        "The battery performance (which is supposedly AI managed) is mediocre at best.",
-        "Seller Verified Purchase disappointed in how slow the computer performs.",
-        "Seller Verified Purchase very slow when opening apps and navigating around."
+        "very slow when opening apps and navigating around.",
+        "When I ordered, it was suppose to include Intel 7",
+        "The battery performance (which is supposedly AI managed) is mediocre at best."
       ]
     },
     {
       "theme": "Display Quality",
       "count": 3,
-      "pct_of_reviews": 2.4,
+      "pct_of_reviews": 2.2,
       "quotes": [
-        "Seller Verified Purchase Product review - Has a touch screen - I didn't know that.",
-        "The display changes colors all the time and its very uncomfortable, horrible white colors and not so vivid colors on the images."
-      ]
-    },
-    {
-      "theme": "Build & Keyboard",
-      "count": 3,
-      "pct_of_reviews": 2.4,
-      "quotes": [
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
+        "Product review -\nHas a touch screen - I didn't know that.",
+        "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop."
       ]
     },
     {
       "theme": "Price & Value",
       "count": 3,
-      "pct_of_reviews": 2.4,
+      "pct_of_reviews": 2.2,
       "quotes": [
-        "Seller Verified Purchase Thought it was a deal..."
+        "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 2,
+      "pct_of_reviews": 1.5,
+      "quotes": [
+        "For some reason its hard to plug and unplugged a HDMI or the charging cord from its ports.",
+        "The battery performance (which is supposedly AI managed) is mediocre at best."
       ]
     }
   ]

@@ -51,7 +51,7 @@
  },
  {
   "word": "quality",
-  "count": 78,
+  "count": 79,
   "sentiment": "positive"
  },
  {
@@ -75,18 +75,18 @@
   "sentiment": "positive"
  },
  {
+  "word": "features",
+  "count": 71,
+  "sentiment": "positive"
+ },
+ {
   "word": "copilot",
   "count": 71,
   "sentiment": "positive"
  },
  {
-  "word": "features",
-  "count": 70,
-  "sentiment": "positive"
- },
- {
   "word": "overall",
-  "count": 68,
+  "count": 69,
   "sentiment": "positive"
  },
  {
@@ -100,12 +100,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "touch",
-  "count": 63,
+  "word": "processor",
+  "count": 64,
   "sentiment": "positive"
  },
  {
-  "word": "processor",
+  "word": "touch",
   "count": 63,
   "sentiment": "positive"
  },
@@ -121,7 +121,7 @@
  },
  {
   "word": "size",
-  "count": 54,
+  "count": 55,
   "sentiment": "positive"
  },
  {
@@ -131,7 +131,7 @@
  },
  {
   "word": "display",
-  "count": 52,
+  "count": 53,
   "sentiment": "positive"
  },
  {
@@ -205,6 +205,11 @@
   "sentiment": "positive"
  },
  {
+  "word": "weight",
+  "count": 42,
+  "sentiment": "positive"
+ },
+ {
   "word": "touchscreen",
   "count": 42,
   "sentiment": "positive"
@@ -222,11 +227,6 @@
  {
   "word": "memory",
   "count": 42,
-  "sentiment": "positive"
- },
- {
-  "word": "weight",
-  "count": 41,
   "sentiment": "positive"
  },
  {
@@ -255,12 +255,17 @@
   "sentiment": "positive"
  },
  {
+  "word": "looking",
+  "count": 40,
+  "sentiment": "positive"
+ },
+ {
   "word": "needed",
   "count": 40,
   "sentiment": "positive"
  },
  {
-  "word": "looking",
+  "word": "run",
   "count": 39,
   "sentiment": "positive"
  },
@@ -276,11 +281,6 @@
  },
  {
   "word": "little",
-  "count": 38,
-  "sentiment": "positive"
- },
- {
-  "word": "run",
   "count": 38,
   "sentiment": "positive"
  },

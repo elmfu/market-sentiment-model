@@ -68,13 +68,13 @@
   {
     "topic": "repairability",
     "label": "Repairability",
-    "total": 9,
-    "positive": 7,
+    "total": 10,
+    "positive": 8,
     "neutral": 2,
     "negative": 0,
-    "positive_pct": 77.8,
+    "positive_pct": 80.0,
     "negative_pct": 0.0,
-    "net_score": 77.8
+    "net_score": 80.0
   },
   {
     "topic": "battery",

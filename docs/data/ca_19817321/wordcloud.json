@@ -1,7 +1,17 @@
 [
   {
     "word": "specs",
-    "count": 2,
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 3,
     "sentiment": "positive"
   },
   {
@@ -16,11 +26,6 @@
   },
   {
     "word": "unit",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "processor",
     "count": 2,
     "sentiment": "positive"
   },
@@ -55,17 +60,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "overall",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
     "word": "easy",
     "count": 2,
     "sentiment": "positive"
   },
   {
     "word": "ram",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
     "count": 2,
     "sentiment": "positive"
   },
@@ -91,6 +96,56 @@
   },
   {
     "word": "help",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "expectations",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gpu",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "run",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looks",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "larger",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sale",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "integrated",
     "count": 2,
     "sentiment": "positive"
   },
@@ -241,61 +296,6 @@
   },
   {
     "word": "device",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "unable",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "locate",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "reader",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "lists",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "intel",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "however",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "reported",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "system",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "appears",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "detailed",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "exact",
     "count": 1,
     "sentiment": "neutral"
   }

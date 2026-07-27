@@ -83,5 +83,39 @@
     "product_name": "HP OmniBook X 16\" Touchscreen 2-in-1 Laptop - Eclipse Grey (Intel Core Ultra 7-365H/32GB RAM/1TB SSD/Windows 11 Home)",
     "topics": "Performance & Chip, Battery Life, Display Quality, Build & Keyboard, Ports & Connectivity, Price & Value, Software & Ecosystem, Repairability",
     "competitors": "Samsung"
+  },
+  {
+    "review_id": "398442762",
+    "product_key": "ca_19817321",
+    "market": "CA",
+    "sku": "19817321",
+    "submitted_at": "",
+    "rating": 5,
+    "title": "",
+    "body": "",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP OmniBook X 16\" Touchscreen 2-in-1 Laptop - Eclipse Grey (Intel Core Ultra 7-365H/32GB RAM/1TB SSD/Windows 11 Home)",
+    "topics": "",
+    "competitors": ""
+  },
+  {
+    "review_id": "398334170",
+    "product_key": "ca_19817321",
+    "market": "CA",
+    "sku": "19817321",
+    "submitted_at": "",
+    "rating": 5,
+    "title": "Great Laptop",
+    "body": "Got this on sale about a week ago and is exceeding expectations. Build quality is really good and has very good specs with a powerful processor. Was able to run Elden ring at 1080p medium settings at close to 60 fps which is really surprising for an integrated gpu. OLED display looks great. It’s definitely a larger laptop so if you’re looking for portability this might not be for you. But all the other considerations like specs, 2 in 1 features, and overall build quality make up for the weight and size for me.",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP OmniBook X 16\" Touchscreen 2-in-1 Laptop - Eclipse Grey (Intel Core Ultra 7-365H/32GB RAM/1TB SSD/Windows 11 Home)",
+    "topics": "Performance & Chip, Display Quality, Build & Keyboard, Price & Value",
+    "competitors": ""
   }
 ]

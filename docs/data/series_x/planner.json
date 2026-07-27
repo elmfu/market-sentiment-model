@@ -1,33 +1,33 @@
 {
- "reviews_total": 883,
+ "reviews_total": 887,
  "topics": [
   {
    "topic": "performance",
    "label": "Performance & Chip",
-   "mentions": 319,
+   "mentions": 320,
    "attention_share": 21.8,
    "negative_rate": 2.8,
-   "positive": 286,
+   "positive": 287,
    "negative": 9,
-   "priority_score": 0.62
+   "priority_score": 0.61
   },
   {
    "topic": "build_quality",
    "label": "Build & Keyboard",
-   "mentions": 241,
+   "mentions": 242,
    "attention_share": 16.5,
    "negative_rate": 3.7,
-   "positive": 212,
+   "positive": 213,
    "negative": 9,
-   "priority_score": 0.62
+   "priority_score": 0.61
   },
   {
    "topic": "display",
    "label": "Display Quality",
-   "mentions": 222,
+   "mentions": 223,
    "attention_share": 15.2,
-   "negative_rate": 3.2,
-   "positive": 195,
+   "negative_rate": 3.1,
+   "positive": 196,
    "negative": 7,
    "priority_score": 0.48
   },
@@ -39,7 +39,7 @@
    "negative_rate": 4.4,
    "positive": 159,
    "negative": 8,
-   "priority_score": 0.55
+   "priority_score": 0.54
   },
   {
    "topic": "battery",
@@ -54,10 +54,10 @@
   {
    "topic": "price_value",
    "label": "Price & Value",
-   "mentions": 144,
-   "attention_share": 9.8,
+   "mentions": 145,
+   "attention_share": 9.9,
    "negative_rate": 7.6,
-   "positive": 116,
+   "positive": 117,
    "negative": 11,
    "priority_score": 0.75
   },
@@ -74,10 +74,10 @@
   {
    "topic": "repairability",
    "label": "Repairability",
-   "mentions": 55,
+   "mentions": 56,
    "attention_share": 3.8,
-   "negative_rate": 18.2,
-   "positive": 38,
+   "negative_rate": 17.9,
+   "positive": 39,
    "negative": 10,
    "priority_score": 0.68
   },
@@ -96,42 +96,42 @@
   {
    "topic": "price_value",
    "label": "Price & Value",
-   "mentions": 144,
-   "attention_share": 9.8,
+   "mentions": 145,
+   "attention_share": 9.9,
    "negative_rate": 7.6,
-   "positive": 116,
+   "positive": 117,
    "negative": 11,
    "priority_score": 0.75
   },
   {
    "topic": "repairability",
    "label": "Repairability",
-   "mentions": 55,
+   "mentions": 56,
    "attention_share": 3.8,
-   "negative_rate": 18.2,
-   "positive": 38,
+   "negative_rate": 17.9,
+   "positive": 39,
    "negative": 10,
    "priority_score": 0.68
   },
   {
    "topic": "performance",
    "label": "Performance & Chip",
-   "mentions": 319,
+   "mentions": 320,
    "attention_share": 21.8,
    "negative_rate": 2.8,
-   "positive": 286,
+   "positive": 287,
    "negative": 9,
-   "priority_score": 0.62
+   "priority_score": 0.61
   },
   {
    "topic": "build_quality",
    "label": "Build & Keyboard",
-   "mentions": 241,
+   "mentions": 242,
    "attention_share": 16.5,
    "negative_rate": 3.7,
-   "positive": 212,
+   "positive": 213,
    "negative": 9,
-   "priority_score": 0.62
+   "priority_score": 0.61
   },
   {
    "topic": "software_ecosystem",
@@ -141,18 +141,18 @@
    "negative_rate": 4.4,
    "positive": 159,
    "negative": 8,
-   "priority_score": 0.55
+   "priority_score": 0.54
   }
  ],
  "biggest_strength": {
   "topic": "performance",
   "label": "Performance & Chip",
-  "mentions": 319,
+  "mentions": 320,
   "attention_share": 21.8,
   "negative_rate": 2.8,
-  "positive": 286,
+  "positive": 287,
   "negative": 9,
-  "priority_score": 0.62
+  "priority_score": 0.61
  },
  "cohorts": [
   {

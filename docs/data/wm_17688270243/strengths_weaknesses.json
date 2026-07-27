@@ -2,70 +2,56 @@
   "strengths": [
     {
       "theme": "Build & Keyboard",
-      "count": 22,
-      "pct_of_reviews": 61.1,
+      "count": 20,
+      "pct_of_reviews": 54.1,
       "quotes": [
-        "We designed this as the ultimate \"carry-anywhere\" companion, so it’s fantastic to know the lightweight design and battery life are hitting the mark.",
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
+        "It has a solid battery life and can run data analysis programs without lagging (Solidworks, MATLAB, Graphpad, etc.).",
+        "However, it is  difficult and a bit frustrating to use it because of the keyboard, which is probably the most important peripheral.",
+        "The keyboard keys are large but securely imbedded."
       ]
     },
     {
       "theme": "Performance & Chip",
       "count": 19,
-      "pct_of_reviews": 52.8,
+      "pct_of_reviews": 51.4,
       "quotes": [
-        "💙 It’s brilliant that the superb display and smooth performance are making such an impact.",
+        "It has an impressive amount of time with the snapdragon processer.",
+        "Operating system quick and smooth transitions.",
+        "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 19,
+      "pct_of_reviews": 51.4,
+      "quotes": [
+        "It has a solid battery life and can run data analysis programs without lagging (Solidworks, MATLAB, Graphpad, etc.).",
         "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes.",
         "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes."
       ]
     },
     {
       "theme": "Display Quality",
-      "count": 18,
-      "pct_of_reviews": 50.0,
+      "count": 17,
+      "pct_of_reviews": 45.9,
       "quotes": [
-        "💙 It’s brilliant that the superb display and smooth performance are making such an impact.",
         "The display is perfect and the sound clear.",
-        "It’s great to hear that the combination of lightning-fast performance, the color-rich screen, and that sleek-yet-durable design is hitting the mark."
-      ]
-    },
-    {
-      "theme": "Battery Life",
-      "count": 15,
-      "pct_of_reviews": 41.7,
-      "quotes": [
-        "We designed this as the ultimate \"carry-anywhere\" companion, so it’s fantastic to know the lightweight design and battery life are hitting the mark.",
-        "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes.",
-        "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes."
+        "It is sharp, vibrant, and color-accurate, making everything from spreadsheets to streaming programmes look fantastic.",
+        "This laptop is very sleek, I wasn't sure whether the 14-inch screen was big enough for what I wanted to do (gaming) but it is more than sufficient."
       ]
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 14,
-      "pct_of_reviews": 38.9,
+      "count": 8,
+      "pct_of_reviews": 21.6,
       "quotes": [
         "Microsoft Office software is included but it is basic.",
         "Microsoft Office software is included but it is basic.",
-        "It’s brilliant that the Snapdragon® X processor and Copilot key are making your AI experience so fast."
+        "Haven't used video call so cannot talk about the camera, however the copilot key has made accessing AI, so simple and it's excellent and really fast."
       ]
     }
   ],
   "weaknesses": [
-    {
-      "theme": "Build & Keyboard",
-      "count": 1,
-      "pct_of_reviews": 2.8,
-      "quotes": [
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
-      ]
-    },
-    {
-      "theme": "Software & Ecosystem",
-      "count": 1,
-      "pct_of_reviews": 2.8,
-      "quotes": []
-    },
     {
       "theme": "Performance & Chip",
       "count": 0,
@@ -80,6 +66,18 @@
     },
     {
       "theme": "Display Quality",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Thermals & Cooling",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Build & Keyboard",
       "count": 0,
       "pct_of_reviews": 0.0,
       "quotes": []

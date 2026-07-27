@@ -2,75 +2,59 @@
   "strengths": [
     {
       "theme": "Build & Keyboard",
-      "count": 21,
-      "pct_of_reviews": 35.0,
+      "count": 22,
+      "pct_of_reviews": 30.6,
       "quotes": [
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
+        "It's fast, thin and light and the graphics on the 16 inch screen are really nice.",
+        "Both the old desktop and laptop are over 12 y/o so I trust HP quality.",
+        "The keyboard buttons can be more softer and wider for better user experience."
       ]
     },
     {
       "theme": "Display Quality",
       "count": 11,
-      "pct_of_reviews": 18.3,
+      "pct_of_reviews": 15.3,
       "quotes": [
         "It's fast, thin and light and the graphics on the 16 inch screen are really nice.",
         "Screen is the low point not bad but not the 3x Amoled I'm used to.",
-        "My laptop is also a lighter weight with a wider screen which I appreciate."
-      ]
-    },
-    {
-      "theme": "Software & Ecosystem",
-      "count": 10,
-      "pct_of_reviews": 16.7,
-      "quotes": [
-        "Didn't bother setting up windows, swapped to Linux (ZorinOS) all drivers work with no problem out of the box.",
-        "Setup was fairly simple and went quickly.",
-        "The AI features are impressive and enhance my overall daily experience."
-      ]
-    },
-    {
-      "theme": "Performance & Chip",
-      "count": 8,
-      "pct_of_reviews": 13.3,
-      "quotes": [
-        "It's fast, thin and light and the graphics on the 16 inch screen are really nice.",
-        "Ryzen processor does well and benchmarks well against intel.",
-        "It significantly outperforms my previous HP i7 Gen 3 laptop in both speed and functionality."
+        "Love that I  can add my wireless mouse and extended screen."
       ]
     },
     {
       "theme": "Price & Value",
-      "count": 7,
-      "pct_of_reviews": 11.7,
+      "count": 11,
+      "pct_of_reviews": 15.3,
       "quotes": [
-        "Excellent value for price laptop, runs quickly and has great standby time on battery power.",
-        "Overall happy with purchase at price point on sale.",
-        "Seller Verified Purchase Very good laptop for the money."
+        "Overall happy with purchase  at price point on sale.",
+        "Excellent value for price laptop, runs quickly and has great standby time on battery power."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 9,
+      "pct_of_reviews": 12.5,
+      "quotes": [
+        "It significantly outperforms my previous HP i7 Gen 3 laptop in both speed and functionality.",
+        "It's fast, thin and light and the graphics on the 16 inch screen are really nice.",
+        "Ryzen processor does well and benchmarks well against intel."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 8,
+      "pct_of_reviews": 11.1,
+      "quotes": [
+        "The AI features are impressive and enhance my overall daily experience.",
+        "Setup was fairly simple and went quickly.",
+        "I have been transferring files and upgrading software with no issues to date."
       ]
     }
   ],
   "weaknesses": [
     {
-      "theme": "Build & Keyboard",
-      "count": 3,
-      "pct_of_reviews": 5.0,
-      "quotes": [
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office.",
-        "The trademarks Walmart and the Walmart Spark design are registered with the US Patent and Trademark Office."
-      ]
-    },
-    {
-      "theme": "Software & Ecosystem",
-      "count": 3,
-      "pct_of_reviews": 5.0,
-      "quotes": []
-    },
-    {
       "theme": "Price & Value",
       "count": 2,
-      "pct_of_reviews": 3.3,
+      "pct_of_reviews": 2.8,
       "quotes": [
         "Some value but could have gottenit cheaper."
       ]
@@ -78,7 +62,19 @@
     {
       "theme": "Performance & Chip",
       "count": 1,
-      "pct_of_reviews": 1.7,
+      "pct_of_reviews": 1.4,
+      "quotes": []
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 1,
+      "pct_of_reviews": 1.4,
+      "quotes": []
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 1,
+      "pct_of_reviews": 1.4,
       "quotes": []
     },
     {

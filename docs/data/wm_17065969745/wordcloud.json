@@ -1,87 +1,22 @@
 [
   {
-    "word": "com",
-    "count": 127,
-    "sentiment": "positive"
-  },
-  {
-    "word": "helpful",
-    "count": 127,
-    "sentiment": "positive"
-  },
-  {
-    "word": "pvrmdd",
-    "count": 127,
-    "sentiment": "positive"
-  },
-  {
-    "word": "seller",
-    "count": 123,
-    "sentiment": "positive"
-  },
-  {
     "word": "easy",
-    "count": 28,
-    "sentiment": "positive"
-  },
-  {
-    "word": "international",
-    "count": 26,
+    "count": 31,
     "sentiment": "positive"
   },
   {
     "word": "screen",
-    "count": 24,
-    "sentiment": "positive"
-  },
-  {
-    "word": "product",
-    "count": 23,
-    "sentiment": "positive"
-  },
-  {
-    "word": "store",
-    "count": 22,
-    "sentiment": "positive"
-  },
-  {
-    "word": "customer",
-    "count": 19,
-    "sentiment": "positive"
-  },
-  {
-    "word": "https",
-    "count": 18,
-    "sentiment": "positive"
-  },
-  {
-    "word": "walmartimages",
-    "count": 18,
-    "sentiment": "positive"
-  },
-  {
-    "word": "dfw",
-    "count": 18,
-    "sentiment": "positive"
-  },
-  {
-    "word": "office",
-    "count": 18,
+    "count": 28,
     "sentiment": "positive"
   },
   {
     "word": "fast",
-    "count": 17,
+    "count": 19,
     "sentiment": "positive"
   },
   {
-    "word": "data",
-    "count": 17,
-    "sentiment": "positive"
-  },
-  {
-    "word": "brand",
-    "count": 17,
+    "word": "keyboard",
+    "count": 19,
     "sentiment": "positive"
   },
   {
@@ -90,213 +25,278 @@
     "sentiment": "positive"
   },
   {
-    "word": "keyboard",
-    "count": 17,
-    "sentiment": "positive"
-  },
-  {
-    "word": "help",
-    "count": 16,
-    "sentiment": "positive"
-  },
-  {
-    "word": "web",
-    "count": 16,
-    "sentiment": "positive"
-  },
-  {
-    "word": "personal",
-    "count": 16,
-    "sentiment": "positive"
-  },
-  {
-    "word": "company",
+    "word": "setup",
     "count": 15,
     "sentiment": "positive"
   },
   {
-    "word": "link",
+    "word": "happy",
     "count": 15,
     "sentiment": "positive"
   },
   {
-    "word": "program",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "safety",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "terms",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "choices",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "information",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "shop",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "business",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "social",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "media",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "know",
+    "word": "size",
     "count": 14,
     "sentiment": "positive"
   },
   {
-    "word": "reviews",
+    "word": "work",
     "count": 14,
     "sentiment": "positive"
   },
   {
-    "word": "page",
-    "count": 14,
+    "word": "set",
+    "count": 13,
     "sentiment": "positive"
   },
   {
-    "word": "www",
-    "count": 14,
+    "word": "product",
+    "count": 13,
     "sentiment": "positive"
   },
   {
-    "word": "walmart",
-    "count": 14,
+    "word": "works",
+    "count": 12,
     "sentiment": "positive"
   },
   {
-    "word": "departments",
-    "count": 14,
+    "word": "old",
+    "count": 11,
     "sentiment": "positive"
   },
   {
-    "word": "directory",
-    "count": 14,
+    "word": "software",
+    "count": 11,
     "sentiment": "positive"
   },
   {
-    "word": "careers",
-    "count": 14,
+    "word": "machine",
+    "count": 11,
     "sentiment": "positive"
   },
   {
-    "word": "corporate",
-    "count": 14,
+    "word": "right",
+    "count": 10,
     "sentiment": "positive"
   },
   {
-    "word": "sell",
-    "count": 14,
+    "word": "overall",
+    "count": 10,
     "sentiment": "positive"
   },
   {
-    "word": "marketplace",
-    "count": 14,
+    "word": "clear",
+    "count": 10,
     "sentiment": "positive"
   },
   {
-    "word": "utm",
-    "count": 14,
+    "word": "touch",
+    "count": 10,
     "sentiment": "positive"
   },
   {
-    "word": "source",
-    "count": 14,
+    "word": "excellent",
+    "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "medium",
-    "count": 14,
+    "word": "performance",
+    "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "campaign",
-    "count": 14,
+    "word": "quality",
+    "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "footer",
-    "count": 14,
+    "word": "display",
+    "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "recalls",
-    "count": 14,
+    "word": "because",
+    "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "accessibility",
-    "count": 14,
+    "word": "backlit",
+    "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "article",
-    "count": 14,
+    "word": "over",
+    "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "responsible",
-    "count": 14,
+    "word": "battery",
+    "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "policies",
-    "count": 14,
+    "word": "inch",
+    "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "dab",
-    "count": 14,
+    "word": "reliable",
+    "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "ffc",
-    "count": 14,
+    "word": "light",
+    "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "tax",
-    "count": 14,
+    "word": "power",
+    "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "exempt",
-    "count": 14,
+    "word": "omni",
+    "count": 7,
     "sentiment": "positive"
   },
   {
-    "word": "exemption",
-    "count": 14,
+    "word": "runs",
+    "count": 7,
     "sentiment": "positive"
   },
   {
-    "word": "app",
-    "count": 14,
+    "word": "while",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "definitely",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "home",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "including",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "etc",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "thought",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hours",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "now",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "having",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "expected",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "simple",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "smooth",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "off",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "down",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "full",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "drive",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "large",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "opening",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "quickly",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "i've",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "back",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "book",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "going",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "almost",
+    "count": 5,
     "sentiment": "positive"
   }
 ]

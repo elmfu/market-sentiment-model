@@ -2,24 +2,24 @@
   "product": "HP OmniBook 5 16\" 2K Touch Laptop, Intel Core Ultra 7, 16GB RAM",
   "source": "walmart.com",
   "market": "US",
-  "total": 127,
-  "with_text": 127,
-  "date_range": "2025-08-06 to 2026-06-23",
-  "avg_rating": 4.18,
-  "satisfaction_score": 81.9,
+  "total": 137,
+  "with_text": 137,
+  "date_range": "2025-08-06 to 2026-07-09",
+  "avg_rating": 4.22,
+  "satisfaction_score": 82.5,
   "star_distribution": {
     "1": 12,
     "2": 7,
-    "3": 4,
-    "4": 27,
-    "5": 77
+    "3": 5,
+    "4": 28,
+    "5": 85
   },
   "sentiment": {
-    "positive": 104,
-    "neutral": 4,
+    "positive": 113,
+    "neutral": 5,
     "negative": 19,
-    "positive_pct": 81.9,
-    "neutral_pct": 3.1,
-    "negative_pct": 15.0
+    "positive_pct": 82.5,
+    "neutral_pct": 3.6,
+    "negative_pct": 13.9
   }
 }

@@ -270,6 +270,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "upgrade",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
     "word": "sure",
     "count": 4,
     "sentiment": "positive"
@@ -291,11 +296,6 @@
   },
   {
     "word": "owned",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "perfect",
     "count": 4,
     "sentiment": "positive"
   }

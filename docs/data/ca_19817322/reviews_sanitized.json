@@ -3959,5 +3959,39 @@
     "product_name": "HP OmniBook X 17.3\" AI PC Touchscreen Laptop (Intel Core Ultra 7 356H/32GB RAM/1TB SSD/GeForce RTX 5050/Win11)",
     "topics": "",
     "competitors": ""
+  },
+  {
+    "review_id": "302623622",
+    "product_key": "ca_19817322",
+    "market": "CA",
+    "sku": "19817322",
+    "submitted_at": "",
+    "rating": 5,
+    "title": "Serious upgrade",
+    "body": "New laptop",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP OmniBook X 17.3\" AI PC Touchscreen Laptop (Intel Core Ultra 7 356H/32GB RAM/1TB SSD/GeForce RTX 5050/Win11)",
+    "topics": "Repairability",
+    "competitors": ""
+  },
+  {
+    "review_id": "302577059",
+    "product_key": "ca_19817322",
+    "market": "CA",
+    "sku": "19817322",
+    "submitted_at": "",
+    "rating": 5,
+    "title": "",
+    "body": "",
+    "is_recommended": null,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP OmniBook X 17.3\" AI PC Touchscreen Laptop (Intel Core Ultra 7 356H/32GB RAM/1TB SSD/GeForce RTX 5050/Win11)",
+    "topics": "",
+    "competitors": ""
   }
 ]

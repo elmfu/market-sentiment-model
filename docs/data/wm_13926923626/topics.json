@@ -2,24 +2,24 @@
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 26,
-    "positive": 21,
-    "neutral": 2,
-    "negative": 3,
-    "positive_pct": 80.8,
-    "negative_pct": 11.5,
-    "net_score": 69.3
+    "total": 24,
+    "positive": 22,
+    "neutral": 1,
+    "negative": 1,
+    "positive_pct": 91.7,
+    "negative_pct": 4.2,
+    "net_score": 87.5
   },
   {
-    "topic": "software_ecosystem",
-    "label": "Software & Ecosystem",
-    "total": 14,
-    "positive": 10,
-    "neutral": 1,
-    "negative": 3,
-    "positive_pct": 71.4,
-    "negative_pct": 21.4,
-    "net_score": 50.0
+    "topic": "price_value",
+    "label": "Price & Value",
+    "total": 13,
+    "positive": 11,
+    "neutral": 0,
+    "negative": 2,
+    "positive_pct": 84.6,
+    "negative_pct": 15.4,
+    "net_score": 69.2
   },
   {
     "topic": "display",
@@ -35,6 +35,17 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
+    "total": 10,
+    "positive": 9,
+    "neutral": 0,
+    "negative": 1,
+    "positive_pct": 90.0,
+    "negative_pct": 10.0,
+    "net_score": 80.0
+  },
+  {
+    "topic": "software_ecosystem",
+    "label": "Software & Ecosystem",
     "total": 9,
     "positive": 8,
     "neutral": 0,
@@ -44,37 +55,26 @@
     "net_score": 77.8
   },
   {
-    "topic": "price_value",
-    "label": "Price & Value",
-    "total": 9,
-    "positive": 7,
-    "neutral": 0,
-    "negative": 2,
-    "positive_pct": 77.8,
-    "negative_pct": 22.2,
-    "net_score": 55.6
-  },
-  {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 6,
-    "positive": 5,
+    "total": 7,
+    "positive": 6,
     "neutral": 1,
     "negative": 0,
-    "positive_pct": 83.3,
+    "positive_pct": 85.7,
     "negative_pct": 0.0,
-    "net_score": 83.3
+    "net_score": 85.7
   },
   {
     "topic": "ports",
     "label": "Ports & Connectivity",
-    "total": 3,
-    "positive": 2,
+    "total": 4,
+    "positive": 3,
     "neutral": 1,
     "negative": 0,
-    "positive_pct": 66.7,
+    "positive_pct": 75.0,
     "negative_pct": 0.0,
-    "net_score": 66.7
+    "net_score": 75.0
   },
   {
     "topic": "repairability",

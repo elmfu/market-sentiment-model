@@ -1,37 +1,7 @@
 [
   {
-    "word": "helpful",
-    "count": 60,
-    "sentiment": "positive"
-  },
-  {
-    "word": "imyw",
-    "count": 60,
-    "sentiment": "positive"
-  },
-  {
-    "word": "com",
-    "count": 43,
-    "sentiment": "positive"
-  },
-  {
-    "word": "seller",
-    "count": 39,
-    "sentiment": "positive"
-  },
-  {
-    "word": "store",
-    "count": 22,
-    "sentiment": "positive"
-  },
-  {
-    "word": "international",
-    "count": 18,
-    "sentiment": "positive"
-  },
-  {
     "word": "product",
-    "count": 14,
+    "count": 12,
     "sentiment": "positive"
   },
   {
@@ -40,263 +10,293 @@
     "sentiment": "positive"
   },
   {
-    "word": "delete",
+    "word": "easy",
     "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "incentivized",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "app",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "company",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "photo",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "https",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "walmartimages",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "dfw",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "customer",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "personal",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "business",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "design",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "office",
-    "count": 8,
     "sentiment": "positive"
   },
   {
     "word": "price",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
     "count": 7,
     "sentiment": "positive"
   },
   {
-    "word": "reviews",
+    "word": "work",
     "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "weight",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "mouse",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "simple",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "experience",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "book",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "value",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looks",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ram",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "left",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "right",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "miss",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "i'd",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "large",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "enough",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "off",
+    "count": 3,
     "sentiment": "neutral"
   },
   {
-    "word": "page",
-    "count": 7,
+    "word": "device",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "wonderful",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 3,
     "sentiment": "neutral"
   },
   {
-    "word": "www",
-    "count": 7,
+    "word": "bad",
+    "count": 3,
     "sentiment": "neutral"
   },
   {
-    "word": "walmart",
-    "count": 7,
+    "word": "set",
+    "count": 3,
     "sentiment": "neutral"
   },
   {
-    "word": "departments",
-    "count": 7,
+    "word": "inch",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "glad",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "expectations",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pad",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "envy",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "same",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gpu",
+    "count": 2,
     "sentiment": "neutral"
   },
   {
-    "word": "directory",
-    "count": 7,
+    "word": "disable",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ethernet",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "expected",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "purchasing",
+    "count": 2,
     "sentiment": "neutral"
   },
   {
-    "word": "careers",
-    "count": 7,
-    "sentiment": "neutral"
+    "word": "daily",
+    "count": 2,
+    "sentiment": "positive"
   },
   {
-    "word": "corporate",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "sell",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "marketplace",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "utm",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "source",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "medium",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "link",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "campaign",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "footer",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "help",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "recalls",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "accessibility",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "article",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "responsible",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "policies",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "dab",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "ffc",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "tax",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "exempt",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "program",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "exemption",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "onelink",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "uiev",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "pid",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "web",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "fwww",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "fcp",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "fwalmart",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "mobile",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "site",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "safety",
-    "count": 7,
-    "sentiment": "neutral"
+    "word": "display",
+    "count": 2,
+    "sentiment": "positive"
   }
 ]
