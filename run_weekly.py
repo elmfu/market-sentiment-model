@@ -54,7 +54,12 @@ def main():
         if only in (None, "bby", "ca"):
             run("Scrape Best Buy CA (incremental)", "scraper/scrape_ca.py", "--incremental", optional=True)
         if only in (None, "bby", "us"):
-            run("Scrape Best Buy US (incremental)", "scraper/scrape_us.py", "--incremental", "--resume", *headed, optional=True)
+            # NOTE: do NOT pass --resume here. Weekly runs are incremental; --resume
+            # skips any SKU whose state has completed=True, which every US SKU gets
+            # after its first successful scrape — that silently froze US at +0 for
+            # weeks (2026-07-05 → 2026-08-24). --resume is for manually resuming an
+            # interrupted FIRST full scrape only.
+            run("Scrape Best Buy US (incremental)", "scraper/scrape_us.py", "--incremental", *headed, optional=True)
         if only in (None, "walmart"):
             run("Scrape Walmart US (incremental)", "scraper/scrape_walmart.py", "--incremental", *headed, optional=True)
 

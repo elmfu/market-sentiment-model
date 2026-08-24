@@ -2,22 +2,22 @@
  "product": "HP OmniBook X — all models (US + CA)",
  "source": "bestbuy.com + bestbuy.ca",
  "market": "US+CA",
- "total": 887,
- "with_text": 744,
- "date_range": "2024-06-19 to 2026-07-03",
+ "total": 903,
+ "with_text": 759,
+ "date_range": "2024-06-19 to 2026-08-15",
  "avg_rating": 4.47,
  "satisfaction_score": 87.7,
  "star_distribution": {
-  "1": 39,
+  "1": 40,
   "2": 18,
-  "3": 52,
-  "4": 153,
-  "5": 625
+  "3": 53,
+  "4": 158,
+  "5": 634
  },
  "sentiment": {
-  "positive": 778,
-  "neutral": 52,
-  "negative": 57,
+  "positive": 792,
+  "neutral": 53,
+  "negative": 58,
   "positive_pct": 87.7,
   "neutral_pct": 5.9,
   "negative_pct": 6.4

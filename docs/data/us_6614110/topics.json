@@ -2,13 +2,13 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 69,
-    "positive": 64,
+    "total": 70,
+    "positive": 65,
     "neutral": 3,
     "negative": 2,
-    "positive_pct": 92.8,
+    "positive_pct": 92.9,
     "negative_pct": 2.9,
-    "net_score": 89.9
+    "net_score": 90.0
   },
   {
     "topic": "display",

@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 168,
-   "pct_of_reviews": 55.3,
+   "count": 178,
+   "pct_of_reviews": 54.6,
    "quotes": [
     "The OmniBook Ultra is a small yet powerful business/college laptop.",
     "I've had the opportunity to test out several high-performance laptops, and the HP OmniBook Ultra with Copilot stood its ground.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 120,
-   "pct_of_reviews": 39.5,
+   "count": 131,
+   "pct_of_reviews": 40.2,
    "quotes": [
     "=========\nDESIGN/SPECS:\nThe OmniBook is lightweight and sports a sleek meteor-sliver color.",
     "The aluminum finish is exceptional, with a solid and sturdy construction that feels premium in the hand.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 113,
-   "pct_of_reviews": 37.2,
+   "count": 124,
+   "pct_of_reviews": 38.0,
    "quotes": [
     "=========\nDESIGN/SPECS:\nThe OmniBook is lightweight and sports a sleek meteor-sliver color.",
     "Whether I'm editing high-resolution videos, running virtual machines, or simply browsing the web, the OmniBook Ultra held its own.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Battery Life",
-   "count": 96,
-   "pct_of_reviews": 31.6,
+   "count": 101,
+   "pct_of_reviews": 31.0,
    "quotes": [
     "BATTERY LIFE:\n\nThe battery life on this is pretty impressive.",
     "BATTERY - I must mention the battery life that is the best I have ever experienced.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Software & Ecosystem",
-   "count": 82,
-   "pct_of_reviews": 27.0,
+   "count": 86,
+   "pct_of_reviews": 26.4,
    "quotes": [
     "It is your typical Windows 11 out-of-the-box experience.",
     "I've had the opportunity to test out several high-performance laptops, and the HP OmniBook Ultra with Copilot stood its ground.",
@@ -55,7 +55,7 @@
   {
    "theme": "Display Quality",
    "count": 9,
-   "pct_of_reviews": 3.0,
+   "pct_of_reviews": 2.8,
    "quotes": [
     "Everything looked brand new when I opened the box, but in trying to set it up, it didn't display any options to connect to internet.",
     "Suddenly, it started showing vertical lines in the display.",
@@ -65,7 +65,7 @@
   {
    "theme": "Software & Ecosystem",
    "count": 8,
-   "pct_of_reviews": 2.6,
+   "pct_of_reviews": 2.5,
    "quotes": [
     "Like, the bluetooth in gone (not in device manager anymore - so cannot reinstall a driver).",
     "Blue screen during first boot and after all drivers, firmare and OS update, still seen BOSD every so often.",
@@ -75,7 +75,7 @@
   {
    "theme": "Build & Keyboard",
    "count": 6,
-   "pct_of_reviews": 2.0,
+   "pct_of_reviews": 1.8,
    "quotes": [
     "Design wise, the keyboard and trackpad is unattractive.",
     "Space bar on the keyboard requires you to hit it in a certian area to register.",
@@ -85,7 +85,7 @@
   {
    "theme": "Price & Value",
    "count": 6,
-   "pct_of_reviews": 2.0,
+   "pct_of_reviews": 1.8,
    "quotes": [
     "I did, but since open box, all they would do it give me a refund, not replace it (and no more open boxes of this model either at that price).",
     "The product specifications and price make you buy it because it seems like a good idea, but it isn't.",
@@ -95,7 +95,7 @@
   {
    "theme": "Performance & Chip",
    "count": 5,
-   "pct_of_reviews": 1.6,
+   "pct_of_reviews": 1.5,
    "quotes": [
     "I absolutely love AMD processors and specially their newer generation with dedicated NPU (so I run LLMs locally) and better discrete GPUs.",
     "I recommend another maker if you want intel panther lake 388h.",

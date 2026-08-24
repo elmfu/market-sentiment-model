@@ -2,7 +2,7 @@
  "competitors": [
   {
    "brand": "Apple/Mac",
-   "total_mentions": 131,
+   "total_mentions": 136,
    "reviews": [
     {
      "title": "The HP Omnibook Ultra Flip is the Total Package",
@@ -26,11 +26,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "128 additional review(s) also mention Apple/Mac."
+   "summary_of_remaining": "133 additional review(s) also mention Apple/Mac."
   },
   {
    "brand": "Dell",
-   "total_mentions": 51,
+   "total_mentions": 54,
    "reviews": [
     {
      "title": "The HP Omnibook Ultra Flip is the Total Package",
@@ -54,7 +54,7 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "48 additional review(s) also mention Dell."
+   "summary_of_remaining": "51 additional review(s) also mention Dell."
   },
   {
    "brand": "Microsoft",
@@ -86,7 +86,7 @@
   },
   {
    "brand": "Lenovo",
-   "total_mentions": 37,
+   "total_mentions": 38,
    "reviews": [
     {
      "title": "The HP Omnibook Ultra Flip is the Total Package",
@@ -110,7 +110,7 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "34 additional review(s) also mention Lenovo."
+   "summary_of_remaining": "35 additional review(s) also mention Lenovo."
   },
   {
    "brand": "Samsung",

@@ -1,7 +1,7 @@
 [
   {
     "word": "easy",
-    "count": 31,
+    "count": 32,
     "sentiment": "positive"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "word": "fast",
-    "count": 19,
+    "count": 20,
     "sentiment": "positive"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "word": "setup",
-    "count": 15,
+    "count": 16,
     "sentiment": "positive"
   },
   {
@@ -55,6 +55,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "machine",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
     "word": "works",
     "count": 12,
     "sentiment": "positive"
@@ -70,8 +75,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "machine",
-    "count": 11,
+    "word": "performance",
+    "count": 10,
     "sentiment": "positive"
   },
   {
@@ -95,12 +100,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "excellent",
+    "word": "over",
     "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "performance",
+    "word": "excellent",
     "count": 9,
     "sentiment": "positive"
   },
@@ -122,11 +127,6 @@
   {
     "word": "backlit",
     "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "over",
-    "count": 8,
     "sentiment": "positive"
   },
   {
@@ -152,6 +152,11 @@
   {
     "word": "power",
     "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 7,
     "sentiment": "positive"
   },
   {
@@ -200,6 +205,21 @@
     "sentiment": "positive"
   },
   {
+    "word": "quick",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "last",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
     "word": "thought",
     "count": 6,
     "sentiment": "positive"
@@ -211,11 +231,6 @@
   },
   {
     "word": "now",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "speed",
     "count": 6,
     "sentiment": "positive"
   },
@@ -281,21 +296,6 @@
   },
   {
     "word": "back",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "book",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "going",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "almost",
     "count": 5,
     "sentiment": "positive"
   }

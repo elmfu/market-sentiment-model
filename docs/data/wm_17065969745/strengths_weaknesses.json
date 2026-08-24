@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 37,
-      "pct_of_reviews": 27.0,
+      "count": 41,
+      "pct_of_reviews": 29.1,
       "quotes": [
         "Setup was very smooth, just following the online directions.",
         "The setup was quick and easy right out of the box, and everything runs smoothly.",
@@ -13,7 +13,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 35,
-      "pct_of_reviews": 25.5,
+      "pct_of_reviews": 24.8,
       "quotes": [
         "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
         "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect.",
@@ -23,7 +23,7 @@
     {
       "theme": "Display Quality",
       "count": 32,
-      "pct_of_reviews": 23.4,
+      "pct_of_reviews": 22.7,
       "quotes": [
         "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
         "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect.",
@@ -32,8 +32,8 @@
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 28,
-      "pct_of_reviews": 20.4,
+      "count": 29,
+      "pct_of_reviews": 20.6,
       "quotes": [
         "I purchased the Omni Book because support for Windows 10 was ending.",
         "Quality Laptop, would be 5/5 but they had McAfee on it by default.",
@@ -42,8 +42,8 @@
     },
     {
       "theme": "Price & Value",
-      "count": 26,
-      "pct_of_reviews": 19.0,
+      "count": 27,
+      "pct_of_reviews": 19.1,
       "quotes": [
         "$20 upgrade for blue case was so worth it.",
         "HP is reliable and high quality without breaking the budget.",
@@ -55,7 +55,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 8,
-      "pct_of_reviews": 5.8,
+      "pct_of_reviews": 5.7,
       "quotes": [
         "very slow when opening apps and navigating around.",
         "corrupted all of my devices I wanted a simple machine with windows 11 comes loaded to take over all of your devices with junk",
@@ -65,7 +65,7 @@
     {
       "theme": "Performance & Chip",
       "count": 4,
-      "pct_of_reviews": 2.9,
+      "pct_of_reviews": 2.8,
       "quotes": [
         "very slow when opening apps and navigating around.",
         "When I ordered, it was suppose to include Intel 7",
@@ -75,7 +75,7 @@
     {
       "theme": "Display Quality",
       "count": 3,
-      "pct_of_reviews": 2.2,
+      "pct_of_reviews": 2.1,
       "quotes": [
         "Product review -\nHas a touch screen - I didn't know that.",
         "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop."
@@ -84,7 +84,7 @@
     {
       "theme": "Price & Value",
       "count": 3,
-      "pct_of_reviews": 2.2,
+      "pct_of_reviews": 2.1,
       "quotes": [
         "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop."
       ]
@@ -92,7 +92,7 @@
     {
       "theme": "Battery Life",
       "count": 2,
-      "pct_of_reviews": 1.5,
+      "pct_of_reviews": 1.4,
       "quotes": [
         "For some reason its hard to plug and unplugged a HDMI or the charging cord from its ports.",
         "The battery performance (which is supposedly AI managed) is mediocre at best."

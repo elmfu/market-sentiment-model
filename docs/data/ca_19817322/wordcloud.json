@@ -160,6 +160,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "quality",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
     "word": "colors",
     "count": 5,
     "sentiment": "positive"
@@ -171,6 +176,11 @@
   },
   {
     "word": "wish",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
     "count": 5,
     "sentiment": "positive"
   },
@@ -250,11 +260,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "quality",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
     "word": "money",
     "count": 4,
     "sentiment": "positive"
@@ -291,11 +296,6 @@
   },
   {
     "word": "spent",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "owned",
     "count": 4,
     "sentiment": "positive"
   }

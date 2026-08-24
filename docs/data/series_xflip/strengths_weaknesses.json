@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 1923,
-   "pct_of_reviews": 31.6,
+   "count": 1982,
+   "pct_of_reviews": 31.7,
    "quotes": [
     "Configuration\n------------------------\nWith Intel Core Ultra 9 288 V processor, 32GB RAM and 2 TB SSD, this is a high-end configuration laptop.",
     "It is snappy, doesn't lag, the battery lasts a really long time.",
@@ -12,7 +12,7 @@
   },
   {
    "theme": "Display Quality",
-   "count": 1630,
+   "count": 1676,
    "pct_of_reviews": 26.8,
    "quotes": [
     "This is a gorgeous, well-built, premium laptop that performs extremely well thanks to its high-end configurations and has a stunning OLED display.",
@@ -22,7 +22,7 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 1404,
+   "count": 1446,
    "pct_of_reviews": 23.1,
    "quotes": [
     "With a high quality hinge, this can be used in 4 modes - laptop, tent, stand and Tab mode.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Price & Value",
-   "count": 1286,
-   "pct_of_reviews": 21.1,
+   "count": 1315,
+   "pct_of_reviews": 21.0,
    "quotes": [
     "In spite of the minor shortcomings, this laptop is worth the buy.",
     "for $700 this is a good choice and a great value.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Battery Life",
-   "count": 752,
-   "pct_of_reviews": 12.3,
+   "count": 787,
+   "pct_of_reviews": 12.6,
    "quotes": [
     "Battery\n----------------\nBattery easily lasts around 8 hours with continuous use.",
     "It is snappy, doesn't lag, the battery lasts a really long time.",
@@ -54,7 +54,7 @@
  "weaknesses": [
   {
    "theme": "Display Quality",
-   "count": 48,
+   "count": 49,
    "pct_of_reviews": 0.8,
    "quotes": [
     "We have owned it under 2 months and the display screen won’t come on.",
@@ -64,7 +64,7 @@
   },
   {
    "theme": "Software & Ecosystem",
-   "count": 44,
+   "count": 45,
    "pct_of_reviews": 0.7,
    "quotes": [
     "Since the initial setup, the device has been getting very hot.",
@@ -84,7 +84,7 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 35,
+   "count": 37,
    "pct_of_reviews": 0.6,
    "quotes": [
     "A few of the keys stopped properly workong not even a month in.",
@@ -94,7 +94,7 @@
   },
   {
    "theme": "Performance & Chip",
-   "count": 34,
+   "count": 35,
    "pct_of_reviews": 0.6,
    "quotes": [
     "Also, the battery performance has really disappointed me.",

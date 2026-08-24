@@ -30,6 +30,16 @@
     "sentiment": "positive"
   },
   {
+    "word": "fast",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
     "word": "easy",
     "count": 8,
     "sentiment": "positive"
@@ -40,7 +50,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "keyboard",
+    "word": "set",
     "count": 7,
     "sentiment": "positive"
   },
@@ -50,17 +60,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "fast",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
     "word": "without",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "set",
     "count": 6,
     "sentiment": "positive"
   },
@@ -102,6 +102,21 @@
   {
     "word": "long",
     "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "having",
+    "count": 4,
     "sentiment": "positive"
   },
   {
@@ -195,6 +210,26 @@
     "sentiment": "positive"
   },
   {
+    "word": "wanted",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "simple",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keys",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
     "word": "home",
     "count": 3,
     "sentiment": "positive"
@@ -221,11 +256,6 @@
   },
   {
     "word": "pad",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "having",
     "count": 3,
     "sentiment": "positive"
   },
@@ -266,36 +296,6 @@
   },
   {
     "word": "hardly",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "build",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "internet",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "issue",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "once",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "value",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "price",
     "count": 3,
     "sentiment": "positive"
   }

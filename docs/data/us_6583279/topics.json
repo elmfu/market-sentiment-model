@@ -2,57 +2,57 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 138,
-    "positive": 118,
+    "total": 139,
+    "positive": 119,
     "neutral": 16,
     "negative": 4,
-    "positive_pct": 85.5,
+    "positive_pct": 85.6,
     "negative_pct": 2.9,
-    "net_score": 82.6
+    "net_score": 82.7
   },
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 100,
-    "positive": 85,
+    "total": 102,
+    "positive": 87,
     "neutral": 12,
     "negative": 3,
-    "positive_pct": 85.0,
-    "negative_pct": 3.0,
-    "net_score": 82.0
+    "positive_pct": 85.3,
+    "negative_pct": 2.9,
+    "net_score": 82.4
   },
   {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 89,
-    "positive": 77,
+    "total": 90,
+    "positive": 78,
     "neutral": 11,
     "negative": 1,
-    "positive_pct": 86.5,
+    "positive_pct": 86.7,
     "negative_pct": 1.1,
-    "net_score": 85.4
+    "net_score": 85.6
   },
   {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 80,
-    "positive": 67,
+    "total": 81,
+    "positive": 68,
     "neutral": 10,
     "negative": 3,
-    "positive_pct": 83.8,
-    "negative_pct": 3.8,
-    "net_score": 80.0
+    "positive_pct": 84.0,
+    "negative_pct": 3.7,
+    "net_score": 80.3
   },
   {
     "topic": "display",
     "label": "Display Quality",
-    "total": 75,
-    "positive": 60,
+    "total": 76,
+    "positive": 61,
     "neutral": 13,
     "negative": 2,
-    "positive_pct": 80.0,
-    "negative_pct": 2.7,
-    "net_score": 77.3
+    "positive_pct": 80.3,
+    "negative_pct": 2.6,
+    "net_score": 77.7
   },
   {
     "topic": "price_value",
@@ -68,13 +68,13 @@
   {
     "topic": "ports",
     "label": "Ports & Connectivity",
-    "total": 34,
-    "positive": 25,
+    "total": 35,
+    "positive": 26,
     "neutral": 7,
     "negative": 2,
-    "positive_pct": 73.5,
-    "negative_pct": 5.9,
-    "net_score": 67.6
+    "positive_pct": 74.3,
+    "negative_pct": 5.7,
+    "net_score": 68.6
   },
   {
     "topic": "thermals",

@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 2782,
-   "pct_of_reviews": 32.9,
+   "count": 2873,
+   "pct_of_reviews": 33.1,
    "quotes": [
     "The HP  OmniBook X with Snapdragon X Plus processor is the perfect laptop for travelers.",
     "Laptop is very fast and the best for multi tasking.",
@@ -12,7 +12,7 @@
   },
   {
    "theme": "Display Quality",
-   "count": 2277,
+   "count": 2343,
    "pct_of_reviews": 27.0,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 2115,
-   "pct_of_reviews": 25.0,
+   "count": 2183,
+   "pct_of_reviews": 25.1,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
     "Visuals/Display - Great picture, nice color and pixel quality.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Price & Value",
-   "count": 1707,
-   "pct_of_reviews": 20.2,
+   "count": 1744,
+   "pct_of_reviews": 20.1,
    "quotes": [
     "* The price tag is a bit steep, but I was able to snap this up on sale.",
     "In spite of the minor shortcomings, this laptop is worth the buy.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Battery Life",
-   "count": 1228,
-   "pct_of_reviews": 14.5,
+   "count": 1284,
+   "pct_of_reviews": 14.8,
    "quotes": [
     "Best of all, the Snapdragon processor provides the best battery life of any laptop I have ever used.",
     "I would say this laptop has the best battery power in the industry.",
@@ -54,7 +54,7 @@
  "weaknesses": [
   {
    "theme": "Software & Ecosystem",
-   "count": 90,
+   "count": 93,
    "pct_of_reviews": 1.1,
    "quotes": [
     "Disable the trackpad, and expected my mouse to work, which is a Microsoft mouse, and wake up the device.",
@@ -64,12 +64,22 @@
   },
   {
    "theme": "Display Quality",
-   "count": 86,
+   "count": 90,
    "pct_of_reviews": 1.0,
    "quotes": [
     "Product review -\nHas a touch screen - I didn't know that.",
     "Product review -\nHas a touch screen - I didn't know that.",
     "Everything looked brand new when I opened the box, but in trying to set it up, it didn't display any options to connect to internet."
+   ]
+  },
+  {
+   "theme": "Build & Keyboard",
+   "count": 79,
+   "pct_of_reviews": 0.9,
+   "quotes": [
+    "Build quality is great, screen etc just like the previous hp spectres.",
+    "My hands are rather large, so that means I'm consistently hitting the trackpad.",
+    "Display quality and speakers are below expectations, and the performance issues severely impact productivity."
    ]
   },
   {
@@ -83,18 +93,8 @@
    ]
   },
   {
-   "theme": "Build & Keyboard",
-   "count": 72,
-   "pct_of_reviews": 0.9,
-   "quotes": [
-    "Build quality is great, screen etc just like the previous hp spectres.",
-    "My hands are rather large, so that means I'm consistently hitting the trackpad.",
-    "Display quality and speakers are below expectations, and the performance issues severely impact productivity."
-   ]
-  },
-  {
    "theme": "Performance & Chip",
-   "count": 68,
+   "count": 71,
    "pct_of_reviews": 0.8,
    "quotes": [
     "[Employee of bestbuy] Laptop is super slow and freeze this is the third factory reset and still presenting problems.",

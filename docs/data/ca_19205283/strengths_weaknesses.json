@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Build & Keyboard",
-      "count": 9,
-      "pct_of_reviews": 23.1,
+      "count": 12,
+      "pct_of_reviews": 26.7,
       "quotes": [
         "I wanted something thin, fast, a convertible, with backlit keys, and a touch screen.",
         "It is compact, thin, light, and the battery lasts all day - i dont wven pack ny charger going to uni, and I am on it all day!",
@@ -12,18 +12,18 @@
     },
     {
       "theme": "Display Quality",
-      "count": 8,
-      "pct_of_reviews": 20.5,
+      "count": 10,
+      "pct_of_reviews": 22.2,
       "quotes": [
         "I wanted something thin, fast, a convertible, with backlit keys, and a touch screen.",
         "The screen is quite good for short notes with the pen (sold separately), so its thr perfect study companion.",
-        "The laptop is pretty fast and the screen doesn’t wobble."
+        "Glass screen produces nice high-resolution pictures."
       ]
     },
     {
       "theme": "Performance & Chip",
-      "count": 7,
-      "pct_of_reviews": 17.9,
+      "count": 9,
+      "pct_of_reviews": 20.0,
       "quotes": [
         "I wanted something thin, fast, a convertible, with backlit keys, and a touch screen.",
         "It is a powerful machine, but most of the functional software that makes it whole is already monetised by HP, unfortunately.",
@@ -33,7 +33,7 @@
     {
       "theme": "Price & Value",
       "count": 4,
-      "pct_of_reviews": 10.3,
+      "pct_of_reviews": 8.9,
       "quotes": [
         "The price was just right because of the promotion, and I saved a significant amount.",
         "A pretty great laptop for the price; I got it on sale, too, which was great.",
@@ -42,10 +42,11 @@
     },
     {
       "theme": "Battery Life",
-      "count": 2,
-      "pct_of_reviews": 5.1,
+      "count": 3,
+      "pct_of_reviews": 6.7,
       "quotes": [
         "It is compact, thin, light, and the battery lasts all day - i dont wven pack ny charger going to uni, and I am on it all day!",
+        "Easy to charge and lasts at least half a day.",
         "The new sleek design, battery life, and screen is next level."
       ]
     }
@@ -54,39 +55,41 @@
     {
       "theme": "Battery Life",
       "count": 2,
-      "pct_of_reviews": 5.1,
+      "pct_of_reviews": 4.4,
       "quotes": [
         "Everything it does takes 10x longer than my last computer.",
         "Very short battery life, difficulty connecting and staying connected to wifi"
       ]
     },
     {
+      "theme": "Repairability",
+      "count": 2,
+      "pct_of_reviews": 4.4,
+      "quotes": [
+        "To make matters worse, I was informed that the repair process will take over a month to complete."
+      ]
+    },
+    {
       "theme": "Performance & Chip",
       "count": 1,
-      "pct_of_reviews": 2.6,
+      "pct_of_reviews": 2.2,
       "quotes": []
     },
     {
       "theme": "Display Quality",
       "count": 1,
-      "pct_of_reviews": 2.6,
+      "pct_of_reviews": 2.2,
       "quotes": [
         "Screen failed on one unit after 2 weeks, took about 8hrs of chat help and 1 week to get it fixed."
       ]
     },
     {
-      "theme": "Ports & Connectivity",
+      "theme": "Build & Keyboard",
       "count": 1,
-      "pct_of_reviews": 2.6,
+      "pct_of_reviews": 2.2,
       "quotes": [
-        "Very short battery life, difficulty connecting and staying connected to wifi"
+        "I was initially excited about my new HP OmniBook X Flip 14-fk0010ca, but that was short-lived as the device arrived with a defective keyboard."
       ]
-    },
-    {
-      "theme": "Price & Value",
-      "count": 1,
-      "pct_of_reviews": 2.6,
-      "quotes": []
     }
   ]
 }

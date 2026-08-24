@@ -25,6 +25,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "fast",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
     "word": "quality",
     "count": 8,
     "sentiment": "positive"
@@ -36,11 +41,6 @@
   },
   {
     "word": "easy",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "fast",
     "count": 7,
     "sentiment": "positive"
   },
@@ -57,6 +57,11 @@
   {
     "word": "size",
     "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 5,
     "sentiment": "positive"
   },
   {
@@ -92,11 +97,6 @@
   {
     "word": "long",
     "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "keyboard",
-    "count": 4,
     "sentiment": "positive"
   },
   {
@@ -162,6 +162,11 @@
   {
     "word": "sleek",
     "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "having",
+    "count": 3,
     "sentiment": "positive"
   },
   {
@@ -291,11 +296,6 @@
   },
   {
     "word": "lightweight",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "features",
     "count": 3,
     "sentiment": "positive"
   }

@@ -2,24 +2,24 @@
   "product": "HP OmniBook X 17.3\" AI PC Touchscreen Laptop (Intel Core Ultra 7 356H/32GB RAM/1TB SSD/GeForce RTX 5050/Win11)",
   "source": "bestbuy.ca",
   "market": "CA",
-  "total": 235,
-  "with_text": 106,
+  "total": 238,
+  "with_text": 108,
   "date_range": "",
   "avg_rating": 4.4,
-  "satisfaction_score": 86.8,
+  "satisfaction_score": 87.0,
   "star_distribution": {
     "1": 10,
     "2": 5,
     "3": 16,
-    "4": 55,
-    "5": 149
+    "4": 56,
+    "5": 151
   },
   "sentiment": {
-    "positive": 204,
+    "positive": 207,
     "neutral": 16,
     "negative": 15,
-    "positive_pct": 86.8,
-    "neutral_pct": 6.8,
-    "negative_pct": 6.4
+    "positive_pct": 87.0,
+    "neutral_pct": 6.7,
+    "negative_pct": 6.3
   }
 }

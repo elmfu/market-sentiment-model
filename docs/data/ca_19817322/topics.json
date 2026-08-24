@@ -35,13 +35,13 @@
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 22,
-    "positive": 19,
+    "total": 23,
+    "positive": 20,
     "neutral": 3,
     "negative": 0,
-    "positive_pct": 86.4,
+    "positive_pct": 87.0,
     "negative_pct": 0.0,
-    "net_score": 86.4
+    "net_score": 87.0
   },
   {
     "topic": "price_value",

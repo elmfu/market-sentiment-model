@@ -1,9 +1,9 @@
 [
   {
-    "topic": "build_quality",
-    "label": "Build & Keyboard",
-    "total": 23,
-    "positive": 23,
+    "topic": "display",
+    "label": "Display Quality",
+    "total": 30,
+    "positive": 30,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
@@ -13,8 +13,8 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 22,
-    "positive": 22,
+    "total": 29,
+    "positive": 29,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
@@ -22,10 +22,10 @@
     "net_score": 100.0
   },
   {
-    "topic": "display",
-    "label": "Display Quality",
-    "total": 22,
-    "positive": 22,
+    "topic": "build_quality",
+    "label": "Build & Keyboard",
+    "total": 29,
+    "positive": 29,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
@@ -35,8 +35,8 @@
   {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 19,
-    "positive": 19,
+    "total": 21,
+    "positive": 21,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
@@ -46,8 +46,8 @@
   {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 18,
-    "positive": 18,
+    "total": 21,
+    "positive": 21,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
@@ -57,8 +57,8 @@
   {
     "topic": "ports",
     "label": "Ports & Connectivity",
-    "total": 16,
-    "positive": 16,
+    "total": 19,
+    "positive": 19,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
@@ -68,8 +68,8 @@
   {
     "topic": "price_value",
     "label": "Price & Value",
-    "total": 11,
-    "positive": 11,
+    "total": 14,
+    "positive": 14,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
@@ -90,12 +90,12 @@
   {
     "topic": "repairability",
     "label": "Repairability",
-    "total": 4,
+    "total": 5,
     "positive": 4,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 0,
-    "positive_pct": 100.0,
+    "positive_pct": 80.0,
     "negative_pct": 0.0,
-    "net_score": 100.0
+    "net_score": 80.0
   }
 ]

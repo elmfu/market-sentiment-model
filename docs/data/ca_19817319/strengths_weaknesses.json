@@ -1,27 +1,29 @@
 {
   "strengths": [
     {
-      "theme": "Performance & Chip",
-      "count": 1,
-      "pct_of_reviews": 100.0,
-      "quotes": []
-    },
-    {
       "theme": "Battery Life",
-      "count": 1,
-      "pct_of_reviews": 100.0,
+      "count": 2,
+      "pct_of_reviews": 66.7,
       "quotes": []
     },
     {
       "theme": "Display Quality",
+      "count": 2,
+      "pct_of_reviews": 66.7,
+      "quotes": [
+        "Fantastic laptop, I like the deep espresso colour and the screen is beautiful"
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
       "count": 1,
-      "pct_of_reviews": 100.0,
+      "pct_of_reviews": 33.3,
       "quotes": []
     },
     {
       "theme": "Build & Keyboard",
       "count": 1,
-      "pct_of_reviews": 100.0,
+      "pct_of_reviews": 33.3,
       "quotes": []
     },
     {

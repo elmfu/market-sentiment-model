@@ -2,19 +2,19 @@
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 24,
+    "total": 25,
     "positive": 21,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 2,
-    "positive_pct": 87.5,
-    "negative_pct": 8.3,
-    "net_score": 79.2
+    "positive_pct": 84.0,
+    "negative_pct": 8.0,
+    "net_score": 76.0
   },
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 21,
-    "positive": 21,
+    "total": 22,
+    "positive": 22,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
@@ -57,13 +57,13 @@
   {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 8,
-    "positive": 7,
+    "total": 9,
+    "positive": 8,
     "neutral": 0,
     "negative": 1,
-    "positive_pct": 87.5,
-    "negative_pct": 12.5,
-    "net_score": 75.0
+    "positive_pct": 88.9,
+    "negative_pct": 11.1,
+    "net_score": 77.8
   },
   {
     "topic": "ports",

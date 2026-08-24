@@ -2,24 +2,24 @@
   "product": "HP OmniBook X Flip 16\" Touchscreen 2-in-1 Copilot+ PC Laptop (AMD Ryzen AI 300/32GB RAM/1TB SSD)",
   "source": "bestbuy.ca",
   "market": "CA",
-  "total": 55,
-  "with_text": 40,
+  "total": 58,
+  "with_text": 42,
   "date_range": "",
-  "avg_rating": 4.33,
-  "satisfaction_score": 81.8,
+  "avg_rating": 4.29,
+  "satisfaction_score": 81.0,
   "star_distribution": {
-    "1": 2,
+    "1": 3,
     "2": 4,
     "3": 4,
     "4": 9,
-    "5": 36
+    "5": 38
   },
   "sentiment": {
-    "positive": 45,
+    "positive": 47,
     "neutral": 4,
-    "negative": 6,
-    "positive_pct": 81.8,
-    "neutral_pct": 7.3,
-    "negative_pct": 10.9
+    "negative": 7,
+    "positive_pct": 81.0,
+    "neutral_pct": 6.9,
+    "negative_pct": 12.1
   }
 }

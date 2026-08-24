@@ -1,5 +1,15 @@
 [
   {
+    "word": "screen",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
     "word": "handy",
     "count": 1,
     "sentiment": "positive"
@@ -41,16 +51,6 @@
   },
   {
     "word": "touch",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "screen",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "battery",
     "count": 1,
     "sentiment": "positive"
   },
@@ -141,6 +141,56 @@
   },
   {
     "word": "socket",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fantastic",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "deep",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "espresso",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "colour",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "beautiful",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "drains",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quickly",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "internet",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "otherwise",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
     "count": 1,
     "sentiment": "positive"
   }

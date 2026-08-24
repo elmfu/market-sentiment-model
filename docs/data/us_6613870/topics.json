@@ -2,8 +2,8 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 186,
-    "positive": 183,
+    "total": 192,
+    "positive": 189,
     "neutral": 2,
     "negative": 1,
     "positive_pct": 98.4,
@@ -13,57 +13,57 @@
   {
     "topic": "display",
     "label": "Display Quality",
-    "total": 161,
-    "positive": 153,
+    "total": 166,
+    "positive": 158,
     "neutral": 3,
     "negative": 5,
-    "positive_pct": 95.0,
-    "negative_pct": 3.1,
-    "net_score": 91.9
+    "positive_pct": 95.2,
+    "negative_pct": 3.0,
+    "net_score": 92.2
   },
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 139,
-    "positive": 129,
+    "total": 142,
+    "positive": 132,
     "neutral": 6,
     "negative": 4,
-    "positive_pct": 92.8,
-    "negative_pct": 2.9,
-    "net_score": 89.9
+    "positive_pct": 93.0,
+    "negative_pct": 2.8,
+    "net_score": 90.2
   },
   {
     "topic": "price_value",
     "label": "Price & Value",
-    "total": 135,
-    "positive": 128,
+    "total": 136,
+    "positive": 129,
     "neutral": 4,
     "negative": 3,
-    "positive_pct": 94.8,
+    "positive_pct": 94.9,
     "negative_pct": 2.2,
-    "net_score": 92.6
+    "net_score": 92.7
   },
   {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 80,
-    "positive": 76,
+    "total": 82,
+    "positive": 78,
     "neutral": 0,
     "negative": 4,
-    "positive_pct": 95.0,
-    "negative_pct": 5.0,
-    "net_score": 90.0
+    "positive_pct": 95.1,
+    "negative_pct": 4.9,
+    "net_score": 90.2
   },
   {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 67,
-    "positive": 59,
+    "total": 70,
+    "positive": 61,
     "neutral": 4,
-    "negative": 4,
-    "positive_pct": 88.1,
-    "negative_pct": 6.0,
-    "net_score": 82.1
+    "negative": 5,
+    "positive_pct": 87.1,
+    "negative_pct": 7.1,
+    "net_score": 80.0
   },
   {
     "topic": "repairability",
@@ -79,13 +79,13 @@
   {
     "topic": "ports",
     "label": "Ports & Connectivity",
-    "total": 18,
+    "total": 19,
     "positive": 17,
     "neutral": 1,
-    "negative": 0,
-    "positive_pct": 94.4,
-    "negative_pct": 0.0,
-    "net_score": 94.4
+    "negative": 1,
+    "positive_pct": 89.5,
+    "negative_pct": 5.3,
+    "net_score": 84.2
   },
   {
     "topic": "thermals",

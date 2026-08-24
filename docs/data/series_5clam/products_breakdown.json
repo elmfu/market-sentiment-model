@@ -5,9 +5,9 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "13968860429",
-  "reviews": 301,
-  "avg_rating": 4.11,
-  "satisfaction": 77.1,
+  "reviews": 305,
+  "avg_rating": 4.12,
+  "satisfaction": 77.4,
   "first_review": "2025-08-07",
   "top_complaint": "Software & Ecosystem"
  },
@@ -17,9 +17,9 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17065969745",
-  "reviews": 137,
-  "avg_rating": 4.22,
-  "satisfaction": 82.5,
+  "reviews": 141,
+  "avg_rating": 4.24,
+  "satisfaction": 83.0,
   "first_review": "2025-08-06",
   "top_complaint": "Software & Ecosystem"
  },
@@ -41,9 +41,9 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17761662419",
-  "reviews": 47,
-  "avg_rating": 4.47,
-  "satisfaction": 87.2,
+  "reviews": 50,
+  "avg_rating": 4.46,
+  "satisfaction": 86.0,
   "first_review": "2025-08-18",
   "top_complaint": "Build & Keyboard"
  },
@@ -53,11 +53,11 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17688270243",
-  "reviews": 37,
-  "avg_rating": 4.51,
-  "satisfaction": 91.9,
+  "reviews": 46,
+  "avg_rating": 4.22,
+  "satisfaction": 82.6,
   "first_review": "2025-08-04",
-  "top_complaint": "—"
+  "top_complaint": "Performance & Chip"
  },
  {
   "product_key": "wm_17625466471",
@@ -65,9 +65,9 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17625466471",
-  "reviews": 35,
-  "avg_rating": 4.49,
-  "satisfaction": 88.6,
+  "reviews": 37,
+  "avg_rating": 4.46,
+  "satisfaction": 86.5,
   "first_review": "2025-08-18",
   "top_complaint": "Build & Keyboard"
  },
@@ -77,11 +77,11 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "17067151191",
-  "reviews": 22,
-  "avg_rating": 4.5,
-  "satisfaction": 86.4,
+  "reviews": 25,
+  "avg_rating": 4.36,
+  "satisfaction": 84.0,
   "first_review": "2025-11-29",
-  "top_complaint": "Performance & Chip"
+  "top_complaint": "Display Quality"
  },
  {
   "product_key": "wm_13943258180",
@@ -89,9 +89,9 @@
   "market": "US",
   "series": "FiveClamshell",
   "sku": "13943258180",
-  "reviews": 20,
-  "avg_rating": 4.5,
-  "satisfaction": 90.0,
+  "reviews": 23,
+  "avg_rating": 4.39,
+  "satisfaction": 87.0,
   "first_review": "2026-04-24",
   "top_complaint": "—"
  }

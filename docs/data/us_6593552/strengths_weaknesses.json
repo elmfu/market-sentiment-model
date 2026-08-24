@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 132,
-      "pct_of_reviews": 42.0,
+      "count": 133,
+      "pct_of_reviews": 42.1,
       "quotes": [
         "* The Lunar Lake Intel processor is plenty quick, even with multiple Chrome tabs and Office apps open.",
         "Fast Bluetooth & WiFi, Intel Arc graphics & long battery life add to this dream machine.",
@@ -11,19 +11,9 @@
       ]
     },
     {
-      "theme": "Build & Keyboard",
-      "count": 124,
-      "pct_of_reviews": 39.5,
-      "quotes": [
-        "The haptic touchpad is oversize; the keyboard is backlit & the keys are large, further enhancing the ease of use.",
-        "The Design\nThis is just a beautiful computer and hats off to HP for coming up with a very awesome machine.",
-        "*The overall design, Keyboard, trackpad and audio are all above my expectations."
-      ]
-    },
-    {
       "theme": "Display Quality",
-      "count": 123,
-      "pct_of_reviews": 39.2,
+      "count": 125,
+      "pct_of_reviews": 39.6,
       "quotes": [
         "I've tried the Lenovo X1 Carbon, the Dell XPS,  the Lenovo Slim 7x and the Asus Zenbook OLED models.",
         "This dark gray color perfectly blends with virtually any office or home.",
@@ -31,9 +21,19 @@
       ]
     },
     {
+      "theme": "Build & Keyboard",
+      "count": 124,
+      "pct_of_reviews": 39.2,
+      "quotes": [
+        "The haptic touchpad is oversize; the keyboard is backlit & the keys are large, further enhancing the ease of use.",
+        "The Design\nThis is just a beautiful computer and hats off to HP for coming up with a very awesome machine.",
+        "*The overall design, Keyboard, trackpad and audio are all above my expectations."
+      ]
+    },
+    {
       "theme": "Battery Life",
-      "count": 75,
-      "pct_of_reviews": 23.9,
+      "count": 76,
+      "pct_of_reviews": 24.1,
       "quotes": [
         "* The battery life is long, and I can easily get through a full day on a single charge.",
         "Fast Bluetooth & WiFi, Intel Arc graphics & long battery life add to this dream machine.",
@@ -43,7 +43,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 70,
-      "pct_of_reviews": 22.3,
+      "pct_of_reviews": 22.2,
       "quotes": [
         "* The Lunar Lake Intel processor is plenty quick, even with multiple Chrome tabs and Office apps open.",
         "The HP - OmniBook Ultra Flip - Copilot+ PC is the latest example.",
@@ -84,7 +84,7 @@
     {
       "theme": "Price & Value",
       "count": 3,
-      "pct_of_reviews": 1.0,
+      "pct_of_reviews": 0.9,
       "quotes": [
         "The keys and keyboard also feel cheap and plastic, which is disappointing for a laptop at this price point.",
         "Horrible service especially price matched experience",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27",
+  "generated_at": "2026-08-24",
   "series": [
     {
       "slug": "Ultra",
@@ -60,9 +60,9 @@
       "model": "",
       "cpu_ram_ssd": "Ryzen AI 7 / 32GB / 1TB",
       "enabled": true,
-      "total": 39,
-      "avg_rating": 4.13,
-      "satisfaction_score": 76.9,
+      "total": 45,
+      "avg_rating": 4.04,
+      "satisfaction_score": 75.6,
       "date_range": ""
     },
     {
@@ -74,8 +74,8 @@
       "model": "",
       "cpu_ram_ssd": "Ryzen AI 7 450 (Zen 5c) / 32GB / 1TB",
       "enabled": true,
-      "total": 1,
-      "avg_rating": 4.0,
+      "total": 3,
+      "avg_rating": 4.33,
       "satisfaction_score": 100.0,
       "date_range": ""
     },
@@ -87,7 +87,11 @@
       "name": "HP OmniBook X 16\" Touchscreen 2-in-1 Laptop - Meteor Silver (AMD Ryzen Ai7 450 (Zen 5c)/32GB RAM/2TB SSD/Windows 11 Home)",
       "model": "",
       "cpu_ram_ssd": "Ryzen AI 7 450 (Zen 5c) / 32GB / 2TB",
-      "enabled": true
+      "enabled": true,
+      "total": 1,
+      "avg_rating": 5.0,
+      "satisfaction_score": 100.0,
+      "date_range": ""
     },
     {
       "product_key": "ca_19817321",
@@ -112,9 +116,9 @@
       "model": "",
       "cpu_ram_ssd": "Core Ultra 7 356H / 32GB / 1TB + RTX 5050",
       "enabled": true,
-      "total": 235,
+      "total": 238,
       "avg_rating": 4.4,
-      "satisfaction_score": 86.8,
+      "satisfaction_score": 87.0,
       "date_range": ""
     },
     {
@@ -126,9 +130,9 @@
       "model": "",
       "cpu_ram_ssd": "Ryzen AI 300 / 32GB / 1TB",
       "enabled": true,
-      "total": 55,
-      "avg_rating": 4.33,
-      "satisfaction_score": 81.8,
+      "total": 58,
+      "avg_rating": 4.29,
+      "satisfaction_score": 81.0,
       "date_range": ""
     },
     {
@@ -140,9 +144,9 @@
       "model": "",
       "cpu_ram_ssd": "Ryzen AI 5 340 / 16GB / 1TB",
       "enabled": true,
-      "total": 53,
-      "avg_rating": 4.21,
-      "satisfaction_score": 77.4,
+      "total": 56,
+      "avg_rating": 4.18,
+      "satisfaction_score": 76.8,
       "date_range": ""
     },
     {
@@ -178,10 +182,10 @@
       "model": "14-fd0023dx",
       "cpu_ram_ssd": "Ryzen AI 9 HX 375 / 32GB / 2TB",
       "enabled": true,
-      "total": 79,
-      "avg_rating": 4.43,
-      "satisfaction_score": 84.8,
-      "date_range": "2024-10-28 to 2026-06-02"
+      "total": 81,
+      "avg_rating": 4.44,
+      "satisfaction_score": 85.2,
+      "date_range": "2024-10-28 to 2026-08-02"
     },
     {
       "product_key": "us_6667997",
@@ -192,10 +196,10 @@
       "model": "14-KD0023DX",
       "cpu_ram_ssd": "Core Ultra X9 (2026) / 32GB / 1TB",
       "enabled": true,
-      "total": 2,
-      "avg_rating": 2.5,
-      "satisfaction_score": 50.0,
-      "date_range": "2026-05-29 to 2026-06-28"
+      "total": 6,
+      "avg_rating": 4.0,
+      "satisfaction_score": 83.3,
+      "date_range": "2026-05-29 to 2026-07-31"
     },
     {
       "product_key": "us_6667998",
@@ -206,10 +210,10 @@
       "model": "14-KG0033DX",
       "cpu_ram_ssd": "Snapdragon X2 Elite / 32GB / 1TB",
       "enabled": true,
-      "total": 3,
+      "total": 5,
       "avg_rating": 5.0,
       "satisfaction_score": 100.0,
-      "date_range": "2026-05-09 to 2026-06-07"
+      "date_range": "2026-05-09 to 2026-08-14"
     },
     {
       "product_key": "us_6668006",
@@ -220,10 +224,10 @@
       "model": "14-KD0013DX",
       "cpu_ram_ssd": "Core Ultra 7 (2026) / 16GB / 1TB",
       "enabled": true,
-      "total": 23,
-      "avg_rating": 4.83,
-      "satisfaction_score": 100.0,
-      "date_range": "2026-06-13 to 2026-07-04"
+      "total": 37,
+      "avg_rating": 4.78,
+      "satisfaction_score": 97.3,
+      "date_range": "2026-06-13 to 2026-08-19"
     },
     {
       "product_key": "us_6593552",
@@ -234,10 +238,10 @@
       "model": "14-fh0013dx",
       "cpu_ram_ssd": "Core Ultra 7 256V / 16GB / 1TB",
       "enabled": true,
-      "total": 314,
-      "avg_rating": 4.6,
-      "satisfaction_score": 90.4,
-      "date_range": "2024-10-01 to 2026-06-26"
+      "total": 316,
+      "avg_rating": 4.59,
+      "satisfaction_score": 90.5,
+      "date_range": "2024-10-01 to 2026-08-05"
     },
     {
       "product_key": "us_6601706",
@@ -248,10 +252,10 @@
       "model": "14-fh0033dx",
       "cpu_ram_ssd": "Core Ultra 9 / 32GB / 2TB",
       "enabled": true,
-      "total": 124,
-      "avg_rating": 4.6,
-      "satisfaction_score": 91.1,
-      "date_range": "2025-02-19 to 2026-06-19"
+      "total": 129,
+      "avg_rating": 4.62,
+      "satisfaction_score": 91.5,
+      "date_range": "2025-02-19 to 2026-08-21"
     },
     {
       "product_key": "us_6583279",
@@ -262,10 +266,10 @@
       "model": "14-fe0013dx",
       "cpu_ram_ssd": "Snapdragon X Elite / 16GB / 1TB",
       "enabled": true,
-      "total": 293,
+      "total": 296,
       "avg_rating": 4.51,
-      "satisfaction_score": 88.1,
-      "date_range": "2024-06-19 to 2026-05-01"
+      "satisfaction_score": 88.2,
+      "date_range": "2024-06-19 to 2026-08-15"
     },
     {
       "product_key": "us_6593546",
@@ -304,10 +308,10 @@
       "model": "17-dd0033dx",
       "cpu_ram_ssd": "Core Ultra 7 258V / 32GB / 2TB",
       "enabled": true,
-      "total": 161,
+      "total": 162,
       "avg_rating": 4.65,
-      "satisfaction_score": 91.9,
-      "date_range": "2025-04-13 to 2026-06-05"
+      "satisfaction_score": 92.0,
+      "date_range": "2025-04-13 to 2026-08-14"
     },
     {
       "product_key": "us_6668001",
@@ -332,10 +336,10 @@
       "model": "14-fk0013dx",
       "cpu_ram_ssd": "Ryzen AI 5 340 / 16GB / 512GB",
       "enabled": true,
-      "total": 485,
+      "total": 494,
       "avg_rating": 4.71,
       "satisfaction_score": 95.7,
-      "date_range": "2025-04-25 to 2026-06-27"
+      "date_range": "2025-04-25 to 2026-08-22"
     },
     {
       "product_key": "us_6613865",
@@ -360,10 +364,10 @@
       "model": "14-fm0013dx",
       "cpu_ram_ssd": "Core Ultra 5 226V / 16GB / 512GB",
       "enabled": true,
-      "total": 1064,
+      "total": 1164,
       "avg_rating": 4.71,
-      "satisfaction_score": 94.6,
-      "date_range": "2025-05-09 to 2026-07-04"
+      "satisfaction_score": 94.8,
+      "date_range": "2025-05-09 to 2026-08-23"
     },
     {
       "product_key": "us_6613869",
@@ -374,10 +378,10 @@
       "model": "16-ar0013dx",
       "cpu_ram_ssd": "Ryzen AI 5 340 / 16GB / 512GB",
       "enabled": true,
-      "total": 1410,
+      "total": 1430,
       "avg_rating": 4.68,
       "satisfaction_score": 93.8,
-      "date_range": "2025-05-09 to 2026-07-03"
+      "date_range": "2025-05-09 to 2026-08-22"
     },
     {
       "product_key": "us_6613870",
@@ -388,10 +392,10 @@
       "model": "16-as0013dx",
       "cpu_ram_ssd": "Core Ultra 5 / 16GB / 512GB",
       "enabled": true,
-      "total": 635,
+      "total": 646,
       "avg_rating": 4.72,
       "satisfaction_score": 94.3,
-      "date_range": "2025-05-30 to 2026-06-29"
+      "date_range": "2025-05-30 to 2026-08-22"
     },
     {
       "product_key": "us_6634397",
@@ -402,10 +406,10 @@
       "model": "16-AS0043dx",
       "cpu_ram_ssd": "Core Ultra 9 288V / 32GB / 2TB",
       "enabled": true,
-      "total": 652,
+      "total": 664,
       "avg_rating": 4.75,
-      "satisfaction_score": 95.7,
-      "date_range": "2025-08-18 to 2026-06-28"
+      "satisfaction_score": 95.6,
+      "date_range": "2025-08-18 to 2026-08-21"
     },
     {
       "product_key": "wm_13943258180",
@@ -417,10 +421,10 @@
       "model": "",
       "cpu_ram_ssd": "",
       "enabled": true,
-      "total": 20,
-      "avg_rating": 4.5,
-      "satisfaction_score": 90.0,
-      "date_range": "2026-04-24 to 2026-07-08"
+      "total": 23,
+      "avg_rating": 4.39,
+      "satisfaction_score": 87.0,
+      "date_range": "2026-04-24 to 2026-08-06"
     },
     {
       "product_key": "wm_13968860429",
@@ -432,10 +436,10 @@
       "model": "",
       "cpu_ram_ssd": "",
       "enabled": true,
-      "total": 301,
-      "avg_rating": 4.11,
-      "satisfaction_score": 77.1,
-      "date_range": "2025-08-07 to 2026-07-09"
+      "total": 305,
+      "avg_rating": 4.12,
+      "satisfaction_score": 77.4,
+      "date_range": "2025-08-07 to 2026-07-31"
     },
     {
       "product_key": "wm_18124510877",
@@ -458,10 +462,10 @@
       "model": "",
       "cpu_ram_ssd": "",
       "enabled": true,
-      "total": 137,
-      "avg_rating": 4.22,
-      "satisfaction_score": 82.5,
-      "date_range": "2025-08-06 to 2026-07-09"
+      "total": 141,
+      "avg_rating": 4.24,
+      "satisfaction_score": 83.0,
+      "date_range": "2025-08-06 to 2026-07-31"
     },
     {
       "product_key": "wm_17688270243",
@@ -473,10 +477,10 @@
       "model": "",
       "cpu_ram_ssd": "",
       "enabled": true,
-      "total": 37,
-      "avg_rating": 4.51,
-      "satisfaction_score": 91.9,
-      "date_range": "2025-08-04 to 2026-07-19"
+      "total": 46,
+      "avg_rating": 4.22,
+      "satisfaction_score": 82.6,
+      "date_range": "2025-08-04 to 2026-08-10"
     },
     {
       "product_key": "wm_17067151191",
@@ -488,10 +492,10 @@
       "model": "",
       "cpu_ram_ssd": "",
       "enabled": true,
-      "total": 22,
-      "avg_rating": 4.5,
-      "satisfaction_score": 86.4,
-      "date_range": "2025-11-29 to 2026-06-21"
+      "total": 25,
+      "avg_rating": 4.36,
+      "satisfaction_score": 84.0,
+      "date_range": "2025-11-29 to 2026-07-30"
     },
     {
       "product_key": "wm_13926923626",
@@ -518,10 +522,10 @@
       "model": "",
       "cpu_ram_ssd": "",
       "enabled": true,
-      "total": 35,
-      "avg_rating": 4.49,
-      "satisfaction_score": 88.6,
-      "date_range": "2025-08-18 to 2026-07-04"
+      "total": 37,
+      "avg_rating": 4.46,
+      "satisfaction_score": 86.5,
+      "date_range": "2025-08-18 to 2026-07-28"
     },
     {
       "product_key": "wm_17761662419",
@@ -533,10 +537,10 @@
       "model": "",
       "cpu_ram_ssd": "",
       "enabled": true,
-      "total": 47,
-      "avg_rating": 4.47,
-      "satisfaction_score": 87.2,
-      "date_range": "2025-08-18 to 2026-07-04"
+      "total": 50,
+      "avg_rating": 4.46,
+      "satisfaction_score": 86.0,
+      "date_range": "2025-08-18 to 2026-08-13"
     },
     {
       "product_key": "wm_16611304092",
@@ -548,10 +552,10 @@
       "model": "",
       "cpu_ram_ssd": "",
       "enabled": true,
-      "total": 28,
-      "avg_rating": 4.61,
-      "satisfaction_score": 89.3,
-      "date_range": "2025-11-13 to 2026-06-21"
+      "total": 31,
+      "avg_rating": 4.48,
+      "satisfaction_score": 87.1,
+      "date_range": "2025-11-13 to 2026-07-30"
     },
     {
       "product_key": "wm_16865170963",
@@ -563,10 +567,10 @@
       "model": "",
       "cpu_ram_ssd": "",
       "enabled": true,
-      "total": 25,
-      "avg_rating": 4.56,
-      "satisfaction_score": 88.0,
-      "date_range": "2025-11-29 to 2026-06-21"
+      "total": 28,
+      "avg_rating": 4.43,
+      "satisfaction_score": 85.7,
+      "date_range": "2025-11-29 to 2026-07-30"
     },
     {
       "product_key": "wm_18712520468",

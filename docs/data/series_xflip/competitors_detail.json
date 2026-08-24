@@ -2,7 +2,7 @@
  "competitors": [
   {
    "brand": "Apple/Mac",
-   "total_mentions": 81,
+   "total_mentions": 83,
    "reviews": [
     {
      "title": "What you need to know",
@@ -26,11 +26,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "78 additional review(s) also mention Apple/Mac."
+   "summary_of_remaining": "80 additional review(s) also mention Apple/Mac."
   },
   {
    "brand": "Dell",
-   "total_mentions": 39,
+   "total_mentions": 40,
    "reviews": [
     {
      "title": "Solid budget laptop",
@@ -54,11 +54,11 @@
      "sentiment": "negative"
     }
    ],
-   "summary_of_remaining": "36 additional review(s) also mention Dell."
+   "summary_of_remaining": "37 additional review(s) also mention Dell."
   },
   {
    "brand": "Lenovo",
-   "total_mentions": 22,
+   "total_mentions": 23,
    "reviews": [
     {
      "title": "Solid budget laptop",
@@ -82,7 +82,7 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "19 additional review(s) also mention Lenovo."
+   "summary_of_remaining": "20 additional review(s) also mention Lenovo."
   },
   {
    "brand": "Microsoft",

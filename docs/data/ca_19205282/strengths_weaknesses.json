@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 13,
-      "pct_of_reviews": 23.6,
+      "count": 14,
+      "pct_of_reviews": 24.1,
       "quotes": [
         "Could anyone please confirm if the CPU is AI 300 high tier or lower tier?",
         "Documents and light gaming are smooth (note: Win11 got rid of Wordpad so you need MS Office or an alternative).",
@@ -12,18 +12,18 @@
     },
     {
       "theme": "Display Quality",
-      "count": 12,
-      "pct_of_reviews": 21.8,
+      "count": 13,
+      "pct_of_reviews": 22.4,
       "quotes": [
         "The touch screen is fantastic, the graphics and performance are amazing.",
         "Tbh, I haven't experienced any crashes yet:)\r\n\r\nThe touch screen and tablet+pen form is also very useful in school.",
-        "We love everything about this laptop, from the perfect screen size and finish to the sleek, slim shape."
+        "I replaced my 16 GB HP Spectre x360 2-in-1 15.6\" 4K Ultra HD Touch-Screen Laptop which I bought in 2018 with this."
       ]
     },
     {
       "theme": "Build & Keyboard",
       "count": 9,
-      "pct_of_reviews": 16.4,
+      "pct_of_reviews": 15.5,
       "quotes": [
         "Aquile allows lots of text size/dimension tweaking and Sumatra is a lightweight PDF reader (Adobe works fine too but bulkier).",
         "I'm 70 and I've been using HP for a long time and I am very pleased with the sleek look and ease of access to my Omnibook.",
@@ -32,8 +32,8 @@
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 5,
-      "pct_of_reviews": 9.1,
+      "count": 6,
+      "pct_of_reviews": 10.3,
       "quotes": [
         "From what I can tell, no Windows laptop vendor comes with a built in solution.",
         "I was in the market for a laptop to replace the Microsoft Surface laptop I owned that had Windows 10, but could not be upgraded to Windows 11.",
@@ -43,7 +43,7 @@
     {
       "theme": "Price & Value",
       "count": 4,
-      "pct_of_reviews": 7.3,
+      "pct_of_reviews": 6.9,
       "quotes": [
         "HP website is selling similar configuration Omnibook Ryzen AI 7 350 32GB RAM with similar price.",
         "So ig sacrificing engineering-level performance for this is worth it."
@@ -54,7 +54,7 @@
     {
       "theme": "Battery Life",
       "count": 3,
-      "pct_of_reviews": 5.5,
+      "pct_of_reviews": 5.2,
       "quotes": [
         "Also, the battery performance has really disappointed me.",
         "Battery life isn't so good because I'm usually only getting around 6hrs of continuous use."
@@ -63,7 +63,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 3,
-      "pct_of_reviews": 5.5,
+      "pct_of_reviews": 5.2,
       "quotes": [
         "Since the initial setup, the device has been getting very hot.",
         "And I could not get back on---a window pops up BIOS update!",
@@ -73,7 +73,7 @@
     {
       "theme": "Performance & Chip",
       "count": 2,
-      "pct_of_reviews": 3.6,
+      "pct_of_reviews": 3.4,
       "quotes": [
         "Also, the battery performance has really disappointed me.",
         "This Laptop has not been a smooth transition for me."
@@ -82,7 +82,7 @@
     {
       "theme": "Display Quality",
       "count": 2,
-      "pct_of_reviews": 3.6,
+      "pct_of_reviews": 3.4,
       "quotes": [
         "Sometimes when I'm reading pdfs on WPS pdf reader, the touchscreen becomes unresponsive.",
         "The screen flickers on and off continuously."
@@ -91,7 +91,7 @@
     {
       "theme": "Thermals & Cooling",
       "count": 1,
-      "pct_of_reviews": 1.8,
+      "pct_of_reviews": 1.7,
       "quotes": [
         "Since the initial setup, the device has been getting very hot."
       ]

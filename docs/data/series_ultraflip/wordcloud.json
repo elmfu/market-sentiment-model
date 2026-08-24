@@ -1,16 +1,21 @@
 [
  {
   "word": "screen",
-  "count": 124,
+  "count": 125,
   "sentiment": "positive"
  },
  {
   "word": "battery",
-  "count": 102,
+  "count": 105,
   "sentiment": "positive"
  },
  {
   "word": "best",
+  "count": 88,
+  "sentiment": "positive"
+ },
+ {
+  "word": "fast",
   "count": 87,
   "sentiment": "positive"
  },
@@ -20,52 +25,52 @@
   "sentiment": "positive"
  },
  {
-  "word": "fast",
-  "count": 85,
-  "sentiment": "positive"
- },
- {
   "word": "light",
-  "count": 76,
+  "count": 78,
   "sentiment": "positive"
  },
  {
   "word": "oled",
-  "count": 75,
+  "count": 76,
   "sentiment": "positive"
  },
  {
   "word": "ultra",
-  "count": 69,
+  "count": 71,
   "sentiment": "positive"
  },
  {
   "word": "flip",
-  "count": 68,
+  "count": 70,
   "sentiment": "positive"
  },
  {
   "word": "excellent",
-  "count": 67,
+  "count": 68,
   "sentiment": "positive"
  },
  {
   "word": "performance",
-  "count": 66,
+  "count": 68,
   "sentiment": "positive"
  },
  {
   "word": "quality",
-  "count": 66,
+  "count": 67,
   "sentiment": "positive"
  },
  {
   "word": "easy",
-  "count": 61,
+  "count": 62,
   "sentiment": "positive"
  },
  {
   "word": "work",
+  "count": 62,
+  "sentiment": "positive"
+ },
+ {
+  "word": "display",
   "count": 60,
   "sentiment": "positive"
  },
@@ -75,13 +80,8 @@
   "sentiment": "positive"
  },
  {
-  "word": "display",
-  "count": 59,
-  "sentiment": "positive"
- },
- {
   "word": "touch",
-  "count": 55,
+  "count": 56,
   "sentiment": "positive"
  },
  {
@@ -91,12 +91,17 @@
  },
  {
   "word": "price",
-  "count": 52,
+  "count": 53,
   "sentiment": "positive"
  },
  {
   "word": "overall",
-  "count": 51,
+  "count": 52,
+  "sentiment": "positive"
+ },
+ {
+  "word": "intel",
+  "count": 47,
   "sentiment": "positive"
  },
  {
@@ -105,13 +110,18 @@
   "sentiment": "positive"
  },
  {
-  "word": "intel",
-  "count": 46,
+  "word": "perfect",
+  "count": 44,
   "sentiment": "positive"
  },
  {
-  "word": "perfect",
-  "count": 44,
+  "word": "recommend",
+  "count": 43,
+  "sentiment": "positive"
+ },
+ {
+  "word": "windows",
+  "count": 43,
   "sentiment": "positive"
  },
  {
@@ -120,18 +130,13 @@
   "sentiment": "positive"
  },
  {
-  "word": "recommend",
-  "count": 42,
-  "sentiment": "positive"
- },
- {
-  "word": "windows",
-  "count": 42,
-  "sentiment": "positive"
- },
- {
   "word": "laptops",
   "count": 41,
+  "sentiment": "positive"
+ },
+ {
+  "word": "design",
+  "count": 40,
   "sentiment": "positive"
  },
  {
@@ -140,8 +145,8 @@
   "sentiment": "positive"
  },
  {
-  "word": "design",
-  "count": 38,
+  "word": "tablet",
+  "count": 37,
   "sentiment": "positive"
  },
  {
@@ -150,7 +155,7 @@
   "sentiment": "positive"
  },
  {
-  "word": "tablet",
+  "word": "build",
   "count": 36,
   "sentiment": "positive"
  },
@@ -170,11 +175,6 @@
   "sentiment": "positive"
  },
  {
-  "word": "build",
-  "count": 35,
-  "sentiment": "positive"
- },
- {
   "word": "copilot",
   "count": 35,
   "sentiment": "positive"
@@ -185,12 +185,37 @@
   "sentiment": "positive"
  },
  {
-  "word": "ports",
+  "word": "looking",
+  "count": 35,
+  "sentiment": "positive"
+ },
+ {
+  "word": "features",
   "count": 34,
   "sentiment": "positive"
  },
  {
   "word": "powerful",
+  "count": 34,
+  "sentiment": "positive"
+ },
+ {
+  "word": "processor",
+  "count": 34,
+  "sentiment": "positive"
+ },
+ {
+  "word": "core",
+  "count": 34,
+  "sentiment": "positive"
+ },
+ {
+  "word": "ports",
+  "count": 34,
+  "sentiment": "positive"
+ },
+ {
+  "word": "ever",
   "count": 33,
   "sentiment": "positive"
  },
@@ -200,27 +225,17 @@
   "sentiment": "positive"
  },
  {
-  "word": "processor",
-  "count": 33,
-  "sentiment": "positive"
- },
- {
-  "word": "core",
-  "count": 33,
-  "sentiment": "positive"
- },
- {
-  "word": "looking",
-  "count": 33,
-  "sentiment": "positive"
- },
- {
   "word": "hours",
   "count": 33,
   "sentiment": "positive"
  },
  {
-  "word": "ever",
+  "word": "beautiful",
+  "count": 32,
+  "sentiment": "positive"
+ },
+ {
+  "word": "happy",
   "count": 32,
   "sentiment": "positive"
  },
@@ -235,7 +250,7 @@
   "sentiment": "positive"
  },
  {
-  "word": "features",
+  "word": "machine",
   "count": 32,
   "sentiment": "positive"
  },
@@ -245,12 +260,17 @@
   "sentiment": "positive"
  },
  {
-  "word": "over",
+  "word": "experience",
   "count": 31,
   "sentiment": "positive"
  },
  {
-  "word": "happy",
+  "word": "premium",
+  "count": 31,
+  "sentiment": "positive"
+ },
+ {
+  "word": "over",
   "count": 31,
   "sentiment": "positive"
  },
@@ -260,22 +280,7 @@
   "sentiment": "positive"
  },
  {
-  "word": "beautiful",
-  "count": 31,
-  "sentiment": "positive"
- },
- {
-  "word": "machine",
-  "count": 31,
-  "sentiment": "positive"
- },
- {
   "word": "high",
-  "count": 30,
-  "sentiment": "positive"
- },
- {
-  "word": "experience",
   "count": 30,
   "sentiment": "positive"
  },
@@ -292,11 +297,6 @@
  {
   "word": "size",
   "count": 30,
-  "sentiment": "positive"
- },
- {
-  "word": "top",
-  "count": 29,
   "sentiment": "positive"
  }
 ]

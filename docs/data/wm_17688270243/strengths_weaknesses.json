@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Build & Keyboard",
-      "count": 20,
-      "pct_of_reviews": 54.1,
+      "count": 21,
+      "pct_of_reviews": 45.7,
       "quotes": [
         "It has a solid battery life and can run data analysis programs without lagging (Solidworks, MATLAB, Graphpad, etc.).",
         "However, it is  difficult and a bit frustrating to use it because of the keyboard, which is probably the most important peripheral.",
@@ -12,8 +12,8 @@
     },
     {
       "theme": "Performance & Chip",
-      "count": 19,
-      "pct_of_reviews": 51.4,
+      "count": 20,
+      "pct_of_reviews": 43.5,
       "quotes": [
         "It has an impressive amount of time with the snapdragon processer.",
         "Operating system quick and smooth transitions.",
@@ -22,8 +22,8 @@
     },
     {
       "theme": "Battery Life",
-      "count": 19,
-      "pct_of_reviews": 51.4,
+      "count": 20,
+      "pct_of_reviews": 43.5,
       "quotes": [
         "It has a solid battery life and can run data analysis programs without lagging (Solidworks, MATLAB, Graphpad, etc.).",
         "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes.",
@@ -32,8 +32,8 @@
     },
     {
       "theme": "Display Quality",
-      "count": 17,
-      "pct_of_reviews": 45.9,
+      "count": 18,
+      "pct_of_reviews": 39.1,
       "quotes": [
         "The display is perfect and the sound clear.",
         "It is sharp, vibrant, and color-accurate, making everything from spreadsheets to streaming programmes look fantastic.",
@@ -42,8 +42,8 @@
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 8,
-      "pct_of_reviews": 21.6,
+      "count": 9,
+      "pct_of_reviews": 19.6,
       "quotes": [
         "Microsoft Office software is included but it is basic.",
         "Microsoft Office software is included but it is basic.",
@@ -54,30 +54,37 @@
   "weaknesses": [
     {
       "theme": "Performance & Chip",
-      "count": 0,
-      "pct_of_reviews": 0.0,
+      "count": 2,
+      "pct_of_reviews": 4.3,
+      "quotes": [
+        "My new HP Omni 5 laptop's processor is incompatible to run Adobe Photoshop Elements and Premier that functioned on my older HP PC laptop.",
+        "Realised that the ARM processor is not supported by my music software So kind of useless but I also missed the 2 weeks window to return."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 2,
+      "pct_of_reviews": 4.3,
+      "quotes": [
+        "Realised that the ARM processor is not supported by my music software So kind of useless but I also missed the 2 weeks window to return."
+      ]
+    },
+    {
+      "theme": "Thermals & Cooling",
+      "count": 1,
+      "pct_of_reviews": 2.2,
+      "quotes": [
+        "It gets really hot and the fan very loud when doing very few tasks simultaneously and it lags and freezes a lot also."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 1,
+      "pct_of_reviews": 2.2,
       "quotes": []
     },
     {
       "theme": "Battery Life",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Display Quality",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Thermals & Cooling",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Build & Keyboard",
       "count": 0,
       "pct_of_reviews": 0.0,
       "quotes": []

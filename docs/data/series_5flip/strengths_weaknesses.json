@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Build & Keyboard",
-   "count": 19,
-   "pct_of_reviews": 35.8,
+   "count": 21,
+   "pct_of_reviews": 35.6,
    "quotes": [
     "What's great about this flip book is that it works on a  360° hinge that adapts to how you want to use it, both vertical and portrait.",
     "What's great about this flip book is that it works on a  360° hinge that adapts to how you want to use it, both vertical and portrait.",
@@ -13,7 +13,7 @@
   {
    "theme": "Display Quality",
    "count": 18,
-   "pct_of_reviews": 34.0,
+   "pct_of_reviews": 30.5,
    "quotes": [
     "Easy to use, enjoy the flip & touchscreen.",
     "Easy to use, enjoy the flip & touchscreen.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Performance & Chip",
-   "count": 14,
-   "pct_of_reviews": 26.4,
+   "count": 16,
+   "pct_of_reviews": 27.1,
    "quotes": [
     "The HP OmniBook 5 Flip 14\" Laptop is an impressive flip book that has an Intel® Core™ i5 processor, 16GB TAM and 512GB of SSD storage.",
     "The HP OmniBook 5 Flip 14\" Laptop is an impressive flip book that has an Intel® Core™ i5 processor, 16GB TAM and 512GB of SSD storage.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Battery Life",
-   "count": 12,
-   "pct_of_reviews": 22.6,
+   "count": 16,
+   "pct_of_reviews": 27.1,
    "quotes": [
     "You get to 15 hours of battery life - I found that I can easily get 6+ hours doing intensive tasks.",
     "You get to 15 hours of battery life - I found that I can easily get 6+ hours doing intensive tasks.",
@@ -43,7 +43,7 @@
   {
    "theme": "Ports & Connectivity",
    "count": 8,
-   "pct_of_reviews": 15.1,
+   "pct_of_reviews": 13.6,
    "quotes": [
     "It has 2x USB-A ports, 2x USB-C, 1x HDMI, 1x display.",
     "It has 2x USB-A ports, 2x USB-C, 1x HDMI, 1x display.",
@@ -53,36 +53,38 @@
  ],
  "weaknesses": [
   {
+   "theme": "Display Quality",
+   "count": 4,
+   "pct_of_reviews": 6.8,
+   "quotes": [
+    "I even faced a screen light‑leak issue within a short time of usage.",
+    "I even faced a screen light‑leak issue within a short time of usage.",
+    "power light on but screen black & no light on keyboard"
+   ]
+  },
+  {
+   "theme": "Build & Keyboard",
+   "count": 4,
+   "pct_of_reviews": 6.8,
+   "quotes": [
+    "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
+    "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
+    "power light on but screen black & no light on keyboard"
+   ]
+  },
+  {
    "theme": "Performance & Chip",
    "count": 2,
-   "pct_of_reviews": 3.8,
+   "pct_of_reviews": 3.4,
    "quotes": [
     "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls.",
     "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
    ]
   },
   {
-   "theme": "Display Quality",
-   "count": 2,
-   "pct_of_reviews": 3.8,
-   "quotes": [
-    "I even faced a screen light‑leak issue within a short time of usage.",
-    "I even faced a screen light‑leak issue within a short time of usage."
-   ]
-  },
-  {
-   "theme": "Build & Keyboard",
-   "count": 2,
-   "pct_of_reviews": 3.8,
-   "quotes": [
-    "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
-    "Display quality and speakers are below expectations, and the performance issues severely impact productivity."
-   ]
-  },
-  {
    "theme": "Software & Ecosystem",
    "count": 2,
-   "pct_of_reviews": 3.8,
+   "pct_of_reviews": 3.4,
    "quotes": [
     "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls.",
     "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."

@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 183,
-      "pct_of_reviews": 28.8,
+      "count": 189,
+      "pct_of_reviews": 29.3,
       "quotes": [
         "Bold dedicated 8GB video memory for smooth gaming.",
         "Super fast and smooth and great screen and battery life.",
@@ -12,8 +12,8 @@
     },
     {
       "theme": "Display Quality",
-      "count": 153,
-      "pct_of_reviews": 24.1,
+      "count": 158,
+      "pct_of_reviews": 24.5,
       "quotes": [
         "16\" 2K Touchscreen for unique viewing feeling.",
         "Super fast and smooth and great screen and battery life.",
@@ -22,8 +22,8 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 129,
-      "pct_of_reviews": 20.3,
+      "count": 132,
+      "pct_of_reviews": 20.4,
       "quotes": [
         "Fantastic keyboard with largest key spaces.",
         "It has Face ID, the keyboard is very comfortable, and that’s touch screen is very very responsive, so it’s perfect.",
@@ -32,8 +32,8 @@
     },
     {
       "theme": "Price & Value",
-      "count": 128,
-      "pct_of_reviews": 20.2,
+      "count": 129,
+      "pct_of_reviews": 20.0,
       "quotes": [
         "Bought this laptop with a great sale as well.",
         "Built solid with better materials than the less expensive pc’s.",
@@ -42,8 +42,8 @@
     },
     {
       "theme": "Battery Life",
-      "count": 76,
-      "pct_of_reviews": 12.0,
+      "count": 78,
+      "pct_of_reviews": 12.1,
       "quotes": [
         "Super fast and smooth and great screen and battery life.",
         "The display is very nice, and battery life is IMPRESSIVE I bought it for school, and I’m so excited to use it, great job HP",
@@ -60,6 +60,16 @@
         "Display is glossy and reflections are handled less well than on Apple devices.",
         "Your agent couldn’t even do it when he got on my computer via getting into my screen \nThe last Chromebook broke down.",
         "got some screen issue then returned back in the same day"
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 5,
+      "pct_of_reviews": 0.8,
+      "quotes": [
+        "In addition to this, the software is always freezing.",
+        "Windows 11, despite all the self-serving hype is at least one if not two steps backward.",
+        "Windows OS/x64 eats battery for breakfast; significantly higher standby battery drain than Windows/Arm for a Snapdragon Omni 5 16 that I own \n\n5."
       ]
     },
     {
@@ -90,16 +100,6 @@
         "A few of the keys stopped properly workong not even a month in.",
         "The all-metal build does feel very good and for under $400 open-box+excellent it's good value ..",
         "I’m disappointed with the quality control and would appreciate better testing before resale."
-      ]
-    },
-    {
-      "theme": "Software & Ecosystem",
-      "count": 4,
-      "pct_of_reviews": 0.6,
-      "quotes": [
-        "In addition to this, the software is always freezing.",
-        "Windows 11, despite all the self-serving hype is at least one if not two steps backward.",
-        "Windows OS/x64 eats battery for breakfast; significantly higher standby battery drain than Windows/Arm for a Snapdragon Omni 5 16 that I own \n\n5."
       ]
     }
   ]

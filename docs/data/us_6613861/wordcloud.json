@@ -1,27 +1,27 @@
 [
   {
     "word": "screen",
-    "count": 99,
+    "count": 100,
     "sentiment": "positive"
   },
   {
     "word": "easy",
-    "count": 81,
+    "count": 82,
     "sentiment": "positive"
   },
   {
     "word": "battery",
-    "count": 77,
+    "count": 78,
     "sentiment": "positive"
   },
   {
     "word": "fast",
-    "count": 76,
+    "count": 78,
     "sentiment": "positive"
   },
   {
     "word": "work",
-    "count": 71,
+    "count": 74,
     "sentiment": "positive"
   },
   {
@@ -31,27 +31,27 @@
   },
   {
     "word": "perfect",
-    "count": 59,
+    "count": 62,
     "sentiment": "positive"
   },
   {
     "word": "flip",
-    "count": 56,
+    "count": 57,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 57,
+    "sentiment": "positive"
+  },
+  {
+    "word": "school",
+    "count": 57,
     "sentiment": "positive"
   },
   {
     "word": "light",
     "count": 56,
-    "sentiment": "positive"
-  },
-  {
-    "word": "price",
-    "count": 56,
-    "sentiment": "positive"
-  },
-  {
-    "word": "school",
-    "count": 55,
     "sentiment": "positive"
   },
   {
@@ -66,17 +66,22 @@
   },
   {
     "word": "excellent",
-    "count": 51,
+    "count": 52,
     "sentiment": "positive"
   },
   {
     "word": "tablet",
-    "count": 49,
+    "count": 50,
     "sentiment": "positive"
   },
   {
     "word": "best",
-    "count": 48,
+    "count": 49,
+    "sentiment": "positive"
+  },
+  {
+    "word": "college",
+    "count": 47,
     "sentiment": "positive"
   },
   {
@@ -86,17 +91,17 @@
   },
   {
     "word": "touch",
-    "count": 45,
-    "sentiment": "positive"
-  },
-  {
-    "word": "college",
-    "count": 45,
+    "count": 46,
     "sentiment": "positive"
   },
   {
     "word": "overall",
-    "count": 45,
+    "count": 46,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 43,
     "sentiment": "positive"
   },
   {
@@ -105,13 +110,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "quality",
-    "count": 41,
-    "sentiment": "positive"
-  },
-  {
     "word": "amazing",
-    "count": 40,
+    "count": 42,
     "sentiment": "positive"
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "word": "performance",
-    "count": 35,
+    "count": 36,
     "sentiment": "positive"
   },
   {
@@ -185,6 +185,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "better",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
     "word": "display",
     "count": 25,
     "sentiment": "positive"
@@ -197,6 +202,11 @@
   {
     "word": "laptops",
     "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "graphics",
+    "count": 24,
     "sentiment": "positive"
   },
   {
@@ -220,23 +230,18 @@
     "sentiment": "positive"
   },
   {
-    "word": "graphics",
-    "count": 23,
-    "sentiment": "positive"
-  },
-  {
     "word": "lightweight",
-    "count": 23,
-    "sentiment": "positive"
-  },
-  {
-    "word": "better",
     "count": 23,
     "sentiment": "positive"
   },
   {
     "word": "hours",
     "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feature",
+    "count": 22,
     "sentiment": "positive"
   },
   {
@@ -260,12 +265,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "gaming",
+    "word": "top",
     "count": 21,
     "sentiment": "positive"
   },
   {
-    "word": "feature",
+    "word": "tasks",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gaming",
     "count": 21,
     "sentiment": "positive"
   },
@@ -287,16 +297,6 @@
   {
     "word": "first",
     "count": 21,
-    "sentiment": "positive"
-  },
-  {
-    "word": "windows",
-    "count": 21,
-    "sentiment": "positive"
-  },
-  {
-    "word": "tasks",
-    "count": 20,
     "sentiment": "positive"
   }
 ]

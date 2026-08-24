@@ -1,29 +1,9 @@
 {
   "strengths": [
     {
-      "theme": "Build & Keyboard",
-      "count": 23,
-      "pct_of_reviews": 100.0,
-      "quotes": [
-        "The build quality, typing experience, screen, power, and battery life, are all stellar.",
-        "This is a sleek, luxurious machine with a high-end feel.",
-        "The Omnibook Ultra is small, sleek and very compact."
-      ]
-    },
-    {
-      "theme": "Performance & Chip",
-      "count": 22,
-      "pct_of_reviews": 95.7,
-      "quotes": [
-        "If I had to say who this laptop is aimed at, I would say it is for users who desire portability without sacrificing performance.",
-        "The touch screen functionality is responsive and easy to use.",
-        "I love the design and performance of this laptop."
-      ]
-    },
-    {
       "theme": "Display Quality",
-      "count": 22,
-      "pct_of_reviews": 95.7,
+      "count": 30,
+      "pct_of_reviews": 81.1,
       "quotes": [
         "The build quality, typing experience, screen, power, and battery life, are all stellar.",
         "The keys are jammed a little close together, and there is no number keypad, but that is to be expected for a 14\" display.",
@@ -31,9 +11,29 @@
       ]
     },
     {
+      "theme": "Performance & Chip",
+      "count": 29,
+      "pct_of_reviews": 78.4,
+      "quotes": [
+        "If I had to say who this laptop is aimed at, I would say it is for users who desire portability without sacrificing performance.",
+        "The touch screen functionality is responsive and easy to use.",
+        "Summary of the good\n—--------------------------\nVery portable (thin and ultra light), powerful, fast with a gorgeous OLED display!"
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 29,
+      "pct_of_reviews": 78.4,
+      "quotes": [
+        "The build quality, typing experience, screen, power, and battery life, are all stellar.",
+        "This is a sleek, luxurious machine with a high-end feel.",
+        "The Omnibook Ultra is small, sleek and very compact."
+      ]
+    },
+    {
       "theme": "Battery Life",
-      "count": 19,
-      "pct_of_reviews": 82.6,
+      "count": 21,
+      "pct_of_reviews": 56.8,
       "quotes": [
         "The build quality, typing experience, screen, power, and battery life, are all stellar.",
         "Battery life has been strong for a machine with this level of performance.",
@@ -42,12 +42,12 @@
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 18,
-      "pct_of_reviews": 78.3,
+      "count": 21,
+      "pct_of_reviews": 56.8,
       "quotes": [
         "In everyday tasks—web browsing with dozens of tabs, Microsoft Office suite, video calls, and file management—it feels exceptionally snappy.",
         "Setup is straight forward and plenty of updates (including crucial ME, firmware and BIOS) are awaiting you once on the Windows 11 desktop.",
-        "Watching videos, listening to music, shopping, researching a trip, editing/encoding videos, and chatting with Copilot."
+        "NextGen AI means it has the latest on‑device AI features."
       ]
     }
   ],

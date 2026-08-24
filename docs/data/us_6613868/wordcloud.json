@@ -1,242 +1,282 @@
 [
   {
     "word": "easy",
-    "count": 174,
-    "sentiment": "positive"
-  },
-  {
-    "word": "fast",
-    "count": 158,
-    "sentiment": "positive"
-  },
-  {
-    "word": "screen",
-    "count": 153,
+    "count": 195,
     "sentiment": "positive"
   },
   {
     "word": "battery",
-    "count": 149,
+    "count": 171,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 169,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 168,
     "sentiment": "positive"
   },
   {
     "word": "price",
-    "count": 143,
+    "count": 157,
     "sentiment": "positive"
   },
   {
     "word": "work",
-    "count": 129,
+    "count": 143,
     "sentiment": "positive"
   },
   {
     "word": "best",
-    "count": 129,
-    "sentiment": "positive"
-  },
-  {
-    "word": "works",
-    "count": 122,
-    "sentiment": "positive"
-  },
-  {
-    "word": "excellent",
-    "count": 122,
+    "count": 141,
     "sentiment": "positive"
   },
   {
     "word": "life",
-    "count": 115,
+    "count": 132,
     "sentiment": "positive"
   },
   {
-    "word": "perfect",
-    "count": 99,
+    "word": "works",
+    "count": 130,
     "sentiment": "positive"
   },
   {
-    "word": "flip",
-    "count": 97,
+    "word": "excellent",
+    "count": 129,
     "sentiment": "positive"
   },
   {
     "word": "product",
-    "count": 96,
+    "count": 116,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 110,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 109,
     "sentiment": "positive"
   },
   {
     "word": "school",
-    "count": 88,
-    "sentiment": "positive"
-  },
-  {
-    "word": "keyboard",
-    "count": 86,
-    "sentiment": "positive"
-  },
-  {
-    "word": "touch",
-    "count": 84,
+    "count": 102,
     "sentiment": "positive"
   },
   {
     "word": "performance",
-    "count": 84,
+    "count": 96,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 94,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 94,
     "sentiment": "positive"
   },
   {
     "word": "touchscreen",
-    "count": 76,
-    "sentiment": "positive"
-  },
-  {
-    "word": "tablet",
-    "count": 76,
-    "sentiment": "positive"
-  },
-  {
-    "word": "recommend",
-    "count": 71,
-    "sentiment": "positive"
-  },
-  {
-    "word": "light",
-    "count": 70,
+    "count": 84,
     "sentiment": "positive"
   },
   {
     "word": "college",
-    "count": 69,
+    "count": 83,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 83,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tablet",
+    "count": 81,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 80,
     "sentiment": "positive"
   },
   {
     "word": "overall",
-    "count": 69,
-    "sentiment": "positive"
-  },
-  {
-    "word": "happy",
-    "count": 69,
+    "count": 77,
     "sentiment": "positive"
   },
   {
     "word": "quality",
-    "count": 68,
+    "count": 73,
     "sentiment": "positive"
   },
   {
-    "word": "size",
-    "count": 59,
+    "word": "happy",
+    "count": 73,
     "sentiment": "positive"
   },
   {
     "word": "features",
-    "count": 58,
-    "sentiment": "positive"
-  },
-  {
-    "word": "lightweight",
-    "count": 58,
+    "count": 67,
     "sentiment": "positive"
   },
   {
     "word": "amazing",
-    "count": 58,
+    "count": 64,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 64,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 62,
     "sentiment": "positive"
   },
   {
     "word": "color",
-    "count": 57,
-    "sentiment": "positive"
-  },
-  {
-    "word": "little",
-    "count": 53,
-    "sentiment": "positive"
-  },
-  {
-    "word": "design",
-    "count": 52,
-    "sentiment": "positive"
-  },
-  {
-    "word": "value",
-    "count": 51,
+    "count": 61,
     "sentiment": "positive"
   },
   {
     "word": "set",
-    "count": 50,
+    "count": 57,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 56,
     "sentiment": "positive"
   },
   {
     "word": "display",
-    "count": 48,
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "value",
+    "count": 53,
     "sentiment": "positive"
   },
   {
     "word": "working",
-    "count": 47,
-    "sentiment": "positive"
-  },
-  {
-    "word": "without",
-    "count": 43,
-    "sentiment": "positive"
-  },
-  {
-    "word": "everyday",
-    "count": 43,
-    "sentiment": "positive"
-  },
-  {
-    "word": "feels",
-    "count": 42,
+    "count": 49,
     "sentiment": "positive"
   },
   {
     "word": "needed",
-    "count": 42,
+    "count": 48,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 48,
     "sentiment": "positive"
   },
   {
     "word": "smooth",
-    "count": 42,
+    "count": 47,
     "sentiment": "positive"
   },
   {
-    "word": "old",
-    "count": 42,
-    "sentiment": "positive"
-  },
-  {
-    "word": "looking",
-    "count": 41,
-    "sentiment": "positive"
-  },
-  {
-    "word": "reliable",
-    "count": 41,
-    "sentiment": "positive"
-  },
-  {
-    "word": "copilot",
-    "count": 41,
+    "word": "everyday",
+    "count": 47,
     "sentiment": "positive"
   },
   {
     "word": "long",
-    "count": 40,
+    "count": 46,
     "sentiment": "positive"
   },
   {
-    "word": "better",
-    "count": 39,
+    "word": "feels",
+    "count": 45,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 44,
+    "sentiment": "positive"
+  },
+  {
+    "word": "reliable",
+    "count": 44,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
+    "count": 44,
     "sentiment": "positive"
   },
   {
     "word": "speed",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "copilot",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sleek",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "student",
+    "count": 40,
+    "sentiment": "positive"
+  },
+  {
+    "word": "awesome",
+    "count": 39,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looks",
     "count": 38,
+    "sentiment": "positive"
+  },
+  {
+    "word": "choice",
+    "count": 37,
+    "sentiment": "positive"
+  },
+  {
+    "word": "enough",
+    "count": 37,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quick",
+    "count": 37,
+    "sentiment": "positive"
+  },
+  {
+    "word": "blue",
+    "count": 37,
     "sentiment": "positive"
   },
   {
@@ -245,58 +285,18 @@
     "sentiment": "positive"
   },
   {
-    "word": "sleek",
-    "count": 37,
-    "sentiment": "positive"
-  },
-  {
-    "word": "choice",
-    "count": 36,
-    "sentiment": "positive"
-  },
-  {
-    "word": "awesome",
-    "count": 36,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quick",
-    "count": 36,
-    "sentiment": "positive"
-  },
-  {
-    "word": "blue",
-    "count": 35,
-    "sentiment": "positive"
-  },
-  {
-    "word": "enough",
-    "count": 35,
-    "sentiment": "positive"
-  },
-  {
     "word": "compact",
-    "count": 34,
-    "sentiment": "positive"
-  },
-  {
-    "word": "student",
-    "count": 33,
-    "sentiment": "positive"
-  },
-  {
-    "word": "looks",
-    "count": 33,
+    "count": 36,
     "sentiment": "positive"
   },
   {
     "word": "responsive",
-    "count": 33,
+    "count": 36,
     "sentiment": "positive"
   },
   {
-    "word": "highly",
-    "count": 32,
+    "word": "while",
+    "count": 35,
     "sentiment": "positive"
   }
 ]

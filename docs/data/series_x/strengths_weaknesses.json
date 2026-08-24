@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 287,
-   "pct_of_reviews": 32.4,
+   "count": 292,
+   "pct_of_reviews": 32.3,
    "quotes": [
     "The HP  OmniBook X with Snapdragon X Plus processor is the perfect laptop for travelers.",
     "PROs:\nPerformance - Exceptional in terms of speed and transitions from one webpage and/or software to the next.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 213,
-   "pct_of_reviews": 24.0,
+   "count": 220,
+   "pct_of_reviews": 24.4,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
     "Visuals/Display - Great picture, nice color and pixel quality.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 196,
-   "pct_of_reviews": 22.1,
+   "count": 201,
+   "pct_of_reviews": 22.3,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
     "Visuals/Display - Great picture, nice color and pixel quality.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Battery Life",
-   "count": 159,
-   "pct_of_reviews": 17.9,
+   "count": 163,
+   "pct_of_reviews": 18.1,
    "quotes": [
     "Best of all, the Snapdragon processor provides the best battery life of any laptop I have ever used.",
     "The speed and battery life of this PC is amazing.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Software & Ecosystem",
-   "count": 159,
-   "pct_of_reviews": 17.9,
+   "count": 161,
+   "pct_of_reviews": 17.8,
    "quotes": [
     "Everyday tasks such as watching videos, web browsing, and using software applications are an absolute pleasure with this laptop.",
     "PROs:\nPerformance - Exceptional in terms of speed and transitions from one webpage and/or software to the next.",
@@ -64,12 +64,22 @@
   },
   {
    "theme": "Repairability",
-   "count": 10,
-   "pct_of_reviews": 1.1,
+   "count": 11,
+   "pct_of_reviews": 1.2,
    "quotes": [
     "Hopefully they address these things with updates, or hopefully they fix any defects.",
     "I can't tell you yet what we think of the new 1000$ computer with the 400$ Geek Squad extend warranty ?",
     "I've talked to HP but they want to fight me on this and are reluctant to fix the touchpad."
+   ]
+  },
+  {
+   "theme": "Build & Keyboard",
+   "count": 10,
+   "pct_of_reviews": 1.1,
+   "quotes": [
+    "The touchpad is great, not haptic but I didn't care about that.",
+    "This computer is fast, light-weight but not reliable.",
+    "Terrible the keyboard does not communicate with the processor."
    ]
   },
   {
@@ -80,16 +90,6 @@
     "[Employee of bestbuy] Laptop is super slow and freeze this is the third factory reset and still presenting problems.",
     "It worked great until the snapdragon wasn’t compatible with half the software I use",
     "I am a HUGE FAN of Snapdragon ARM Windows laptops."
-   ]
-  },
-  {
-   "theme": "Build & Keyboard",
-   "count": 9,
-   "pct_of_reviews": 1.0,
-   "quotes": [
-    "The touchpad is great, not haptic but I didn't care about that.",
-    "This computer is fast, light-weight but not reliable.",
-    "Terrible the keyboard does not communicate with the processor."
    ]
   },
   {

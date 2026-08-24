@@ -1,12 +1,17 @@
 [
   {
     "word": "battery",
-    "count": 18,
+    "count": 19,
     "sentiment": "positive"
   },
   {
     "word": "life",
-    "count": 15,
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 12,
     "sentiment": "positive"
   },
   {
@@ -15,8 +20,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "fast",
-    "count": 11,
+    "word": "screen",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 9,
     "sentiment": "positive"
   },
   {
@@ -25,23 +35,23 @@
     "sentiment": "positive"
   },
   {
-    "word": "light",
+    "word": "keyboard",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
     "count": 8,
     "sentiment": "positive"
   },
   {
     "word": "set",
     "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "screen",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "excellent",
-    "count": 7,
     "sentiment": "positive"
   },
   {
@@ -55,13 +65,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "keyboard",
+    "word": "lightweight",
     "count": 7,
     "sentiment": "positive"
   },
   {
-    "word": "lightweight",
-    "count": 7,
+    "word": "quality",
+    "count": 6,
     "sentiment": "positive"
   },
   {
@@ -75,11 +85,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "product",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
     "word": "smooth",
     "count": 6,
     "sentiment": "positive"
@@ -87,6 +92,26 @@
   {
     "word": "quite",
     "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "say",
+    "count": 5,
     "sentiment": "positive"
   },
   {
@@ -110,22 +135,42 @@
     "sentiment": "positive"
   },
   {
-    "word": "quality",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
     "word": "features",
     "count": 5,
     "sentiment": "positive"
   },
   {
-    "word": "looking",
+    "word": "size",
     "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "software",
+    "word": "back",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "wanted",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "portable",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
     "count": 4,
     "sentiment": "positive"
   },
@@ -140,7 +185,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "say",
+    "word": "never",
     "count": 4,
     "sentiment": "positive"
   },
@@ -225,11 +270,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "perfect",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
     "word": "carry",
     "count": 4,
     "sentiment": "positive"
@@ -245,57 +285,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "happy",
+    "word": "durable",
     "count": 3,
     "sentiment": "positive"
   },
   {
-    "word": "work",
+    "word": "lots",
     "count": 3,
     "sentiment": "positive"
   },
   {
-    "word": "fits",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "going",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "however",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "choice",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "programs",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "power",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "key",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "next",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "operating",
+    "word": "absolutely",
     "count": 3,
     "sentiment": "positive"
   }

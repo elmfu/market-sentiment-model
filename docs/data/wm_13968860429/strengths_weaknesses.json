@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 76,
-      "pct_of_reviews": 25.2,
+      "count": 80,
+      "pct_of_reviews": 26.2,
       "quotes": [
         "Setup was very smooth, just following the online directions.",
         "The setup was quick and easy right out of the box, and everything runs smoothly.",
@@ -12,7 +12,7 @@
     },
     {
       "theme": "Price & Value",
-      "count": 67,
+      "count": 68,
       "pct_of_reviews": 22.3,
       "quotes": [
         "$20 upgrade for blue case was so worth it.",
@@ -23,7 +23,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 66,
-      "pct_of_reviews": 21.9,
+      "pct_of_reviews": 21.6,
       "quotes": [
         "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
         "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect.",
@@ -33,7 +33,7 @@
     {
       "theme": "Display Quality",
       "count": 53,
-      "pct_of_reviews": 17.6,
+      "pct_of_reviews": 17.4,
       "quotes": [
         "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
         "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect.",
@@ -42,8 +42,8 @@
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 44,
-      "pct_of_reviews": 14.6,
+      "count": 45,
+      "pct_of_reviews": 14.8,
       "quotes": [
         "I purchased the Omni Book because support for Windows 10 was ending.",
         "The setup was quick and easy right out of the box, and everything runs smoothly.",
@@ -55,7 +55,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 11,
-      "pct_of_reviews": 3.7,
+      "pct_of_reviews": 3.6,
       "quotes": [
         "very slow when opening apps and navigating around.",
         "corrupted all of my devices I wanted a simple machine with windows 11 comes loaded to take over all of your devices with junk",
@@ -95,7 +95,7 @@
     {
       "theme": "Battery Life",
       "count": 5,
-      "pct_of_reviews": 1.7,
+      "pct_of_reviews": 1.6,
       "quotes": [
         "For some reason its hard to plug and unplugged a HDMI or the charging cord from its ports.",
         "The battery performance (which is supposedly AI managed) is mediocre at best.",

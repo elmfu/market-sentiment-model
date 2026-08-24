@@ -5,11 +5,11 @@
   "market": "US",
   "series": "FiveConvertible",
   "sku": "16611304092",
-  "reviews": 28,
-  "avg_rating": 4.61,
-  "satisfaction": 89.3,
+  "reviews": 31,
+  "avg_rating": 4.48,
+  "satisfaction": 87.1,
   "first_review": "2025-11-13",
-  "top_complaint": "Performance & Chip"
+  "top_complaint": "Display Quality"
  },
  {
   "product_key": "wm_16865170963",
@@ -17,10 +17,10 @@
   "market": "US",
   "series": "FiveConvertible",
   "sku": "16865170963",
-  "reviews": 25,
-  "avg_rating": 4.56,
-  "satisfaction": 88.0,
+  "reviews": 28,
+  "avg_rating": 4.43,
+  "satisfaction": 85.7,
   "first_review": "2025-11-29",
-  "top_complaint": "Performance & Chip"
+  "top_complaint": "Display Quality"
  }
 ]

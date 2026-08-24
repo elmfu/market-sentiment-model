@@ -1,12 +1,12 @@
 [
   {
-    "word": "fast",
-    "count": 25,
+    "word": "battery",
+    "count": 27,
     "sentiment": "positive"
   },
   {
-    "word": "battery",
-    "count": 25,
+    "word": "fast",
+    "count": 26,
     "sentiment": "positive"
   },
   {
@@ -15,8 +15,18 @@
     "sentiment": "positive"
   },
   {
+    "word": "performance",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
     "word": "best",
     "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 21,
     "sentiment": "positive"
   },
   {
@@ -25,23 +35,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "performance",
-    "count": 20,
-    "sentiment": "positive"
-  },
-  {
-    "word": "light",
-    "count": 20,
-    "sentiment": "positive"
-  },
-  {
     "word": "price",
-    "count": 19,
+    "count": 20,
     "sentiment": "positive"
   },
   {
     "word": "easy",
-    "count": 18,
+    "count": 19,
     "sentiment": "positive"
   },
   {
@@ -50,23 +50,28 @@
     "sentiment": "positive"
   },
   {
-    "word": "oled",
-    "count": 16,
+    "word": "work",
+    "count": 17,
     "sentiment": "positive"
   },
   {
-    "word": "work",
+    "word": "oled",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
     "count": 15,
     "sentiment": "positive"
   },
   {
     "word": "ultra",
-    "count": 14,
+    "count": 15,
     "sentiment": "positive"
   },
   {
     "word": "flip",
-    "count": 14,
+    "count": 15,
     "sentiment": "positive"
   },
   {
@@ -75,12 +80,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "excellent",
-    "count": 14,
+    "word": "overall",
+    "count": 13,
     "sentiment": "positive"
   },
   {
-    "word": "overall",
+    "word": "happy",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
     "count": 12,
     "sentiment": "positive"
   },
@@ -95,12 +105,22 @@
     "sentiment": "positive"
   },
   {
-    "word": "quality",
+    "word": "ever",
     "count": 11,
     "sentiment": "positive"
   },
   {
-    "word": "happy",
+    "word": "powerful",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
     "count": 11,
     "sentiment": "positive"
   },
@@ -108,6 +128,21 @@
     "word": "super",
     "count": 11,
     "sentiment": "positive"
+  },
+  {
+    "word": "memory",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 10,
+    "sentiment": "neutral"
   },
   {
     "word": "high",
@@ -120,48 +155,38 @@
     "sentiment": "positive"
   },
   {
-    "word": "recommend",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "powerful",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "windows",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ever",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
     "word": "laptops",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "without",
-    "count": 9,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "features",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "memory",
     "count": 9,
     "sentiment": "positive"
   },
   {
     "word": "small",
     "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "weight",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "enough",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 8,
     "sentiment": "positive"
   },
   {
@@ -210,7 +235,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "weight",
+    "word": "intel",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "core",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tablet",
     "count": 7,
     "sentiment": "positive"
   },
@@ -245,27 +280,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "build",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "enough",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
     "word": "easily",
     "count": 7,
     "sentiment": "positive"
   },
   {
     "word": "run",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "machine",
     "count": 7,
     "sentiment": "positive"
   },
@@ -277,26 +297,6 @@
   {
     "word": "back",
     "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "business",
-    "count": 6,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "ports",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "needed",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "hard",
-    "count": 6,
     "sentiment": "neutral"
   }
 ]

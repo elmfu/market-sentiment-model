@@ -2,48 +2,56 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 1,
-      "pct_of_reviews": 50.0,
+      "count": 4,
+      "pct_of_reviews": 66.7,
       "quotes": [
-        "Long time Lenovo user and thought I should give HP a try for this CPU generation."
+        "Long time Lenovo user and thought I should give HP a try for this CPU generation.",
+        "Performance was smooth for everyday use, though I had to upgrade from the 16GB to the 32GB model since 16GB struggled even with basic web browsing.",
+        "With a powerful built in iGPU, beautiful 3K OLED screen, great battery life, and very good portability I want for nothing more in a laptop."
       ]
     },
     {
       "theme": "Build & Keyboard",
-      "count": 1,
-      "pct_of_reviews": 50.0,
+      "count": 4,
+      "pct_of_reviews": 66.7,
       "quotes": [
-        "It has a premium feel and look, and it handles both my work and a heavy gaming load without breaking a sweat."
-      ]
-    },
-    {
-      "theme": "Price & Value",
-      "count": 1,
-      "pct_of_reviews": 50.0,
-      "quotes": [
-        "It also would have been much nicer if this laptop shipped with a 2TB SSD by default, given its performance and price bracket."
-      ]
-    },
-    {
-      "theme": "Software & Ecosystem",
-      "count": 1,
-      "pct_of_reviews": 50.0,
-      "quotes": [
-        "The biggest drawback is that HP effectively forces you to use their companion software to access performance profiles."
+        "It has a premium feel and look, and it handles both my work and a heavy gaming load without breaking a sweat.",
+        "The HP OmniBook Ultra 14 felt premium right out of the box, with a great build and an amazing display.",
+        "If you are looking for a sleek selection of ports to go along with this laptop, take a look at the Dell DA326 travel hub."
       ]
     },
     {
       "theme": "Battery Life",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
+      "count": 2,
+      "pct_of_reviews": 33.3,
+      "quotes": [
+        "Battery life held up well throughout the day.",
+        "With a powerful built in iGPU, beautiful 3K OLED screen, great battery life, and very good portability I want for nothing more in a laptop."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 2,
+      "pct_of_reviews": 33.3,
+      "quotes": [
+        "The HP OmniBook Ultra 14 felt premium right out of the box, with a great build and an amazing display.",
+        "With a powerful built in iGPU, beautiful 3K OLED screen, great battery life, and very good portability I want for nothing more in a laptop."
+      ]
+    },
+    {
+      "theme": "Ports & Connectivity",
+      "count": 2,
+      "pct_of_reviews": 33.3,
+      "quotes": [
+        "If you are looking for a sleek selection of ports to go along with this laptop, take a look at the Dell DA326 travel hub."
+      ]
     }
   ],
   "weaknesses": [
     {
       "theme": "Performance & Chip",
       "count": 1,
-      "pct_of_reviews": 50.0,
+      "pct_of_reviews": 16.7,
       "quotes": [
         "I recommend another maker if you want intel panther lake 388h."
       ]
@@ -51,7 +59,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 1,
-      "pct_of_reviews": 50.0,
+      "pct_of_reviews": 16.7,
       "quotes": []
     },
     {

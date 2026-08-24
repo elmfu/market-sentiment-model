@@ -2,7 +2,7 @@
  "competitors": [
   {
    "brand": "Apple/Mac",
-   "total_mentions": 12,
+   "total_mentions": 14,
    "reviews": [
     {
      "title": "The laptop you want to love - Powerful and likable",
@@ -26,7 +26,35 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "9 additional review(s) also mention Apple/Mac."
+   "summary_of_remaining": "11 additional review(s) also mention Apple/Mac."
+  },
+  {
+   "brand": "Dell",
+   "total_mentions": 5,
+   "reviews": [
+    {
+     "title": "Ultra Portable for workload of AI & still have fun",
+     "body": "Review of HP OmniBook\n\n\nThe latest laptop from HP for Ultra Mobile category out of box holding on hand feels  very compact and light, almost as could be as a tablet with keyboard.\n\nIn the box, it comes simply the notebook itself OmniBook Ultra, Charging Cable and Adapter.\n\nThen the usual and for lon",
+     "excerpt": "Now, on its weight, it weight appx 2.81lb, to give idea the Dell XPS with Serie 3 Intel Core 5 weight appx 2.2lb (1kg)., and approximately equivalent to 6 of iPhone 17 Pro.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "HP OmniBook Ultra 14 - Works Great for Me!!!!",
+     "body": "I bought this device to replace a Dell laptop that was beginning to have issues with managing Zoom meetings at the same time I had other applications open to support what was happening in the Zoom meeting.  The OmniBook solved that for me and the issues I was having before are not happening anymore.",
+     "excerpt": "I bought this device to replace a Dell laptop that was beginning to have issues with managing Zoom meetings at the same time I had other applications open to support what was happening in the Zoom mee",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Long-lasting Lightweight Champion",
+     "body": "Loving this laptop so far.  With a powerful built in iGPU, beautiful 3K OLED screen, great battery life, and very good portability I want for nothing more in a laptop.  This is able to play modern UE5 games with no problem, plugged in or on battery makes no difference in gaming performance.  If you ",
+     "excerpt": "If you are looking for a sleek selection of ports to go along with this laptop, take a look at the Dell DA326 travel hub.",
+     "rating": 5,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": "2 additional review(s) also mention Dell."
   },
   {
    "brand": "Lenovo",
@@ -83,34 +111,6 @@
     }
    ],
    "summary_of_remaining": "1 additional review(s) also mention Microsoft."
-  },
-  {
-   "brand": "Dell",
-   "total_mentions": 3,
-   "reviews": [
-    {
-     "title": "Ultra Portable for workload of AI & still have fun",
-     "body": "Review of HP OmniBook\n\n\nThe latest laptop from HP for Ultra Mobile category out of box holding on hand feels  very compact and light, almost as could be as a tablet with keyboard.\n\nIn the box, it comes simply the notebook itself OmniBook Ultra, Charging Cable and Adapter.\n\nThen the usual and for lon",
-     "excerpt": "Now, on its weight, it weight appx 2.81lb, to give idea the Dell XPS with Serie 3 Intel Core 5 weight appx 2.2lb (1kg)., and approximately equivalent to 6 of iPhone 17 Pro.",
-     "rating": 5,
-     "sentiment": "positive"
-    },
-    {
-     "title": "Great price from Best Buy, not fast computer!",
-     "body": "Best Buy did awesome -- amazing price and fast delivery! But the computer itself is not as fast as I was expecting. In fact, it's about the same speed as my old Dell with a Ryzen 5 in there (although thankfully no crazy loud fan).",
-     "excerpt": "In fact, it's about the same speed as my old Dell with a Ryzen 5 in there (although thankfully no crazy loud fan).",
-     "rating": 4,
-     "sentiment": "positive"
-    },
-    {
-     "title": "Well worth the price.",
-     "body": "I Love the speed, key size and touch, as well as lighter weight than my Dell Inspiron. .  Great buy.",
-     "excerpt": "I Love the speed, key size and touch, as well as lighter weight than my Dell Inspiron.",
-     "rating": 5,
-     "sentiment": "positive"
-    }
-   ],
-   "summary_of_remaining": ""
   },
   {
    "brand": "ASUS",

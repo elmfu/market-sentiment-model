@@ -1,3 +1,18 @@
 {
-  "competitors": []
+  "competitors": [
+    {
+      "brand": "Dell",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "HP OmniBook Ultra 14 - Works Great for Me!!!!",
+          "body": "I bought this device to replace a Dell laptop that was beginning to have issues with managing Zoom meetings at the same time I had other applications open to support what was happening in the Zoom meeting.  The OmniBook solved that for me and the issues I was having before are not happening anymore.",
+          "excerpt": "I bought this device to replace a Dell laptop that was beginning to have issues with managing Zoom meetings at the same time I had other applications open to support what was happening in the Zoom mee",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
 }

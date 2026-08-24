@@ -1,57 +1,92 @@
 [
  {
   "word": "battery",
-  "count": 93,
+  "count": 98,
   "sentiment": "positive"
  },
  {
   "word": "fast",
-  "count": 86,
+  "count": 92,
   "sentiment": "positive"
  },
  {
   "word": "life",
-  "count": 80,
+  "count": 85,
   "sentiment": "positive"
  },
  {
   "word": "screen",
-  "count": 77,
+  "count": 85,
   "sentiment": "positive"
  },
  {
   "word": "keyboard",
-  "count": 69,
+  "count": 71,
   "sentiment": "positive"
  },
  {
   "word": "work",
-  "count": 66,
+  "count": 69,
   "sentiment": "positive"
  },
  {
   "word": "performance",
-  "count": 65,
+  "count": 67,
   "sentiment": "positive"
  },
  {
   "word": "ultra",
+  "count": 66,
+  "sentiment": "positive"
+ },
+ {
+  "word": "usb",
   "count": 59,
   "sentiment": "positive"
  },
  {
   "word": "overall",
-  "count": 56,
+  "count": 58,
   "sentiment": "positive"
  },
  {
   "word": "display",
-  "count": 55,
+  "count": 57,
   "sentiment": "positive"
  },
  {
-  "word": "usb",
-  "count": 54,
+  "word": "light",
+  "count": 52,
+  "sentiment": "positive"
+ },
+ {
+  "word": "easy",
+  "count": 51,
+  "sentiment": "positive"
+ },
+ {
+  "word": "while",
+  "count": 50,
+  "sentiment": "positive"
+ },
+ {
+  "word": "quality",
+  "count": 50,
+  "sentiment": "positive"
+ },
+ {
+  "word": "price",
+  "count": 50,
+  "sentiment": "positive"
+ },
+ {
+  "word": "ports",
+  "count": 49,
+  "sentiment": "positive"
+ },
+ {
+  "word": "gaming",
+  "count": 49,
   "sentiment": "positive"
  },
  {
@@ -60,33 +95,18 @@
   "sentiment": "positive"
  },
  {
-  "word": "light",
-  "count": 48,
-  "sentiment": "positive"
- },
- {
-  "word": "price",
-  "count": 48,
-  "sentiment": "positive"
- },
- {
   "word": "excellent",
+  "count": 48,
+  "sentiment": "positive"
+ },
+ {
+  "word": "best",
   "count": 47,
   "sentiment": "positive"
  },
  {
-  "word": "while",
+  "word": "power",
   "count": 46,
-  "sentiment": "positive"
- },
- {
-  "word": "gaming",
-  "count": 46,
-  "sentiment": "positive"
- },
- {
-  "word": "quality",
-  "count": 45,
   "sentiment": "positive"
  },
  {
@@ -95,22 +115,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "easy",
-  "count": 45,
-  "sentiment": "positive"
- },
- {
-  "word": "ports",
-  "count": 44,
-  "sentiment": "positive"
- },
- {
-  "word": "best",
+  "word": "ram",
   "count": 42,
   "sentiment": "positive"
  },
  {
-  "word": "power",
+  "word": "machine",
   "count": 41,
   "sentiment": "positive"
  },
@@ -120,42 +130,52 @@
   "sentiment": "positive"
  },
  {
-  "word": "ram",
-  "count": 40,
-  "sentiment": "positive"
- },
- {
-  "word": "machine",
-  "count": 40,
-  "sentiment": "positive"
- },
- {
   "word": "solid",
-  "count": 39,
+  "count": 40,
   "sentiment": "positive"
  },
  {
   "word": "powerful",
-  "count": 38,
+  "count": 40,
+  "sentiment": "positive"
+ },
+ {
+  "word": "built",
+  "count": 40,
   "sentiment": "positive"
  },
  {
   "word": "copilot",
-  "count": 38,
-  "sentiment": "positive"
- },
- {
-  "word": "speed",
-  "count": 38,
+  "count": 40,
   "sentiment": "positive"
  },
  {
   "word": "windows",
-  "count": 36,
+  "count": 39,
+  "sentiment": "positive"
+ },
+ {
+  "word": "works",
+  "count": 39,
+  "sentiment": "positive"
+ },
+ {
+  "word": "speed",
+  "count": 39,
   "sentiment": "positive"
  },
  {
   "word": "tasks",
+  "count": 37,
+  "sentiment": "positive"
+ },
+ {
+  "word": "features",
+  "count": 36,
+  "sentiment": "positive"
+ },
+ {
+  "word": "port",
   "count": 36,
   "sentiment": "positive"
  },
@@ -170,12 +190,22 @@
   "sentiment": "positive"
  },
  {
-  "word": "built",
+  "word": "feels",
   "count": 36,
   "sentiment": "positive"
  },
  {
-  "word": "features",
+  "word": "feel",
+  "count": 36,
+  "sentiment": "positive"
+ },
+ {
+  "word": "portable",
+  "count": 36,
+  "sentiment": "positive"
+ },
+ {
+  "word": "touchscreen",
   "count": 35,
   "sentiment": "positive"
  },
@@ -185,118 +215,88 @@
   "sentiment": "positive"
  },
  {
-  "word": "feels",
+  "word": "amazing",
   "count": 35,
-  "sentiment": "positive"
- },
- {
-  "word": "feel",
-  "count": 35,
-  "sentiment": "positive"
- },
- {
-  "word": "works",
-  "count": 34,
-  "sentiment": "positive"
- },
- {
-  "word": "touchscreen",
-  "count": 34,
-  "sentiment": "positive"
- },
- {
-  "word": "port",
-  "count": 34,
   "sentiment": "positive"
  },
  {
   "word": "recommend",
-  "count": 32,
+  "count": 34,
   "sentiment": "positive"
  },
  {
-  "word": "sleek",
-  "count": 32,
+  "word": "oled",
+  "count": 34,
   "sentiment": "positive"
  },
  {
   "word": "graphics",
-  "count": 32,
+  "count": 34,
   "sentiment": "positive"
  },
  {
   "word": "ssd",
-  "count": 32,
+  "count": 34,
+  "sentiment": "positive"
+ },
+ {
+  "word": "sleek",
+  "count": 33,
   "sentiment": "positive"
  },
  {
   "word": "look",
-  "count": 32,
+  "count": 33,
   "sentiment": "positive"
  },
  {
-  "word": "portable",
+  "word": "around",
   "count": 32,
   "sentiment": "positive"
  },
  {
   "word": "storage",
-  "count": 31,
+  "count": 32,
   "sentiment": "positive"
  },
  {
-  "word": "amazing",
+  "word": "laptops",
+  "count": 32,
+  "sentiment": "positive"
+ },
+ {
+  "word": "responsive",
   "count": 31,
   "sentiment": "positive"
  },
  {
   "word": "hours",
-  "count": 30,
+  "count": 31,
   "sentiment": "positive"
  },
  {
   "word": "better",
-  "count": 30,
+  "count": 31,
   "sentiment": "positive"
  },
  {
-  "word": "resolution",
-  "count": 30,
-  "sentiment": "positive"
- },
- {
-  "word": "laptops",
-  "count": 30,
-  "sentiment": "positive"
- },
- {
-  "word": "responsive",
-  "count": 29,
-  "sentiment": "positive"
- },
- {
-  "word": "oled",
-  "count": 29,
-  "sentiment": "positive"
- },
- {
-  "word": "around",
-  "count": 29,
+  "word": "premium",
+  "count": 31,
   "sentiment": "positive"
  },
  {
   "word": "easily",
-  "count": 29,
+  "count": 31,
   "sentiment": "positive"
  },
  {
-  "word": "issues",
-  "count": 28,
+  "word": "lightweight",
+  "count": 30,
   "sentiment": "positive"
  },
  {
-  "word": "little",
-  "count": 28,
+  "word": "high",
+  "count": 30,
   "sentiment": "positive"
  }
 ]

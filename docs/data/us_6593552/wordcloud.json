@@ -1,17 +1,17 @@
 [
   {
     "word": "screen",
-    "count": 100,
+    "count": 101,
     "sentiment": "positive"
   },
   {
     "word": "battery",
-    "count": 77,
+    "count": 78,
     "sentiment": "positive"
   },
   {
     "word": "best",
-    "count": 65,
+    "count": 66,
     "sentiment": "positive"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "word": "fast",
-    "count": 60,
+    "count": 61,
     "sentiment": "positive"
   },
   {
@@ -31,22 +31,22 @@
   },
   {
     "word": "light",
-    "count": 56,
+    "count": 57,
     "sentiment": "positive"
   },
   {
     "word": "ultra",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
     "count": 55,
     "sentiment": "positive"
   },
   {
     "word": "quality",
     "count": 55,
-    "sentiment": "positive"
-  },
-  {
-    "word": "flip",
-    "count": 54,
     "sentiment": "positive"
   },
   {
@@ -75,17 +75,17 @@
     "sentiment": "positive"
   },
   {
+    "word": "touch",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
     "word": "display",
-    "count": 41,
+    "count": 42,
     "sentiment": "positive"
   },
   {
     "word": "amazing",
-    "count": 41,
-    "sentiment": "positive"
-  },
-  {
-    "word": "touch",
     "count": 41,
     "sentiment": "positive"
   },
@@ -215,6 +215,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "beautiful",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
     "word": "over",
     "count": 27,
     "sentiment": "positive"
@@ -230,22 +235,32 @@
     "sentiment": "positive"
   },
   {
+    "word": "experience",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
     "word": "looks",
     "count": 26,
     "sentiment": "positive"
   },
   {
-    "word": "beautiful",
-    "count": 26,
-    "sentiment": "positive"
-  },
-  {
-    "word": "experience",
+    "word": "premium",
     "count": 25,
     "sentiment": "positive"
   },
   {
-    "word": "premium",
+    "word": "features",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "right",
     "count": 24,
     "sentiment": "positive"
   },
@@ -275,27 +290,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "feels",
-    "count": 23,
-    "sentiment": "positive"
-  },
-  {
     "word": "sound",
     "count": 23,
     "sentiment": "positive"
   },
   {
-    "word": "features",
-    "count": 23,
-    "sentiment": "positive"
-  },
-  {
     "word": "speakers",
-    "count": 23,
-    "sentiment": "positive"
-  },
-  {
-    "word": "right",
     "count": 23,
     "sentiment": "positive"
   }

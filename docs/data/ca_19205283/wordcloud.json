@@ -1,12 +1,12 @@
 [
   {
     "word": "screen",
-    "count": 10,
+    "count": 12,
     "sentiment": "positive"
   },
   {
     "word": "keyboard",
-    "count": 7,
+    "count": 9,
     "sentiment": "positive"
   },
   {
@@ -20,12 +20,52 @@
     "sentiment": "positive"
   },
   {
+    "word": "fast",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
     "word": "price",
     "count": 4,
     "sentiment": "positive"
   },
   {
+    "word": "light",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
     "word": "battery",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "short",
+    "count": 4,
+    "sentiment": "negative"
+  },
+  {
+    "word": "quality",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "device",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
     "count": 4,
     "sentiment": "neutral"
   },
@@ -50,7 +90,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "light",
+    "word": "beautiful",
     "count": 3,
     "sentiment": "positive"
   },
@@ -60,9 +100,9 @@
     "sentiment": "positive"
   },
   {
-    "word": "short",
+    "word": "perfect",
     "count": 3,
-    "sentiment": "neutral"
+    "sentiment": "positive"
   },
   {
     "word": "next",
@@ -70,7 +110,17 @@
     "sentiment": "positive"
   },
   {
+    "word": "fixed",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
     "word": "design",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
     "count": 3,
     "sentiment": "positive"
   },
@@ -81,11 +131,6 @@
   },
   {
     "word": "inch",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "amazing",
     "count": 3,
     "sentiment": "positive"
   },
@@ -105,7 +150,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "machine",
+    "word": "hard",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "heavy",
     "count": 3,
     "sentiment": "positive"
   },
@@ -125,6 +175,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "support",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
     "word": "expected",
     "count": 2,
     "sentiment": "positive"
@@ -135,12 +190,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "fast",
+    "word": "convertible",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "convertible",
+    "word": "keys",
     "count": 2,
     "sentiment": "positive"
   },
@@ -160,12 +215,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "beautiful",
+    "word": "started",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "perfect",
+    "word": "lasts",
     "count": 2,
     "sentiment": "positive"
   },
@@ -181,6 +236,11 @@
   },
   {
     "word": "down",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "annoying",
     "count": 2,
     "sentiment": "positive"
   },
@@ -220,22 +280,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "fixed",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "build",
+    "word": "highly",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "quality",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "device",
+    "word": "ago",
     "count": 2,
     "sentiment": "positive"
   },
@@ -248,55 +298,5 @@
     "word": "comes",
     "count": 2,
     "sentiment": "positive"
-  },
-  {
-    "word": "see",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "book",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "noticed",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "graphics",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "never",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "typing",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "however",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "software",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "excellent",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "hard",
-    "count": 2,
-    "sentiment": "neutral"
   }
 ]

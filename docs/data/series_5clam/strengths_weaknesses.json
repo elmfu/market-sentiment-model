@@ -1,19 +1,9 @@
 {
  "strengths": [
   {
-   "theme": "Build & Keyboard",
-   "count": 198,
-   "pct_of_reviews": 29.5,
-   "quotes": [
-    "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
-    "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
-    "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect."
-   ]
-  },
-  {
    "theme": "Performance & Chip",
-   "count": 195,
-   "pct_of_reviews": 29.1,
+   "count": 207,
+   "pct_of_reviews": 29.6,
    "quotes": [
     "Laptop is very fast and the best for multi tasking.",
     "Laptop is very fast and the best for multi tasking.",
@@ -21,9 +11,19 @@
    ]
   },
   {
+   "theme": "Build & Keyboard",
+   "count": 200,
+   "pct_of_reviews": 28.6,
+   "quotes": [
+    "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
+    "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
+    "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect."
+   ]
+  },
+  {
    "theme": "Display Quality",
-   "count": 155,
-   "pct_of_reviews": 23.1,
+   "count": 156,
+   "pct_of_reviews": 22.3,
    "quotes": [
     "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
     "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Price & Value",
-   "count": 127,
-   "pct_of_reviews": 18.9,
+   "count": 130,
+   "pct_of_reviews": 18.6,
    "quotes": [
     "$20 upgrade for blue case was so worth it.",
     "$20 upgrade for blue case was so worth it.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Battery Life",
-   "count": 107,
-   "pct_of_reviews": 15.9,
+   "count": 112,
+   "pct_of_reviews": 16.0,
    "quotes": [
     "I would say this laptop has the best battery power in the industry.",
     "I would say this laptop has the best battery power in the industry.",
@@ -54,8 +54,8 @@
  "weaknesses": [
   {
    "theme": "Software & Ecosystem",
-   "count": 23,
-   "pct_of_reviews": 3.4,
+   "count": 25,
+   "pct_of_reviews": 3.6,
    "quotes": [
     "very slow when opening apps and navigating around.",
     "very slow when opening apps and navigating around.",
@@ -65,7 +65,7 @@
   {
    "theme": "Price & Value",
    "count": 16,
-   "pct_of_reviews": 2.4,
+   "pct_of_reviews": 2.3,
    "quotes": [
     "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop.",
     "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop.",
@@ -73,8 +73,18 @@
    ]
   },
   {
+   "theme": "Performance & Chip",
+   "count": 15,
+   "pct_of_reviews": 2.1,
+   "quotes": [
+    "very slow when opening apps and navigating around.",
+    "very slow when opening apps and navigating around.",
+    "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
+   ]
+  },
+  {
    "theme": "Display Quality",
-   "count": 14,
+   "count": 15,
    "pct_of_reviews": 2.1,
    "quotes": [
     "Product review -\nHas a touch screen - I didn't know that.",
@@ -83,22 +93,12 @@
    ]
   },
   {
-   "theme": "Performance & Chip",
-   "count": 13,
-   "pct_of_reviews": 1.9,
-   "quotes": [
-    "very slow when opening apps and navigating around.",
-    "very slow when opening apps and navigating around.",
-    "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
-   ]
-  },
-  {
    "theme": "Build & Keyboard",
-   "count": 12,
-   "pct_of_reviews": 1.8,
+   "count": 14,
+   "pct_of_reviews": 2.0,
    "quotes": [
     "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
-    "Keyboard light does not illuminate the character on the key.",
+    "power light on but screen black & no light on keyboard",
     "Keyboard light does not illuminate the character on the key."
    ]
   }

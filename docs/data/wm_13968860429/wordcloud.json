@@ -1,11 +1,11 @@
 [
   {
-    "word": "price",
-    "count": 52,
+    "word": "easy",
+    "count": 53,
     "sentiment": "positive"
   },
   {
-    "word": "easy",
+    "word": "price",
     "count": 52,
     "sentiment": "positive"
   },
@@ -16,7 +16,7 @@
   },
   {
     "word": "fast",
-    "count": 43,
+    "count": 44,
     "sentiment": "positive"
   },
   {
@@ -40,13 +40,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "works",
+    "word": "setup",
     "count": 23,
     "sentiment": "positive"
   },
   {
-    "word": "setup",
-    "count": 22,
+    "word": "works",
+    "count": 23,
     "sentiment": "positive"
   },
   {
@@ -80,13 +80,18 @@
     "sentiment": "positive"
   },
   {
+    "word": "machine",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
     "word": "back",
     "count": 17,
     "sentiment": "neutral"
   },
   {
-    "word": "machine",
-    "count": 16,
+    "word": "speed",
+    "count": 15,
     "sentiment": "positive"
   },
   {
@@ -110,6 +115,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "performance",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
     "word": "full",
     "count": 14,
     "sentiment": "positive"
@@ -125,22 +135,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "speed",
-    "count": 14,
-    "sentiment": "positive"
-  },
-  {
     "word": "perfect",
     "count": 14,
     "sentiment": "positive"
   },
   {
-    "word": "clear",
+    "word": "value",
     "count": 13,
     "sentiment": "positive"
   },
   {
-    "word": "performance",
+    "word": "clear",
     "count": 13,
     "sentiment": "positive"
   },
@@ -157,6 +162,16 @@
   {
     "word": "display",
     "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quick",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 12,
     "sentiment": "positive"
   },
   {
@@ -185,11 +200,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "value",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
     "word": "needed",
     "count": 12,
     "sentiment": "positive"
@@ -198,11 +208,6 @@
     "word": "walmart",
     "count": 12,
     "sentiment": "negative"
-  },
-  {
-    "word": "over",
-    "count": 11,
-    "sentiment": "positive"
   },
   {
     "word": "features",
@@ -230,11 +235,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "quick",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
     "word": "recommend",
     "count": 11,
     "sentiment": "positive"
@@ -242,6 +242,11 @@
   {
     "word": "working",
     "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 10,
     "sentiment": "positive"
   },
   {
@@ -293,10 +298,5 @@
     "word": "down",
     "count": 10,
     "sentiment": "neutral"
-  },
-  {
-    "word": "look",
-    "count": 10,
-    "sentiment": "positive"
   }
 ]

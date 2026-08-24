@@ -1,5 +1,22 @@
 [
   {
+    "review_id": "073d5cd0-fd70-33b0-882c-9d98a05e5aaa",
+    "product_key": "us_6614110",
+    "market": "US",
+    "sku": "6614110",
+    "submitted_at": "2026-08-14T14:50:02.000-05:00",
+    "rating": 5,
+    "title": "HP-OmniBook X Laptop",
+    "body": "Great HP laptop! Little heavy though for walking around the campus with it in my back pack. Laptop works well and is fast. Got 2TB storage. So, I am all set.",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP OmniBook X Copilot+ PC 17.3\" FHD Touch, Glacier Silver",
+    "topics": "Performance & Chip",
+    "competitors": ""
+  },
+  {
     "review_id": "8439d820-f6fd-3e53-9955-479a64e31406",
     "product_key": "us_6614110",
     "market": "US",

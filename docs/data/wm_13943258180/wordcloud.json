@@ -5,8 +5,18 @@
     "sentiment": "positive"
   },
   {
+    "word": "happy",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
     "word": "life",
     "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 4,
     "sentiment": "positive"
   },
   {
@@ -25,14 +35,29 @@
     "sentiment": "positive"
   },
   {
-    "word": "happy",
+    "word": "product",
     "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "product",
-    "count": 4,
+    "word": "excellent",
+    "count": 3,
     "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hours",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "work",
+    "count": 3,
+    "sentiment": "neutral"
   },
   {
     "word": "easy",
@@ -55,9 +80,19 @@
     "sentiment": "positive"
   },
   {
-    "word": "excellent",
+    "word": "usb",
     "count": 2,
     "sentiment": "positive"
+  },
+  {
+    "word": "i've",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "another",
+    "count": 2,
+    "sentiment": "neutral"
   },
   {
     "word": "looks",
@@ -135,17 +170,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "laptops",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
     "word": "built",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "work",
     "count": 2,
     "sentiment": "positive"
   },
@@ -190,17 +215,7 @@
     "sentiment": "neutral"
   },
   {
-    "word": "works",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
     "word": "light",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "hours",
     "count": 2,
     "sentiment": "positive"
   },
@@ -250,53 +265,38 @@
     "sentiment": "positive"
   },
   {
-    "word": "amazing",
+    "word": "designs",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "size",
+    "word": "wish",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "i've",
+    "word": "hookup",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "now",
+    "word": "never",
     "count": 1,
-    "sentiment": "positive"
+    "sentiment": "negative"
   },
   {
-    "word": "couldn't",
+    "word": "worked",
     "count": 1,
-    "sentiment": "positive"
+    "sentiment": "negative"
   },
   {
-    "word": "happier",
+    "word": "properly",
     "count": 1,
-    "sentiment": "positive"
+    "sentiment": "negative"
   },
   {
-    "word": "exceeded",
+    "word": "spent",
     "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "expectations",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "responsive",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "whether",
-    "count": 1,
-    "sentiment": "positive"
+    "sentiment": "negative"
   }
 ]

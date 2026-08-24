@@ -2,7 +2,7 @@
   "competitors": [
     {
       "brand": "Apple/Mac",
-      "total_mentions": 6,
+      "total_mentions": 7,
       "reviews": [
         {
           "title": "Not Just a 2-in-1",
@@ -26,7 +26,7 @@
           "sentiment": "negative"
         }
       ],
-      "summary_of_remaining": "3 additional review(s) also mention Apple/Mac."
+      "summary_of_remaining": "4 additional review(s) also mention Apple/Mac."
     },
     {
       "brand": "Lenovo",

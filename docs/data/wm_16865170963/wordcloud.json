@@ -1,17 +1,22 @@
 [
   {
+    "word": "screen",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
     "word": "flip",
     "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "screen",
-    "count": 8,
+    "word": "easy",
+    "count": 7,
     "sentiment": "positive"
   },
   {
-    "word": "easy",
-    "count": 7,
+    "word": "battery",
+    "count": 6,
     "sentiment": "positive"
   },
   {
@@ -25,18 +30,33 @@
     "sentiment": "positive"
   },
   {
-    "word": "fast",
+    "word": "quality",
     "count": 5,
     "sentiment": "positive"
   },
   {
-    "word": "battery",
+    "word": "fast",
     "count": 5,
     "sentiment": "positive"
   },
   {
     "word": "work",
     "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 4,
     "sentiment": "positive"
   },
   {
@@ -56,11 +76,6 @@
   },
   {
     "word": "video",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quality",
     "count": 4,
     "sentiment": "positive"
   },
@@ -85,12 +100,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "responsive",
+    "word": "memory",
     "count": 3,
     "sentiment": "positive"
   },
   {
-    "word": "processor",
+    "word": "light",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
+    "word": "responsive",
     "count": 3,
     "sentiment": "positive"
   },
@@ -118,11 +138,6 @@
     "word": "multitasking",
     "count": 3,
     "sentiment": "neutral"
-  },
-  {
-    "word": "keyboard",
-    "count": 3,
-    "sentiment": "positive"
   },
   {
     "word": "now",
@@ -187,6 +202,26 @@
   {
     "word": "sound",
     "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "under",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "black",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "previous",
+    "count": 2,
     "sentiment": "positive"
   },
   {
@@ -263,40 +298,5 @@
     "word": "internet",
     "count": 2,
     "sentiment": "positive"
-  },
-  {
-    "word": "audio",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "connectivity",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "solid",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "definitely",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "typical",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "home",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "high",
-    "count": 2,
-    "sentiment": "neutral"
   }
 ]

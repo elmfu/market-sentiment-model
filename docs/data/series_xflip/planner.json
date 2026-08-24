@@ -1,174 +1,174 @@
 {
- "reviews_total": 6091,
+ "reviews_total": 6249,
  "topics": [
   {
    "topic": "performance",
    "label": "Performance & Chip",
-   "mentions": 2001,
+   "mentions": 2062,
    "attention_share": 23.1,
    "negative_rate": 1.7,
-   "positive": 1923,
-   "negative": 34,
+   "positive": 1982,
+   "negative": 35,
    "priority_score": 0.39
   },
   {
    "topic": "display",
    "label": "Display Quality",
-   "mentions": 1719,
+   "mentions": 1767,
    "attention_share": 19.8,
    "negative_rate": 2.8,
-   "positive": 1630,
-   "negative": 48,
+   "positive": 1676,
+   "negative": 49,
    "priority_score": 0.55
   },
   {
    "topic": "build_quality",
    "label": "Build & Keyboard",
-   "mentions": 1502,
+   "mentions": 1546,
    "attention_share": 17.3,
-   "negative_rate": 2.3,
-   "positive": 1404,
-   "negative": 35,
-   "priority_score": 0.4
+   "negative_rate": 2.4,
+   "positive": 1446,
+   "negative": 37,
+   "priority_score": 0.41
   },
   {
    "topic": "price_value",
    "label": "Price & Value",
-   "mentions": 1354,
-   "attention_share": 15.6,
-   "negative_rate": 2.9,
-   "positive": 1286,
+   "mentions": 1383,
+   "attention_share": 15.5,
+   "negative_rate": 2.8,
+   "positive": 1315,
    "negative": 39,
-   "priority_score": 0.45
+   "priority_score": 0.44
   },
   {
    "topic": "battery",
    "label": "Battery Life",
-   "mentions": 798,
-   "attention_share": 9.2,
+   "mentions": 835,
+   "attention_share": 9.4,
    "negative_rate": 3.4,
-   "positive": 752,
-   "negative": 27,
+   "positive": 787,
+   "negative": 28,
    "priority_score": 0.31
   },
   {
    "topic": "software_ecosystem",
    "label": "Software & Ecosystem",
-   "mentions": 709,
+   "mentions": 728,
    "attention_share": 8.2,
    "negative_rate": 6.2,
-   "positive": 640,
-   "negative": 44,
-   "priority_score": 0.51
+   "positive": 658,
+   "negative": 45,
+   "priority_score": 0.5
   },
   {
    "topic": "repairability",
    "label": "Repairability",
-   "mentions": 203,
+   "mentions": 208,
    "attention_share": 2.3,
-   "negative_rate": 9.4,
-   "positive": 175,
+   "negative_rate": 9.1,
+   "positive": 180,
    "negative": 19,
-   "priority_score": 0.22
+   "priority_score": 0.21
   },
   {
    "topic": "thermals",
    "label": "Thermals & Cooling",
-   "mentions": 191,
+   "mentions": 196,
    "attention_share": 2.2,
-   "negative_rate": 5.2,
-   "positive": 166,
-   "negative": 10,
+   "negative_rate": 5.6,
+   "positive": 170,
+   "negative": 11,
    "priority_score": 0.12
   },
   {
    "topic": "ports",
    "label": "Ports & Connectivity",
-   "mentions": 188,
+   "mentions": 196,
    "attention_share": 2.2,
-   "negative_rate": 6.9,
-   "positive": 166,
-   "negative": 13,
-   "priority_score": 0.15
+   "negative_rate": 7.1,
+   "positive": 173,
+   "negative": 14,
+   "priority_score": 0.16
   }
  ],
  "iteration_priorities": [
   {
    "topic": "display",
    "label": "Display Quality",
-   "mentions": 1719,
+   "mentions": 1767,
    "attention_share": 19.8,
    "negative_rate": 2.8,
-   "positive": 1630,
-   "negative": 48,
+   "positive": 1676,
+   "negative": 49,
    "priority_score": 0.55
   },
   {
    "topic": "software_ecosystem",
    "label": "Software & Ecosystem",
-   "mentions": 709,
+   "mentions": 728,
    "attention_share": 8.2,
    "negative_rate": 6.2,
-   "positive": 640,
-   "negative": 44,
-   "priority_score": 0.51
+   "positive": 658,
+   "negative": 45,
+   "priority_score": 0.5
   },
   {
    "topic": "price_value",
    "label": "Price & Value",
-   "mentions": 1354,
-   "attention_share": 15.6,
-   "negative_rate": 2.9,
-   "positive": 1286,
+   "mentions": 1383,
+   "attention_share": 15.5,
+   "negative_rate": 2.8,
+   "positive": 1315,
    "negative": 39,
-   "priority_score": 0.45
+   "priority_score": 0.44
   },
   {
    "topic": "build_quality",
    "label": "Build & Keyboard",
-   "mentions": 1502,
+   "mentions": 1546,
    "attention_share": 17.3,
-   "negative_rate": 2.3,
-   "positive": 1404,
-   "negative": 35,
-   "priority_score": 0.4
+   "negative_rate": 2.4,
+   "positive": 1446,
+   "negative": 37,
+   "priority_score": 0.41
   },
   {
    "topic": "performance",
    "label": "Performance & Chip",
-   "mentions": 2001,
+   "mentions": 2062,
    "attention_share": 23.1,
    "negative_rate": 1.7,
-   "positive": 1923,
-   "negative": 34,
+   "positive": 1982,
+   "negative": 35,
    "priority_score": 0.39
   }
  ],
  "biggest_strength": {
   "topic": "performance",
   "label": "Performance & Chip",
-  "mentions": 2001,
+  "mentions": 2062,
   "attention_share": 23.1,
   "negative_rate": 1.7,
-  "positive": 1923,
-  "negative": 34,
+  "positive": 1982,
+  "negative": 35,
   "priority_score": 0.39
  },
  "cohorts": [
   {
    "cohort": "2025",
    "products": 6,
-   "reviews": 5983,
+   "reviews": 6135,
    "avg_rating": 4.72,
    "neg_rate": 2.7,
    "top_complaints": [
     {
      "label": "Display Quality",
-     "count": 43
+     "count": 44
     },
     {
      "label": "Software & Ecosystem",
-     "count": 38
+     "count": 39
     },
     {
      "label": "Price & Value",
@@ -178,11 +178,11 @@
    "top_praise": [
     {
      "label": "Performance & Chip",
-     "count": 1903
+     "count": 1960
     },
     {
      "label": "Display Quality",
-     "count": 1610
+     "count": 1654
     }
    ]
   }
@@ -255,15 +255,15 @@
   },
   {
    "quarter": "2026-Q3",
-   "reviews": 17,
-   "avg_rating": 4.35,
-   "neg_rate": 11.8,
+   "reviews": 169,
+   "avg_rating": 4.68,
+   "neg_rate": 4.1,
    "topic_neg_rate": {
-    "performance": null,
-    "display": null,
-    "build_quality": null,
-    "price_value": null,
-    "battery": null
+    "performance": 1.6,
+    "display": 6.1,
+    "build_quality": 4.5,
+    "price_value": 0.0,
+    "battery": 2.9
    }
   }
  ],

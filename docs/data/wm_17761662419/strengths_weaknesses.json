@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 21,
-      "pct_of_reviews": 44.7,
+      "count": 22,
+      "pct_of_reviews": 44.0,
       "quotes": [
         "Laptop is very fast and the best for multi tasking.",
         "Touch pad is very spacious, and also is responsive.",
@@ -13,7 +13,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 21,
-      "pct_of_reviews": 44.7,
+      "pct_of_reviews": 42.0,
       "quotes": [
         "Keyboard has a good feel, and 2 level backlight.",
         "I was disappointed by the keyboard not having a number pad and not having a back light.",
@@ -23,7 +23,7 @@
     {
       "theme": "Battery Life",
       "count": 18,
-      "pct_of_reviews": 38.3,
+      "pct_of_reviews": 36.0,
       "quotes": [
         "I would say this laptop has the best battery power in the industry.",
         "The only minor issue is it shows the battery as percentage and not in hours.",
@@ -33,7 +33,7 @@
     {
       "theme": "Display Quality",
       "count": 17,
-      "pct_of_reviews": 36.2,
+      "pct_of_reviews": 34.0,
       "quotes": [
         "The screen is a brilliant OLED, so colors really pop - great for streaming.",
         "In terms of screen size, as I don't intend on carrying around I opted for the larger screen.",
@@ -43,7 +43,7 @@
     {
       "theme": "Price & Value",
       "count": 8,
-      "pct_of_reviews": 17.0,
+      "pct_of_reviews": 16.0,
       "quotes": [
         "At full price it is a little pricey but still a good buy, and if you catch it on sale, it is a steal.....",
         "Last, but not least, the battery - I've not used it a great deal without the charger being plugged in, but so far it appears to hold a good charge.",
@@ -55,7 +55,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 2,
-      "pct_of_reviews": 4.3,
+      "pct_of_reviews": 4.0,
       "quotes": [
         "Keyboard light does not illuminate the character on the key.",
         "text size issue\r\nadjust cleartype text\r\ntouchpad"
@@ -64,7 +64,7 @@
     {
       "theme": "Display Quality",
       "count": 1,
-      "pct_of_reviews": 2.1,
+      "pct_of_reviews": 2.0,
       "quotes": [
         "i've used hp computers for 20  years and never had any problems but this one after 3-4 times using it the screen goes black when you sign in."
       ]
@@ -72,7 +72,7 @@
     {
       "theme": "Ports & Connectivity",
       "count": 1,
-      "pct_of_reviews": 2.1,
+      "pct_of_reviews": 2.0,
       "quotes": [
         "For the right person this may be a good computer- however no HDMI, did not work with most of my other needed work hardware."
       ]
@@ -80,13 +80,13 @@
     {
       "theme": "Price & Value",
       "count": 1,
-      "pct_of_reviews": 2.1,
+      "pct_of_reviews": 2.0,
       "quotes": []
     },
     {
       "theme": "Software & Ecosystem",
       "count": 1,
-      "pct_of_reviews": 2.1,
+      "pct_of_reviews": 2.0,
       "quotes": [
         "There is software issues and the complaint is made."
       ]

@@ -45,6 +45,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "best",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
     "word": "perfect",
     "count": 10,
     "sentiment": "positive"
@@ -58,11 +63,6 @@
     "word": "overall",
     "count": 9,
     "sentiment": "positive"
-  },
-  {
-    "word": "best",
-    "count": 9,
-    "sentiment": "neutral"
   },
   {
     "word": "speed",
@@ -87,6 +87,16 @@
   {
     "word": "port",
     "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 7,
     "sentiment": "positive"
   },
   {
@@ -145,11 +155,6 @@
     "sentiment": "neutral"
   },
   {
-    "word": "feels",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
     "word": "long",
     "count": 6,
     "sentiment": "positive"
@@ -176,11 +181,6 @@
   },
   {
     "word": "ssd",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "works",
     "count": 6,
     "sentiment": "positive"
   },
@@ -280,6 +280,11 @@
     "sentiment": "negative"
   },
   {
+    "word": "see",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
     "word": "experience",
     "count": 4,
     "sentiment": "positive"
@@ -293,10 +298,5 @@
     "word": "impressed",
     "count": 4,
     "sentiment": "positive"
-  },
-  {
-    "word": "same",
-    "count": 4,
-    "sentiment": "neutral"
   }
 ]

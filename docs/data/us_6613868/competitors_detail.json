@@ -30,7 +30,7 @@
     },
     {
       "brand": "Dell",
-      "total_mentions": 7,
+      "total_mentions": 8,
       "reviews": [
         {
           "title": "Solid budget laptop",
@@ -54,11 +54,11 @@
           "sentiment": "negative"
         }
       ],
-      "summary_of_remaining": "4 additional review(s) also mention Dell."
+      "summary_of_remaining": "5 additional review(s) also mention Dell."
     },
     {
       "brand": "Lenovo",
-      "total_mentions": 3,
+      "total_mentions": 4,
       "reviews": [
         {
           "title": "Solid budget laptop",
@@ -75,14 +75,14 @@
           "sentiment": "negative"
         },
         {
-          "title": "Okay but had screen issues",
-          "body": "Ordered this laptop online.  Received and set up and realized the upper edge of the screen looked like it was separated from the bezel. In the littlw times that I tried using it,  seemed a little slow to respond and i d didn't like the keyboard setup. Returned to the nearest Best Buy store and repla",
-          "excerpt": "Returned to the nearest Best Buy store and replaced it with a Lenovo Yoga, which I like better.",
-          "rating": 3,
-          "sentiment": "neutral"
+          "title": "Better than Expected HP OmniBook X Flip 2in1",
+          "body": "I wanted light, flip, enough memory and device slots and a much better Battery than my Microsoft Surface.  The Geek Squad Team at the Best Buy Quivira and 95th helped me spec it out and also an HP Rep happened to be there that day to give me more information and help me determine between the Lenovo ",
+          "excerpt": "The Geek Squad Team at the Best Buy Quivira and 95th helped me spec it out and also an HP Rep happened to be there that day to give me more information and help me determine between the Lenovo and HP:",
+          "rating": 5,
+          "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": ""
+      "summary_of_remaining": "1 additional review(s) also mention Lenovo."
     },
     {
       "brand": "Microsoft",

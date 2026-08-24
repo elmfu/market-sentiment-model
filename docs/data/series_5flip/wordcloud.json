@@ -1,12 +1,12 @@
 [
  {
-  "word": "flip",
+  "word": "screen",
   "count": 18,
   "sentiment": "positive"
  },
  {
-  "word": "screen",
-  "count": 16,
+  "word": "flip",
+  "count": 18,
   "sentiment": "positive"
  },
  {
@@ -20,8 +20,18 @@
   "sentiment": "positive"
  },
  {
+  "word": "battery",
+  "count": 12,
+  "sentiment": "positive"
+ },
+ {
   "word": "touchscreen",
   "count": 12,
+  "sentiment": "positive"
+ },
+ {
+  "word": "quality",
+  "count": 10,
   "sentiment": "positive"
  },
  {
@@ -30,13 +40,23 @@
   "sentiment": "positive"
  },
  {
-  "word": "battery",
+  "word": "work",
   "count": 10,
   "sentiment": "positive"
  },
  {
-  "word": "work",
-  "count": 10,
+  "word": "keyboard",
+  "count": 9,
+  "sentiment": "positive"
+ },
+ {
+  "word": "processor",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "perfect",
+  "count": 8,
   "sentiment": "positive"
  },
  {
@@ -60,11 +80,6 @@
   "sentiment": "positive"
  },
  {
-  "word": "quality",
-  "count": 8,
-  "sentiment": "positive"
- },
- {
   "word": "expected",
   "count": 8,
   "sentiment": "positive"
@@ -72,11 +87,6 @@
  {
   "word": "life",
   "count": 8,
-  "sentiment": "positive"
- },
- {
-  "word": "keyboard",
-  "count": 7,
   "sentiment": "positive"
  },
  {
@@ -95,12 +105,17 @@
   "sentiment": "positive"
  },
  {
-  "word": "responsive",
+  "word": "memory",
   "count": 6,
   "sentiment": "positive"
  },
  {
-  "word": "processor",
+  "word": "light",
+  "count": 6,
+  "sentiment": "negative"
+ },
+ {
+  "word": "responsive",
   "count": 6,
   "sentiment": "positive"
  },
@@ -210,6 +225,26 @@
   "sentiment": "positive"
  },
  {
+  "word": "design",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
+  "word": "under",
+  "count": 4,
+  "sentiment": "neutral"
+ },
+ {
+  "word": "black",
+  "count": 4,
+  "sentiment": "neutral"
+ },
+ {
+  "word": "previous",
+  "count": 4,
+  "sentiment": "positive"
+ },
+ {
   "word": "versatile",
   "count": 4,
   "sentiment": "positive"
@@ -261,41 +296,6 @@
  },
  {
   "word": "style",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "mode",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "touch",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "run",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "internet",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "audio",
-  "count": 4,
-  "sentiment": "neutral"
- },
- {
-  "word": "connectivity",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "solid",
   "count": 4,
   "sentiment": "positive"
  }

@@ -2,13 +2,13 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 141,
-    "positive": 132,
+    "total": 142,
+    "positive": 133,
     "neutral": 5,
     "negative": 4,
-    "positive_pct": 93.6,
+    "positive_pct": 93.7,
     "negative_pct": 2.8,
-    "net_score": 90.8
+    "net_score": 90.9
   },
   {
     "topic": "build_quality",
@@ -24,24 +24,24 @@
   {
     "topic": "display",
     "label": "Display Quality",
-    "total": 131,
-    "positive": 123,
+    "total": 133,
+    "positive": 125,
     "neutral": 4,
     "negative": 4,
-    "positive_pct": 93.9,
-    "negative_pct": 3.1,
-    "net_score": 90.8
+    "positive_pct": 94.0,
+    "negative_pct": 3.0,
+    "net_score": 91.0
   },
   {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 81,
-    "positive": 75,
+    "total": 82,
+    "positive": 76,
     "neutral": 5,
     "negative": 1,
-    "positive_pct": 92.6,
+    "positive_pct": 92.7,
     "negative_pct": 1.2,
-    "net_score": 91.4
+    "net_score": 91.5
   },
   {
     "topic": "software_ecosystem",
@@ -57,13 +57,13 @@
   {
     "topic": "price_value",
     "label": "Price & Value",
-    "total": 69,
-    "positive": 62,
+    "total": 70,
+    "positive": 63,
     "neutral": 4,
     "negative": 3,
-    "positive_pct": 89.9,
+    "positive_pct": 90.0,
     "negative_pct": 4.3,
-    "net_score": 85.6
+    "net_score": 85.7
   },
   {
     "topic": "ports",
@@ -79,23 +79,23 @@
   {
     "topic": "thermals",
     "label": "Thermals & Cooling",
-    "total": 30,
-    "positive": 29,
+    "total": 31,
+    "positive": 30,
     "neutral": 1,
     "negative": 0,
-    "positive_pct": 96.7,
+    "positive_pct": 96.8,
     "negative_pct": 0.0,
-    "net_score": 96.7
+    "net_score": 96.8
   },
   {
     "topic": "repairability",
     "label": "Repairability",
-    "total": 14,
-    "positive": 11,
+    "total": 15,
+    "positive": 12,
     "neutral": 2,
     "negative": 1,
-    "positive_pct": 78.6,
-    "negative_pct": 7.1,
-    "net_score": 71.5
+    "positive_pct": 80.0,
+    "negative_pct": 6.7,
+    "net_score": 73.3
   }
 ]

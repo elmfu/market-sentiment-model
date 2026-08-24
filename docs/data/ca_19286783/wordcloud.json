@@ -1,12 +1,12 @@
 [
   {
     "word": "screen",
-    "count": 10,
+    "count": 11,
     "sentiment": "positive"
   },
   {
     "word": "flip",
-    "count": 9,
+    "count": 10,
     "sentiment": "positive"
   },
   {
@@ -40,7 +40,22 @@
     "sentiment": "negative"
   },
   {
+    "word": "touch",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
     "word": "work",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
     "count": 5,
     "sentiment": "positive"
   },
@@ -51,6 +66,11 @@
   },
   {
     "word": "size",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pad",
     "count": 4,
     "sentiment": "positive"
   },
@@ -70,12 +90,12 @@
     "sentiment": "negative"
   },
   {
-    "word": "touch",
+    "word": "battery",
     "count": 4,
-    "sentiment": "positive"
+    "sentiment": "negative"
   },
   {
-    "word": "long",
+    "word": "over",
     "count": 4,
     "sentiment": "positive"
   },
@@ -95,22 +115,12 @@
     "sentiment": "neutral"
   },
   {
-    "word": "windows",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
     "word": "excellent",
     "count": 3,
     "sentiment": "positive"
   },
   {
     "word": "easy",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "pad",
     "count": 3,
     "sentiment": "positive"
   },
@@ -140,9 +150,9 @@
     "sentiment": "negative"
   },
   {
-    "word": "battery",
+    "word": "since",
     "count": 3,
-    "sentiment": "negative"
+    "sentiment": "neutral"
   },
   {
     "word": "times",
@@ -155,14 +165,14 @@
     "sentiment": "positive"
   },
   {
+    "word": "keep",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
     "word": "enough",
     "count": 3,
     "sentiment": "positive"
-  },
-  {
-    "word": "over",
-    "count": 3,
-    "sentiment": "neutral"
   },
   {
     "word": "build",
@@ -195,6 +205,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "open",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
     "word": "design",
     "count": 3,
     "sentiment": "neutral"
@@ -212,6 +227,16 @@
   {
     "word": "i've",
     "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pen",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "replace",
+    "count": 2,
     "sentiment": "positive"
   },
   {
@@ -270,32 +295,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "feature",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quite",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "usually",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "disappointed",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "impressed",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "speed",
+    "word": "ability",
     "count": 2,
     "sentiment": "positive"
   }

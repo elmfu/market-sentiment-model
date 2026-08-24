@@ -100,7 +100,11 @@
   "avg_rating": 4.57
  },
  "2026-07": {
-  "count": 30,
-  "avg_rating": 4.27
+  "count": 150,
+  "avg_rating": 4.44
+ },
+ "2026-08": {
+  "count": 99,
+  "avg_rating": 4.71
  }
 }

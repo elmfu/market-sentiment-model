@@ -2,7 +2,7 @@
   "competitors": [
     {
       "brand": "Apple/Mac",
-      "total_mentions": 10,
+      "total_mentions": 11,
       "reviews": [
         {
           "title": "My first touch screen laptop and I love it!",
@@ -26,7 +26,7 @@
           "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": "7 additional review(s) also mention Apple/Mac."
+      "summary_of_remaining": "8 additional review(s) also mention Apple/Mac."
     },
     {
       "brand": "Dell",

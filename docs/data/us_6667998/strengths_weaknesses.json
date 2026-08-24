@@ -1,9 +1,19 @@
 {
   "strengths": [
     {
+      "theme": "Build & Keyboard",
+      "count": 3,
+      "pct_of_reviews": 60.0,
+      "quotes": [
+        "The HP Omnibook Ultra 14 with the Snapdragon X2 Elite processor is a thin and light premium laptop that is a great for general productivity.",
+        "I love the light weight of the device and it works great with the HP Hub that I bought to go with it.",
+        "I you want a premium portable laptop with high build quality you can’t go wrong here!"
+      ]
+    },
+    {
       "theme": "Performance & Chip",
       "count": 2,
-      "pct_of_reviews": 66.7,
+      "pct_of_reviews": 40.0,
       "quotes": [
         "Highly recommend the HP OmniBook Ultra Snapdragon X2 Elite for it's speed and screen.",
         "The HP Omnibook Ultra 14 with the Snapdragon X2 Elite processor is a thin and light premium laptop that is a great for general productivity."
@@ -11,30 +21,24 @@
     },
     {
       "theme": "Battery Life",
-      "count": 1,
-      "pct_of_reviews": 33.3,
-      "quotes": []
+      "count": 2,
+      "pct_of_reviews": 40.0,
+      "quotes": [
+        "Battery life is next level while giving plenty of computing power."
+      ]
     },
     {
       "theme": "Display Quality",
-      "count": 1,
-      "pct_of_reviews": 33.3,
+      "count": 2,
+      "pct_of_reviews": 40.0,
       "quotes": [
         "Highly recommend the HP OmniBook Ultra Snapdragon X2 Elite for it's speed and screen."
       ]
     },
     {
-      "theme": "Build & Keyboard",
-      "count": 1,
-      "pct_of_reviews": 33.3,
-      "quotes": [
-        "The HP Omnibook Ultra 14 with the Snapdragon X2 Elite processor is a thin and light premium laptop that is a great for general productivity."
-      ]
-    },
-    {
       "theme": "Ports & Connectivity",
-      "count": 1,
-      "pct_of_reviews": 33.3,
+      "count": 2,
+      "pct_of_reviews": 40.0,
       "quotes": []
     }
   ],

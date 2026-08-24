@@ -1,6 +1,27 @@
 {
  "competitors": [
   {
+   "brand": "Apple/Mac",
+   "total_mentions": 2,
+   "reviews": [
+    {
+     "title": "Good Laptop for school work and game streaming,",
+     "body": "Ryzen processor does well and benchmarks well against intel. Screen is the low point not bad but not the 3x Amoled I'm used to. Large 16 inch canvas for getting work and school done. Was surprised how well performs with only 8GB ram. Backlit keyboard and metal casing. Track pad is not Mac or Galaxy ",
+     "excerpt": "Track pad is not Mac or Galaxy Book Pro.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Feature packed with excellent battery life.",
+     "body": "Heading back to school and wanted a windows based PC. I'm an Apple user but was not happy with my MacBook Pro. Did lots of reviews and decided on HP. \n\nAbsolutely love this PC. It's fast, quiet and battery is fantastic. I enjoy using it everyday. The screen is beautiful as well. Crisp blacks and viv",
+     "excerpt": "I'm an Apple user but was not happy with my MacBook Pro.",
+     "rating": 5,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": ""
+  },
+  {
    "brand": "Dell",
    "total_mentions": 2,
    "reviews": [
@@ -36,20 +57,6 @@
      "title": "Laptop Replacement",
      "body": "I bought this laptop to replace my old windows 10 acer laptop",
      "excerpt": "I bought this laptop to replace my old windows 10 acer laptop",
-     "rating": 5,
-     "sentiment": "positive"
-    }
-   ],
-   "summary_of_remaining": ""
-  },
-  {
-   "brand": "Apple/Mac",
-   "total_mentions": 1,
-   "reviews": [
-    {
-     "title": "Good Laptop for school work and game streaming,",
-     "body": "Ryzen processor does well and benchmarks well against intel. Screen is the low point not bad but not the 3x Amoled I'm used to. Large 16 inch canvas for getting work and school done. Was surprised how well performs with only 8GB ram. Backlit keyboard and metal casing. Track pad is not Mac or Galaxy ",
-     "excerpt": "Track pad is not Mac or Galaxy Book Pro.",
      "rating": 5,
      "sentiment": "positive"
     }

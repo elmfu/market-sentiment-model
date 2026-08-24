@@ -1,20 +1,9 @@
 [
   {
-    "topic": "performance",
-    "label": "Performance & Chip",
-    "total": 1,
-    "positive": 1,
-    "neutral": 0,
-    "negative": 0,
-    "positive_pct": 100.0,
-    "negative_pct": 0.0,
-    "net_score": 100.0
-  },
-  {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 1,
-    "positive": 1,
+    "total": 2,
+    "positive": 2,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
@@ -24,6 +13,17 @@
   {
     "topic": "display",
     "label": "Display Quality",
+    "total": 2,
+    "positive": 2,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "performance",
+    "label": "Performance & Chip",
     "total": 1,
     "positive": 1,
     "neutral": 0,

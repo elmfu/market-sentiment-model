@@ -1,13 +1,78 @@
 [
   {
     "word": "build",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "carry",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "want",
     "count": 2,
     "sentiment": "neutral"
   },
   {
-    "word": "quality",
+    "word": "gaming",
     "count": 2,
-    "sentiment": "neutral"
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "look",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "premium",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "model",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "cpu",
+    "count": 2,
+    "sentiment": "positive"
   },
   {
     "word": "panther",
@@ -20,282 +85,217 @@
     "sentiment": "neutral"
   },
   {
-    "word": "rampocalypse",
+    "word": "portable",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "era",
+    "word": "extremely",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "long",
+    "word": "practical",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "lenovo",
+    "word": "easy",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "user",
+    "word": "around",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "thought",
+    "word": "lasting",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "give",
+    "word": "lightweight",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "try",
+    "word": "champion",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "cpu",
+    "word": "loving",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "generation",
+    "word": "powerful",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "happy",
+    "word": "built",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "overall",
+    "word": "igpu",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "premium",
+    "word": "beautiful",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "feel",
+    "word": "oled",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "look",
+    "word": "screen",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "handles",
+    "word": "portability",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "work",
+    "word": "play",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "heavy",
+    "word": "modern",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "gaming",
+    "word": "games",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "load",
+    "word": "problem",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "without",
+    "word": "plugged",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "breaking",
+    "word": "difference",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "sweat",
+    "word": "looking",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "genuinely",
+    "word": "sleek",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "couldn",
+    "word": "selection",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "happier",
+    "word": "along",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "performance",
+    "word": "take",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "biggest",
+    "word": "dell",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "drawback",
+    "word": "travel",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "effectively",
+    "word": "hub",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "forces",
+    "word": "dock",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "companion",
+    "word": "fits",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "software",
+    "word": "pocket",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "access",
+    "word": "nic",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "profiles",
+    "word": "power",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "fresh",
+    "word": "passthrough",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "install",
+    "word": "rampocolypse",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "windows",
+    "word": "prices",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "skip",
+    "word": "high",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "app",
+    "word": "ultra",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "system",
+    "word": "felt",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "aggressively",
+    "word": "right",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "throttle",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "having",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "essential",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "paid",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "run",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "fedora",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "machine",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "writing",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "onboard",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "sound",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "doesn",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "under",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "yet",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "likely",
+    "word": "box",
     "count": 1,
     "sentiment": "positive"
   }

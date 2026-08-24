@@ -23,6 +23,7 @@ import argparse
 import asyncio
 import json
 import random
+import sys
 from datetime import date, datetime, timezone
 from pathlib import Path
 
@@ -77,6 +78,11 @@ def parse_reviews(raw_items: list[dict], sku: str) -> list[dict]:
     return out
 
 
+# SKUs whose fetch failed (403 / block / endpoint change). Tracked so the run can
+# exit non-zero — otherwise a total block is indistinguishable from "no new reviews".
+FETCH_FAILURES: list[str] = []
+
+
 async def scrape_sku(page_obj, sku: str, incremental: bool, resume: bool) -> int:
     product_key = f"us_{sku}"
     state = load_state(product_key)
@@ -99,7 +105,8 @@ async def scrape_sku(page_obj, sku: str, incremental: bool, resume: bool) -> int
                f"?page={page_num}&pageSize={PAGE_SIZE}&sku={sku}&sort=MOST_RECENT")
         data = await fetch_bby_json(page_obj, url)
         if data is None:
-            print(f"  [US] {product_key}: aborted at page {page_num} (fetch failed)")
+            print(f"  [US] [BLOCKED] {product_key}: aborted at page {page_num} (fetch failed)")
+            FETCH_FAILURES.append(product_key)
             break
 
         items = data.get("topics", [])
@@ -173,6 +180,14 @@ async def main_async(args) -> None:
         await browser.close()
 
     print(f"\nUS scrape complete: {grand_total} reviews across {len(us_products)} product(s).")
+
+    if FETCH_FAILURES:
+        print(f"\n[BLOCKED] {len(FETCH_FAILURES)}/{len(us_products)} US products — fetch failed:")
+        print("  " + ", ".join(FETCH_FAILURES))
+        print("  Retry with a visible browser:  python run_weekly.py --only us --headed")
+        # Non-zero so the pipeline flags it (run_weekly treats scraping as optional,
+        # so it still continues to the build — it just stops looking like a clean run).
+        sys.exit(1)
 
 
 def main() -> None:

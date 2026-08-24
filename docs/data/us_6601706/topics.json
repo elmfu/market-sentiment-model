@@ -2,68 +2,68 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 65,
-    "positive": 63,
+    "total": 67,
+    "positive": 65,
     "neutral": 1,
     "negative": 1,
-    "positive_pct": 96.9,
+    "positive_pct": 97.0,
     "negative_pct": 1.5,
-    "net_score": 95.4
+    "net_score": 95.5
   },
   {
     "topic": "display",
     "label": "Display Quality",
-    "total": 46,
-    "positive": 42,
+    "total": 47,
+    "positive": 43,
     "neutral": 2,
     "negative": 2,
-    "positive_pct": 91.3,
+    "positive_pct": 91.5,
     "negative_pct": 4.3,
-    "net_score": 87.0
+    "net_score": 87.2
   },
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 42,
-    "positive": 37,
+    "total": 46,
+    "positive": 41,
     "neutral": 2,
     "negative": 3,
-    "positive_pct": 88.1,
-    "negative_pct": 7.1,
-    "net_score": 81.0
+    "positive_pct": 89.1,
+    "negative_pct": 6.5,
+    "net_score": 82.6
   },
   {
     "topic": "price_value",
     "label": "Price & Value",
-    "total": 35,
-    "positive": 29,
+    "total": 36,
+    "positive": 30,
     "neutral": 3,
     "negative": 3,
-    "positive_pct": 82.9,
-    "negative_pct": 8.6,
-    "net_score": 74.3
+    "positive_pct": 83.3,
+    "negative_pct": 8.3,
+    "net_score": 75.0
   },
   {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 32,
-    "positive": 27,
+    "total": 34,
+    "positive": 29,
     "neutral": 2,
     "negative": 3,
-    "positive_pct": 84.4,
-    "negative_pct": 9.4,
-    "net_score": 75.0
+    "positive_pct": 85.3,
+    "negative_pct": 8.8,
+    "net_score": 76.5
   },
   {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 25,
-    "positive": 21,
+    "total": 26,
+    "positive": 22,
     "neutral": 1,
     "negative": 3,
-    "positive_pct": 84.0,
-    "negative_pct": 12.0,
-    "net_score": 72.0
+    "positive_pct": 84.6,
+    "negative_pct": 11.5,
+    "net_score": 73.1
   },
   {
     "topic": "ports",

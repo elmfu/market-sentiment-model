@@ -8,6 +8,31 @@ compatibility_flags = ["nodejs_compat"]
 binding = "CACHE"
 id      = "1dd0d3b0b4da4bd7b876c02cba00d935"
 
+# Workers AI — embeddings for semantic search (bge-m3, multilingual).
+[ai]
+binding = "AI"
+
+# Vectorize — review embeddings index.
+#
+# FREE plan (recommended to start) — 384-dim English model, ~3.2M stored dims,
+# fits the 5M free cap; Chinese queries are bridged via the worker's ZH→EN map:
+#   wrangler vectorize create omnibook-reviews --dimensions=384 --metric=cosine
+#   (and keep the [vars] EMBED_MODEL line below)
+#
+# PAID plan ($5/mo, 50M dims) — multilingual bge-m3, best Chinese recall:
+#   wrangler vectorize create omnibook-reviews --dimensions=1024 --metric=cosine
+#   (and delete/comment the [vars] EMBED_MODEL line below)
+#
+# Both plans, after create:
+#   wrangler vectorize create-metadata-index omnibook-reviews --property-name=product_key --type=string
+#   wrangler vectorize create-metadata-index omnibook-reviews --property-name=series --type=string
+[[vectorize]]
+binding    = "VECTORIZE"
+index_name = "omnibook-reviews"
+
+[vars]
+EMBED_MODEL = "@cf/baai/bge-small-en-v1.5"   # free tier; remove this line for bge-m3
+
 # Secrets (set in Cloudflare dashboard or wrangler secret put, never hard-code):
 #   OPENAI_API_KEY — OpenAI key (project-scoped, budget-capped)
 #   API_TOKEN      — team access token for the chat widget

@@ -1,12 +1,12 @@
 [
   {
     "word": "screen",
-    "count": 12,
+    "count": 13,
     "sentiment": "positive"
   },
   {
     "word": "flip",
-    "count": 10,
+    "count": 11,
     "sentiment": "positive"
   },
   {
@@ -30,6 +30,16 @@
     "sentiment": "positive"
   },
   {
+    "word": "touch",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 6,
+    "sentiment": "negative"
+  },
+  {
     "word": "excellent",
     "count": 6,
     "sentiment": "positive"
@@ -40,17 +50,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "touch",
+    "word": "windows",
     "count": 6,
     "sentiment": "positive"
   },
   {
     "word": "getting",
-    "count": 5,
-    "sentiment": "negative"
-  },
-  {
-    "word": "battery",
     "count": 5,
     "sentiment": "negative"
   },
@@ -70,7 +75,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "windows",
+    "word": "pen",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
     "count": 5,
     "sentiment": "positive"
   },
@@ -86,6 +96,11 @@
   },
   {
     "word": "itself",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pad",
     "count": 4,
     "sentiment": "positive"
   },
@@ -125,17 +140,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "pen",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
     "word": "storage",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "long",
     "count": 4,
     "sentiment": "positive"
   },
@@ -175,6 +180,11 @@
     "sentiment": "neutral"
   },
   {
+    "word": "since",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
     "word": "device",
     "count": 3,
     "sentiment": "neutral"
@@ -200,11 +210,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "pad",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
     "word": "key",
     "count": 3,
     "sentiment": "neutral"
@@ -226,6 +231,11 @@
   },
   {
     "word": "owned",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "replace",
     "count": 3,
     "sentiment": "positive"
   },
@@ -285,18 +295,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "first",
+    "word": "life",
     "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ryzen",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "anyone",
-    "count": 2,
     "sentiment": "neutral"
   }
 ]

@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 383,
-      "pct_of_reviews": 27.2,
+      "count": 392,
+      "pct_of_reviews": 27.4,
       "quotes": [
         "I am able to enjoy windows 11 spectacular performance, as well as a great battery life.",
         "The integrated NPU (Neural Processing Unit) and Ryzen AI 5 work silently in the background to make everything smoother.",
@@ -12,8 +12,8 @@
     },
     {
       "theme": "Price & Value",
-      "count": 353,
-      "pct_of_reviews": 25.0,
+      "count": 356,
+      "pct_of_reviews": 24.9,
       "quotes": [
         "The price I paid for what I got was phenomenal!",
         "The one i was looking at was around 300 on sale and thus one was 600 on sale.",
@@ -22,7 +22,7 @@
     },
     {
       "theme": "Display Quality",
-      "count": 339,
+      "count": 343,
       "pct_of_reviews": 24.0,
       "quotes": [
         "The touch screen display is very vivid and bright too!",
@@ -32,8 +32,8 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 296,
-      "pct_of_reviews": 21.0,
+      "count": 302,
+      "pct_of_reviews": 21.1,
       "quotes": [
         "Stunning Design and Display: The Meteor Silver finish is sleek, professional, and feels premium.",
         "It’s all about name brand it’s about quality and price point.",
@@ -42,7 +42,7 @@
     },
     {
       "theme": "Battery Life",
-      "count": 130,
+      "count": 132,
       "pct_of_reviews": 9.2,
       "quotes": [
         "I am able to enjoy windows 11 spectacular performance, as well as a great battery life.",
@@ -75,7 +75,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 12,
-      "pct_of_reviews": 0.9,
+      "pct_of_reviews": 0.8,
       "quotes": [
         "I have installed all the updates and it keeps giving me the same problem.",
         "They told me it was essentially a corrupted software trying to fix itself.",

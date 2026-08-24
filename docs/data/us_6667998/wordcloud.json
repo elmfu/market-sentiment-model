@@ -1,6 +1,71 @@
 [
   {
     "word": "ultra",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "portable",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "while",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "premium",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issues",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "weight",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "plug",
     "count": 2,
     "sentiment": "positive"
   },
@@ -15,287 +80,222 @@
     "sentiment": "positive"
   },
   {
-    "word": "portable",
+    "word": "outstanding",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "premium",
+    "word": "say",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "productivity",
+    "word": "enough",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "processor",
+    "word": "battery",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "thin",
+    "word": "life",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "light",
+    "word": "next",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "general",
+    "word": "level",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "inch",
+    "word": "giving",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "low",
+    "word": "plenty",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "weight",
+    "word": "computing",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "portability",
+    "word": "oled",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "form",
+    "word": "stunning",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "factor",
+    "word": "want",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "build",
+    "word": "high",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "quality",
+    "word": "wrong",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "solid",
+    "word": "works",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "feels",
+    "word": "device",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "hand",
+    "word": "replace",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "unlike",
+    "word": "dell",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "last",
+    "word": "beginning",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "usb",
+    "word": "managing",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "ports",
+    "word": "zoom",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "left",
+    "word": "meetings",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "side",
+    "word": "same",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "slides",
+    "word": "applications",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "helps",
+    "word": "open",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "cable",
+    "word": "support",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "management",
+    "word": "happening",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "plug",
+    "word": "meeting",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "power",
+    "word": "solved",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "either",
+    "word": "having",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "issues",
+    "word": "anymore",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "running",
+    "word": "hub",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "older",
+    "word": "connects",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "programs",
+    "word": "seamlessly",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "compiled",
+    "word": "dual",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "arm",
+    "word": "monitors",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "instruction",
+    "word": "office",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "set",
+    "word": "fine",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "thus",
+    "word": "connected",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "emulation",
+    "word": "port",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "online",
+    "word": "converter",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "reviews",
+    "word": "allows",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "indicate",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "laptops",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "fastest",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "windows",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "available",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "serious",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "gaming",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "dedicated",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "considered",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "since",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "gamer",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "non",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "issue",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "thumbs",
+    "word": "peripherals",
     "count": 1,
     "sentiment": "positive"
   }

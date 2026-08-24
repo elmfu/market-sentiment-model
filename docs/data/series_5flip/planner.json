@@ -1,43 +1,43 @@
 {
- "reviews_total": 53,
+ "reviews_total": 59,
  "topics": [
-  {
-   "topic": "display",
-   "label": "Display Quality",
-   "mentions": 22,
-   "attention_share": 21.2,
-   "negative_rate": 9.1,
-   "positive": 18,
-   "negative": 2,
-   "priority_score": 1.92
-  },
   {
    "topic": "build_quality",
    "label": "Build & Keyboard",
-   "mentions": 21,
-   "attention_share": 20.2,
-   "negative_rate": 9.5,
-   "positive": 19,
-   "negative": 2,
-   "priority_score": 1.92
+   "mentions": 25,
+   "attention_share": 21.6,
+   "negative_rate": 16.0,
+   "positive": 21,
+   "negative": 4,
+   "priority_score": 3.45
+  },
+  {
+   "topic": "display",
+   "label": "Display Quality",
+   "mentions": 24,
+   "attention_share": 20.7,
+   "negative_rate": 16.7,
+   "positive": 18,
+   "negative": 4,
+   "priority_score": 3.45
   },
   {
    "topic": "performance",
    "label": "Performance & Chip",
-   "mentions": 18,
-   "attention_share": 17.3,
-   "negative_rate": 11.1,
-   "positive": 14,
+   "mentions": 20,
+   "attention_share": 17.2,
+   "negative_rate": 10.0,
+   "positive": 16,
    "negative": 2,
-   "priority_score": 1.92
+   "priority_score": 1.72
   },
   {
    "topic": "battery",
    "label": "Battery Life",
-   "mentions": 12,
-   "attention_share": 11.5,
+   "mentions": 16,
+   "attention_share": 13.8,
    "negative_rate": 0.0,
-   "positive": 12,
+   "positive": 16,
    "negative": 0,
    "priority_score": 0.0
   },
@@ -45,7 +45,7 @@
    "topic": "ports",
    "label": "Ports & Connectivity",
    "mentions": 8,
-   "attention_share": 7.7,
+   "attention_share": 6.9,
    "negative_rate": 0.0,
    "positive": 8,
    "negative": 0,
@@ -55,17 +55,17 @@
    "topic": "software_ecosystem",
    "label": "Software & Ecosystem",
    "mentions": 8,
-   "attention_share": 7.7,
+   "attention_share": 6.9,
    "negative_rate": 25.0,
    "positive": 4,
    "negative": 2,
-   "priority_score": 1.92
+   "priority_score": 1.72
   },
   {
    "topic": "price_value",
    "label": "Price & Value",
    "mentions": 6,
-   "attention_share": 5.8,
+   "attention_share": 5.2,
    "negative_rate": 0.0,
    "positive": 6,
    "negative": 0,
@@ -75,7 +75,7 @@
    "topic": "repairability",
    "label": "Repairability",
    "mentions": 5,
-   "attention_share": 4.8,
+   "attention_share": 4.3,
    "negative_rate": 0.0,
    "positive": 3,
    "negative": 0,
@@ -85,7 +85,7 @@
    "topic": "thermals",
    "label": "Thermals & Cooling",
    "mentions": 4,
-   "attention_share": 3.8,
+   "attention_share": 3.4,
    "negative_rate": 0.0,
    "positive": 4,
    "negative": 0,
@@ -94,42 +94,42 @@
  ],
  "iteration_priorities": [
   {
-   "topic": "display",
-   "label": "Display Quality",
-   "mentions": 22,
-   "attention_share": 21.2,
-   "negative_rate": 9.1,
-   "positive": 18,
-   "negative": 2,
-   "priority_score": 1.92
-  },
-  {
    "topic": "build_quality",
    "label": "Build & Keyboard",
-   "mentions": 21,
-   "attention_share": 20.2,
-   "negative_rate": 9.5,
-   "positive": 19,
-   "negative": 2,
-   "priority_score": 1.92
+   "mentions": 25,
+   "attention_share": 21.6,
+   "negative_rate": 16.0,
+   "positive": 21,
+   "negative": 4,
+   "priority_score": 3.45
+  },
+  {
+   "topic": "display",
+   "label": "Display Quality",
+   "mentions": 24,
+   "attention_share": 20.7,
+   "negative_rate": 16.7,
+   "positive": 18,
+   "negative": 4,
+   "priority_score": 3.45
   },
   {
    "topic": "performance",
    "label": "Performance & Chip",
-   "mentions": 18,
-   "attention_share": 17.3,
-   "negative_rate": 11.1,
-   "positive": 14,
+   "mentions": 20,
+   "attention_share": 17.2,
+   "negative_rate": 10.0,
+   "positive": 16,
    "negative": 2,
-   "priority_score": 1.92
+   "priority_score": 1.72
   },
   {
    "topic": "battery",
    "label": "Battery Life",
-   "mentions": 12,
-   "attention_share": 11.5,
+   "mentions": 16,
+   "attention_share": 13.8,
    "negative_rate": 0.0,
-   "positive": 12,
+   "positive": 16,
    "negative": 0,
    "priority_score": 0.0
   }
@@ -137,38 +137,38 @@
  "biggest_strength": {
   "topic": "build_quality",
   "label": "Build & Keyboard",
-  "mentions": 21,
-  "attention_share": 20.2,
-  "negative_rate": 9.5,
-  "positive": 19,
-  "negative": 2,
-  "priority_score": 1.92
+  "mentions": 25,
+  "attention_share": 21.6,
+  "negative_rate": 16.0,
+  "positive": 21,
+  "negative": 4,
+  "priority_score": 3.45
  },
  "cohorts": [
   {
    "cohort": "2025",
    "products": 2,
-   "reviews": 53,
-   "avg_rating": 4.58,
-   "neg_rate": 3.8,
+   "reviews": 59,
+   "avg_rating": 4.46,
+   "neg_rate": 6.8,
    "top_complaints": [
     {
-     "label": "Performance & Chip",
-     "count": 2
-    },
-    {
      "label": "Display Quality",
-     "count": 2
+     "count": 4
     },
     {
      "label": "Build & Keyboard",
+     "count": 4
+    },
+    {
+     "label": "Performance & Chip",
      "count": 2
     }
    ],
    "top_praise": [
     {
      "label": "Build & Keyboard",
-     "count": 19
+     "count": 21
     },
     {
      "label": "Display Quality",
@@ -184,8 +184,8 @@
    "avg_rating": 4.62,
    "neg_rate": 0.0,
    "topic_neg_rate": {
-    "display": 0.0,
     "build_quality": 0.0,
+    "display": 0.0,
     "performance": 0.0,
     "battery": null,
     "ports": null
@@ -197,8 +197,8 @@
    "avg_rating": 4.5,
    "neg_rate": 8.3,
    "topic_neg_rate": {
-    "display": 25.0,
     "build_quality": 25.0,
+    "display": 25.0,
     "performance": null,
     "battery": 0.0,
     "ports": null
@@ -210,9 +210,22 @@
    "avg_rating": 4.69,
    "neg_rate": 0.0,
    "topic_neg_rate": {
-    "display": null,
     "build_quality": 0.0,
+    "display": null,
     "performance": 0.0,
+    "battery": null,
+    "ports": null
+   }
+  },
+  {
+   "quarter": "2026-Q3",
+   "reviews": 6,
+   "avg_rating": 3.33,
+   "neg_rate": 33.3,
+   "topic_neg_rate": {
+    "build_quality": null,
+    "display": null,
+    "performance": null,
     "battery": null,
     "ports": null
    }
@@ -220,12 +233,12 @@
  ],
  "top5_topics": [
   {
-   "topic": "display",
-   "label": "Display Quality"
-  },
-  {
    "topic": "build_quality",
    "label": "Build & Keyboard"
+  },
+  {
+   "topic": "display",
+   "label": "Display Quality"
   },
   {
    "topic": "performance",

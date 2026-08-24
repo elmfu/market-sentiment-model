@@ -2,100 +2,100 @@
  {
   "topic": "performance",
   "label": "Performance & Chip",
-  "total": 215,
-  "positive": 195,
+  "total": 229,
+  "positive": 207,
   "neutral": 7,
-  "negative": 13,
-  "positive_pct": 90.7,
-  "negative_pct": 6.0,
-  "net_score": 84.7
+  "negative": 15,
+  "positive_pct": 90.4,
+  "negative_pct": 6.6,
+  "net_score": 83.8
  },
  {
   "topic": "build_quality",
   "label": "Build & Keyboard",
-  "total": 214,
-  "positive": 198,
-  "neutral": 4,
-  "negative": 12,
-  "positive_pct": 92.5,
-  "negative_pct": 5.6,
-  "net_score": 86.9
+  "total": 220,
+  "positive": 200,
+  "neutral": 6,
+  "negative": 14,
+  "positive_pct": 90.9,
+  "negative_pct": 6.4,
+  "net_score": 84.5
  },
  {
   "topic": "display",
   "label": "Display Quality",
-  "total": 178,
-  "positive": 155,
+  "total": 180,
+  "positive": 156,
   "neutral": 9,
-  "negative": 14,
-  "positive_pct": 87.1,
-  "negative_pct": 7.9,
-  "net_score": 79.2
+  "negative": 15,
+  "positive_pct": 86.7,
+  "negative_pct": 8.3,
+  "net_score": 78.4
  },
  {
   "topic": "price_value",
   "label": "Price & Value",
-  "total": 149,
-  "positive": 127,
+  "total": 152,
+  "positive": 130,
   "neutral": 6,
   "negative": 16,
-  "positive_pct": 85.2,
-  "negative_pct": 10.7,
-  "net_score": 74.5
+  "positive_pct": 85.5,
+  "negative_pct": 10.5,
+  "net_score": 75.0
  },
  {
   "topic": "software_ecosystem",
   "label": "Software & Ecosystem",
-  "total": 139,
-  "positive": 107,
+  "total": 145,
+  "positive": 111,
   "neutral": 9,
-  "negative": 23,
-  "positive_pct": 77.0,
-  "negative_pct": 16.5,
-  "net_score": 60.5
+  "negative": 25,
+  "positive_pct": 76.6,
+  "negative_pct": 17.2,
+  "net_score": 59.4
  },
  {
   "topic": "battery",
   "label": "Battery Life",
-  "total": 119,
-  "positive": 107,
+  "total": 124,
+  "positive": 112,
   "neutral": 5,
   "negative": 7,
-  "positive_pct": 89.9,
-  "negative_pct": 5.9,
-  "net_score": 84.0
+  "positive_pct": 90.3,
+  "negative_pct": 5.6,
+  "net_score": 84.7
  },
  {
   "topic": "ports",
   "label": "Ports & Connectivity",
-  "total": 46,
-  "positive": 39,
+  "total": 49,
+  "positive": 42,
   "neutral": 1,
   "negative": 6,
-  "positive_pct": 84.8,
-  "negative_pct": 13.0,
-  "net_score": 71.8
+  "positive_pct": 85.7,
+  "negative_pct": 12.2,
+  "net_score": 73.5
  },
  {
   "topic": "repairability",
   "label": "Repairability",
-  "total": 28,
-  "positive": 19,
+  "total": 30,
+  "positive": 21,
   "neutral": 4,
   "negative": 5,
-  "positive_pct": 67.9,
-  "negative_pct": 17.9,
-  "net_score": 50.0
+  "positive_pct": 70.0,
+  "negative_pct": 16.7,
+  "net_score": 53.3
  },
  {
   "topic": "thermals",
   "label": "Thermals & Cooling",
-  "total": 15,
-  "positive": 14,
+  "total": 17,
+  "positive": 15,
   "neutral": 1,
-  "negative": 0,
-  "positive_pct": 93.3,
-  "negative_pct": 0.0,
-  "net_score": 93.3
+  "negative": 1,
+  "positive_pct": 88.2,
+  "negative_pct": 5.9,
+  "net_score": 82.3
  }
 ]

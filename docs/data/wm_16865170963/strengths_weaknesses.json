@@ -1,19 +1,9 @@
 {
   "strengths": [
     {
-      "theme": "Display Quality",
-      "count": 9,
-      "pct_of_reviews": 36.0,
-      "quotes": [
-        "Easy to use, enjoy the flip & touchscreen.",
-        "The lightweight and slim design makes it so easy for me to carry around in my bag opposed to my 15.6 inch screen laptop.",
-        "The touch screen works really smoothly and it is very easy to use both touchscreen and the touchpad."
-      ]
-    },
-    {
       "theme": "Build & Keyboard",
-      "count": 9,
-      "pct_of_reviews": 36.0,
+      "count": 10,
+      "pct_of_reviews": 35.7,
       "quotes": [
         "What's great about this flip book is that it works on a  360° hinge that adapts to how you want to use it, both vertical and portrait.",
         "The touch screen works really smoothly and it is very easy to use both touchscreen and the touchpad.",
@@ -21,19 +11,29 @@
       ]
     },
     {
+      "theme": "Display Quality",
+      "count": 9,
+      "pct_of_reviews": 32.1,
+      "quotes": [
+        "Easy to use, enjoy the flip & touchscreen.",
+        "The lightweight and slim design makes it so easy for me to carry around in my bag opposed to my 15.6 inch screen laptop.",
+        "The touch screen works really smoothly and it is very easy to use both touchscreen and the touchpad."
+      ]
+    },
+    {
       "theme": "Performance & Chip",
-      "count": 7,
-      "pct_of_reviews": 28.0,
+      "count": 8,
+      "pct_of_reviews": 28.6,
       "quotes": [
         "The HP OmniBook 5 Flip 14\" Laptop is an impressive flip book that has an Intel® Core™ i5 processor, 16GB TAM and 512GB of SSD storage.",
         "It's quick and responsive with no noticeable lag even when I have multiple things open.",
-        "Solid, stylish, fast and great keyboard feel."
+        "The performances are acceptable, according to the specifications of the components (processor, memory, clock)."
       ]
     },
     {
       "theme": "Battery Life",
-      "count": 6,
-      "pct_of_reviews": 24.0,
+      "count": 8,
+      "pct_of_reviews": 28.6,
       "quotes": [
         "You get to 15 hours of battery life - I found that I can easily get 6+ hours doing intensive tasks.",
         "Haven't had any issues connecting it to the internet or charging it.",
@@ -43,7 +43,7 @@
     {
       "theme": "Ports & Connectivity",
       "count": 4,
-      "pct_of_reviews": 16.0,
+      "pct_of_reviews": 14.3,
       "quotes": [
         "It has 2x USB-A ports, 2x USB-C, 1x HDMI, 1x display.",
         "2.Long lasting battery\r\n3.Great audio and video quality\r\n4.Easy connectivity with mobile and bluetooth device\r\n5.Excellent for multitasking."
@@ -52,33 +52,35 @@
   ],
   "weaknesses": [
     {
+      "theme": "Display Quality",
+      "count": 2,
+      "pct_of_reviews": 7.1,
+      "quotes": [
+        "I even faced a screen light‑leak issue within a short time of usage.",
+        "power light on but screen black & no light on keyboard"
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 2,
+      "pct_of_reviews": 7.1,
+      "quotes": [
+        "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
+        "power light on but screen black & no light on keyboard"
+      ]
+    },
+    {
       "theme": "Performance & Chip",
       "count": 1,
-      "pct_of_reviews": 4.0,
+      "pct_of_reviews": 3.6,
       "quotes": [
         "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
       ]
     },
     {
-      "theme": "Display Quality",
-      "count": 1,
-      "pct_of_reviews": 4.0,
-      "quotes": [
-        "I even faced a screen light‑leak issue within a short time of usage."
-      ]
-    },
-    {
-      "theme": "Build & Keyboard",
-      "count": 1,
-      "pct_of_reviews": 4.0,
-      "quotes": [
-        "Display quality and speakers are below expectations, and the performance issues severely impact productivity."
-      ]
-    },
-    {
       "theme": "Software & Ecosystem",
       "count": 1,
-      "pct_of_reviews": 4.0,
+      "pct_of_reviews": 3.6,
       "quotes": [
         "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
       ]
