@@ -1,0 +1,74 @@
+{
+  "strengths": [
+    {
+      "theme": "Performance & Chip",
+      "count": 1,
+      "pct_of_reviews": 100.0,
+      "quotes": [
+        "The HP OmniBook X Flip 16 AI PC is a sleek and versatile 2-in-1 laptop that delivers excellent performance for work, school, and everyday use."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 1,
+      "pct_of_reviews": 100.0,
+      "quotes": [
+        "The large 16-inch touchscreen is bright and responsive, battery life is impressive, and AI-powered features help boost productivity."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 1,
+      "pct_of_reviews": 100.0,
+      "quotes": [
+        "The large 16-inch touchscreen is bright and responsive, battery life is impressive, and AI-powered features help boost productivity."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 1,
+      "pct_of_reviews": 100.0,
+      "quotes": [
+        "The HP OmniBook X Flip 16 AI PC is a sleek and versatile 2-in-1 laptop that delivers excellent performance for work, school, and everyday use."
+      ]
+    },
+    {
+      "theme": "Thermals & Cooling",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Performance & Chip",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Battery Life",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Display Quality",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Thermals & Cooling",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    }
+  ]
+}
