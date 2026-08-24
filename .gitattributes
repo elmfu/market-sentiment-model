@@ -1,0 +1,27 @@
+# Normalize line endings so generated JSON doesn't show up as phantom changes.
+#
+# Without this, every build rewrites docs/data/**/*.json with CRLF on Windows and
+# `git status` reports 300+ modified files whose content is actually identical —
+# which buries the real changes during the weekly pre-push review.
+
+* text=auto eol=lf
+
+# Data + web assets: always LF in the repo
+*.json   text eol=lf
+*.html   text eol=lf
+*.css    text eol=lf
+*.js     text eol=lf
+*.py     text eol=lf
+*.md     text eol=lf
+
+# Windows-only scripts must keep CRLF or they break
+*.bat    text eol=crlf
+*.ps1    text eol=crlf
+
+# Never touch binaries
+*.png    binary
+*.jpg    binary
+*.pptx   binary
+*.xlsx   binary
+*.docx   binary
+*.pdf    binary
