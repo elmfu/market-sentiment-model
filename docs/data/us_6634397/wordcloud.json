@@ -1,22 +1,22 @@
 [
   {
     "word": "screen",
-    "count": 182,
+    "count": 189,
     "sentiment": "positive"
   },
   {
     "word": "fast",
-    "count": 123,
+    "count": 126,
     "sentiment": "positive"
   },
   {
     "word": "excellent",
-    "count": 119,
+    "count": 121,
     "sentiment": "positive"
   },
   {
     "word": "best",
-    "count": 116,
+    "count": 118,
     "sentiment": "positive"
   },
   {
@@ -26,37 +26,42 @@
   },
   {
     "word": "price",
-    "count": 101,
+    "count": 103,
     "sentiment": "positive"
   },
   {
     "word": "performance",
-    "count": 91,
+    "count": 93,
     "sentiment": "positive"
   },
   {
     "word": "oled",
-    "count": 88,
+    "count": 90,
     "sentiment": "positive"
   },
   {
     "word": "work",
-    "count": 88,
+    "count": 90,
     "sentiment": "positive"
   },
   {
     "word": "display",
-    "count": 86,
+    "count": 87,
     "sentiment": "positive"
   },
   {
     "word": "battery",
-    "count": 79,
+    "count": 82,
     "sentiment": "positive"
   },
   {
     "word": "keyboard",
-    "count": 74,
+    "count": 76,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 71,
     "sentiment": "positive"
   },
   {
@@ -70,18 +75,18 @@
     "sentiment": "positive"
   },
   {
-    "word": "quality",
-    "count": 66,
+    "word": "recommend",
+    "count": 64,
     "sentiment": "positive"
   },
   {
     "word": "perfect",
-    "count": 62,
+    "count": 63,
     "sentiment": "positive"
   },
   {
-    "word": "recommend",
-    "count": 61,
+    "word": "life",
+    "count": 60,
     "sentiment": "positive"
   },
   {
@@ -91,16 +96,11 @@
   },
   {
     "word": "easy",
-    "count": 58,
+    "count": 59,
     "sentiment": "positive"
   },
   {
     "word": "happy",
-    "count": 57,
-    "sentiment": "positive"
-  },
-  {
-    "word": "life",
     "count": 57,
     "sentiment": "positive"
   },
@@ -110,18 +110,33 @@
     "sentiment": "positive"
   },
   {
-    "word": "overall",
-    "count": 51,
+    "word": "touch",
+    "count": 53,
     "sentiment": "positive"
   },
   {
-    "word": "touch",
-    "count": 51,
+    "word": "overall",
+    "count": 53,
     "sentiment": "positive"
   },
   {
     "word": "product",
-    "count": 49,
+    "count": 52,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 48,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 47,
+    "sentiment": "positive"
+  },
+  {
+    "word": "powerful",
+    "count": 46,
     "sentiment": "positive"
   },
   {
@@ -130,33 +145,18 @@
     "sentiment": "positive"
   },
   {
-    "word": "amazing",
-    "count": 46,
-    "sentiment": "positive"
-  },
-  {
-    "word": "touchscreen",
-    "count": 46,
-    "sentiment": "positive"
-  },
-  {
-    "word": "processor",
+    "word": "machine",
     "count": 45,
     "sentiment": "positive"
   },
   {
     "word": "ultra",
-    "count": 44,
+    "count": 45,
     "sentiment": "positive"
   },
   {
-    "word": "powerful",
-    "count": 44,
-    "sentiment": "positive"
-  },
-  {
-    "word": "machine",
-    "count": 44,
+    "word": "processor",
+    "count": 45,
     "sentiment": "positive"
   },
   {
@@ -170,8 +170,28 @@
     "sentiment": "positive"
   },
   {
+    "word": "without",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
     "word": "smooth",
     "count": 42,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 41,
     "sentiment": "positive"
   },
   {
@@ -180,22 +200,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "without",
-    "count": 40,
-    "sentiment": "positive"
-  },
-  {
     "word": "solid",
     "count": 40,
     "sentiment": "positive"
   },
   {
-    "word": "needed",
-    "count": 40,
-    "sentiment": "positive"
-  },
-  {
-    "word": "features",
+    "word": "windows",
     "count": 39,
     "sentiment": "positive"
   },
@@ -205,12 +215,37 @@
     "sentiment": "positive"
   },
   {
-    "word": "laptops",
-    "count": 39,
+    "word": "super",
+    "count": 38,
     "sentiment": "positive"
   },
   {
-    "word": "windows",
+    "word": "design",
+    "count": 38,
+    "sentiment": "positive"
+  },
+  {
+    "word": "highly",
+    "count": 38,
+    "sentiment": "positive"
+  },
+  {
+    "word": "awesome",
+    "count": 37,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 37,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gaming",
+    "count": 37,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
     "count": 37,
     "sentiment": "positive"
   },
@@ -220,32 +255,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "design",
-    "count": 37,
-    "sentiment": "positive"
-  },
-  {
-    "word": "highly",
-    "count": 37,
-    "sentiment": "positive"
-  },
-  {
-    "word": "feel",
-    "count": 36,
-    "sentiment": "positive"
-  },
-  {
-    "word": "super",
-    "count": 36,
-    "sentiment": "positive"
-  },
-  {
-    "word": "because",
-    "count": 36,
-    "sentiment": "positive"
-  },
-  {
-    "word": "gaming",
+    "word": "high",
     "count": 36,
     "sentiment": "positive"
   },
@@ -255,7 +265,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "awesome",
+    "word": "little",
     "count": 35,
     "sentiment": "positive"
   },
@@ -265,37 +275,27 @@
     "sentiment": "positive"
   },
   {
-    "word": "high",
-    "count": 35,
-    "sentiment": "positive"
-  },
-  {
-    "word": "little",
+    "word": "light",
     "count": 34,
     "sentiment": "positive"
   },
   {
     "word": "ssd",
-    "count": 33,
-    "sentiment": "positive"
-  },
-  {
-    "word": "light",
-    "count": 33,
+    "count": 34,
     "sentiment": "positive"
   },
   {
     "word": "old",
+    "count": 33,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keys",
     "count": 32,
     "sentiment": "positive"
   },
   {
-    "word": "deal",
-    "count": 32,
-    "sentiment": "positive"
-  },
-  {
-    "word": "feels",
+    "word": "issues",
     "count": 32,
     "sentiment": "positive"
   }

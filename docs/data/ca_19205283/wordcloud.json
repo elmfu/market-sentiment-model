@@ -1,26 +1,221 @@
 [
   {
     "word": "screen",
-    "count": 12,
+    "count": 23,
     "sentiment": "positive"
   },
   {
     "word": "keyboard",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 11,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "easy",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
     "count": 9,
+    "sentiment": "negative"
+  },
+  {
+    "word": "light",
+    "count": 8,
     "sentiment": "positive"
   },
   {
     "word": "product",
-    "count": 5,
+    "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "features",
-    "count": 5,
+    "word": "performance",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 7,
     "sentiment": "positive"
   },
   {
     "word": "fast",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "device",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "first",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "features",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "user",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "set",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keys",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "down",
+    "count": 5,
+    "sentiment": "negative"
+  },
+  {
+    "word": "last",
+    "count": 5,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "overall",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 5,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "however",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hard",
+    "count": 5,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "tablet",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "clear",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "off",
+    "count": 5,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "key",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "goes",
+    "count": 5,
+    "sentiment": "negative"
+  },
+  {
+    "word": "small",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 5,
+    "sentiment": "negative"
+  },
+  {
+    "word": "issues",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "high",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sometimes",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pen",
     "count": 4,
     "sentiment": "positive"
   },
@@ -30,14 +225,9 @@
     "sentiment": "positive"
   },
   {
-    "word": "light",
+    "word": "quite",
     "count": 4,
     "sentiment": "positive"
-  },
-  {
-    "word": "battery",
-    "count": 4,
-    "sentiment": "neutral"
   },
   {
     "word": "short",
@@ -45,258 +235,68 @@
     "sentiment": "negative"
   },
   {
-    "word": "quality",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "device",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "amazing",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "machine",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "flip",
-    "count": 4,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "performance",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "thin",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "pen",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "because",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "beautiful",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quite",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "perfect",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
     "word": "next",
-    "count": 3,
+    "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "fixed",
-    "count": 3,
-    "sentiment": "neutral"
+    "word": "everyday",
+    "count": 4,
+    "sentiment": "positive"
   },
   {
     "word": "design",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "build",
-    "count": 3,
+    "count": 4,
     "sentiment": "positive"
   },
   {
     "word": "happy",
-    "count": 3,
+    "count": 4,
     "sentiment": "positive"
   },
   {
     "word": "inch",
-    "count": 3,
+    "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "first",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "overall",
-    "count": 3,
+    "word": "feel",
+    "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "better",
-    "count": 3,
+    "word": "without",
+    "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "hard",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "heavy",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "life",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "type",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "enough",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "support",
-    "count": 3,
+    "word": "problem",
+    "count": 4,
     "sentiment": "negative"
   },
   {
-    "word": "expected",
-    "count": 2,
+    "word": "functional",
+    "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "wanted",
-    "count": 2,
+    "word": "software",
+    "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "convertible",
-    "count": 2,
+    "word": "responsive",
+    "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "keys",
-    "count": 2,
+    "word": "heavy",
+    "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "wasn't",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "amount",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "portable",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "started",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "lasts",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "study",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quickly",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "down",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "annoying",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "facial",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "recognition",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "open",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "pretty",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "sale",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "same",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "add",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "highly",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ago",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "piece",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "comes",
-    "count": 2,
+    "word": "type",
+    "count": 4,
     "sentiment": "positive"
   }
 ]

@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 554,
-      "pct_of_reviews": 31.9,
+      "count": 796,
+      "pct_of_reviews": 33.9,
       "quotes": [
         "With its powerful Intel Ultra Core 7 processor and an Intel Arc 140V integrated GPU, this laptop can do it all.",
         "The HP OmniBook X (Intel Core 7 Ultra, 16GB RAM, 1TB SSD) is a large 2-in-1 with a really nice IPS display that will satisfy many users.",
@@ -12,8 +12,8 @@
     },
     {
       "theme": "Display Quality",
-      "count": 447,
-      "pct_of_reviews": 25.7,
+      "count": 636,
+      "pct_of_reviews": 27.1,
       "quotes": [
         "=========\nDESIGN/SPECS:\nThe OmniBook X Flip 2-in-1 laptop sports a nice matte black color (HP calls it Eclipse Gray, but the color appears black).",
         "The HP OmniBook X (Intel Core 7 Ultra, 16GB RAM, 1TB SSD) is a large 2-in-1 with a really nice IPS display that will satisfy many users.",
@@ -22,8 +22,8 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 379,
-      "pct_of_reviews": 21.8,
+      "count": 546,
+      "pct_of_reviews": 23.3,
       "quotes": [
         "=========\nDESIGN/SPECS:\nThe OmniBook X Flip 2-in-1 laptop sports a nice matte black color (HP calls it Eclipse Gray, but the color appears black).",
         "The weight of the laptop alone is 4 lbs, 9 oz.",
@@ -32,8 +32,8 @@
     },
     {
       "theme": "Price & Value",
-      "count": 326,
-      "pct_of_reviews": 18.8,
+      "count": 439,
+      "pct_of_reviews": 18.7,
       "quotes": [
         "I prefer a number pad, but it is not a deal breaker for me.",
         "This is the latest styling cue of some more expensive laptops.",
@@ -42,8 +42,8 @@
     },
     {
       "theme": "Battery Life",
-      "count": 205,
-      "pct_of_reviews": 11.8,
+      "count": 270,
+      "pct_of_reviews": 11.5,
       "quotes": [
         "A laptop that is neatly wrapped in a soft cover, a 65W USB-C charger with a nice, braided cable, and some documentation.",
         "However, the Core Ultra 7 is a bit more power efficient, and it shows with the battery life.",
@@ -54,8 +54,8 @@
   "weaknesses": [
     {
       "theme": "Display Quality",
-      "count": 12,
-      "pct_of_reviews": 0.7,
+      "count": 15,
+      "pct_of_reviews": 0.6,
       "quotes": [
         "We have owned it under 2 months and the display screen won’t come on.",
         "Screen went black and everything wont trun on when i got home from school",
@@ -64,7 +64,7 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 10,
+      "count": 14,
       "pct_of_reviews": 0.6,
       "quotes": [
         "had no idea that a smaller keyboard would be so cumbersome.",
@@ -74,7 +74,7 @@
     },
     {
       "theme": "Price & Value",
-      "count": 9,
+      "count": 11,
       "pct_of_reviews": 0.5,
       "quotes": [
         "other then that it ran fine just disappointed that i had to deal with that in the first place",
@@ -83,23 +83,23 @@
       ]
     },
     {
-      "theme": "Performance & Chip",
-      "count": 5,
-      "pct_of_reviews": 0.3,
-      "quotes": [
-        "It is slow and the screen quality is poor.",
-        "Fast when it works but really inconsistent wi fi signal dosent always work with my wi fi at home and I have booster all round my home",
-        "I purchased this laptop first week working very well after that slow and the sound is bad and hard to use"
-      ]
-    },
-    {
       "theme": "Ports & Connectivity",
-      "count": 5,
+      "count": 8,
       "pct_of_reviews": 0.3,
       "quotes": [
         "WIFI connection issues, crashing, weird glitches while it's running.",
         "I updated drivers and tried USB mouse, which worked, but there was no fixing the bad keyboard.",
         "Lost its wifi hardware connection after 1 week."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 7,
+      "pct_of_reviews": 0.3,
+      "quotes": [
+        "But upgrades to software would start the process over.",
+        "It keeps rebooting, windows crashing, most functions don't work, etc...",
+        "My experience is mainframe computers and Microsoft applications on pc’s."
       ]
     }
   ]

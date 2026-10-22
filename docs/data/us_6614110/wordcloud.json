@@ -1,17 +1,17 @@
 [
   {
     "word": "screen",
-    "count": 42,
+    "count": 43,
     "sentiment": "positive"
   },
   {
     "word": "fast",
-    "count": 38,
+    "count": 39,
     "sentiment": "positive"
   },
   {
     "word": "easy",
-    "count": 29,
+    "count": 30,
     "sentiment": "positive"
   },
   {
@@ -26,17 +26,22 @@
   },
   {
     "word": "excellent",
-    "count": 16,
+    "count": 17,
     "sentiment": "positive"
   },
   {
     "word": "speed",
-    "count": 16,
+    "count": 17,
     "sentiment": "positive"
   },
   {
     "word": "best",
     "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "memory",
+    "count": 14,
     "sentiment": "positive"
   },
   {
@@ -50,18 +55,38 @@
     "sentiment": "positive"
   },
   {
-    "word": "memory",
-    "count": 13,
-    "sentiment": "positive"
-  },
-  {
     "word": "battery",
     "count": 13,
     "sentiment": "positive"
   },
   {
+    "word": "happy",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
     "word": "product",
     "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ram",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 11,
     "sentiment": "positive"
   },
   {
@@ -85,11 +110,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "happy",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
     "word": "awesome",
     "count": 11,
     "sentiment": "positive"
@@ -100,27 +120,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "ram",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "price",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "recommend",
+    "word": "plenty",
     "count": 10,
     "sentiment": "positive"
   },
   {
     "word": "display",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quality",
     "count": 10,
     "sentiment": "positive"
   },
@@ -131,11 +136,6 @@
   },
   {
     "word": "copilot",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "plenty",
     "count": 9,
     "sentiment": "positive"
   },
@@ -157,6 +157,21 @@
   {
     "word": "squad",
     "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "high",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "large",
+    "count": 7,
     "sentiment": "positive"
   },
   {
@@ -190,6 +205,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "powerful",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
     "word": "around",
     "count": 6,
     "sentiment": "positive"
@@ -205,16 +225,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "high",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "large",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
     "word": "lightweight",
     "count": 6,
     "sentiment": "positive"
@@ -226,11 +236,6 @@
   },
   {
     "word": "super",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "features",
     "count": 6,
     "sentiment": "positive"
   },
@@ -285,17 +290,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "never",
+    "word": "replace",
     "count": 5,
     "sentiment": "positive"
   },
   {
-    "word": "core",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "feature",
+    "word": "machine",
     "count": 5,
     "sentiment": "positive"
   }

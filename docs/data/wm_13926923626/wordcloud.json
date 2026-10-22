@@ -1,302 +1,302 @@
 [
   {
-    "word": "product",
-    "count": 12,
+    "word": "battery",
+    "count": 39,
     "sentiment": "positive"
   },
   {
     "word": "screen",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "easy",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "price",
-    "count": 8,
+    "count": 38,
     "sentiment": "positive"
   },
   {
     "word": "keyboard",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "excellent",
-    "count": 7,
+    "count": 34,
     "sentiment": "positive"
   },
   {
     "word": "work",
-    "count": 7,
+    "count": 33,
     "sentiment": "positive"
   },
   {
-    "word": "quality",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "battery",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "light",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "happy",
-    "count": 5,
+    "word": "easy",
+    "count": 32,
     "sentiment": "positive"
   },
   {
     "word": "life",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "works",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "weight",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "mouse",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "perfect",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "best",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "simple",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "experience",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "better",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "power",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "book",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "overall",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "value",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "recommend",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "over",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "looks",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "features",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ram",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "left",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "right",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "miss",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "i'd",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "large",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "enough",
-    "count": 3,
+    "count": 31,
     "sentiment": "positive"
   },
   {
     "word": "fast",
-    "count": 3,
+    "count": 27,
     "sentiment": "positive"
   },
   {
-    "word": "off",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "device",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "wonderful",
-    "count": 3,
+    "word": "overall",
+    "count": 24,
     "sentiment": "positive"
   },
   {
     "word": "performance",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "bad",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "set",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "inch",
-    "count": 3,
+    "count": 20,
     "sentiment": "positive"
   },
   {
-    "word": "windows",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "glad",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "expectations",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "pad",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "old",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "envy",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "size",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "same",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "gpu",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "disable",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ethernet",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "usb",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "expected",
-    "count": 2,
+    "word": "tasks",
+    "count": 19,
     "sentiment": "positive"
   },
   {
     "word": "lightweight",
-    "count": 2,
+    "count": 18,
     "sentiment": "positive"
   },
   {
-    "word": "purchasing",
-    "count": 2,
-    "sentiment": "neutral"
+    "word": "everyday",
+    "count": 17,
+    "sentiment": "positive"
   },
   {
-    "word": "daily",
-    "count": 2,
+    "word": "without",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looks",
+    "count": 16,
     "sentiment": "positive"
   },
   {
     "word": "display",
-    "count": 2,
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "i've",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "snapdragon",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "smooth",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "runs",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "smoothly",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "multiple",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "working",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "browsing",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "experience",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sleek",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "large",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quickly",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "around",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "setup",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "carry",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easily",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "such",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feature",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "set",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "clear",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "built",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "daily",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "simple",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "comfortable",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "inch",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "multitasking",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "responsive",
+    "count": 9,
     "sentiment": "positive"
   }
 ]

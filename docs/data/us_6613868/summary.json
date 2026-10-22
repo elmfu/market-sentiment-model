@@ -2,24 +2,24 @@
   "product": "HP - OmniBook X Flip 2-in-1 - 14\" 2K Touch-Screen Laptop - Intel Core Ultra 5 226V - 16GB Memory - 512GB SSD - Copilot+ PC - Atmospheric Blue",
   "source": "bestbuy.com",
   "market": "US",
-  "total": 1164,
-  "with_text": 1164,
-  "date_range": "2025-05-09 to 2026-08-23",
-  "avg_rating": 4.71,
-  "satisfaction_score": 94.8,
+  "total": 1249,
+  "with_text": 1249,
+  "date_range": "2025-05-09 to 2026-10-21",
+  "avg_rating": 4.72,
+  "satisfaction_score": 95.0,
   "star_distribution": {
     "1": 25,
     "2": 9,
-    "3": 27,
-    "4": 158,
-    "5": 945
+    "3": 29,
+    "4": 167,
+    "5": 1019
   },
   "sentiment": {
-    "positive": 1103,
-    "neutral": 27,
+    "positive": 1186,
+    "neutral": 29,
     "negative": 34,
-    "positive_pct": 94.8,
+    "positive_pct": 95.0,
     "neutral_pct": 2.3,
-    "negative_pct": 2.9
+    "negative_pct": 2.7
   }
 }

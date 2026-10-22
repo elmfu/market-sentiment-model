@@ -3,13 +3,13 @@
     {
       "theme": "Battery Life",
       "count": 2,
-      "pct_of_reviews": 66.7,
+      "pct_of_reviews": 15.4,
       "quotes": []
     },
     {
       "theme": "Display Quality",
       "count": 2,
-      "pct_of_reviews": 66.7,
+      "pct_of_reviews": 15.4,
       "quotes": [
         "Fantastic laptop, I like the deep espresso colour and the screen is beautiful"
       ]
@@ -17,13 +17,13 @@
     {
       "theme": "Performance & Chip",
       "count": 1,
-      "pct_of_reviews": 33.3,
+      "pct_of_reviews": 7.7,
       "quotes": []
     },
     {
       "theme": "Build & Keyboard",
       "count": 1,
-      "pct_of_reviews": 33.3,
+      "pct_of_reviews": 7.7,
       "quotes": []
     },
     {
@@ -35,31 +35,41 @@
   ],
   "weaknesses": [
     {
-      "theme": "Performance & Chip",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
+      "theme": "Price & Value",
+      "count": 3,
+      "pct_of_reviews": 23.1,
+      "quotes": [
+        "Honestly, the HP OmniBook X Flip (14-kc0014AU) is way overpriced."
+      ]
     },
     {
-      "theme": "Battery Life",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
+      "theme": "Software & Ecosystem",
+      "count": 3,
+      "pct_of_reviews": 23.1,
+      "quotes": [
+        "I can’t enter windows after the update and HP support assist offer minimal assistance.",
+        "Issues with software since the laptop never booted up correctly."
+      ]
     },
     {
       "theme": "Display Quality",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Thermals & Cooling",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
+      "count": 2,
+      "pct_of_reviews": 15.4,
+      "quotes": [
+        "The OLED screen is great, but the lid is way too thick.",
+        "So far thos 2 in 1 has updated or tried to 4 times in 3 months which it lags on and does not get past the updating leave plugged in screen."
+      ]
     },
     {
       "theme": "Build & Keyboard",
+      "count": 2,
+      "pct_of_reviews": 15.4,
+      "quotes": [
+        "For around 60k-70k THB, you get a cheap-feeling plastic body that flexes easily instead of aluminum."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
       "count": 0,
       "pct_of_reviews": 0.0,
       "quotes": []

@@ -1,5 +1,22 @@
 [
   {
+    "review_id": "0286e6b9-d6cb-37b2-af72-8373bc9c4172",
+    "product_key": "us_6583279",
+    "market": "US",
+    "sku": "6583279",
+    "submitted_at": "2026-10-01T16:36:08.000-05:00",
+    "rating": 5,
+    "title": "Hp omnibook x",
+    "body": "I love this laptop. It is very helpful and very reliable and has gotten me through three years of college and hasn’t given me one problem. It even runs games and has great specs and awesome space. It is very reliable and I plan to use it for the years to come.",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP OmniBook X Copilot+ PC 14\" 2.2K Touch, Meteor Silver",
+    "topics": "",
+    "competitors": ""
+  },
+  {
     "review_id": "5927ec4c-cb8c-304e-82d5-9c2f77602dee",
     "product_key": "us_6583279",
     "market": "US",

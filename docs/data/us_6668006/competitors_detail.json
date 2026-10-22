@@ -2,7 +2,7 @@
   "competitors": [
     {
       "brand": "Apple/Mac",
-      "total_mentions": 4,
+      "total_mentions": 5,
       "reviews": [
         {
           "title": "A Darn Near Perfect School/Work Laptop!",
@@ -26,7 +26,7 @@
           "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": "1 additional review(s) also mention Apple/Mac."
+      "summary_of_remaining": "2 additional review(s) also mention Apple/Mac."
     },
     {
       "brand": "Dell",

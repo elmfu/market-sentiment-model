@@ -1,6 +1,20 @@
 {
   "competitors": [
     {
+      "brand": "Apple/Mac",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "HP laptop that looks to be a true Mac competitor",
+          "body": "I have had the HP Omnibook Ultra 14in laptop for a couple of weeks now and so have formed an opinion - overall it's a solid product with lots to like and few quirks. It's good enough power to use on the go especially with if you are not a fan of always connecting to power outlets like me. Surprising",
+          "excerpt": "Surprisingly feels lighter than a MacBook Air, guess due to weight distribution on account of a slightly larger footprint.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
       "brand": "Dell",
       "total_mentions": 1,
       "reviews": [

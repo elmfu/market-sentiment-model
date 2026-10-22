@@ -1,0 +1,25 @@
+{
+  "product": "HP OmniBook 5 Flip 2-in-1 Business Laptop 14\" 2K Touch, Intel Core 7, 16GB RAM, 1TB SSD",
+  "source": "walmart.com",
+  "market": "US",
+  "total": 1,
+  "with_text": 1,
+  "date_range": "2026-09-12 to 2026-09-12",
+  "avg_rating": 1.0,
+  "satisfaction_score": 0.0,
+  "star_distribution": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "sentiment": {
+    "positive": 0,
+    "neutral": 0,
+    "negative": 1,
+    "positive_pct": 0.0,
+    "neutral_pct": 0.0,
+    "negative_pct": 100.0
+  }
+}

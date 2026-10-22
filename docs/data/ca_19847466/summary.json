@@ -1,0 +1,25 @@
+{
+  "product": "HP OmniBook X Flip 16\" Touchscreen 2-in-1 Laptop -Eclipse Grey Aluminum (Intel Core Ultra 5 325/16GB RAM/1TB SSD)",
+  "source": "bestbuy.ca",
+  "market": "CA",
+  "total": 10,
+  "with_text": 9,
+  "date_range": "",
+  "avg_rating": 3.7,
+  "satisfaction_score": 60.0,
+  "star_distribution": {
+    "1": 2,
+    "2": 0,
+    "3": 2,
+    "4": 1,
+    "5": 5
+  },
+  "sentiment": {
+    "positive": 6,
+    "neutral": 2,
+    "negative": 2,
+    "positive_pct": 60.0,
+    "neutral_pct": 20.0,
+    "negative_pct": 20.0
+  }
+}

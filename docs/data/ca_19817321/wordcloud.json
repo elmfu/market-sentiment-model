@@ -1,11 +1,26 @@
 [
   {
+    "word": "screen",
+    "count": 5,
+    "sentiment": "neutral"
+  },
+  {
     "word": "specs",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "device",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
+    "word": "processor",
     "count": 3,
     "sentiment": "positive"
   },
   {
-    "word": "processor",
+    "word": "find",
     "count": 3,
     "sentiment": "positive"
   },
@@ -15,9 +30,54 @@
     "sentiment": "positive"
   },
   {
+    "word": "happy",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "help",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issues",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "run",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "setup",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "same",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "money",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
     "word": "mentioned",
     "count": 2,
     "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "initial",
+    "count": 2,
+    "sentiment": "neutral"
   },
   {
     "word": "specifications",
@@ -40,9 +100,9 @@
     "sentiment": "positive"
   },
   {
-    "word": "find",
+    "word": "however",
     "count": 2,
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "word": "information",
@@ -80,22 +140,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "happy",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
     "word": "experience",
     "count": 2,
     "sentiment": "positive"
   },
   {
     "word": "off",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "help",
     "count": 2,
     "sentiment": "positive"
   },
@@ -115,12 +165,62 @@
     "sentiment": "positive"
   },
   {
+    "word": "pen",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "end",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
     "word": "gpu",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "run",
+    "word": "never",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "zero",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "around",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "area",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "connect",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "last",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "wanted",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "trouble",
     "count": 2,
     "sentiment": "positive"
   },
@@ -135,7 +235,27 @@
     "sentiment": "positive"
   },
   {
+    "word": "compared",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
     "word": "larger",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "started",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "instructions",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
     "count": 2,
     "sentiment": "positive"
   },
@@ -145,158 +265,38 @@
     "sentiment": "positive"
   },
   {
+    "word": "base",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
     "word": "integrated",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "matching",
-    "count": 1,
+    "word": "clear",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "models",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "crisp",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ever",
+    "count": 2,
     "sentiment": "neutral"
   },
   {
-    "word": "product",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "ordered",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "bramalea",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "city",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "centre",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "best",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "store",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "yesterday",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "initial",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "impression",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "itself",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "mix",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "positive",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "doubtful",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "concerns",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "accuracy",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "listed",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "website",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "bestbuy",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "page",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "sales",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "representative",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "indicated",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "includes",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "fingerprint",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "sensor",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "receiving",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "setting",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "device",
-    "count": 1,
-    "sentiment": "neutral"
+    "word": "omni",
+    "count": 2,
+    "sentiment": "positive"
   }
 ]

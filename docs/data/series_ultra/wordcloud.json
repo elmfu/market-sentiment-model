@@ -1,42 +1,47 @@
 [
  {
   "word": "battery",
-  "count": 98,
+  "count": 103,
   "sentiment": "positive"
  },
  {
   "word": "fast",
+  "count": 98,
+  "sentiment": "positive"
+ },
+ {
+  "word": "screen",
   "count": 92,
   "sentiment": "positive"
  },
  {
   "word": "life",
-  "count": 85,
-  "sentiment": "positive"
- },
- {
-  "word": "screen",
-  "count": 85,
+  "count": 88,
   "sentiment": "positive"
  },
  {
   "word": "keyboard",
-  "count": 71,
+  "count": 76,
   "sentiment": "positive"
  },
  {
   "word": "work",
-  "count": 69,
+  "count": 74,
   "sentiment": "positive"
  },
  {
   "word": "performance",
-  "count": 67,
+  "count": 72,
   "sentiment": "positive"
  },
  {
   "word": "ultra",
-  "count": 66,
+  "count": 71,
+  "sentiment": "positive"
+ },
+ {
+  "word": "overall",
+  "count": 62,
   "sentiment": "positive"
  },
  {
@@ -45,37 +50,52 @@
   "sentiment": "positive"
  },
  {
-  "word": "overall",
+  "word": "display",
   "count": 58,
   "sentiment": "positive"
  },
  {
-  "word": "display",
+  "word": "light",
   "count": 57,
   "sentiment": "positive"
  },
  {
-  "word": "light",
-  "count": 52,
+  "word": "quality",
+  "count": 57,
   "sentiment": "positive"
  },
  {
   "word": "easy",
-  "count": 51,
-  "sentiment": "positive"
- },
- {
-  "word": "while",
-  "count": 50,
-  "sentiment": "positive"
- },
- {
-  "word": "quality",
-  "count": 50,
+  "count": 54,
   "sentiment": "positive"
  },
  {
   "word": "price",
+  "count": 53,
+  "sentiment": "positive"
+ },
+ {
+  "word": "while",
+  "count": 52,
+  "sentiment": "positive"
+ },
+ {
+  "word": "excellent",
+  "count": 51,
+  "sentiment": "positive"
+ },
+ {
+  "word": "gaming",
+  "count": 51,
+  "sentiment": "positive"
+ },
+ {
+  "word": "touch",
+  "count": 50,
+  "sentiment": "positive"
+ },
+ {
+  "word": "best",
   "count": 50,
   "sentiment": "positive"
  },
@@ -85,28 +105,8 @@
   "sentiment": "positive"
  },
  {
-  "word": "gaming",
-  "count": 49,
-  "sentiment": "positive"
- },
- {
-  "word": "touch",
-  "count": 49,
-  "sentiment": "positive"
- },
- {
-  "word": "excellent",
-  "count": 48,
-  "sentiment": "positive"
- },
- {
-  "word": "best",
-  "count": 47,
-  "sentiment": "positive"
- },
- {
   "word": "power",
-  "count": 46,
+  "count": 48,
   "sentiment": "positive"
  },
  {
@@ -116,21 +116,51 @@
  },
  {
   "word": "ram",
-  "count": 42,
+  "count": 44,
+  "sentiment": "positive"
+ },
+ {
+  "word": "windows",
+  "count": 43,
   "sentiment": "positive"
  },
  {
   "word": "machine",
-  "count": 41,
+  "count": 43,
   "sentiment": "positive"
  },
  {
   "word": "design",
-  "count": 40,
+  "count": 42,
   "sentiment": "positive"
  },
  {
   "word": "solid",
+  "count": 42,
+  "sentiment": "positive"
+ },
+ {
+  "word": "built",
+  "count": 42,
+  "sentiment": "positive"
+ },
+ {
+  "word": "speed",
+  "count": 42,
+  "sentiment": "positive"
+ },
+ {
+  "word": "feel",
+  "count": 41,
+  "sentiment": "positive"
+ },
+ {
+  "word": "copilot",
+  "count": 41,
+  "sentiment": "positive"
+ },
+ {
+  "word": "works",
   "count": 40,
   "sentiment": "positive"
  },
@@ -140,33 +170,48 @@
   "sentiment": "positive"
  },
  {
-  "word": "built",
+  "word": "feels",
   "count": 40,
   "sentiment": "positive"
  },
  {
-  "word": "copilot",
-  "count": 40,
-  "sentiment": "positive"
- },
- {
-  "word": "windows",
-  "count": 39,
-  "sentiment": "positive"
- },
- {
-  "word": "works",
-  "count": 39,
-  "sentiment": "positive"
- },
- {
-  "word": "speed",
+  "word": "recommend",
   "count": 39,
   "sentiment": "positive"
  },
  {
   "word": "tasks",
+  "count": 38,
+  "sentiment": "positive"
+ },
+ {
+  "word": "amazing",
+  "count": 38,
+  "sentiment": "positive"
+ },
+ {
+  "word": "portable",
+  "count": 38,
+  "sentiment": "positive"
+ },
+ {
+  "word": "without",
   "count": 37,
+  "sentiment": "positive"
+ },
+ {
+  "word": "oled",
+  "count": 37,
+  "sentiment": "positive"
+ },
+ {
+  "word": "look",
+  "count": 37,
+  "sentiment": "positive"
+ },
+ {
+  "word": "touchscreen",
+  "count": 36,
   "sentiment": "positive"
  },
  {
@@ -185,48 +230,18 @@
   "sentiment": "positive"
  },
  {
-  "word": "without",
-  "count": 36,
-  "sentiment": "positive"
- },
- {
-  "word": "feels",
-  "count": 36,
-  "sentiment": "positive"
- },
- {
-  "word": "feel",
-  "count": 36,
-  "sentiment": "positive"
- },
- {
-  "word": "portable",
-  "count": 36,
-  "sentiment": "positive"
- },
- {
-  "word": "touchscreen",
-  "count": 35,
-  "sentiment": "positive"
- },
- {
   "word": "processor",
+  "count": 36,
+  "sentiment": "positive"
+ },
+ {
+  "word": "sleek",
   "count": 35,
   "sentiment": "positive"
  },
  {
-  "word": "amazing",
+  "word": "storage",
   "count": 35,
-  "sentiment": "positive"
- },
- {
-  "word": "recommend",
-  "count": 34,
-  "sentiment": "positive"
- },
- {
-  "word": "oled",
-  "count": 34,
   "sentiment": "positive"
  },
  {
@@ -240,13 +255,33 @@
   "sentiment": "positive"
  },
  {
-  "word": "sleek",
+  "word": "hours",
   "count": 33,
   "sentiment": "positive"
  },
  {
-  "word": "look",
+  "word": "premium",
   "count": 33,
+  "sentiment": "positive"
+ },
+ {
+  "word": "lightweight",
+  "count": 33,
+  "sentiment": "positive"
+ },
+ {
+  "word": "laptops",
+  "count": 33,
+  "sentiment": "positive"
+ },
+ {
+  "word": "issues",
+  "count": 32,
+  "sentiment": "positive"
+ },
+ {
+  "word": "responsive",
+  "count": 32,
   "sentiment": "positive"
  },
  {
@@ -255,48 +290,13 @@
   "sentiment": "positive"
  },
  {
-  "word": "storage",
+  "word": "enough",
   "count": 32,
-  "sentiment": "positive"
- },
- {
-  "word": "laptops",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
-  "word": "responsive",
-  "count": 31,
-  "sentiment": "positive"
- },
- {
-  "word": "hours",
-  "count": 31,
   "sentiment": "positive"
  },
  {
   "word": "better",
-  "count": 31,
-  "sentiment": "positive"
- },
- {
-  "word": "premium",
-  "count": 31,
-  "sentiment": "positive"
- },
- {
-  "word": "easily",
-  "count": 31,
-  "sentiment": "positive"
- },
- {
-  "word": "lightweight",
-  "count": 30,
-  "sentiment": "positive"
- },
- {
-  "word": "high",
-  "count": 30,
+  "count": 32,
   "sentiment": "positive"
  }
 ]

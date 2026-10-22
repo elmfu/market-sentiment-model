@@ -13,6 +13,20 @@
         }
       ],
       "summary_of_remaining": ""
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "HP OmniBook 5 Laptop Next Gen AI 14-he0013QU",
+          "body": "Updated from 8 year old Dell laptop. New HP massive upgrade with amazing Oled screen where everything has colours popping out of the screen. So fast and such a delight to use in all areas. 14\" is so light and ideal for me to travel with. Excellent.",
+          "excerpt": "Updated from 8 year old Dell laptop.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
     }
   ]
 }

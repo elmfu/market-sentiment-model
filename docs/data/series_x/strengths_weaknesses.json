@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 292,
-   "pct_of_reviews": 32.3,
+   "count": 335,
+   "pct_of_reviews": 31.0,
    "quotes": [
     "The HP  OmniBook X with Snapdragon X Plus processor is the perfect laptop for travelers.",
     "PROs:\nPerformance - Exceptional in terms of speed and transitions from one webpage and/or software to the next.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 220,
-   "pct_of_reviews": 24.4,
+   "count": 257,
+   "pct_of_reviews": 23.8,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
     "Visuals/Display - Great picture, nice color and pixel quality.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 201,
-   "pct_of_reviews": 22.3,
+   "count": 235,
+   "pct_of_reviews": 21.8,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
     "Visuals/Display - Great picture, nice color and pixel quality.",
@@ -32,7 +32,7 @@
   },
   {
    "theme": "Battery Life",
-   "count": 163,
+   "count": 196,
    "pct_of_reviews": 18.1,
    "quotes": [
     "Best of all, the Snapdragon processor provides the best battery life of any laptop I have ever used.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Software & Ecosystem",
-   "count": 161,
-   "pct_of_reviews": 17.8,
+   "count": 170,
+   "pct_of_reviews": 15.7,
    "quotes": [
     "Everyday tasks such as watching videos, web browsing, and using software applications are an absolute pleasure with this laptop.",
     "PROs:\nPerformance - Exceptional in terms of speed and transitions from one webpage and/or software to the next.",
@@ -54,8 +54,8 @@
  "weaknesses": [
   {
    "theme": "Price & Value",
-   "count": 11,
-   "pct_of_reviews": 1.2,
+   "count": 18,
+   "pct_of_reviews": 1.7,
    "quotes": [
     "Finally, the price, it's been going on sale a lot!",
     "that's 1000$ on sale normally priced 1400 $.",
@@ -63,8 +63,28 @@
    ]
   },
   {
+   "theme": "Display Quality",
+   "count": 15,
+   "pct_of_reviews": 1.4,
+   "quotes": [
+    "Sadly, I had to just return it and go with the Galaxy Book 4 Edge, which has a better screen, a worse keyboard, worse storage, but a thinner build.",
+    "The display is incredible, bright, eye popping whites, pure blacks with no discernible light bleed.",
+    "Screen would go black after 2nd day of ownership."
+   ]
+  },
+  {
+   "theme": "Build & Keyboard",
+   "count": 15,
+   "pct_of_reviews": 1.4,
+   "quotes": [
+    "The touchpad is great, not haptic but I didn't care about that.",
+    "This computer is fast, light-weight but not reliable.",
+    "Terrible the keyboard does not communicate with the processor."
+   ]
+  },
+  {
    "theme": "Repairability",
-   "count": 11,
+   "count": 13,
    "pct_of_reviews": 1.2,
    "quotes": [
     "Hopefully they address these things with updates, or hopefully they fix any defects.",
@@ -73,29 +93,9 @@
    ]
   },
   {
-   "theme": "Build & Keyboard",
-   "count": 10,
-   "pct_of_reviews": 1.1,
-   "quotes": [
-    "The touchpad is great, not haptic but I didn't care about that.",
-    "This computer is fast, light-weight but not reliable.",
-    "Terrible the keyboard does not communicate with the processor."
-   ]
-  },
-  {
-   "theme": "Performance & Chip",
-   "count": 9,
-   "pct_of_reviews": 1.0,
-   "quotes": [
-    "[Employee of bestbuy] Laptop is super slow and freeze this is the third factory reset and still presenting problems.",
-    "It worked great until the snapdragon wasn’t compatible with half the software I use",
-    "I am a HUGE FAN of Snapdragon ARM Windows laptops."
-   ]
-  },
-  {
    "theme": "Software & Ecosystem",
-   "count": 8,
-   "pct_of_reviews": 0.9,
+   "count": 12,
+   "pct_of_reviews": 1.1,
    "quotes": [
     "It worked great until the snapdragon wasn’t compatible with half the software I use",
     "I am a HUGE FAN of Snapdragon ARM Windows laptops.",

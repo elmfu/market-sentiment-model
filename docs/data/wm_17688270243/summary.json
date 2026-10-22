@@ -2,24 +2,24 @@
   "product": "HP OmniBook 5 14\" 2K Laptop, Snapdragon X, 16GB RAM, 512GB SSD",
   "source": "walmart.com",
   "market": "US",
-  "total": 46,
-  "with_text": 46,
-  "date_range": "2025-08-04 to 2026-08-10",
-  "avg_rating": 4.22,
-  "satisfaction_score": 82.6,
+  "total": 93,
+  "with_text": 93,
+  "date_range": "2025-08-04 to 2026-10-14",
+  "avg_rating": 4.13,
+  "satisfaction_score": 81.7,
   "star_distribution": {
-    "1": 2,
-    "2": 4,
-    "3": 2,
-    "4": 12,
-    "5": 26
+    "1": 7,
+    "2": 6,
+    "3": 4,
+    "4": 27,
+    "5": 49
   },
   "sentiment": {
-    "positive": 38,
-    "neutral": 2,
-    "negative": 6,
-    "positive_pct": 82.6,
+    "positive": 76,
+    "neutral": 4,
+    "negative": 13,
+    "positive_pct": 81.7,
     "neutral_pct": 4.3,
-    "negative_pct": 13.0
+    "negative_pct": 14.0
   }
 }

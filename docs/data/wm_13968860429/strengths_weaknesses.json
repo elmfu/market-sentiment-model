@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 80,
-      "pct_of_reviews": 26.2,
+      "count": 98,
+      "pct_of_reviews": 25.4,
       "quotes": [
         "Setup was very smooth, just following the online directions.",
         "The setup was quick and easy right out of the box, and everything runs smoothly.",
@@ -11,19 +11,9 @@
       ]
     },
     {
-      "theme": "Price & Value",
-      "count": 68,
-      "pct_of_reviews": 22.3,
-      "quotes": [
-        "$20 upgrade for blue case was so worth it.",
-        "HP is reliable and high quality without breaking the budget.",
-        "Finally, the price: very low cost to this wonderful laptop computer."
-      ]
-    },
-    {
       "theme": "Build & Keyboard",
-      "count": 66,
-      "pct_of_reviews": 21.6,
+      "count": 85,
+      "pct_of_reviews": 22.0,
       "quotes": [
         "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
         "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect.",
@@ -31,9 +21,19 @@
       ]
     },
     {
+      "theme": "Price & Value",
+      "count": 82,
+      "pct_of_reviews": 21.2,
+      "quotes": [
+        "$20 upgrade for blue case was so worth it.",
+        "HP is reliable and high quality without breaking the budget.",
+        "Finally, the price: very low cost to this wonderful laptop computer."
+      ]
+    },
+    {
       "theme": "Display Quality",
-      "count": 53,
-      "pct_of_reviews": 17.4,
+      "count": 70,
+      "pct_of_reviews": 18.1,
       "quotes": [
         "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
         "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect.",
@@ -42,8 +42,8 @@
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 45,
-      "pct_of_reviews": 14.8,
+      "count": 53,
+      "pct_of_reviews": 13.7,
       "quotes": [
         "I purchased the Omni Book because support for Windows 10 was ending.",
         "The setup was quick and easy right out of the box, and everything runs smoothly.",
@@ -55,7 +55,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 11,
-      "pct_of_reviews": 3.6,
+      "pct_of_reviews": 2.8,
       "quotes": [
         "very slow when opening apps and navigating around.",
         "corrupted all of my devices I wanted a simple machine with windows 11 comes loaded to take over all of your devices with junk",
@@ -65,7 +65,7 @@
     {
       "theme": "Price & Value",
       "count": 10,
-      "pct_of_reviews": 3.3,
+      "pct_of_reviews": 2.6,
       "quotes": [
         "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop.",
         "I think it's a scam to get me to buy a more expensive item from the store.",
@@ -73,18 +73,8 @@
       ]
     },
     {
-      "theme": "Display Quality",
-      "count": 9,
-      "pct_of_reviews": 3.0,
-      "quotes": [
-        "Product review -\nHas a touch screen - I didn't know that.",
-        "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop.",
-        "My main concern of mine is the way that it freezes without notice, and I am very disappointed with the main screen."
-      ]
-    },
-    {
       "theme": "Performance & Chip",
-      "count": 7,
+      "count": 9,
       "pct_of_reviews": 2.3,
       "quotes": [
         "very slow when opening apps and navigating around.",
@@ -93,9 +83,19 @@
       ]
     },
     {
+      "theme": "Display Quality",
+      "count": 9,
+      "pct_of_reviews": 2.3,
+      "quotes": [
+        "Product review -\nHas a touch screen - I didn't know that.",
+        "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop.",
+        "My main concern of mine is the way that it freezes without notice, and I am very disappointed with the main screen."
+      ]
+    },
+    {
       "theme": "Battery Life",
       "count": 5,
-      "pct_of_reviews": 1.6,
+      "pct_of_reviews": 1.3,
       "quotes": [
         "For some reason its hard to plug and unplugged a HDMI or the charging cord from its ports.",
         "The battery performance (which is supposedly AI managed) is mediocre at best.",

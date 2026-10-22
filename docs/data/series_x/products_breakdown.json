@@ -5,7 +5,7 @@
   "market": "US",
   "series": "X",
   "sku": "6583279",
-  "reviews": 296,
+  "reviews": 297,
   "avg_rating": 4.51,
   "satisfaction": 88.2,
   "first_review": "2024-06-19",
@@ -17,11 +17,11 @@
   "market": "CA",
   "series": "X",
   "sku": "19817322",
-  "reviews": 238,
-  "avg_rating": 4.4,
-  "satisfaction": 87.0,
+  "reviews": 253,
+  "avg_rating": 4.37,
+  "satisfaction": 85.8,
   "first_review": "",
-  "top_complaint": "Price & Value"
+  "top_complaint": "Thermals & Cooling"
  },
  {
   "product_key": "us_6614110",
@@ -29,23 +29,11 @@
   "market": "US",
   "series": "X",
   "sku": "6614110",
-  "reviews": 162,
-  "avg_rating": 4.65,
-  "satisfaction": 92.0,
+  "reviews": 165,
+  "avg_rating": 4.66,
+  "satisfaction": 92.1,
   "first_review": "2025-04-13",
   "top_complaint": "Performance & Chip"
- },
- {
-  "product_key": "us_6593546",
-  "name": "HP OmniBook X Copilot+ PC 14\" 2.2K Touch, Glacier Silver",
-  "market": "US",
-  "series": "X",
-  "sku": "6593546",
-  "reviews": 95,
-  "avg_rating": 4.39,
-  "satisfaction": 86.3,
-  "first_review": "2024-10-23",
-  "top_complaint": "Price & Value"
  },
  {
   "product_key": "us_6668001",
@@ -53,11 +41,23 @@
   "market": "US",
   "series": "X",
   "sku": "6668001",
-  "reviews": 46,
-  "avg_rating": 4.74,
-  "satisfaction": 95.7,
+  "reviews": 135,
+  "avg_rating": 4.73,
+  "satisfaction": 94.8,
   "first_review": "2026-04-10",
   "top_complaint": "Battery Life"
+ },
+ {
+  "product_key": "us_6593546",
+  "name": "HP OmniBook X Copilot+ PC 14\" 2.2K Touch, Glacier Silver",
+  "market": "US",
+  "series": "X",
+  "sku": "6593546",
+  "reviews": 96,
+  "avg_rating": 4.4,
+  "satisfaction": 86.5,
+  "first_review": "2024-10-23",
+  "top_complaint": "Price & Value"
  },
  {
   "product_key": "ca_19205283",
@@ -65,23 +65,11 @@
   "market": "CA",
   "series": "X",
   "sku": "19205283",
-  "reviews": 45,
-  "avg_rating": 4.04,
-  "satisfaction": 75.6,
+  "reviews": 86,
+  "avg_rating": 4.05,
+  "satisfaction": 76.7,
   "first_review": "",
   "top_complaint": "Battery Life"
- },
- {
-  "product_key": "ca_17940457",
-  "name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
-  "market": "CA",
-  "series": "X",
-  "sku": "17940457",
-  "reviews": 9,
-  "avg_rating": 3.33,
-  "satisfaction": 55.6,
-  "first_review": "",
-  "top_complaint": "Performance & Chip"
  },
  {
   "product_key": "ca_19817321",
@@ -89,11 +77,11 @@
   "market": "CA",
   "series": "X",
   "sku": "19817321",
-  "reviews": 7,
-  "avg_rating": 4.43,
-  "satisfaction": 71.4,
+  "reviews": 19,
+  "avg_rating": 3.89,
+  "satisfaction": 63.2,
   "first_review": "",
-  "top_complaint": "—"
+  "top_complaint": "Display Quality"
  },
  {
   "product_key": "ca_19817319",
@@ -101,11 +89,23 @@
   "market": "CA",
   "series": "X",
   "sku": "19817319",
-  "reviews": 3,
-  "avg_rating": 4.33,
-  "satisfaction": 100.0,
+  "reviews": 13,
+  "avg_rating": 2.62,
+  "satisfaction": 38.5,
   "first_review": "",
-  "top_complaint": "—"
+  "top_complaint": "Price & Value"
+ },
+ {
+  "product_key": "ca_17940457",
+  "name": "HP OmniBook X 14\" Touchscreen Copilot+ PC Laptop (Snapdragon X Elite/16GB RAM/1TB SSD)",
+  "market": "CA",
+  "series": "X",
+  "sku": "17940457",
+  "reviews": 12,
+  "avg_rating": 3.58,
+  "satisfaction": 66.7,
+  "first_review": "",
+  "top_complaint": "Performance & Chip"
  },
  {
   "product_key": "ca_19817320",
@@ -113,11 +113,11 @@
   "market": "CA",
   "series": "X",
   "sku": "19817320",
-  "reviews": 1,
-  "avg_rating": 5.0,
-  "satisfaction": 100.0,
+  "reviews": 3,
+  "avg_rating": 4.0,
+  "satisfaction": 66.7,
   "first_review": "",
-  "top_complaint": "—"
+  "top_complaint": "Performance & Chip"
  },
  {
   "product_key": "us_6593547",

@@ -2,80 +2,89 @@
   "strengths": [
     {
       "theme": "Build & Keyboard",
-      "count": 7,
-      "pct_of_reviews": 30.4,
+      "count": 21,
+      "pct_of_reviews": 29.2,
       "quotes": [
+        "I received this as a gift from my husband, it is easy to use and the keyboard has a good layout feel and typing is made easy.",
         "The keyboard feels great to type on, the laptop runs quietly, and battery life has been excellent for my daily use.",
-        "It’s sleek with a metal top and the backlit keyboard makes it look on the higher end of laptops.",
-        "I hate the trackpad; the left click is super sensitive, you have to hit it just right."
+        "It’s sleek with a metal top and the backlit keyboard makes it look on the higher end of laptops."
       ]
     },
     {
       "theme": "Performance & Chip",
-      "count": 5,
-      "pct_of_reviews": 21.7,
+      "count": 18,
+      "pct_of_reviews": 25.0,
       "quotes": [
         "If you're looking for a reliable, fast, and well-built Windows laptop for work, school, or everyday use, I highly recommend the HP OmniBook 5.",
         "the new Ryzen 7 AI 350 is incredibly fast paired with 16gb DDR5 and the 2GB 860 graphics chip it handles tasks and games with ease.",
-        "I am pleased with the processor and overall performance."
-      ]
-    },
-    {
-      "theme": "Battery Life",
-      "count": 5,
-      "pct_of_reviews": 21.7,
-      "quotes": [
-        "The keyboard feels great to type on, the laptop runs quietly, and battery life has been excellent for my daily use.",
-        "Does everything I need it to do - only downside is that the battery life is not the best",
-        "Great sized screen for dual-tasking, Great battery life, Lightweight"
-      ]
-    },
-    {
-      "theme": "Software & Ecosystem",
-      "count": 4,
-      "pct_of_reviews": 17.4,
-      "quotes": [
-        "The 16GB of RAM keeps everything running smoothly, and the 512GB SSD makes Windows 11 boot quickly and applications load almost instantly.",
-        "Overall very happy with my purchase the setup was fast and I had no issues."
+        "Everything runs smoothly and quickly, and I love how easy it is to multitask between different programs and apps."
       ]
     },
     {
       "theme": "Display Quality",
-      "count": 3,
-      "pct_of_reviews": 13.0,
+      "count": 15,
+      "pct_of_reviews": 20.8,
       "quotes": [
         "The 16-inch display is bright, sharp, and comfortable to use for long periods.",
-        "Great sized screen for dual-tasking, Great battery life, Lightweight"
+        "The 16-inch screen is fantastic — it's a great size for everyday use without feeling too bulky.",
+        "The 2K display looks sharp and the Glacier Silver finish gives it a clean, modern look."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 13,
+      "pct_of_reviews": 18.1,
+      "quotes": [
+        "Everything runs smoothly and it also has strong battery life span.",
+        "The keyboard feels great to type on, the laptop runs quietly, and battery life has been excellent for my daily use.",
+        "The keyboard is comfortable to use, the display is clear and vibrant, and the battery life has been great for what I need."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 9,
+      "pct_of_reviews": 12.5,
+      "quotes": [
+        "The 16GB of RAM keeps everything running smoothly, and the 512GB SSD makes Windows 11 boot quickly and applications load almost instantly.",
+        "Overall very happy with my purchase the setup was fast and I had no issues.",
+        "Everything runs smoothly and quickly, and I love how easy it is to multitask between different programs and apps."
       ]
     }
   ],
   "weaknesses": [
     {
       "theme": "Performance & Chip",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
+      "count": 2,
+      "pct_of_reviews": 2.8,
+      "quotes": [
+        "It get's heated up very fast and especially during charging, battery backup is the worst, and AI is just a marketing gimmick"
+      ]
     },
     {
       "theme": "Battery Life",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
+      "count": 2,
+      "pct_of_reviews": 2.8,
+      "quotes": [
+        "It get's heated up very fast and especially during charging, battery backup is the worst, and AI is just a marketing gimmick"
+      ]
     },
     {
       "theme": "Display Quality",
-      "count": 0,
-      "pct_of_reviews": 0.0,
+      "count": 2,
+      "pct_of_reviews": 2.8,
+      "quotes": [
+        "I could hear the motor working but nothing would appear on the screen.",
+        "The laptop would be running but the screen doesnt come up."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 2,
+      "pct_of_reviews": 2.8,
       "quotes": []
     },
     {
       "theme": "Thermals & Cooling",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Build & Keyboard",
       "count": 0,
       "pct_of_reviews": 0.0,
       "quotes": []

@@ -2,24 +2,24 @@
   "product": "HP OmniBook 5 16\" 2K Touch Laptop, Intel Core Ultra 7 255U, 16GB RAM, 1TB SSD, Glacier Silver",
   "source": "walmart.com",
   "market": "US",
-  "total": 305,
-  "with_text": 305,
-  "date_range": "2025-08-07 to 2026-07-31",
-  "avg_rating": 4.12,
-  "satisfaction_score": 77.4,
+  "total": 386,
+  "with_text": 386,
+  "date_range": "2025-08-07 to 2026-10-11",
+  "avg_rating": 4.21,
+  "satisfaction_score": 80.1,
   "star_distribution": {
-    "1": 38,
-    "2": 12,
-    "3": 19,
-    "4": 42,
-    "5": 194
+    "1": 39,
+    "2": 14,
+    "3": 24,
+    "4": 59,
+    "5": 250
   },
   "sentiment": {
-    "positive": 236,
-    "neutral": 19,
-    "negative": 50,
-    "positive_pct": 77.4,
+    "positive": 309,
+    "neutral": 24,
+    "negative": 53,
+    "positive_pct": 80.1,
     "neutral_pct": 6.2,
-    "negative_pct": 16.4
+    "negative_pct": 13.7
   }
 }

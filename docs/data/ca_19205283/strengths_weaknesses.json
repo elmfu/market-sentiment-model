@@ -2,69 +2,90 @@
   "strengths": [
     {
       "theme": "Build & Keyboard",
-      "count": 12,
+      "count": 23,
       "pct_of_reviews": 26.7,
       "quotes": [
         "I wanted something thin, fast, a convertible, with backlit keys, and a touch screen.",
-        "It is compact, thin, light, and the battery lasts all day - i dont wven pack ny charger going to uni, and I am on it all day!",
-        "I bought this laptop for my daughter to download her embroidery design stitching programmes onto it."
-      ]
-    },
-    {
-      "theme": "Display Quality",
-      "count": 10,
-      "pct_of_reviews": 22.2,
-      "quotes": [
-        "I wanted something thin, fast, a convertible, with backlit keys, and a touch screen.",
-        "The screen is quite good for short notes with the pen (sold separately), so its thr perfect study companion.",
-        "Glass screen produces nice high-resolution pictures."
+        "l'd definitely recommend this as a mid-range but quality tool for everything from everyday use to in-depth gaming and working.",
+        "It is compact, thin, light, and the battery lasts all day - i dont wven pack ny charger going to uni, and I am on it all day!"
       ]
     },
     {
       "theme": "Performance & Chip",
-      "count": 9,
-      "pct_of_reviews": 20.0,
+      "count": 18,
+      "pct_of_reviews": 20.9,
       "quotes": [
         "I wanted something thin, fast, a convertible, with backlit keys, and a touch screen.",
-        "It is a powerful machine, but most of the functional software that makes it whole is already monetised by HP, unfortunately.",
-        "I was so happy to see the pen and the pen writing is smooth too."
+        "The HP OmniBook X Flip 14 (fk0009na)—powered by the AMD Ryzen AI 7 350 processor—is HP’s modern successor to the well-loved Spectre x360 series.",
+        "Not too heavy, very well built and responsive."
       ]
     },
     {
-      "theme": "Price & Value",
-      "count": 4,
-      "pct_of_reviews": 8.9,
+      "theme": "Display Quality",
+      "count": 17,
+      "pct_of_reviews": 19.8,
       "quotes": [
-        "The price was just right because of the promotion, and I saved a significant amount.",
-        "A pretty great laptop for the price; I got it on sale, too, which was great.",
-        "Bought at 1399 on sale, never been happier with HP."
+        "I wanted something thin, fast, a convertible, with backlit keys, and a touch screen.",
+        "The touch screen is perfect for designing, creating or just watching videos or movies.",
+        "The screen is quite good for short notes with the pen (sold separately), so its thr perfect study companion."
       ]
     },
     {
       "theme": "Battery Life",
-      "count": 3,
-      "pct_of_reviews": 6.7,
+      "count": 8,
+      "pct_of_reviews": 9.3,
       "quotes": [
         "It is compact, thin, light, and the battery lasts all day - i dont wven pack ny charger going to uni, and I am on it all day!",
         "Easy to charge and lasts at least half a day.",
-        "The new sleek design, battery life, and screen is next level."
+        "My last laptop was over 10 years old and didn't have the easy set up like this one so was a little confused."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 6,
+      "pct_of_reviews": 7.0,
+      "quotes": [
+        "The price was just right because of the promotion, and I saved a significant amount.",
+        "The only downside is the keyboard wich feels cheap and unpleasant to type on (especially moving from Lenovo laptop).",
+        "A pretty great laptop for the price; I got it on sale, too, which was great."
       ]
     }
   ],
   "weaknesses": [
     {
       "theme": "Battery Life",
-      "count": 2,
-      "pct_of_reviews": 4.4,
+      "count": 5,
+      "pct_of_reviews": 5.8,
       "quotes": [
-        "Everything it does takes 10x longer than my last computer.",
-        "Very short battery life, difficulty connecting and staying connected to wifi"
+        "Battery life is poor 6 hours and needs plugging in.",
+        "-keyboard mouse fails to respond when clicked on\n-Screen freezes\n-Battery life poor",
+        "Everything it does takes 10x longer than my last computer."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 4,
+      "pct_of_reviews": 4.7,
+      "quotes": [
+        "This is the 3rd HP 2 in 1 touch screen I have had over 12 years.",
+        "Screen failed on one unit after 2 weeks, took about 8hrs of chat help and 1 week to get it fixed.",
+        "-The screen locks in flip mode and the keyboard fails to re engage once it is back in laptop mode."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 4,
+      "pct_of_reviews": 4.7,
+      "quotes": [
+        "-The screen locks in flip mode and the keyboard fails to re engage once it is back in laptop mode.",
+        "I was initially excited about my new HP OmniBook X Flip 14-fk0010ca, but that was short-lived as the device arrived with a defective keyboard.",
+        "The keys are very close so unlike the normal laptop I’ve been pressing the wrong keys."
       ]
     },
     {
       "theme": "Repairability",
       "count": 2,
-      "pct_of_reviews": 4.4,
+      "pct_of_reviews": 2.3,
       "quotes": [
         "To make matters worse, I was informed that the repair process will take over a month to complete."
       ]
@@ -72,24 +93,8 @@
     {
       "theme": "Performance & Chip",
       "count": 1,
-      "pct_of_reviews": 2.2,
+      "pct_of_reviews": 1.2,
       "quotes": []
-    },
-    {
-      "theme": "Display Quality",
-      "count": 1,
-      "pct_of_reviews": 2.2,
-      "quotes": [
-        "Screen failed on one unit after 2 weeks, took about 8hrs of chat help and 1 week to get it fixed."
-      ]
-    },
-    {
-      "theme": "Build & Keyboard",
-      "count": 1,
-      "pct_of_reviews": 2.2,
-      "quotes": [
-        "I was initially excited about my new HP OmniBook X Flip 14-fk0010ca, but that was short-lived as the device arrived with a defective keyboard."
-      ]
     }
   ]
 }

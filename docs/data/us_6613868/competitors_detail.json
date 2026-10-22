@@ -2,7 +2,7 @@
   "competitors": [
     {
       "brand": "Apple/Mac",
-      "total_mentions": 20,
+      "total_mentions": 23,
       "reviews": [
         {
           "title": "What you need to know",
@@ -26,11 +26,11 @@
           "sentiment": "neutral"
         }
       ],
-      "summary_of_remaining": "17 additional review(s) also mention Apple/Mac."
+      "summary_of_remaining": "20 additional review(s) also mention Apple/Mac."
     },
     {
       "brand": "Dell",
-      "total_mentions": 8,
+      "total_mentions": 9,
       "reviews": [
         {
           "title": "Solid budget laptop",
@@ -54,7 +54,7 @@
           "sentiment": "negative"
         }
       ],
-      "summary_of_remaining": "5 additional review(s) also mention Dell."
+      "summary_of_remaining": "6 additional review(s) also mention Dell."
     },
     {
       "brand": "Lenovo",
@@ -86,7 +86,7 @@
     },
     {
       "brand": "Microsoft",
-      "total_mentions": 3,
+      "total_mentions": 4,
       "reviews": [
         {
           "title": "Amazing machine",
@@ -110,7 +110,7 @@
           "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": ""
+      "summary_of_remaining": "1 additional review(s) also mention Microsoft."
     },
     {
       "brand": "Acer",

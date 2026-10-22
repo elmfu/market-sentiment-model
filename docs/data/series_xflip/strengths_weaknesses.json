@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 1982,
-   "pct_of_reviews": 31.7,
+   "count": 2279,
+   "pct_of_reviews": 32.3,
    "quotes": [
     "Configuration\n------------------------\nWith Intel Core Ultra 9 288 V processor, 32GB RAM and 2 TB SSD, this is a high-end configuration laptop.",
     "It is snappy, doesn't lag, the battery lasts a really long time.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 1676,
-   "pct_of_reviews": 26.8,
+   "count": 1928,
+   "pct_of_reviews": 27.3,
    "quotes": [
     "This is a gorgeous, well-built, premium laptop that performs extremely well thanks to its high-end configurations and has a stunning OLED display.",
     "The display is where they cut corners here.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 1446,
-   "pct_of_reviews": 23.1,
+   "count": 1659,
+   "pct_of_reviews": 23.5,
    "quotes": [
     "With a high quality hinge, this can be used in 4 modes - laptop, tent, stand and Tab mode.",
     "BOTTOM LINE: The HP OmniBook X Flip-14” is an excellent mid-range laptop with a foldable display, plus it’s light and thin.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Price & Value",
-   "count": 1315,
-   "pct_of_reviews": 21.0,
+   "count": 1451,
+   "pct_of_reviews": 20.6,
    "quotes": [
     "In spite of the minor shortcomings, this laptop is worth the buy.",
     "for $700 this is a good choice and a great value.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Battery Life",
-   "count": 787,
-   "pct_of_reviews": 12.6,
+   "count": 884,
+   "pct_of_reviews": 12.5,
    "quotes": [
     "Battery\n----------------\nBattery easily lasts around 8 hours with continuous use.",
     "It is snappy, doesn't lag, the battery lasts a really long time.",
@@ -54,7 +54,7 @@
  "weaknesses": [
   {
    "theme": "Display Quality",
-   "count": 49,
+   "count": 55,
    "pct_of_reviews": 0.8,
    "quotes": [
     "We have owned it under 2 months and the display screen won’t come on.",
@@ -64,7 +64,7 @@
   },
   {
    "theme": "Software & Ecosystem",
-   "count": 45,
+   "count": 50,
    "pct_of_reviews": 0.7,
    "quotes": [
     "Since the initial setup, the device has been getting very hot.",
@@ -73,18 +73,8 @@
    ]
   },
   {
-   "theme": "Price & Value",
-   "count": 39,
-   "pct_of_reviews": 0.6,
-   "quotes": [
-    "Even at the price of $500, it's still not getting what you paid for when half the features break or just don't work.",
-    "Delivered outside my apt 10pm at night.....for anyone to steal and refused to refund my money for a Brand new Lap Top!!!!!!!!!",
-    "other then that it ran fine just disappointed that i had to deal with that in the first place"
-   ]
-  },
-  {
    "theme": "Build & Keyboard",
-   "count": 37,
+   "count": 42,
    "pct_of_reviews": 0.6,
    "quotes": [
     "A few of the keys stopped properly workong not even a month in.",
@@ -93,8 +83,18 @@
    ]
   },
   {
+   "theme": "Price & Value",
+   "count": 41,
+   "pct_of_reviews": 0.6,
+   "quotes": [
+    "Even at the price of $500, it's still not getting what you paid for when half the features break or just don't work.",
+    "Delivered outside my apt 10pm at night.....for anyone to steal and refused to refund my money for a Brand new Lap Top!!!!!!!!!",
+    "other then that it ran fine just disappointed that i had to deal with that in the first place"
+   ]
+  },
+  {
    "theme": "Performance & Chip",
-   "count": 35,
+   "count": 39,
    "pct_of_reviews": 0.6,
    "quotes": [
     "Also, the battery performance has really disappointed me.",

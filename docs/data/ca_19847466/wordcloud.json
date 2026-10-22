@@ -1,0 +1,302 @@
+[
+  {
+    "word": "problem",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
+    "word": "restart",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
+    "word": "ran",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
+    "word": "screen",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "crisp",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "started",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "issues",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "message",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "omni",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "setup",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "device",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "doses",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "super",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "chasis",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "firm",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "give",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "confidence",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "carrying",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "around",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "volume",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "normally",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "second",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "experiencing",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "several",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "down",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "itself",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "without",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "touching",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "buttons",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "appear",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "saying",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "happens",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "times",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "while",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "works",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "initial",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "fine",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "however",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "regular",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "messages",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "advising",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "become",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "annoying",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "never",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "experienced",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "windows",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "seems",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "uninstalled",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "mcafee",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "software",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "disabled",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "couple",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "bloat",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "ware",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "non",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "programs",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "run",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "diagnostic",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "program",
+    "count": 1,
+    "sentiment": "neutral"
+  }
+]

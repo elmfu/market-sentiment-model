@@ -1,6 +1,20 @@
 {
   "competitors": [
     {
+      "brand": "Apple/Mac",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Good except for hp pen, feels cheap(compared to Apple pen) and issues connecting to laptop",
+          "body": "I am still not able to connect to laptop",
+          "excerpt": "Good except for hp pen, feels cheap(compared to Apple pen) and issues connecting to laptop",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
       "brand": "Samsung",
       "total_mentions": 1,
       "reviews": [

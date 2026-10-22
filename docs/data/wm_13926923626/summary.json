@@ -2,24 +2,24 @@
   "product": "HP OmniBook 5 16\" Laptop, AMD Ryzen 5-8540U, 8GB RAM, 512GB SSD, Glacier Silver",
   "source": "walmart.com",
   "market": "US",
-  "total": 72,
-  "with_text": 72,
-  "date_range": "2025-07-19 to 2026-07-08",
-  "avg_rating": 4.47,
-  "satisfaction_score": 87.5,
+  "total": 159,
+  "with_text": 159,
+  "date_range": "2025-07-19 to 2026-10-09",
+  "avg_rating": 4.28,
+  "satisfaction_score": 81.1,
   "star_distribution": {
-    "1": 3,
-    "2": 1,
-    "3": 5,
-    "4": 13,
-    "5": 50
+    "1": 15,
+    "2": 3,
+    "3": 12,
+    "4": 22,
+    "5": 107
   },
   "sentiment": {
-    "positive": 63,
-    "neutral": 5,
-    "negative": 4,
-    "positive_pct": 87.5,
-    "neutral_pct": 6.9,
-    "negative_pct": 5.6
+    "positive": 129,
+    "neutral": 12,
+    "negative": 18,
+    "positive_pct": 81.1,
+    "neutral_pct": 7.5,
+    "negative_pct": 11.3
   }
 }

@@ -1,17 +1,107 @@
 [
   {
     "word": "build",
-    "count": 4,
+    "count": 5,
     "sentiment": "positive"
   },
   {
     "word": "quality",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gaming",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
     "count": 4,
     "sentiment": "positive"
   },
   {
     "word": "performance",
-    "count": 3,
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "chip",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "i've",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "since",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "games",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "portable",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "under",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "dell",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "looking",
+    "count": 2,
     "sentiment": "positive"
   },
   {
@@ -38,11 +128,6 @@
     "word": "want",
     "count": 2,
     "sentiment": "neutral"
-  },
-  {
-    "word": "gaming",
-    "count": 2,
-    "sentiment": "positive"
   },
   {
     "word": "ports",
@@ -85,217 +170,132 @@
     "sentiment": "neutral"
   },
   {
-    "word": "portable",
+    "word": "phenomenal",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "extremely",
+    "word": "pricey",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "practical",
+    "word": "average",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "easy",
+    "word": "responsiveness",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "around",
+    "word": "loved",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "lasting",
+    "word": "dropped",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "lightweight",
+    "word": "frames",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "champion",
+    "word": "chrome",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "loving",
+    "word": "mute",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "powerful",
+    "word": "button",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "built",
+    "word": "slow",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "igpu",
+    "word": "unresponsive",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "beautiful",
+    "word": "playing",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "oled",
+    "word": "videos",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "screen",
+    "word": "media",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "portability",
+    "word": "player",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "play",
+    "word": "weird",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "modern",
+    "word": "brand",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "games",
+    "word": "sticking",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "problem",
+    "word": "macos",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "plugged",
+    "word": "uses",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "difference",
+    "word": "beginning",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "looking",
+    "word": "september",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "sleek",
+    "word": "unlike",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "selection",
+    "word": "previous",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "along",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "take",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "dell",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "travel",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "hub",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "dock",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "fits",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "pocket",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "nic",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "power",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "passthrough",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "rampocolypse",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "prices",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "high",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ultra",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "felt",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "right",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "box",
+    "word": "laptops",
     "count": 1,
     "sentiment": "positive"
   }

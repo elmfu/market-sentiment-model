@@ -40,27 +40,32 @@
     "sentiment": "positive"
   },
   {
+    "word": "work",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
     "word": "best",
     "count": 10,
     "sentiment": "positive"
   },
   {
-    "word": "work",
+    "word": "product",
     "count": 9,
     "sentiment": "positive"
   },
   {
     "word": "recommend",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
     "count": 8,
     "sentiment": "positive"
   },
   {
     "word": "snapdragon",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "product",
     "count": 8,
     "sentiment": "positive"
   },
@@ -81,11 +86,6 @@
   },
   {
     "word": "amazing",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "excellent",
     "count": 7,
     "sentiment": "positive"
   },

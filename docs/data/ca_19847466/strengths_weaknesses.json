@@ -1,0 +1,70 @@
+{
+  "strengths": [
+    {
+      "theme": "Display Quality",
+      "count": 2,
+      "pct_of_reviews": 20.0,
+      "quotes": [
+        "Screen is super crisp ,Chasis is firm to give confidence in carrying around ."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 1,
+      "pct_of_reviews": 10.0,
+      "quotes": [
+        "- Yes, make more laptop base models customizeable, like back in 2019, with my last laptop."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 1,
+      "pct_of_reviews": 10.0,
+      "quotes": []
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Thermals & Cooling",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Performance & Chip",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Battery Life",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Display Quality",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Thermals & Cooling",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    }
+  ]
+}

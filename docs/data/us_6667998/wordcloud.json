@@ -1,7 +1,217 @@
 [
   {
+    "word": "quality",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "snapdragon",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
     "word": "ultra",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
     "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "premium",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issues",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "high",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "programs",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "arm",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "back",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "weight",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fan",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "running",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "printer",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "amazing",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speakers",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "managing",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "same",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hours",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "early",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fine",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "solid",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "enough",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "slim",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "first",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "side",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "open",
+    "count": 2,
     "sentiment": "positive"
   },
   {
@@ -11,46 +221,6 @@
   },
   {
     "word": "while",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "power",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "screen",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "premium",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "build",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quality",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "issues",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "light",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "weight",
     "count": 2,
     "sentiment": "positive"
   },
@@ -70,232 +240,62 @@
     "sentiment": "positive"
   },
   {
-    "word": "snapdragon",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
     "word": "elite",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "outstanding",
+    "word": "extremely",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "say",
+    "word": "long",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "enough",
+    "word": "game",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "battery",
+    "word": "changer",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "life",
+    "word": "lasts",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "next",
+    "word": "draining",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "level",
+    "word": "useless",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "giving",
+    "word": "processing",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "plenty",
+    "word": "never",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "computing",
+    "word": "heard",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "oled",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "stunning",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "want",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "high",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "wrong",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "works",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "device",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "replace",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "dell",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "beginning",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "managing",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "zoom",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "meetings",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "same",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "applications",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "open",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "support",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "happening",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "meeting",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "solved",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "having",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "anymore",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "hub",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "connects",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "seamlessly",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "dual",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "monitors",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "office",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "fine",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "connected",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "port",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "converter",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "allows",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "peripherals",
+    "word": "sound",
     "count": 1,
     "sentiment": "positive"
   }

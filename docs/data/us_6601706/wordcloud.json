@@ -1,17 +1,32 @@
 [
   {
+    "word": "fast",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
     "word": "battery",
     "count": 27,
     "sentiment": "positive"
   },
   {
-    "word": "fast",
-    "count": 26,
+    "word": "best",
+    "count": 23,
     "sentiment": "positive"
   },
   {
-    "word": "screen",
-    "count": 24,
+    "word": "price",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 22,
     "sentiment": "positive"
   },
   {
@@ -20,23 +35,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "best",
-    "count": 22,
-    "sentiment": "positive"
-  },
-  {
-    "word": "light",
-    "count": 21,
-    "sentiment": "positive"
-  },
-  {
     "word": "life",
     "count": 21,
-    "sentiment": "positive"
-  },
-  {
-    "word": "price",
-    "count": 20,
     "sentiment": "positive"
   },
   {
@@ -45,13 +45,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "display",
+    "word": "work",
     "count": 18,
     "sentiment": "positive"
   },
   {
-    "word": "work",
-    "count": 17,
+    "word": "display",
+    "count": 18,
     "sentiment": "positive"
   },
   {
@@ -60,23 +60,38 @@
     "sentiment": "positive"
   },
   {
+    "word": "ultra",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
     "word": "excellent",
     "count": 15,
     "sentiment": "positive"
   },
   {
-    "word": "ultra",
-    "count": 15,
+    "word": "quality",
+    "count": 13,
     "sentiment": "positive"
   },
   {
-    "word": "flip",
-    "count": 15,
+    "word": "lightweight",
+    "count": 13,
     "sentiment": "positive"
   },
   {
-    "word": "touch",
-    "count": 14,
+    "word": "amazing",
+    "count": 13,
     "sentiment": "positive"
   },
   {
@@ -85,37 +100,22 @@
     "sentiment": "positive"
   },
   {
+    "word": "ever",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
     "word": "happy",
     "count": 12,
     "sentiment": "positive"
   },
   {
-    "word": "quality",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "amazing",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "lightweight",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ever",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
     "word": "powerful",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "recommend",
     "count": 11,
     "sentiment": "positive"
   },
@@ -127,6 +127,16 @@
   {
     "word": "super",
     "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 10,
     "sentiment": "positive"
   },
   {
@@ -155,7 +165,32 @@
     "sentiment": "positive"
   },
   {
-    "word": "laptops",
+    "word": "product",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "weight",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "around",
     "count": 9,
     "sentiment": "positive"
   },
@@ -165,12 +200,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "weight",
+    "word": "back",
     "count": 8,
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
-    "word": "design",
+    "word": "pretty",
     "count": 8,
     "sentiment": "positive"
   },
@@ -190,11 +225,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "speed",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
     "word": "usb",
     "count": 8,
     "sentiment": "positive"
@@ -205,33 +235,38 @@
     "sentiment": "positive"
   },
   {
-    "word": "size",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
     "word": "perfect",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "power",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "product",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "around",
     "count": 8,
     "sentiment": "positive"
   },
   {
     "word": "especially",
     "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "port",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hard",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "now",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "premium",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "storage",
+    "count": 7,
     "sentiment": "positive"
   },
   {
@@ -260,43 +295,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "pretty",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
     "word": "awesome",
     "count": 7,
     "sentiment": "positive"
-  },
-  {
-    "word": "daily",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "reliable",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "easily",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "run",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "worth",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "back",
-    "count": 7,
-    "sentiment": "neutral"
   }
 ]

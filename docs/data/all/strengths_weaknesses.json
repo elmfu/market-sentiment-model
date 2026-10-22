@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 2873,
-   "pct_of_reviews": 33.1,
+   "count": 3369,
+   "pct_of_reviews": 32.9,
    "quotes": [
     "The HP  OmniBook X with Snapdragon X Plus processor is the perfect laptop for travelers.",
     "Laptop is very fast and the best for multi tasking.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 2343,
-   "pct_of_reviews": 27.0,
+   "count": 2777,
+   "pct_of_reviews": 27.1,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
     "I've tried the Lenovo X1 Carbon, the Dell XPS,  the Lenovo Slim 7x and the Asus Zenbook OLED models.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 2183,
-   "pct_of_reviews": 25.1,
+   "count": 2599,
+   "pct_of_reviews": 25.4,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
     "Visuals/Display - Great picture, nice color and pixel quality.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Price & Value",
-   "count": 1744,
-   "pct_of_reviews": 20.1,
+   "count": 1968,
+   "pct_of_reviews": 19.2,
    "quotes": [
     "* The price tag is a bit steep, but I was able to snap this up on sale.",
     "In spite of the minor shortcomings, this laptop is worth the buy.",
@@ -42,7 +42,7 @@
   },
   {
    "theme": "Battery Life",
-   "count": 1284,
+   "count": 1514,
    "pct_of_reviews": 14.8,
    "quotes": [
     "Best of all, the Snapdragon processor provides the best battery life of any laptop I have ever used.",
@@ -53,19 +53,9 @@
  ],
  "weaknesses": [
   {
-   "theme": "Software & Ecosystem",
-   "count": 93,
-   "pct_of_reviews": 1.1,
-   "quotes": [
-    "Disable the trackpad, and expected my mouse to work, which is a Microsoft mouse, and wake up the device.",
-    "Like, the bluetooth in gone (not in device manager anymore - so cannot reinstall a driver).",
-    "very slow when opening apps and navigating around."
-   ]
-  },
-  {
    "theme": "Display Quality",
-   "count": 90,
-   "pct_of_reviews": 1.0,
+   "count": 119,
+   "pct_of_reviews": 1.2,
    "quotes": [
     "Product review -\nHas a touch screen - I didn't know that.",
     "Product review -\nHas a touch screen - I didn't know that.",
@@ -73,8 +63,28 @@
    ]
   },
   {
+   "theme": "Software & Ecosystem",
+   "count": 107,
+   "pct_of_reviews": 1.0,
+   "quotes": [
+    "Disable the trackpad, and expected my mouse to work, which is a Microsoft mouse, and wake up the device.",
+    "Like, the bluetooth in gone (not in device manager anymore - so cannot reinstall a driver).",
+    "very slow when opening apps and navigating around."
+   ]
+  },
+  {
+   "theme": "Price & Value",
+   "count": 102,
+   "pct_of_reviews": 1.0,
+   "quotes": [
+    "Even at the price of $500, it's still not getting what you paid for when half the features break or just don't work.",
+    "I did, but since open box, all they would do it give me a refund, not replace it (and no more open boxes of this model either at that price).",
+    "Delivered outside my apt 10pm at night.....for anyone to steal and refused to refund my money for a Brand new Lap Top!!!!!!!!!"
+   ]
+  },
+  {
    "theme": "Build & Keyboard",
-   "count": 79,
+   "count": 95,
    "pct_of_reviews": 0.9,
    "quotes": [
     "Build quality is great, screen etc just like the previous hp spectres.",
@@ -83,19 +93,9 @@
    ]
   },
   {
-   "theme": "Price & Value",
-   "count": 78,
-   "pct_of_reviews": 0.9,
-   "quotes": [
-    "Even at the price of $500, it's still not getting what you paid for when half the features break or just don't work.",
-    "I did, but since open box, all they would do it give me a refund, not replace it (and no more open boxes of this model either at that price).",
-    "Delivered outside my apt 10pm at night.....for anyone to steal and refused to refund my money for a Brand new Lap Top!!!!!!!!!"
-   ]
-  },
-  {
    "theme": "Performance & Chip",
-   "count": 71,
-   "pct_of_reviews": 0.8,
+   "count": 90,
+   "pct_of_reviews": 0.9,
    "quotes": [
     "[Employee of bestbuy] Laptop is super slow and freeze this is the third factory reset and still presenting problems.",
     "ive tried everything but the numbers are comparable to or below 8000u ryzen series igpu performance.",

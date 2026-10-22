@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "review_id": "wm_440363388",
+    "product_key": "wm_17497203931",
+    "market": "US",
+    "sku": "17497203931",
+    "submitted_at": "2026-09-12T00:00:00",
+    "rating": 1,
+    "title": "Awful!",
+    "body": "If there was lower rating I'd give it. Unit riddled with malware and viruses.",
+    "is_recommended": null,
+    "helpful_votes": 0,
+    "verified": true,
+    "lang": "en",
+    "product_name": "HP OmniBook 5 Flip 2-in-1 Business Laptop 14\" 2K Touch, Intel Core 7, 16GB RAM, 1TB SSD",
+    "topics": "",
+    "competitors": ""
+  }
+]

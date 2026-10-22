@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 65,
-      "pct_of_reviews": 50.4,
+      "count": 66,
+      "pct_of_reviews": 50.0,
       "quotes": [
         "In my case I noted pretty well the improvement on performance.",
         "This thing is fast and the battery life is amazing.",
@@ -12,8 +12,8 @@
     },
     {
       "theme": "Display Quality",
-      "count": 43,
-      "pct_of_reviews": 33.3,
+      "count": 45,
+      "pct_of_reviews": 34.1,
       "quotes": [
         "The 3K OLED screen is absolutely stunning and something I didn’t realize I needed.",
         "Lovely screen with lovely colors and definition.",
@@ -22,7 +22,7 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 41,
+      "count": 42,
       "pct_of_reviews": 31.8,
       "quotes": [
         "It’s sleek and features three USB-C ports.",
@@ -32,8 +32,8 @@
     },
     {
       "theme": "Price & Value",
-      "count": 30,
-      "pct_of_reviews": 23.3,
+      "count": 31,
+      "pct_of_reviews": 23.5,
       "quotes": [
         "The only downside is that it was at the top of my budget, but overall, it has been well worth the investment.",
         "For the price it should  have at least come with the pen.",
@@ -43,7 +43,7 @@
     {
       "theme": "Battery Life",
       "count": 29,
-      "pct_of_reviews": 22.5,
+      "pct_of_reviews": 22.0,
       "quotes": [
         "The laptop is impressively lightweight, with a battery life of about four hours, and the compact charger is convenient for travel.",
         "This thing is fast and the battery life is amazing.",
@@ -91,7 +91,7 @@
     {
       "theme": "Display Quality",
       "count": 2,
-      "pct_of_reviews": 1.6,
+      "pct_of_reviews": 1.5,
       "quotes": [
         "The screen is legitimately beautiful, and the touchpad is one of the best I’ve used on any Windows laptop."
       ]

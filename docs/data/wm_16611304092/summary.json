@@ -2,24 +2,24 @@
   "product": "HP OmniBook 5 Flip 14\" FHD+ 2-in-1 Touch Laptop, Intel Core 5 120U, 8GB RAM, 512GB SSD",
   "source": "walmart.com",
   "market": "US",
-  "total": 31,
-  "with_text": 31,
-  "date_range": "2025-11-13 to 2026-07-30",
-  "avg_rating": 4.48,
-  "satisfaction_score": 87.1,
+  "total": 74,
+  "with_text": 74,
+  "date_range": "2025-11-13 to 2026-10-13",
+  "avg_rating": 4.36,
+  "satisfaction_score": 85.1,
   "star_distribution": {
-    "1": 1,
-    "2": 1,
-    "3": 2,
-    "4": 5,
-    "5": 22
+    "1": 5,
+    "2": 2,
+    "3": 4,
+    "4": 13,
+    "5": 50
   },
   "sentiment": {
-    "positive": 27,
-    "neutral": 2,
-    "negative": 2,
-    "positive_pct": 87.1,
-    "neutral_pct": 6.5,
-    "negative_pct": 6.5
+    "positive": 63,
+    "neutral": 4,
+    "negative": 7,
+    "positive_pct": 85.1,
+    "neutral_pct": 5.4,
+    "negative_pct": 9.5
   }
 }

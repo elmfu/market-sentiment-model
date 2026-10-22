@@ -3,7 +3,7 @@
     {
       "theme": "Display Quality",
       "count": 3,
-      "pct_of_reviews": 33.3,
+      "pct_of_reviews": 25.0,
       "quotes": [
         "There are many things about the laptop that is good, for example: the weight, battery life, the high resolution display, and the keyboard.",
         "Incredibly fast (like lightning), very well made, beautiful design, beautiful display, great sound, great keyboard!"
@@ -12,7 +12,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 3,
-      "pct_of_reviews": 33.3,
+      "pct_of_reviews": 25.0,
       "quotes": [
         "There are many things about the laptop that is good, for example: the weight, battery life, the high resolution display, and the keyboard.",
         "Incredibly fast (like lightning), very well made, beautiful design, beautiful display, great sound, great keyboard!",
@@ -22,7 +22,7 @@
     {
       "theme": "Performance & Chip",
       "count": 2,
-      "pct_of_reviews": 22.2,
+      "pct_of_reviews": 16.7,
       "quotes": [
         "The Snapdragon X Elite doesn't consume that much power that I can go without charge for a decently long period, about 3 days.",
         "Incredibly fast (like lightning), very well made, beautiful design, beautiful display, great sound, great keyboard!"
@@ -31,7 +31,7 @@
     {
       "theme": "Battery Life",
       "count": 2,
-      "pct_of_reviews": 22.2,
+      "pct_of_reviews": 16.7,
       "quotes": [
         "There are many things about the laptop that is good, for example: the weight, battery life, the high resolution display, and the keyboard.",
         "Excellent battery life and very nice keyboard with large keys."
@@ -48,7 +48,7 @@
     {
       "theme": "Performance & Chip",
       "count": 1,
-      "pct_of_reviews": 11.1,
+      "pct_of_reviews": 8.3,
       "quotes": [
         "This computer is fast, light-weight but not reliable."
       ]
@@ -56,7 +56,7 @@
     {
       "theme": "Display Quality",
       "count": 1,
-      "pct_of_reviews": 11.1,
+      "pct_of_reviews": 8.3,
       "quotes": [
         "My computer is NOT a touchscreen, but when touching the corners of the screen, the open app will shutdown."
       ]
@@ -64,7 +64,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 1,
-      "pct_of_reviews": 11.1,
+      "pct_of_reviews": 8.3,
       "quotes": [
         "This computer is fast, light-weight but not reliable."
       ]
@@ -72,7 +72,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 1,
-      "pct_of_reviews": 11.1,
+      "pct_of_reviews": 8.3,
       "quotes": [
         "My computer is NOT a touchscreen, but when touching the corners of the screen, the open app will shutdown."
       ]

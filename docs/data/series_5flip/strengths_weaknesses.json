@@ -2,38 +2,38 @@
  "strengths": [
   {
    "theme": "Build & Keyboard",
-   "count": 21,
-   "pct_of_reviews": 35.6,
+   "count": 43,
+   "pct_of_reviews": 29.7,
    "quotes": [
-    "What's great about this flip book is that it works on a  360° hinge that adapts to how you want to use it, both vertical and portrait.",
-    "What's great about this flip book is that it works on a  360° hinge that adapts to how you want to use it, both vertical and portrait.",
-    "The touch screen works really smoothly and it is very easy to use both touchscreen and the touchpad."
+    "Keyboard very comfortable to work with and I really love the flip feature.",
+    "Keyboard very comfortable to work with and I really love the flip feature.",
+    "This laptop runs super smooth and the 360 design makes it easier to keep studying while relaxing."
    ]
   },
   {
    "theme": "Display Quality",
-   "count": 18,
-   "pct_of_reviews": 30.5,
+   "count": 36,
+   "pct_of_reviews": 24.8,
    "quotes": [
     "Easy to use, enjoy the flip & touchscreen.",
     "Easy to use, enjoy the flip & touchscreen.",
-    "The lightweight and slim design makes it so easy for me to carry around in my bag opposed to my 15.6 inch screen laptop."
+    "Screen is a decent size as well, with a lot of updated features."
    ]
   },
   {
    "theme": "Performance & Chip",
-   "count": 16,
-   "pct_of_reviews": 27.1,
+   "count": 32,
+   "pct_of_reviews": 22.1,
    "quotes": [
-    "The HP OmniBook 5 Flip 14\" Laptop is an impressive flip book that has an Intel® Core™ i5 processor, 16GB TAM and 512GB of SSD storage.",
-    "The HP OmniBook 5 Flip 14\" Laptop is an impressive flip book that has an Intel® Core™ i5 processor, 16GB TAM and 512GB of SSD storage.",
-    "It's quick and responsive with no noticeable lag even when I have multiple things open."
+    "This laptop runs super smooth and the 360 design makes it easier to keep studying while relaxing.",
+    "This laptop runs super smooth and the 360 design makes it easier to keep studying while relaxing.",
+    "The HP OmniBook 5 Flip 14\" Laptop is an impressive flip book that has an Intel® Core™ i5 processor, 16GB TAM and 512GB of SSD storage."
    ]
   },
   {
    "theme": "Battery Life",
-   "count": 16,
-   "pct_of_reviews": 27.1,
+   "count": 28,
+   "pct_of_reviews": 19.3,
    "quotes": [
     "You get to 15 hours of battery life - I found that I can easily get 6+ hours doing intensive tasks.",
     "You get to 15 hours of battery life - I found that I can easily get 6+ hours doing intensive tasks.",
@@ -41,60 +41,61 @@
    ]
   },
   {
-   "theme": "Ports & Connectivity",
-   "count": 8,
-   "pct_of_reviews": 13.6,
+   "theme": "Software & Ecosystem",
+   "count": 20,
+   "pct_of_reviews": 13.8,
    "quotes": [
-    "It has 2x USB-A ports, 2x USB-C, 1x HDMI, 1x display.",
-    "It has 2x USB-A ports, 2x USB-C, 1x HDMI, 1x display.",
-    "2.Long lasting battery\r\n3.Great audio and video quality\r\n4.Easy connectivity with mobile and bluetooth device\r\n5.Excellent for multitasking."
+    "This HP OmniBook 5 flip 14 Laptop was  my Husband dreams so he will having under the tree in Christmas Day 🎁 \nUntil in using and setup for him lol",
+    "This HP OmniBook 5 flip 14 Laptop was  my Husband dreams so he will having under the tree in Christmas Day 🎁 \nUntil in using and setup for him lol",
+    "One thing I was quite disappointed with was the fact I can't use windows hello on it."
    ]
   }
  ],
  "weaknesses": [
   {
    "theme": "Display Quality",
-   "count": 4,
-   "pct_of_reviews": 6.8,
+   "count": 8,
+   "pct_of_reviews": 5.5,
    "quotes": [
     "I even faced a screen light‑leak issue within a short time of usage.",
     "I even faced a screen light‑leak issue within a short time of usage.",
-    "power light on but screen black & no light on keyboard"
-   ]
-  },
-  {
-   "theme": "Build & Keyboard",
-   "count": 4,
-   "pct_of_reviews": 6.8,
-   "quotes": [
-    "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
-    "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
     "power light on but screen black & no light on keyboard"
    ]
   },
   {
    "theme": "Performance & Chip",
-   "count": 2,
+   "count": 5,
    "pct_of_reviews": 3.4,
    "quotes": [
     "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls.",
     "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
    ]
+  },
+  {
+   "theme": "Build & Keyboard",
+   "count": 4,
+   "pct_of_reviews": 2.8,
+   "quotes": [
+    "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
+    "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
+    "power light on but screen black & no light on keyboard"
+   ]
+  },
+  {
+   "theme": "Price & Value",
+   "count": 4,
+   "pct_of_reviews": 2.8,
+   "quotes": []
   },
   {
    "theme": "Software & Ecosystem",
-   "count": 2,
-   "pct_of_reviews": 3.4,
+   "count": 3,
+   "pct_of_reviews": 2.1,
    "quotes": [
     "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls.",
-    "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
+    "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls.",
+    "I don't like that you have to have a Microsoft Account to set it up."
    ]
-  },
-  {
-   "theme": "Battery Life",
-   "count": 0,
-   "pct_of_reviews": 0.0,
-   "quotes": []
   }
  ]
 }

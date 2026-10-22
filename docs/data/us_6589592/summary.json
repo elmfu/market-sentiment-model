@@ -2,24 +2,24 @@
   "product": "HP OmniBook Ultra Copilot+ PC 14\" 2.2K Touch, Meteor Silver",
   "source": "bestbuy.com",
   "market": "US",
-  "total": 187,
-  "with_text": 187,
-  "date_range": "2024-09-14 to 2026-07-01",
-  "avg_rating": 4.44,
-  "satisfaction_score": 87.2,
+  "total": 192,
+  "with_text": 192,
+  "date_range": "2024-09-14 to 2026-10-10",
+  "avg_rating": 4.45,
+  "satisfaction_score": 87.5,
   "star_distribution": {
     "1": 11,
     "2": 4,
     "3": 9,
-    "4": 30,
-    "5": 133
+    "4": 31,
+    "5": 137
   },
   "sentiment": {
-    "positive": 163,
+    "positive": 168,
     "neutral": 9,
     "negative": 15,
-    "positive_pct": 87.2,
-    "neutral_pct": 4.8,
-    "negative_pct": 8.0
+    "positive_pct": 87.5,
+    "neutral_pct": 4.7,
+    "negative_pct": 7.8
   }
 }

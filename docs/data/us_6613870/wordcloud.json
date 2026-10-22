@@ -1,12 +1,12 @@
 [
   {
     "word": "screen",
-    "count": 122,
+    "count": 123,
     "sentiment": "positive"
   },
   {
     "word": "best",
-    "count": 92,
+    "count": 95,
     "sentiment": "positive"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "word": "fast",
-    "count": 86,
+    "count": 87,
     "sentiment": "positive"
   },
   {
@@ -26,7 +26,12 @@
   },
   {
     "word": "battery",
-    "count": 69,
+    "count": 70,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 66,
     "sentiment": "positive"
   },
   {
@@ -35,38 +40,33 @@
     "sentiment": "positive"
   },
   {
-    "word": "work",
-    "count": 64,
-    "sentiment": "positive"
-  },
-  {
     "word": "recommend",
-    "count": 61,
+    "count": 62,
     "sentiment": "positive"
   },
   {
     "word": "perfect",
-    "count": 58,
+    "count": 59,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 55,
     "sentiment": "positive"
   },
   {
     "word": "keyboard",
     "count": 55,
-    "sentiment": "positive"
-  },
-  {
-    "word": "product",
-    "count": 55,
-    "sentiment": "positive"
-  },
-  {
-    "word": "touch",
-    "count": 54,
-    "sentiment": "positive"
-  },
-  {
-    "word": "works",
-    "count": 53,
     "sentiment": "positive"
   },
   {
@@ -76,7 +76,17 @@
   },
   {
     "word": "tablet",
-    "count": 46,
+    "count": 47,
+    "sentiment": "positive"
+  },
+  {
+    "word": "flip",
+    "count": 44,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 44,
     "sentiment": "positive"
   },
   {
@@ -90,28 +100,18 @@
     "sentiment": "positive"
   },
   {
-    "word": "features",
-    "count": 43,
-    "sentiment": "positive"
-  },
-  {
-    "word": "flip",
-    "count": 42,
-    "sentiment": "positive"
-  },
-  {
     "word": "school",
     "count": 41,
     "sentiment": "positive"
   },
   {
     "word": "needed",
-    "count": 39,
+    "count": 40,
     "sentiment": "positive"
   },
   {
     "word": "performance",
-    "count": 37,
+    "count": 38,
     "sentiment": "positive"
   },
   {
@@ -140,13 +140,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "set",
+    "word": "highly",
     "count": 31,
     "sentiment": "positive"
   },
   {
-    "word": "highly",
-    "count": 30,
+    "word": "set",
+    "count": 31,
     "sentiment": "positive"
   },
   {
@@ -175,6 +175,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "size",
+    "count": 26,
+    "sentiment": "positive"
+  },
+  {
     "word": "definitely",
     "count": 26,
     "sentiment": "positive"
@@ -192,11 +197,6 @@
   {
     "word": "value",
     "count": 26,
-    "sentiment": "positive"
-  },
-  {
-    "word": "size",
-    "count": 25,
     "sentiment": "positive"
   },
   {
@@ -270,6 +270,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "big",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
     "word": "light",
     "count": 20,
     "sentiment": "positive"
@@ -290,12 +295,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "home",
-    "count": 19,
-    "sentiment": "positive"
-  },
-  {
-    "word": "big",
+    "word": "issues",
     "count": 19,
     "sentiment": "positive"
   }

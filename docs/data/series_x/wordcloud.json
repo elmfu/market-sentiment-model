@@ -1,82 +1,107 @@
 [
  {
   "word": "screen",
-  "count": 173,
+  "count": 208,
   "sentiment": "positive"
  },
  {
   "word": "battery",
-  "count": 159,
+  "count": 189,
   "sentiment": "positive"
  },
  {
   "word": "fast",
-  "count": 156,
+  "count": 172,
   "sentiment": "positive"
  },
  {
   "word": "life",
-  "count": 125,
+  "count": 151,
   "sentiment": "positive"
  },
  {
   "word": "easy",
-  "count": 123,
-  "sentiment": "positive"
- },
- {
-  "word": "keyboard",
-  "count": 112,
+  "count": 148,
   "sentiment": "positive"
  },
  {
   "word": "work",
-  "count": 112,
+  "count": 128,
+  "sentiment": "positive"
+ },
+ {
+  "word": "keyboard",
+  "count": 122,
   "sentiment": "positive"
  },
  {
   "word": "best",
-  "count": 101,
+  "count": 109,
   "sentiment": "positive"
  },
  {
   "word": "excellent",
-  "count": 89,
+  "count": 104,
   "sentiment": "positive"
  },
  {
   "word": "quality",
-  "count": 83,
+  "count": 97,
   "sentiment": "positive"
  },
  {
   "word": "perfect",
-  "count": 80,
+  "count": 95,
   "sentiment": "positive"
  },
  {
   "word": "performance",
-  "count": 79,
-  "sentiment": "positive"
- },
- {
-  "word": "light",
-  "count": 74,
+  "count": 90,
   "sentiment": "positive"
  },
  {
   "word": "price",
-  "count": 73,
+  "count": 87,
+  "sentiment": "positive"
+ },
+ {
+  "word": "light",
+  "count": 85,
+  "sentiment": "positive"
+ },
+ {
+  "word": "product",
+  "count": 83,
   "sentiment": "positive"
  },
  {
   "word": "snapdragon",
-  "count": 72,
+  "count": 80,
   "sentiment": "positive"
  },
  {
   "word": "features",
-  "count": 72,
+  "count": 79,
+  "sentiment": "positive"
+ },
+ {
+  "word": "recommend",
+  "count": 79,
+  "sentiment": "positive"
+ },
+ {
+  "word": "overall",
+  "count": 75,
+  "sentiment": "positive"
+ },
+ {
+  "word": "touch",
+  "count": 75,
+  "sentiment": "positive"
+ },
+ {
+  "word": "works",
+  "count": 74,
   "sentiment": "positive"
  },
  {
@@ -85,218 +110,193 @@
   "sentiment": "positive"
  },
  {
-  "word": "overall",
-  "count": 70,
-  "sentiment": "positive"
- },
- {
-  "word": "recommend",
-  "count": 67,
-  "sentiment": "positive"
- },
- {
-  "word": "product",
-  "count": 65,
-  "sentiment": "positive"
- },
- {
   "word": "processor",
-  "count": 65,
-  "sentiment": "positive"
- },
- {
-  "word": "touch",
-  "count": 63,
-  "sentiment": "positive"
- },
- {
-  "word": "windows",
-  "count": 62,
-  "sentiment": "positive"
- },
- {
-  "word": "speed",
-  "count": 57,
+  "count": 68,
   "sentiment": "positive"
  },
  {
   "word": "size",
-  "count": 55,
+  "count": 67,
   "sentiment": "positive"
  },
  {
-  "word": "works",
-  "count": 54,
-  "sentiment": "positive"
- },
- {
-  "word": "usb",
-  "count": 54,
-  "sentiment": "positive"
- },
- {
-  "word": "display",
-  "count": 53,
-  "sentiment": "positive"
- },
- {
-  "word": "laptops",
-  "count": 53,
+  "word": "windows",
+  "count": 67,
   "sentiment": "positive"
  },
  {
   "word": "long",
-  "count": 51,
+  "count": 64,
   "sentiment": "positive"
  },
  {
-  "word": "software",
-  "count": 50,
+  "word": "speed",
+  "count": 61,
   "sentiment": "positive"
  },
  {
-  "word": "hours",
-  "count": 49,
+  "word": "usb",
+  "count": 57,
   "sentiment": "positive"
  },
  {
-  "word": "without",
-  "count": 48,
-  "sentiment": "positive"
- },
- {
-  "word": "ports",
-  "count": 48,
-  "sentiment": "positive"
- },
- {
-  "word": "lightweight",
-  "count": 47,
-  "sentiment": "positive"
- },
- {
-  "word": "because",
-  "count": 46,
-  "sentiment": "positive"
- },
- {
-  "word": "happy",
-  "count": 46,
+  "word": "display",
+  "count": 55,
   "sentiment": "positive"
  },
  {
   "word": "touchscreen",
-  "count": 45,
+  "count": 55,
   "sentiment": "positive"
  },
  {
-  "word": "better",
-  "count": 45,
+  "word": "laptops",
+  "count": 54,
   "sentiment": "positive"
  },
  {
-  "word": "while",
-  "count": 45,
-  "sentiment": "positive"
- },
- {
-  "word": "power",
-  "count": 44,
-  "sentiment": "positive"
- },
- {
-  "word": "now",
-  "count": 44,
+  "word": "software",
+  "count": 54,
   "sentiment": "positive"
  },
  {
   "word": "weight",
-  "count": 43,
+  "count": 53,
   "sentiment": "positive"
  },
  {
-  "word": "machine",
-  "count": 43,
+  "word": "without",
+  "count": 53,
   "sentiment": "positive"
  },
  {
-  "word": "ram",
-  "count": 43,
+  "word": "happy",
+  "count": 53,
   "sentiment": "positive"
  },
  {
-  "word": "memory",
-  "count": 43,
+  "word": "hours",
+  "count": 52,
   "sentiment": "positive"
  },
  {
-  "word": "looking",
-  "count": 43,
+  "word": "now",
+  "count": 52,
   "sentiment": "positive"
  },
  {
-  "word": "design",
-  "count": 42,
-  "sentiment": "positive"
- },
- {
-  "word": "amazing",
-  "count": 42,
-  "sentiment": "positive"
- },
- {
-  "word": "over",
-  "count": 41,
-  "sentiment": "positive"
- },
- {
-  "word": "plus",
-  "count": 41,
-  "sentiment": "positive"
- },
- {
-  "word": "apps",
-  "count": 40,
-  "sentiment": "positive"
- },
- {
-  "word": "right",
-  "count": 40,
-  "sentiment": "positive"
- },
- {
-  "word": "little",
-  "count": 40,
-  "sentiment": "positive"
- },
- {
-  "word": "needed",
-  "count": 40,
-  "sentiment": "positive"
- },
- {
-  "word": "high",
-  "count": 39,
-  "sentiment": "positive"
- },
- {
-  "word": "solid",
-  "count": 39,
-  "sentiment": "positive"
- },
- {
-  "word": "run",
-  "count": 39,
-  "sentiment": "positive"
- },
- {
-  "word": "microsoft",
-  "count": 39,
+  "word": "lightweight",
+  "count": 52,
   "sentiment": "positive"
  },
  {
   "word": "issues",
-  "count": 38,
+  "count": 50,
+  "sentiment": "positive"
+ },
+ {
+  "word": "memory",
+  "count": 50,
+  "sentiment": "positive"
+ },
+ {
+  "word": "school",
+  "count": 50,
+  "sentiment": "positive"
+ },
+ {
+  "word": "better",
+  "count": 49,
+  "sentiment": "positive"
+ },
+ {
+  "word": "ports",
+  "count": 49,
+  "sentiment": "positive"
+ },
+ {
+  "word": "because",
+  "count": 48,
+  "sentiment": "positive"
+ },
+ {
+  "word": "power",
+  "count": 48,
+  "sentiment": "positive"
+ },
+ {
+  "word": "amazing",
+  "count": 48,
+  "sentiment": "positive"
+ },
+ {
+  "word": "machine",
+  "count": 48,
+  "sentiment": "positive"
+ },
+ {
+  "word": "set",
+  "count": 48,
+  "sentiment": "positive"
+ },
+ {
+  "word": "while",
+  "count": 48,
+  "sentiment": "positive"
+ },
+ {
+  "word": "high",
+  "count": 47,
+  "sentiment": "positive"
+ },
+ {
+  "word": "over",
+  "count": 47,
+  "sentiment": "positive"
+ },
+ {
+  "word": "design",
+  "count": 46,
+  "sentiment": "positive"
+ },
+ {
+  "word": "needed",
+  "count": 46,
+  "sentiment": "positive"
+ },
+ {
+  "word": "first",
+  "count": 45,
+  "sentiment": "positive"
+ },
+ {
+  "word": "little",
+  "count": 45,
+  "sentiment": "positive"
+ },
+ {
+  "word": "ram",
+  "count": 45,
+  "sentiment": "positive"
+ },
+ {
+  "word": "looking",
+  "count": 44,
+  "sentiment": "positive"
+ },
+ {
+  "word": "run",
+  "count": 44,
+  "sentiment": "positive"
+ },
+ {
+  "word": "solid",
+  "count": 43,
+  "sentiment": "positive"
+ },
+ {
+  "word": "tasks",
+  "count": 43,
   "sentiment": "positive"
  }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "word": "powerful",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
     "word": "flip",
     "count": 1,
     "sentiment": "positive"
@@ -180,11 +185,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "powerful",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
     "word": "modern",
     "count": 1,
     "sentiment": "positive"
@@ -193,5 +193,50 @@
     "word": "premium",
     "count": 1,
     "sentiment": "positive"
+  },
+  {
+    "word": "yet",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "unreliable",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "within",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "device",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "start",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "windows",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "update",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "reliable",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "money",
+    "count": 1,
+    "sentiment": "negative"
   }
 ]

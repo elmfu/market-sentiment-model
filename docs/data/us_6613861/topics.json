@@ -2,8 +2,8 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 167,
-    "positive": 164,
+    "total": 171,
+    "positive": 168,
     "neutral": 1,
     "negative": 2,
     "positive_pct": 98.2,
@@ -13,8 +13,8 @@
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 151,
-    "positive": 146,
+    "total": 153,
+    "positive": 148,
     "neutral": 3,
     "negative": 2,
     "positive_pct": 96.7,
@@ -24,13 +24,13 @@
   {
     "topic": "display",
     "label": "Display Quality",
-    "total": 138,
-    "positive": 131,
+    "total": 140,
+    "positive": 133,
     "neutral": 3,
     "negative": 4,
-    "positive_pct": 94.9,
+    "positive_pct": 95.0,
     "negative_pct": 2.9,
-    "net_score": 92.0
+    "net_score": 92.1
   },
   {
     "topic": "price_value",
@@ -46,8 +46,8 @@
   {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 97,
-    "positive": 97,
+    "total": 99,
+    "positive": 99,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
@@ -57,13 +57,13 @@
   {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 63,
-    "positive": 58,
+    "total": 64,
+    "positive": 59,
     "neutral": 1,
     "negative": 4,
-    "positive_pct": 92.1,
-    "negative_pct": 6.3,
-    "net_score": 85.8
+    "positive_pct": 92.2,
+    "negative_pct": 6.2,
+    "net_score": 86.0
   },
   {
     "topic": "ports",

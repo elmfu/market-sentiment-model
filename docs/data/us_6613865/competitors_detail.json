@@ -2,7 +2,7 @@
   "competitors": [
     {
       "brand": "Apple/Mac",
-      "total_mentions": 18,
+      "total_mentions": 25,
       "reviews": [
         {
           "title": "Simple albeit bulky convertible laptop/tablet",
@@ -26,11 +26,11 @@
           "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": "15 additional review(s) also mention Apple/Mac."
+      "summary_of_remaining": "22 additional review(s) also mention Apple/Mac."
     },
     {
       "brand": "Dell",
-      "total_mentions": 12,
+      "total_mentions": 13,
       "reviews": [
         {
           "title": "Didn’t like the keys flat and bunched together.",
@@ -54,11 +54,11 @@
           "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": "9 additional review(s) also mention Dell."
+      "summary_of_remaining": "10 additional review(s) also mention Dell."
     },
     {
       "brand": "Microsoft",
-      "total_mentions": 5,
+      "total_mentions": 6,
       "reviews": [
         {
           "title": "Simple albeit bulky convertible laptop/tablet",
@@ -82,11 +82,11 @@
           "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": "2 additional review(s) also mention Microsoft."
+      "summary_of_remaining": "3 additional review(s) also mention Microsoft."
     },
     {
       "brand": "Lenovo",
-      "total_mentions": 2,
+      "total_mentions": 3,
       "reviews": [
         {
           "title": "OmbibookX needs a full keyboard to be great.",
@@ -96,10 +96,73 @@
           "sentiment": "positive"
         },
         {
+          "title": "Solid build quality and fast",
+          "body": "Got this for friend and set it up for them with all the necessary software they needed. Can say it’s much better build quality than a Lenovo at this price point and runs fast with the ultra series intel chip. One of the best mobile on the go laptops for most people’s needs however anyone above a 100",
+          "excerpt": "Can say it’s much better build quality than a Lenovo at this price point and runs fast with the ultra series intel chip.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
           "title": "Hp, pretty good computer",
           "body": "Good computer overall. Nice speed of processing. I don't use the tablet feature much but it is nice to have as an option. The Copilot feature is not as robust as some other AI assistants like Gemini or ChatGPT. The power input is a Type C which is surprising, because I thought it would be more a str",
           "excerpt": "I hope it lasts as long as my Lenovo which was nearly 5 years.",
           "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "Just give it a try.",
+          "body": "This laptop was a recommendation from someone, now I'm not going to tell you this is the best bang for Buck laptop out there. This laptop cost $1,000 and it's on sale or is always on sale for almost half its own MSRP, this laptop has an Intel ultra i7 series 2 for its price of 600-700 bucks and havi",
+          "excerpt": "I purchased my gen 5 drive from Best buy and with Samsung so I have the 9100 and it is a 4 TB which I still have and it ran very smoothly fast and it was really great.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "HP OmniBook X Flip",
+          "body": "Coming from an all Mac/apple user I switched my iPhone X to Android and never looked back. Took me a few years to drop my Macbook Pro because i never used it because the limitation that Apple has VS windows. The X flip was a on sale and it was a too good of a deal to pass up at the time. Everything ",
+          "excerpt": "Everything is all compatible now with my Samsung phones and makes my life that much easier.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Powerful and great battery life.",
+          "body": "Coming from a Galaxy Book Pro. This computer has been great. Whether running design software, streaming or gaming, I have not run into any performance issues. Battery life has been as advertised. The AI feature has been great. Its helped with research for school assignments, planning and research fo",
+          "excerpt": "Coming from a Galaxy Book Pro.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Chromebook",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "Great Laptop",
+          "body": "Great laptop. I bought this to replace a Chromebook for online school and it has made school 10 times easier. Easy to setup and navigate. The battery life is amazing as well. I was on a 12 hour trip and did not charge it once.",
+          "excerpt": "I bought this to replace a Chromebook for online school and it has made school 10 times easier.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great laptop. Very happy with it.",
+          "body": "I needed a laptop for graduate school. The Omnibook has not disappointed! The screen is great and the battery lasts forever. I had been using a Chromebook before, but the Omnibook is amazing for all of my online coursework.",
+          "excerpt": "I had been using a Chromebook before, but the Omnibook is amazing for all of my online coursework.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Hp chromebook",
+          "body": "Love this laptop, my sales rep was very knowledgeable",
+          "excerpt": "Hp chromebook",
+          "rating": 5,
           "sentiment": "positive"
         }
       ],
@@ -127,41 +190,13 @@
       "summary_of_remaining": ""
     },
     {
-      "brand": "Samsung",
-      "total_mentions": 2,
+      "brand": "LG",
+      "total_mentions": 1,
       "reviews": [
         {
-          "title": "Just give it a try.",
-          "body": "This laptop was a recommendation from someone, now I'm not going to tell you this is the best bang for Buck laptop out there. This laptop cost $1,000 and it's on sale or is always on sale for almost half its own MSRP, this laptop has an Intel ultra i7 series 2 for its price of 600-700 bucks and havi",
-          "excerpt": "I purchased my gen 5 drive from Best buy and with Samsung so I have the 9100 and it is a 4 TB which I still have and it ran very smoothly fast and it was really great.",
-          "rating": 5,
-          "sentiment": "positive"
-        },
-        {
-          "title": "Powerful and great battery life.",
-          "body": "Coming from a Galaxy Book Pro. This computer has been great. Whether running design software, streaming or gaming, I have not run into any performance issues. Battery life has been as advertised. The AI feature has been great. Its helped with research for school assignments, planning and research fo",
-          "excerpt": "Coming from a Galaxy Book Pro.",
-          "rating": 5,
-          "sentiment": "positive"
-        }
-      ],
-      "summary_of_remaining": ""
-    },
-    {
-      "brand": "Chromebook",
-      "total_mentions": 2,
-      "reviews": [
-        {
-          "title": "Great Laptop",
-          "body": "Great laptop. I bought this to replace a Chromebook for online school and it has made school 10 times easier. Easy to setup and navigate. The battery life is amazing as well. I was on a 12 hour trip and did not charge it once.",
-          "excerpt": "I bought this to replace a Chromebook for online school and it has made school 10 times easier.",
-          "rating": 5,
-          "sentiment": "positive"
-        },
-        {
-          "title": "Hp chromebook",
-          "body": "Love this laptop, my sales rep was very knowledgeable",
-          "excerpt": "Hp chromebook",
+          "title": "Great computer.",
+          "body": "This is a great computer. Linked my old google and word files. Has a long battery life, and lots of memory. Really does what I need it too. I hated the LG Gram I got in June and they don't take it as a trade in so I have to send it some where to get any kind of trade value for it once I get my files",
+          "excerpt": "I hated the LG Gram I got in June and they don't take it as a trade in so I have to send it some where to get any kind of trade value for it once I get my files off it.",
           "rating": 5,
           "sentiment": "positive"
         }

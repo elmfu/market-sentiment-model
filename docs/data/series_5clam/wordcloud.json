@@ -1,302 +1,302 @@
 [
  {
-  "word": "easy",
-  "count": 131,
-  "sentiment": "positive"
- },
- {
   "word": "screen",
-  "count": 131,
+  "count": 228,
   "sentiment": "positive"
  },
  {
-  "word": "fast",
-  "count": 104,
+  "word": "easy",
+  "count": 217,
   "sentiment": "positive"
  },
  {
   "word": "battery",
-  "count": 97,
+  "count": 168,
+  "sentiment": "positive"
+ },
+ {
+  "word": "fast",
+  "count": 166,
   "sentiment": "positive"
  },
  {
   "word": "keyboard",
-  "count": 91,
-  "sentiment": "positive"
- },
- {
-  "word": "price",
-  "count": 88,
+  "count": 149,
   "sentiment": "positive"
  },
  {
   "word": "work",
-  "count": 85,
+  "count": 146,
   "sentiment": "positive"
  },
  {
   "word": "set",
-  "count": 74,
-  "sentiment": "positive"
- },
- {
-  "word": "product",
-  "count": 66,
+  "count": 118,
   "sentiment": "positive"
  },
  {
   "word": "life",
-  "count": 64,
-  "sentiment": "positive"
- },
- {
-  "word": "quality",
-  "count": 60,
-  "sentiment": "positive"
- },
- {
-  "word": "works",
-  "count": 59,
+  "count": 117,
   "sentiment": "positive"
  },
  {
   "word": "excellent",
-  "count": 58,
+  "count": 115,
   "sentiment": "positive"
  },
  {
-  "word": "overall",
-  "count": 58,
+  "word": "price",
+  "count": 113,
+  "sentiment": "positive"
+ },
+ {
+  "word": "works",
+  "count": 103,
   "sentiment": "positive"
  },
  {
   "word": "happy",
-  "count": 56,
+  "count": 102,
   "sentiment": "positive"
  },
  {
-  "word": "light",
-  "count": 56,
+  "word": "product",
+  "count": 98,
+  "sentiment": "positive"
+ },
+ {
+  "word": "overall",
+  "count": 94,
   "sentiment": "positive"
  },
  {
   "word": "performance",
-  "count": 55,
+  "count": 93,
+  "sentiment": "positive"
+ },
+ {
+  "word": "quality",
+  "count": 92,
   "sentiment": "positive"
  },
  {
   "word": "size",
-  "count": 53,
+  "count": 82,
+  "sentiment": "positive"
+ },
+ {
+  "word": "light",
+  "count": 79,
   "sentiment": "positive"
  },
  {
   "word": "display",
-  "count": 48,
+  "count": 79,
   "sentiment": "positive"
  },
  {
   "word": "perfect",
-  "count": 43,
-  "sentiment": "positive"
- },
- {
-  "word": "setup",
-  "count": 43,
-  "sentiment": "positive"
- },
- {
-  "word": "touch",
-  "count": 41,
-  "sentiment": "positive"
- },
- {
-  "word": "old",
-  "count": 38,
-  "sentiment": "positive"
- },
- {
-  "word": "power",
-  "count": 38,
-  "sentiment": "positive"
- },
- {
-  "word": "speed",
-  "count": 37,
-  "sentiment": "positive"
- },
- {
-  "word": "hours",
-  "count": 35,
-  "sentiment": "positive"
- },
- {
-  "word": "machine",
-  "count": 35,
-  "sentiment": "positive"
- },
- {
-  "word": "software",
-  "count": 34,
-  "sentiment": "positive"
- },
- {
-  "word": "best",
-  "count": 34,
+  "count": 72,
   "sentiment": "positive"
  },
  {
   "word": "recommend",
-  "count": 34,
+  "count": 68,
   "sentiment": "positive"
  },
  {
-  "word": "right",
-  "count": 34,
+  "word": "touch",
+  "count": 62,
   "sentiment": "positive"
  },
  {
-  "word": "windows",
-  "count": 33,
-  "sentiment": "positive"
- },
- {
-  "word": "clear",
-  "count": 33,
-  "sentiment": "positive"
- },
- {
-  "word": "processor",
-  "count": 32,
+  "word": "old",
+  "count": 61,
   "sentiment": "positive"
  },
  {
   "word": "features",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
-  "word": "because",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
-  "word": "quick",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
-  "word": "back",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
-  "word": "home",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
-  "word": "i've",
-  "count": 31,
-  "sentiment": "positive"
- },
- {
-  "word": "inch",
-  "count": 31,
-  "sentiment": "positive"
- },
- {
-  "word": "smooth",
-  "count": 31,
-  "sentiment": "positive"
- },
- {
-  "word": "long",
-  "count": 29,
-  "sentiment": "positive"
- },
- {
-  "word": "over",
-  "count": 29,
-  "sentiment": "positive"
- },
- {
-  "word": "backlit",
-  "count": 28,
-  "sentiment": "positive"
- },
- {
-  "word": "now",
-  "count": 27,
+  "count": 61,
   "sentiment": "positive"
  },
  {
   "word": "lightweight",
-  "count": 27,
+  "count": 59,
   "sentiment": "positive"
  },
  {
-  "word": "value",
-  "count": 27,
+  "word": "now",
+  "count": 58,
   "sentiment": "positive"
  },
  {
-  "word": "expected",
-  "count": 27,
+  "word": "best",
+  "count": 56,
   "sentiment": "positive"
  },
  {
-  "word": "runs",
-  "count": 26,
+  "word": "home",
+  "count": 55,
   "sentiment": "positive"
  },
  {
-  "word": "better",
-  "count": 26,
+  "word": "setup",
+  "count": 55,
   "sentiment": "positive"
  },
  {
-  "word": "sound",
-  "count": 26,
+  "word": "processor",
+  "count": 54,
   "sentiment": "positive"
  },
  {
-  "word": "without",
-  "count": 26,
+  "word": "windows",
+  "count": 52,
   "sentiment": "positive"
  },
  {
-  "word": "open",
-  "count": 25,
+  "word": "i've",
+  "count": 52,
   "sentiment": "positive"
  },
  {
-  "word": "reliable",
-  "count": 25,
+  "word": "clear",
+  "count": 51,
   "sentiment": "positive"
  },
  {
-  "word": "simple",
-  "count": 25,
+  "word": "quick",
+  "count": 51,
   "sentiment": "positive"
  },
  {
-  "word": "experience",
-  "count": 25,
+  "word": "working",
+  "count": 51,
   "sentiment": "positive"
  },
  {
-  "word": "needed",
-  "count": 25,
+  "word": "speed",
+  "count": 50,
+  "sentiment": "positive"
+ },
+ {
+  "word": "back",
+  "count": 50,
   "sentiment": "positive"
  },
  {
   "word": "sleek",
-  "count": 25,
+  "count": 49,
   "sentiment": "positive"
  },
  {
-  "word": "little",
-  "count": 25,
+  "word": "value",
+  "count": 49,
+  "sentiment": "positive"
+ },
+ {
+  "word": "software",
+  "count": 48,
+  "sentiment": "positive"
+ },
+ {
+  "word": "power",
+  "count": 48,
+  "sentiment": "positive"
+ },
+ {
+  "word": "without",
+  "count": 48,
+  "sentiment": "positive"
+ },
+ {
+  "word": "right",
+  "count": 47,
+  "sentiment": "positive"
+ },
+ {
+  "word": "smooth",
+  "count": 47,
+  "sentiment": "positive"
+ },
+ {
+  "word": "because",
+  "count": 45,
+  "sentiment": "positive"
+ },
+ {
+  "word": "machine",
+  "count": 45,
+  "sentiment": "positive"
+ },
+ {
+  "word": "design",
+  "count": 45,
+  "sentiment": "positive"
+ },
+ {
+  "word": "feel",
+  "count": 44,
+  "sentiment": "positive"
+ },
+ {
+  "word": "runs",
+  "count": 44,
+  "sentiment": "positive"
+ },
+ {
+  "word": "hours",
+  "count": 44,
+  "sentiment": "positive"
+ },
+ {
+  "word": "long",
+  "count": 44,
+  "sentiment": "positive"
+ },
+ {
+  "word": "over",
+  "count": 43,
+  "sentiment": "positive"
+ },
+ {
+  "word": "tasks",
+  "count": 43,
+  "sentiment": "positive"
+ },
+ {
+  "word": "down",
+  "count": 43,
+  "sentiment": "positive"
+ },
+ {
+  "word": "better",
+  "count": 43,
+  "sentiment": "positive"
+ },
+ {
+  "word": "open",
+  "count": 42,
+  "sentiment": "positive"
+ },
+ {
+  "word": "reliable",
+  "count": 42,
+  "sentiment": "positive"
+ },
+ {
+  "word": "having",
+  "count": 42,
+  "sentiment": "positive"
+ },
+ {
+  "word": "money",
+  "count": 40,
+  "sentiment": "positive"
+ },
+ {
+  "word": "needed",
+  "count": 40,
   "sentiment": "positive"
  }
 ]

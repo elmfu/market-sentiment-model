@@ -2,8 +2,15 @@
  "competitors": [
   {
    "brand": "Apple/Mac",
-   "total_mentions": 2,
+   "total_mentions": 4,
    "reviews": [
+    {
+     "title": "Walmart and HP Don't want to fix Laptop.",
+     "body": "about the laptop in April 2026 I've only had it for a few months and already I've had issues with the keyboard specifically the letter l. it has gone to blue screens now it's a black screen crashing and HP is giving me such a hard time with getting it fixed. they have made promises to call me two da",
+     "excerpt": "I've had laptops with them before never have I had this issue this must be a case of a bad Apple but the customer service is completely unacceptable.",
+     "rating": 1,
+     "sentiment": "negative"
+    },
     {
      "title": "Good Laptop for school work and game streaming,",
      "body": "Ryzen processor does well and benchmarks well against intel. Screen is the low point not bad but not the 3x Amoled I'm used to. Large 16 inch canvas for getting work and school done. Was surprised how well performs with only 8GB ram. Backlit keyboard and metal casing. Track pad is not Mac or Galaxy ",
@@ -19,11 +26,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": ""
+   "summary_of_remaining": "1 additional review(s) also mention Apple/Mac."
   },
   {
    "brand": "Dell",
-   "total_mentions": 2,
+   "total_mentions": 3,
    "reviews": [
     {
      "title": "",
@@ -36,6 +43,13 @@
      "title": "Very happy with HP Omni Book 5 Ultra 7 laptop",
      "body": "Delivered to and picked up at local Walmart - No issues. Computer set - up easily and appears to be working flawlessly for over a week. Easily transferred files and favorites from my old slow Win 10 Dell laptop to my new HP. I wanted to stay with Dell but couldn't pass up this deal.  This laptop see",
      "excerpt": "Easily transferred files and favorites from my old slow Win 10 Dell laptop to my new HP.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "HP OmniBook 5 Laptop Next Gen AI 14-he0013QU",
+     "body": "Updated from 8 year old Dell laptop. New HP massive upgrade with amazing Oled screen where everything has colours popping out of the screen. So fast and such a delight to use in all areas. 14\" is so light and ideal for me to travel with. Excellent.",
+     "excerpt": "Updated from 8 year old Dell laptop.",
      "rating": 5,
      "sentiment": "positive"
     }
@@ -85,6 +99,20 @@
      "title": "Good Laptop for school work and game streaming,",
      "body": "Ryzen processor does well and benchmarks well against intel. Screen is the low point not bad but not the 3x Amoled I'm used to. Large 16 inch canvas for getting work and school done. Was surprised how well performs with only 8GB ram. Backlit keyboard and metal casing. Track pad is not Mac or Galaxy ",
      "excerpt": "Track pad is not Mac or Galaxy Book Pro.",
+     "rating": 5,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": ""
+  },
+  {
+   "brand": "Chromebook",
+   "total_mentions": 1,
+   "reviews": [
+    {
+     "title": "Fantastic! Sleek design, amazing battery life, & AI features.",
+     "body": "I received this HP 16” OmniBook 3 Laptop with Next Gen AI 16, Snapdragon X, 16 GB Ram, and 256 GB Ram from Influenster for testing purposes in exchange for my honest review. This HP laptop arrived so quickly! I've been testing it out the past few weeks and I must say, the battery life is impressive!",
+     "excerpt": "From using a Google Chromebook this HP OmniBook is a HUGE upgrade for me.",
      "rating": 5,
      "sentiment": "positive"
     }

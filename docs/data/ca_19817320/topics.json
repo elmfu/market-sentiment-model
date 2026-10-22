@@ -2,13 +2,13 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 1,
+    "total": 2,
     "positive": 1,
     "neutral": 0,
-    "negative": 0,
-    "positive_pct": 100.0,
-    "negative_pct": 0.0,
-    "net_score": 100.0
+    "negative": 1,
+    "positive_pct": 50.0,
+    "negative_pct": 50.0,
+    "net_score": 0.0
   },
   {
     "topic": "battery",
@@ -44,6 +44,28 @@
     "net_score": 100.0
   },
   {
+    "topic": "price_value",
+    "label": "Price & Value",
+    "total": 1,
+    "positive": 0,
+    "neutral": 0,
+    "negative": 1,
+    "positive_pct": 0.0,
+    "negative_pct": 100.0,
+    "net_score": -100.0
+  },
+  {
+    "topic": "software_ecosystem",
+    "label": "Software & Ecosystem",
+    "total": 1,
+    "positive": 0,
+    "neutral": 0,
+    "negative": 1,
+    "positive_pct": 0.0,
+    "negative_pct": 100.0,
+    "net_score": -100.0
+  },
+  {
     "topic": "thermals",
     "label": "Thermals & Cooling",
     "total": 0,
@@ -57,28 +79,6 @@
   {
     "topic": "ports",
     "label": "Ports & Connectivity",
-    "total": 0,
-    "positive": 0,
-    "neutral": 0,
-    "negative": 0,
-    "positive_pct": 0.0,
-    "negative_pct": 0.0,
-    "net_score": 0.0
-  },
-  {
-    "topic": "price_value",
-    "label": "Price & Value",
-    "total": 0,
-    "positive": 0,
-    "neutral": 0,
-    "negative": 0,
-    "positive_pct": 0.0,
-    "negative_pct": 0.0,
-    "net_score": 0.0
-  },
-  {
-    "topic": "software_ecosystem",
-    "label": "Software & Ecosystem",
     "total": 0,
     "positive": 0,
     "neutral": 0,

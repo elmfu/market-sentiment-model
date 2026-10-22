@@ -2,24 +2,24 @@
   "product": "HP OmniBook X 16\" Touchscreen 2-in-1 Laptop - Meteor Silver (AMD Ryzen Ai7 450 (Zen 5c)/32GB RAM/2TB SSD/Windows 11 Home)",
   "source": "bestbuy.ca",
   "market": "CA",
-  "total": 1,
-  "with_text": 1,
+  "total": 3,
+  "with_text": 2,
   "date_range": "",
-  "avg_rating": 5.0,
-  "satisfaction_score": 100.0,
+  "avg_rating": 4.0,
+  "satisfaction_score": 66.7,
   "star_distribution": {
     "1": 0,
-    "2": 0,
+    "2": 1,
     "3": 0,
     "4": 0,
-    "5": 1
+    "5": 2
   },
   "sentiment": {
-    "positive": 1,
+    "positive": 2,
     "neutral": 0,
-    "negative": 0,
-    "positive_pct": 100.0,
+    "negative": 1,
+    "positive_pct": 66.7,
     "neutral_pct": 0.0,
-    "negative_pct": 0.0
+    "negative_pct": 33.3
   }
 }

@@ -1,121 +1,231 @@
 [
   {
     "word": "easy",
-    "count": 32,
+    "count": 54,
     "sentiment": "positive"
   },
   {
     "word": "screen",
-    "count": 28,
+    "count": 40,
     "sentiment": "positive"
   },
   {
     "word": "fast",
-    "count": 20,
+    "count": 29,
     "sentiment": "positive"
   },
   {
     "word": "keyboard",
-    "count": 19,
-    "sentiment": "positive"
-  },
-  {
-    "word": "price",
-    "count": 17,
-    "sentiment": "positive"
-  },
-  {
-    "word": "setup",
-    "count": 16,
-    "sentiment": "positive"
-  },
-  {
-    "word": "happy",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "size",
-    "count": 14,
-    "sentiment": "positive"
-  },
-  {
-    "word": "work",
-    "count": 14,
+    "count": 28,
     "sentiment": "positive"
   },
   {
     "word": "set",
-    "count": 13,
+    "count": 25,
     "sentiment": "positive"
   },
   {
-    "word": "product",
-    "count": 13,
+    "word": "happy",
+    "count": 23,
     "sentiment": "positive"
   },
   {
-    "word": "machine",
-    "count": 12,
+    "word": "price",
+    "count": 23,
     "sentiment": "positive"
   },
   {
     "word": "works",
-    "count": 12,
+    "count": 22,
     "sentiment": "positive"
   },
   {
-    "word": "old",
-    "count": 11,
+    "word": "excellent",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "setup",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 15,
     "sentiment": "positive"
   },
   {
     "word": "software",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "home",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "clear",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "having",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "reliable",
     "count": 11,
     "sentiment": "positive"
   },
   {
     "word": "performance",
-    "count": 10,
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "value",
+    "count": 11,
     "sentiment": "positive"
   },
   {
     "word": "right",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "overall",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "clear",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "touch",
-    "count": 10,
+    "count": 11,
     "sentiment": "positive"
   },
   {
     "word": "over",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "previous",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "backlit",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "back",
     "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "excellent",
+    "word": "working",
     "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "quality",
+    "word": "find",
     "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "display",
+    "word": "lightweight",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speed",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quick",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "down",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "etc",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
     "count": 9,
     "sentiment": "positive"
   },
@@ -125,12 +235,47 @@
     "sentiment": "positive"
   },
   {
-    "word": "backlit",
-    "count": 9,
+    "word": "want",
+    "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "battery",
+    "word": "again",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "upgrade",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "i've",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ago",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "while",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "large",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "omni",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "definitely",
     "count": 8,
     "sentiment": "positive"
   },
@@ -140,163 +285,18 @@
     "sentiment": "positive"
   },
   {
-    "word": "reliable",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
     "word": "light",
     "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "power",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "speed",
+    "word": "features",
     "count": 7,
     "sentiment": "positive"
   },
   {
-    "word": "omni",
+    "word": "worth",
     "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "runs",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "while",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "windows",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "definitely",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "perfect",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "home",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "including",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "etc",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quick",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ports",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "last",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "thought",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "hours",
-    "count": 6,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "now",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "having",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "expected",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "simple",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "smooth",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "off",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "down",
-    "count": 6,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "full",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "drive",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "large",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "opening",
-    "count": 6,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "quickly",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "i've",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "back",
-    "count": 5,
     "sentiment": "positive"
   }
 ]

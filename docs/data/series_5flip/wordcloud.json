@@ -1,32 +1,132 @@
 [
  {
   "word": "screen",
-  "count": 18,
+  "count": 38,
   "sentiment": "positive"
  },
  {
   "word": "flip",
-  "count": 18,
+  "count": 32,
   "sentiment": "positive"
  },
  {
   "word": "easy",
-  "count": 15,
+  "count": 29,
   "sentiment": "positive"
  },
  {
-  "word": "works",
-  "count": 13,
+  "word": "excellent",
+  "count": 25,
   "sentiment": "positive"
  },
  {
   "word": "battery",
-  "count": 12,
+  "count": 24,
+  "sentiment": "positive"
+ },
+ {
+  "word": "work",
+  "count": 22,
+  "sentiment": "positive"
+ },
+ {
+  "word": "works",
+  "count": 19,
+  "sentiment": "positive"
+ },
+ {
+  "word": "touch",
+  "count": 16,
   "sentiment": "positive"
  },
  {
   "word": "touchscreen",
+  "count": 16,
+  "sentiment": "positive"
+ },
+ {
+  "word": "keyboard",
+  "count": 15,
+  "sentiment": "positive"
+ },
+ {
+  "word": "product",
+  "count": 14,
+  "sentiment": "positive"
+ },
+ {
+  "word": "fast",
+  "count": 14,
+  "sentiment": "positive"
+ },
+ {
+  "word": "open",
   "count": 12,
+  "sentiment": "positive"
+ },
+ {
+  "word": "overall",
+  "count": 12,
+  "sentiment": "positive"
+ },
+ {
+  "word": "performance",
+  "count": 12,
+  "sentiment": "positive"
+ },
+ {
+  "word": "life",
+  "count": 12,
+  "sentiment": "positive"
+ },
+ {
+  "word": "tablet",
+  "count": 12,
+  "sentiment": "positive"
+ },
+ {
+  "word": "issues",
+  "count": 12,
+  "sentiment": "positive"
+ },
+ {
+  "word": "want",
+  "count": 10,
+  "sentiment": "positive"
+ },
+ {
+  "word": "design",
+  "count": 10,
+  "sentiment": "positive"
+ },
+ {
+  "word": "while",
+  "count": 10,
+  "sentiment": "positive"
+ },
+ {
+  "word": "pen",
+  "count": 10,
+  "sentiment": "positive"
+ },
+ {
+  "word": "size",
+  "count": 10,
+  "sentiment": "positive"
+ },
+ {
+  "word": "quite",
+  "count": 10,
+  "sentiment": "neutral"
+ },
+ {
+  "word": "little",
+  "count": 10,
+  "sentiment": "positive"
+ },
+ {
+  "word": "expected",
+  "count": 10,
   "sentiment": "positive"
  },
  {
@@ -35,18 +135,93 @@
   "sentiment": "positive"
  },
  {
-  "word": "fast",
-  "count": 10,
-  "sentiment": "positive"
- },
- {
-  "word": "work",
-  "count": 10,
-  "sentiment": "positive"
- },
- {
-  "word": "keyboard",
+  "word": "recommend",
   "count": 9,
+  "sentiment": "positive"
+ },
+ {
+  "word": "old",
+  "count": 9,
+  "sentiment": "positive"
+ },
+ {
+  "word": "money",
+  "count": 9,
+  "sentiment": "neutral"
+ },
+ {
+  "word": "i've",
+  "count": 9,
+  "sentiment": "positive"
+ },
+ {
+  "word": "set",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "price",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "runs",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "comfortable",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "sound",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "features",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "seems",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "working",
+  "count": 8,
+  "sentiment": "neutral"
+ },
+ {
+  "word": "heavy",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "smoothly",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "light",
+  "count": 8,
+  "sentiment": "neutral"
+ },
+ {
+  "word": "lightweight",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "long",
+  "count": 8,
+  "sentiment": "positive"
+ },
+ {
+  "word": "memory",
+  "count": 8,
   "sentiment": "positive"
  },
  {
@@ -65,39 +240,19 @@
   "sentiment": "positive"
  },
  {
-  "word": "excellent",
-  "count": 8,
-  "sentiment": "positive"
- },
- {
-  "word": "tablet",
-  "count": 8,
-  "sentiment": "positive"
- },
- {
   "word": "video",
   "count": 8,
   "sentiment": "positive"
  },
  {
-  "word": "expected",
-  "count": 8,
-  "sentiment": "positive"
- },
- {
-  "word": "life",
-  "count": 8,
-  "sentiment": "positive"
- },
- {
-  "word": "old",
+  "word": "school",
   "count": 7,
   "sentiment": "positive"
  },
  {
-  "word": "i've",
+  "word": "now",
   "count": 7,
-  "sentiment": "neutral"
+  "sentiment": "positive"
  },
  {
   "word": "feels",
@@ -105,198 +260,43 @@
   "sentiment": "positive"
  },
  {
-  "word": "memory",
+  "word": "multiple",
   "count": 6,
   "sentiment": "positive"
  },
  {
-  "word": "light",
-  "count": 6,
-  "sentiment": "negative"
- },
- {
-  "word": "responsive",
+  "word": "windows",
   "count": 6,
   "sentiment": "positive"
  },
  {
-  "word": "ram",
+  "word": "home",
   "count": 6,
   "sentiment": "neutral"
  },
  {
-  "word": "ssd",
+  "word": "definitely",
   "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "pen",
-  "count": 6,
-  "sentiment": "positive"
- },
- {
-  "word": "long",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "multitasking",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "faster",
-  "count": 6,
-  "sentiment": "positive"
- },
- {
-  "word": "overall",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "lag",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "calls",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "smoothly",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "fine",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "issues",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "speakers",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "videos",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "display",
-  "count": 6,
-  "sentiment": "neutral"
- },
- {
-  "word": "hinge",
-  "count": 6,
-  "sentiment": "positive"
- },
- {
-  "word": "sound",
-  "count": 6,
-  "sentiment": "positive"
- },
- {
-  "word": "now",
-  "count": 5,
-  "sentiment": "positive"
- },
- {
-  "word": "recommend",
-  "count": 5,
-  "sentiment": "positive"
- },
- {
-  "word": "okay",
-  "count": 5,
-  "sentiment": "neutral"
- },
- {
-  "word": "set",
-  "count": 5,
-  "sentiment": "positive"
- },
- {
-  "word": "design",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "under",
-  "count": 4,
-  "sentiment": "neutral"
- },
- {
-  "word": "black",
-  "count": 4,
-  "sentiment": "neutral"
- },
- {
-  "word": "previous",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "versatile",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "stylish",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "inch",
-  "count": 4,
   "sentiment": "positive"
  },
  {
   "word": "smooth",
-  "count": 4,
+  "count": 6,
   "sentiment": "positive"
  },
  {
-  "word": "performance",
-  "count": 4,
-  "sentiment": "neutral"
- },
- {
-  "word": "intel",
-  "count": 4,
+  "word": "easier",
+  "count": 6,
   "sentiment": "positive"
  },
  {
-  "word": "core",
-  "count": 4,
-  "sentiment": "positive"
+  "word": "keep",
+  "count": 6,
+  "sentiment": "negative"
  },
  {
-  "word": "premium",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "build",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "students",
-  "count": 4,
-  "sentiment": "positive"
- },
- {
-  "word": "style",
-  "count": 4,
+  "word": "replacement",
+  "count": 6,
   "sentiment": "positive"
  }
 ]

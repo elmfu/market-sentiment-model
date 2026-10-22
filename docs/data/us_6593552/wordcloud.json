@@ -1,12 +1,12 @@
 [
   {
     "word": "screen",
-    "count": 101,
+    "count": 103,
     "sentiment": "positive"
   },
   {
     "word": "battery",
-    "count": 78,
+    "count": 80,
     "sentiment": "positive"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "word": "life",
-    "count": 64,
+    "count": 65,
     "sentiment": "positive"
   },
   {
@@ -35,23 +35,23 @@
     "sentiment": "positive"
   },
   {
+    "word": "quality",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
     "word": "ultra",
     "count": 56,
     "sentiment": "positive"
   },
   {
+    "word": "keyboard",
+    "count": 55,
+    "sentiment": "positive"
+  },
+  {
     "word": "flip",
     "count": 55,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quality",
-    "count": 55,
-    "sentiment": "positive"
-  },
-  {
-    "word": "keyboard",
-    "count": 54,
     "sentiment": "positive"
   },
   {
@@ -75,6 +75,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "amazing",
+    "count": 42,
+    "sentiment": "positive"
+  },
+  {
     "word": "touch",
     "count": 42,
     "sentiment": "positive"
@@ -85,8 +90,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "amazing",
-    "count": 41,
+    "word": "overall",
+    "count": 40,
     "sentiment": "positive"
   },
   {
@@ -95,13 +100,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "overall",
-    "count": 39,
-    "sentiment": "positive"
-  },
-  {
     "word": "perfect",
-    "count": 36,
+    "count": 37,
     "sentiment": "positive"
   },
   {
@@ -150,6 +150,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "looking",
+    "count": 31,
+    "sentiment": "positive"
+  },
+  {
     "word": "product",
     "count": 31,
     "sentiment": "positive"
@@ -165,13 +170,23 @@
     "sentiment": "positive"
   },
   {
-    "word": "looking",
-    "count": 30,
+    "word": "ports",
+    "count": 29,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 29,
     "sentiment": "positive"
   },
   {
     "word": "copilot",
     "count": 29,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 28,
     "sentiment": "positive"
   },
   {
@@ -181,16 +196,6 @@
   },
   {
     "word": "processor",
-    "count": 28,
-    "sentiment": "positive"
-  },
-  {
-    "word": "build",
-    "count": 28,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ports",
     "count": 28,
     "sentiment": "positive"
   },
@@ -230,11 +235,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "usb",
-    "count": 27,
-    "sentiment": "positive"
-  },
-  {
     "word": "experience",
     "count": 26,
     "sentiment": "positive"
@@ -270,6 +270,16 @@
     "sentiment": "positive"
   },
   {
+    "word": "smooth",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "graphics",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
     "word": "powerful",
     "count": 23,
     "sentiment": "positive"
@@ -286,16 +296,6 @@
   },
   {
     "word": "around",
-    "count": 23,
-    "sentiment": "positive"
-  },
-  {
-    "word": "sound",
-    "count": 23,
-    "sentiment": "positive"
-  },
-  {
-    "word": "speakers",
     "count": 23,
     "sentiment": "positive"
   }

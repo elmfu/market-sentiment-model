@@ -2,24 +2,24 @@
   "product": "HP - OmniBook X Flip 2-in-1 - 16\" 2K Touch-Screen Laptop - Intel Core Ultra 7 (2024) - 16GB Memory - 1TB SSD - Copilot+ PC - Eclipse Gray",
   "source": "bestbuy.com",
   "market": "US",
-  "total": 1737,
-  "with_text": 1737,
-  "date_range": "2025-04-25 to 2026-07-04",
-  "avg_rating": 4.77,
-  "satisfaction_score": 95.9,
+  "total": 2348,
+  "with_text": 2348,
+  "date_range": "2025-04-25 to 2026-10-20",
+  "avg_rating": 4.75,
+  "satisfaction_score": 95.6,
   "star_distribution": {
-    "1": 20,
-    "2": 16,
-    "3": 35,
-    "4": 209,
-    "5": 1457
+    "1": 30,
+    "2": 22,
+    "3": 51,
+    "4": 303,
+    "5": 1942
   },
   "sentiment": {
-    "positive": 1666,
-    "neutral": 35,
-    "negative": 36,
-    "positive_pct": 95.9,
-    "neutral_pct": 2.0,
-    "negative_pct": 2.1
+    "positive": 2245,
+    "neutral": 51,
+    "negative": 52,
+    "positive_pct": 95.6,
+    "neutral_pct": 2.2,
+    "negative_pct": 2.2
   }
 }

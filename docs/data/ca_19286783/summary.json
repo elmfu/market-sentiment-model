@@ -2,24 +2,24 @@
   "product": "HP OmniBook X Flip NG AI 16\" Touchscreen 2-in-1 Laptop - Silver (AMD Ryzen AI 5 340/16GB RAM/1TB SSD)",
   "source": "bestbuy.ca",
   "market": "CA",
-  "total": 56,
-  "with_text": 36,
+  "total": 82,
+  "with_text": 54,
   "date_range": "",
-  "avg_rating": 4.18,
+  "avg_rating": 4.13,
   "satisfaction_score": 76.8,
   "star_distribution": {
-    "1": 3,
-    "2": 5,
-    "3": 5,
-    "4": 9,
-    "5": 34
+    "1": 5,
+    "2": 6,
+    "3": 8,
+    "4": 17,
+    "5": 46
   },
   "sentiment": {
-    "positive": 43,
-    "neutral": 5,
-    "negative": 8,
+    "positive": 63,
+    "neutral": 8,
+    "negative": 11,
     "positive_pct": 76.8,
-    "neutral_pct": 8.9,
-    "negative_pct": 14.3
+    "neutral_pct": 9.8,
+    "negative_pct": 13.4
   }
 }

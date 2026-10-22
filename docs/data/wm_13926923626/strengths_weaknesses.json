@@ -2,86 +2,98 @@
   "strengths": [
     {
       "theme": "Build & Keyboard",
-      "count": 22,
-      "pct_of_reviews": 30.6,
+      "count": 65,
+      "pct_of_reviews": 40.9,
       "quotes": [
+        "When closed it has a very slim profile and feels lightweight to carry which makes it perfect to bring anywhere.",
         "It's fast, thin and light and the graphics on the 16 inch screen are really nice.",
-        "Both the old desktop and laptop are over 12 y/o so I trust HP quality.",
-        "The keyboard buttons can be more softer and wider for better user experience."
-      ]
-    },
-    {
-      "theme": "Display Quality",
-      "count": 11,
-      "pct_of_reviews": 15.3,
-      "quotes": [
-        "It's fast, thin and light and the graphics on the 16 inch screen are really nice.",
-        "Screen is the low point not bad but not the 3x Amoled I'm used to.",
-        "Love that I  can add my wireless mouse and extended screen."
-      ]
-    },
-    {
-      "theme": "Price & Value",
-      "count": 11,
-      "pct_of_reviews": 15.3,
-      "quotes": [
-        "Overall happy with purchase  at price point on sale.",
-        "Excellent value for price laptop, runs quickly and has great standby time on battery power."
+        "Both the old desktop and laptop are over 12 y/o so I trust HP quality."
       ]
     },
     {
       "theme": "Performance & Chip",
-      "count": 9,
-      "pct_of_reviews": 12.5,
+      "count": 49,
+      "pct_of_reviews": 30.8,
       "quotes": [
         "It significantly outperforms my previous HP i7 Gen 3 laptop in both speed and functionality.",
         "It's fast, thin and light and the graphics on the 16 inch screen are really nice.",
-        "Ryzen processor does well and benchmarks well against intel."
+        "The Snapdragon processor helps provide impressive battery performance, which gives me much more freedom to work from different places."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 45,
+      "pct_of_reviews": 28.3,
+      "quotes": [
+        "A few of its amazing features are the battery life, large screen, and portability.",
+        "It's fast, thin and light and the graphics on the 16 inch screen are really nice.",
+        "The large screen is especially helpful when I'm editing content or working with several windows at once."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 38,
+      "pct_of_reviews": 23.9,
+      "quotes": [
+        "A few of its amazing features are the battery life, large screen, and portability.",
+        "One of the biggest advantages for me has been the battery life.",
+        "One of my favorite features is the battery life."
       ]
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 8,
-      "pct_of_reviews": 11.1,
+      "count": 35,
+      "pct_of_reviews": 22.0,
       "quotes": [
         "The AI features are impressive and enhance my overall daily experience.",
-        "Setup was fairly simple and went quickly.",
-        "I have been transferring files and upgrading software with no issues to date."
+        "The spacious layout makes it easy to have multiple windows open at once and allows me to be more organized and efficient.",
+        "Setup was fairly simple and went quickly."
       ]
     }
   ],
   "weaknesses": [
     {
       "theme": "Price & Value",
-      "count": 2,
-      "pct_of_reviews": 2.8,
+      "count": 5,
+      "pct_of_reviews": 3.1,
       "quotes": [
         "Some value but could have gottenit cheaper."
       ]
     },
     {
+      "theme": "Battery Life",
+      "count": 4,
+      "pct_of_reviews": 2.5,
+      "quotes": [
+        "One quarter in and computer is turning off at random times, making some really concerning sounds, and barely holding a charge.",
+        "It get's heated up very fast and especially during charging, battery backup is the worst, and AI is just a marketing gimmick"
+      ]
+    },
+    {
       "theme": "Performance & Chip",
-      "count": 1,
-      "pct_of_reviews": 1.4,
-      "quotes": []
+      "count": 3,
+      "pct_of_reviews": 1.9,
+      "quotes": [
+        "It get's heated up very fast and especially during charging, battery backup is the worst, and AI is just a marketing gimmick"
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 3,
+      "pct_of_reviews": 1.9,
+      "quotes": [
+        "it has gone to blue screens now it's a black screen crashing and HP is giving me such a hard time with getting it fixed.",
+        "I could hear the motor working but nothing would appear on the screen.",
+        "The laptop would be running but the screen doesnt come up."
+      ]
     },
     {
       "theme": "Build & Keyboard",
-      "count": 1,
-      "pct_of_reviews": 1.4,
-      "quotes": []
-    },
-    {
-      "theme": "Software & Ecosystem",
-      "count": 1,
-      "pct_of_reviews": 1.4,
-      "quotes": []
-    },
-    {
-      "theme": "Battery Life",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
+      "count": 3,
+      "pct_of_reviews": 1.9,
+      "quotes": [
+        "about the laptop in April 2026 I've only had it for a few months and already I've had issues with the keyboard specifically the letter l."
+      ]
     }
   ]
 }

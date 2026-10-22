@@ -1,19 +1,9 @@
 {
   "strengths": [
     {
-      "theme": "Display Quality",
-      "count": 30,
-      "pct_of_reviews": 81.1,
-      "quotes": [
-        "The build quality, typing experience, screen, power, and battery life, are all stellar.",
-        "The keys are jammed a little close together, and there is no number keypad, but that is to be expected for a 14\" display.",
-        "The display is lights out gorgeous as expected."
-      ]
-    },
-    {
       "theme": "Performance & Chip",
-      "count": 29,
-      "pct_of_reviews": 78.4,
+      "count": 34,
+      "pct_of_reviews": 72.3,
       "quotes": [
         "If I had to say who this laptop is aimed at, I would say it is for users who desire portability without sacrificing performance.",
         "The touch screen functionality is responsive and easy to use.",
@@ -21,9 +11,19 @@
       ]
     },
     {
+      "theme": "Display Quality",
+      "count": 34,
+      "pct_of_reviews": 72.3,
+      "quotes": [
+        "The build quality, typing experience, screen, power, and battery life, are all stellar.",
+        "The keys are jammed a little close together, and there is no number keypad, but that is to be expected for a 14\" display.",
+        "The display is lights out gorgeous as expected."
+      ]
+    },
+    {
       "theme": "Build & Keyboard",
-      "count": 29,
-      "pct_of_reviews": 78.4,
+      "count": 34,
+      "pct_of_reviews": 72.3,
       "quotes": [
         "The build quality, typing experience, screen, power, and battery life, are all stellar.",
         "This is a sleek, luxurious machine with a high-end feel.",
@@ -32,8 +32,8 @@
     },
     {
       "theme": "Battery Life",
-      "count": 21,
-      "pct_of_reviews": 56.8,
+      "count": 23,
+      "pct_of_reviews": 48.9,
       "quotes": [
         "The build quality, typing experience, screen, power, and battery life, are all stellar.",
         "Battery life has been strong for a machine with this level of performance.",
@@ -42,8 +42,8 @@
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 21,
-      "pct_of_reviews": 56.8,
+      "count": 22,
+      "pct_of_reviews": 46.8,
       "quotes": [
         "In everyday tasks—web browsing with dozens of tabs, Microsoft Office suite, video calls, and file management—it feels exceptionally snappy.",
         "Setup is straight forward and plenty of updates (including crucial ME, firmware and BIOS) are awaiting you once on the Windows 11 desktop.",
@@ -54,15 +54,27 @@
   "weaknesses": [
     {
       "theme": "Performance & Chip",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
+      "count": 1,
+      "pct_of_reviews": 2.1,
+      "quotes": [
+        "But performance is not that great, my laptop is giving me video memory management stop code everyday and it restarts itself."
+      ]
     },
     {
       "theme": "Battery Life",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
+      "count": 1,
+      "pct_of_reviews": 2.1,
+      "quotes": [
+        "She called me a month later & 2 days before classes started due to the laptop not charging or turning on."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 1,
+      "pct_of_reviews": 2.1,
+      "quotes": [
+        "I’m starting to doubt the quality of Best Buy products."
+      ]
     },
     {
       "theme": "Display Quality",
@@ -72,12 +84,6 @@
     },
     {
       "theme": "Thermals & Cooling",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Build & Keyboard",
       "count": 0,
       "pct_of_reviews": 0.0,
       "quotes": []

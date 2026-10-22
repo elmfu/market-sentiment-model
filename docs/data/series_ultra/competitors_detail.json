@@ -2,7 +2,7 @@
  "competitors": [
   {
    "brand": "Apple/Mac",
-   "total_mentions": 14,
+   "total_mentions": 16,
    "reviews": [
     {
      "title": "The laptop you want to love - Powerful and likable",
@@ -26,11 +26,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "11 additional review(s) also mention Apple/Mac."
+   "summary_of_remaining": "13 additional review(s) also mention Apple/Mac."
   },
   {
    "brand": "Dell",
-   "total_mentions": 5,
+   "total_mentions": 6,
    "reviews": [
     {
      "title": "Ultra Portable for workload of AI & still have fun",
@@ -54,7 +54,7 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "2 additional review(s) also mention Dell."
+   "summary_of_remaining": "3 additional review(s) also mention Dell."
   },
   {
    "brand": "Lenovo",

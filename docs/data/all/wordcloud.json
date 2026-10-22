@@ -1,302 +1,302 @@
 [
  {
   "word": "screen",
-  "count": 1734,
+  "count": 2084,
   "sentiment": "positive"
  },
  {
   "word": "fast",
-  "count": 1401,
+  "count": 1640,
   "sentiment": "positive"
  },
  {
   "word": "easy",
-  "count": 1293,
+  "count": 1541,
   "sentiment": "positive"
  },
  {
   "word": "battery",
-  "count": 1178,
-  "sentiment": "positive"
- },
- {
-  "word": "best",
-  "count": 1086,
-  "sentiment": "positive"
- },
- {
-  "word": "price",
-  "count": 1083,
+  "count": 1383,
   "sentiment": "positive"
  },
  {
   "word": "work",
-  "count": 1080,
+  "count": 1277,
+  "sentiment": "positive"
+ },
+ {
+  "word": "price",
+  "count": 1215,
+  "sentiment": "positive"
+ },
+ {
+  "word": "best",
+  "count": 1210,
   "sentiment": "positive"
  },
  {
   "word": "excellent",
-  "count": 990,
+  "count": 1148,
   "sentiment": "positive"
  },
  {
   "word": "keyboard",
-  "count": 921,
+  "count": 1074,
   "sentiment": "positive"
  },
  {
   "word": "life",
-  "count": 912,
-  "sentiment": "positive"
- },
- {
-  "word": "works",
-  "count": 781,
-  "sentiment": "positive"
- },
- {
-  "word": "perfect",
-  "count": 778,
+  "count": 1066,
   "sentiment": "positive"
  },
  {
   "word": "product",
-  "count": 764,
+  "count": 929,
   "sentiment": "positive"
  },
  {
-  "word": "touch",
-  "count": 750,
+  "word": "works",
+  "count": 925,
+  "sentiment": "positive"
+ },
+ {
+  "word": "perfect",
+  "count": 891,
   "sentiment": "positive"
  },
  {
   "word": "flip",
-  "count": 744,
+  "count": 890,
   "sentiment": "positive"
  },
  {
   "word": "performance",
-  "count": 739,
+  "count": 883,
+  "sentiment": "positive"
+ },
+ {
+  "word": "touch",
+  "count": 873,
   "sentiment": "positive"
  },
  {
   "word": "recommend",
-  "count": 725,
+  "count": 864,
   "sentiment": "positive"
  },
  {
   "word": "quality",
-  "count": 707,
+  "count": 823,
   "sentiment": "positive"
  },
  {
   "word": "overall",
-  "count": 633,
-  "sentiment": "positive"
- },
- {
-  "word": "display",
-  "count": 613,
+  "count": 750,
   "sentiment": "positive"
  },
  {
   "word": "happy",
-  "count": 580,
+  "count": 707,
   "sentiment": "positive"
  },
  {
-  "word": "light",
-  "count": 572,
+  "word": "display",
+  "count": 683,
   "sentiment": "positive"
  },
  {
   "word": "features",
-  "count": 557,
+  "count": 669,
+  "sentiment": "positive"
+ },
+ {
+  "word": "light",
+  "count": 649,
   "sentiment": "positive"
  },
  {
   "word": "speed",
-  "count": 520,
-  "sentiment": "positive"
- },
- {
-  "word": "amazing",
-  "count": 498,
-  "sentiment": "positive"
- },
- {
-  "word": "tablet",
-  "count": 496,
+  "count": 606,
   "sentiment": "positive"
  },
  {
   "word": "school",
-  "count": 488,
+  "count": 585,
+  "sentiment": "positive"
+ },
+ {
+  "word": "amazing",
+  "count": 576,
   "sentiment": "positive"
  },
  {
   "word": "size",
-  "count": 483,
+  "count": 575,
   "sentiment": "positive"
  },
  {
   "word": "touchscreen",
-  "count": 456,
+  "count": 571,
+  "sentiment": "positive"
+ },
+ {
+  "word": "tablet",
+  "count": 565,
   "sentiment": "positive"
  },
  {
   "word": "set",
-  "count": 420,
-  "sentiment": "positive"
- },
- {
-  "word": "needed",
-  "count": 409,
-  "sentiment": "positive"
- },
- {
-  "word": "old",
-  "count": 408,
-  "sentiment": "positive"
- },
- {
-  "word": "windows",
-  "count": 405,
+  "count": 508,
   "sentiment": "positive"
  },
  {
   "word": "design",
-  "count": 405,
+  "count": 482,
+  "sentiment": "positive"
+ },
+ {
+  "word": "needed",
+  "count": 481,
+  "sentiment": "positive"
+ },
+ {
+  "word": "old",
+  "count": 475,
+  "sentiment": "positive"
+ },
+ {
+  "word": "windows",
+  "count": 461,
   "sentiment": "positive"
  },
  {
   "word": "little",
-  "count": 393,
+  "count": 452,
   "sentiment": "positive"
  },
  {
   "word": "looking",
-  "count": 392,
+  "count": 445,
   "sentiment": "positive"
  },
  {
   "word": "long",
-  "count": 385,
-  "sentiment": "positive"
- },
- {
-  "word": "processor",
-  "count": 379,
+  "count": 443,
   "sentiment": "positive"
  },
  {
   "word": "without",
-  "count": 370,
+  "count": 433,
   "sentiment": "positive"
  },
  {
-  "word": "better",
-  "count": 366,
-  "sentiment": "positive"
- },
- {
-  "word": "smooth",
-  "count": 355,
-  "sentiment": "positive"
- },
- {
-  "word": "while",
-  "count": 346,
-  "sentiment": "positive"
- },
- {
-  "word": "working",
-  "count": 344,
-  "sentiment": "positive"
- },
- {
-  "word": "solid",
-  "count": 343,
-  "sentiment": "positive"
- },
- {
-  "word": "machine",
-  "count": 342,
-  "sentiment": "positive"
- },
- {
-  "word": "because",
-  "count": 341,
-  "sentiment": "positive"
- },
- {
-  "word": "copilot",
-  "count": 341,
-  "sentiment": "positive"
- },
- {
-  "word": "storage",
-  "count": 341,
+  "word": "processor",
+  "count": 428,
   "sentiment": "positive"
  },
  {
   "word": "college",
-  "count": 341,
+  "count": 424,
   "sentiment": "positive"
  },
  {
-  "word": "super",
-  "count": 334,
+  "word": "working",
+  "count": 421,
   "sentiment": "positive"
  },
  {
-  "word": "highly",
-  "count": 332,
+  "word": "better",
+  "count": 415,
   "sentiment": "positive"
  },
  {
-  "word": "value",
-  "count": 330,
+  "word": "smooth",
+  "count": 403,
   "sentiment": "positive"
  },
  {
-  "word": "ram",
-  "count": 329,
+  "word": "while",
+  "count": 401,
   "sentiment": "positive"
  },
  {
-  "word": "awesome",
-  "count": 323,
+  "word": "because",
+  "count": 400,
   "sentiment": "positive"
  },
  {
   "word": "lightweight",
-  "count": 322,
+  "count": 395,
   "sentiment": "positive"
  },
  {
-  "word": "service",
-  "count": 316,
+  "word": "value",
+  "count": 394,
   "sentiment": "positive"
  },
  {
-  "word": "laptops",
-  "count": 316,
+  "word": "storage",
+  "count": 393,
+  "sentiment": "positive"
+ },
+ {
+  "word": "solid",
+  "count": 386,
+  "sentiment": "positive"
+ },
+ {
+  "word": "super",
+  "count": 386,
+  "sentiment": "positive"
+ },
+ {
+  "word": "machine",
+  "count": 378,
+  "sentiment": "positive"
+ },
+ {
+  "word": "now",
+  "count": 377,
   "sentiment": "positive"
  },
  {
   "word": "sleek",
-  "count": 315,
+  "count": 376,
+  "sentiment": "positive"
+ },
+ {
+  "word": "highly",
+  "count": 375,
+  "sentiment": "positive"
+ },
+ {
+  "word": "copilot",
+  "count": 366,
   "sentiment": "positive"
  },
  {
   "word": "feels",
-  "count": 314,
+  "count": 365,
   "sentiment": "positive"
  },
  {
-  "word": "power",
-  "count": 311,
+  "word": "issues",
+  "count": 364,
+  "sentiment": "positive"
+ },
+ {
+  "word": "awesome",
+  "count": 363,
+  "sentiment": "positive"
+ },
+ {
+  "word": "memory",
+  "count": 362,
+  "sentiment": "positive"
+ },
+ {
+  "word": "ram",
+  "count": 352,
   "sentiment": "positive"
  }
 ]

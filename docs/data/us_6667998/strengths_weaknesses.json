@@ -1,45 +1,54 @@
 {
   "strengths": [
     {
-      "theme": "Build & Keyboard",
-      "count": 3,
-      "pct_of_reviews": 60.0,
+      "theme": "Performance & Chip",
+      "count": 7,
+      "pct_of_reviews": 63.6,
       "quotes": [
+        "Highly recommend the HP OmniBook Ultra Snapdragon X2 Elite for it's speed and screen.",
         "The HP Omnibook Ultra 14 with the Snapdragon X2 Elite processor is a thin and light premium laptop that is a great for general productivity.",
-        "I love the light weight of the device and it works great with the HP Hub that I bought to go with it.",
-        "I you want a premium portable laptop with high build quality you can’t go wrong here!"
+        "- The RAM (LPDDR5X 9533MT/s) and Drive (PCie5 NVMe) are fast."
       ]
     },
     {
-      "theme": "Performance & Chip",
-      "count": 2,
-      "pct_of_reviews": 40.0,
+      "theme": "Build & Keyboard",
+      "count": 7,
+      "pct_of_reviews": 63.6,
       "quotes": [
-        "Highly recommend the HP OmniBook Ultra Snapdragon X2 Elite for it's speed and screen.",
-        "The HP Omnibook Ultra 14 with the Snapdragon X2 Elite processor is a thin and light premium laptop that is a great for general productivity."
+        "The HP Omnibook Ultra 14 with the Snapdragon X2 Elite processor is a thin and light premium laptop that is a great for general productivity.",
+        "Surprisingly feels lighter than a MacBook Air, guess due to weight distribution on account of a slightly larger footprint.",
+        "I love the light weight of the device and it works great with the HP Hub that I bought to go with it."
       ]
     },
     {
       "theme": "Battery Life",
-      "count": 2,
-      "pct_of_reviews": 40.0,
+      "count": 5,
+      "pct_of_reviews": 45.5,
       "quotes": [
+        "- The Snapdragon X2E is delivering the promise of Windows on Arm - it's quiet, cool, responsive and all this with excellent battery life.",
+        "Battery lasts for days, no draining like with x86 useless processing.",
         "Battery life is next level while giving plenty of computing power."
       ]
     },
     {
       "theme": "Display Quality",
-      "count": 2,
-      "pct_of_reviews": 40.0,
+      "count": 5,
+      "pct_of_reviews": 45.5,
       "quotes": [
-        "Highly recommend the HP OmniBook Ultra Snapdragon X2 Elite for it's speed and screen."
+        "Highly recommend the HP OmniBook Ultra Snapdragon X2 Elite for it's speed and screen.",
+        "And love the steel blue color and how it catches the light.",
+        "and the limited swivel of the display, it needs to do 160-180 to make it more useful."
       ]
     },
     {
-      "theme": "Ports & Connectivity",
-      "count": 2,
-      "pct_of_reviews": 40.0,
-      "quotes": []
+      "theme": "Software & Ecosystem",
+      "count": 4,
+      "pct_of_reviews": 36.4,
+      "quotes": [
+        "Online reviews indicate that the Snapdragon X2 Elite laptops are some of the fastest windows laptops available, but not for serious gaming.",
+        "In fact, this is the first windows hard drive that is faster than my mac.",
+        "Which apps run ARM nativity they fly like a rocket."
+      ]
     }
   ],
   "weaknesses": [

@@ -62,6 +62,20 @@
         }
       ],
       "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Hp's new Spectre:cheapened quite a bit in quality!",
+          "body": "I had two HP Spectre 2-in-1s in the past. superior quality. They were great; fast, never froze up.\n The only problem I ever had was that the electric cord plugged in a flashdrive port on the laptop. It was notorious for breaking, which requred the entire laptop to be sent back for repair. They had t",
+          "excerpt": "Next time bought a Microsoft Surface Book 3.",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": ""
     }
   ]
 }

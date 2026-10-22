@@ -2,46 +2,46 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 67,
-    "positive": 65,
-    "neutral": 1,
+    "total": 69,
+    "positive": 66,
+    "neutral": 2,
     "negative": 1,
-    "positive_pct": 97.0,
-    "negative_pct": 1.5,
-    "net_score": 95.5
+    "positive_pct": 95.7,
+    "negative_pct": 1.4,
+    "net_score": 94.3
   },
   {
     "topic": "display",
     "label": "Display Quality",
-    "total": 47,
-    "positive": 43,
-    "neutral": 2,
+    "total": 50,
+    "positive": 45,
+    "neutral": 3,
     "negative": 2,
-    "positive_pct": 91.5,
-    "negative_pct": 4.3,
-    "net_score": 87.2
+    "positive_pct": 90.0,
+    "negative_pct": 4.0,
+    "net_score": 86.0
   },
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 46,
-    "positive": 41,
-    "neutral": 2,
+    "total": 48,
+    "positive": 42,
+    "neutral": 3,
     "negative": 3,
-    "positive_pct": 89.1,
-    "negative_pct": 6.5,
-    "net_score": 82.6
+    "positive_pct": 87.5,
+    "negative_pct": 6.2,
+    "net_score": 81.3
   },
   {
     "topic": "price_value",
     "label": "Price & Value",
-    "total": 36,
-    "positive": 30,
-    "neutral": 3,
+    "total": 38,
+    "positive": 31,
+    "neutral": 4,
     "negative": 3,
-    "positive_pct": 83.3,
-    "negative_pct": 8.3,
-    "net_score": 75.0
+    "positive_pct": 81.6,
+    "negative_pct": 7.9,
+    "net_score": 73.7
   },
   {
     "topic": "battery",
@@ -57,24 +57,24 @@
   {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 26,
-    "positive": 22,
-    "neutral": 1,
+    "total": 28,
+    "positive": 23,
+    "neutral": 2,
     "negative": 3,
-    "positive_pct": 84.6,
-    "negative_pct": 11.5,
-    "net_score": 73.1
+    "positive_pct": 82.1,
+    "negative_pct": 10.7,
+    "net_score": 71.4
   },
   {
     "topic": "ports",
     "label": "Ports & Connectivity",
-    "total": 15,
+    "total": 16,
     "positive": 13,
-    "neutral": 0,
+    "neutral": 1,
     "negative": 2,
-    "positive_pct": 86.7,
-    "negative_pct": 13.3,
-    "net_score": 73.4
+    "positive_pct": 81.2,
+    "negative_pct": 12.5,
+    "net_score": 68.7
   },
   {
     "topic": "thermals",
@@ -90,12 +90,12 @@
   {
     "topic": "repairability",
     "label": "Repairability",
-    "total": 5,
+    "total": 6,
     "positive": 4,
-    "neutral": 1,
+    "neutral": 2,
     "negative": 0,
-    "positive_pct": 80.0,
+    "positive_pct": 66.7,
     "negative_pct": 0.0,
-    "net_score": 80.0
+    "net_score": 66.7
   }
 ]

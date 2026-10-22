@@ -1,13 +1,88 @@
 [
   {
     "word": "screen",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "quality",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
+    "word": "issue",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
+    "word": "oled",
     "count": 2,
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "word": "battery",
     "count": 2,
     "sentiment": "positive"
+  },
+  {
+    "word": "around",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "power",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "price",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "flip",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "support",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "however",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "reset",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "hard",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "update",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "left",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "issues",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "same",
+    "count": 2,
+    "sentiment": "negative"
   },
   {
     "word": "handy",
@@ -40,27 +115,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "quality",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "oled",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
     "word": "touch",
     "count": 1,
     "sentiment": "positive"
   },
   {
     "word": "life",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "around",
     "count": 1,
     "sentiment": "positive"
   },
@@ -111,11 +171,6 @@
   },
   {
     "word": "adrenalin",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "power",
     "count": 1,
     "sentiment": "positive"
   },
@@ -193,5 +248,55 @@
     "word": "works",
     "count": 1,
     "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "low",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "material",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "honestly",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "overpriced",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "thb",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "cheap",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "feeling",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "plastic",
+    "count": 1,
+    "sentiment": "negative"
+  },
+  {
+    "word": "body",
+    "count": 1,
+    "sentiment": "negative"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "word": "screen",
-    "count": 100,
+    "count": 101,
     "sentiment": "positive"
   },
   {
@@ -10,28 +10,38 @@
     "sentiment": "positive"
   },
   {
-    "word": "battery",
-    "count": 78,
+    "word": "fast",
+    "count": 81,
     "sentiment": "positive"
   },
   {
-    "word": "fast",
-    "count": 78,
+    "word": "battery",
+    "count": 80,
     "sentiment": "positive"
   },
   {
     "word": "work",
-    "count": 74,
+    "count": 76,
     "sentiment": "positive"
   },
   {
     "word": "life",
-    "count": 64,
+    "count": 66,
     "sentiment": "positive"
   },
   {
     "word": "perfect",
-    "count": 62,
+    "count": 64,
+    "sentiment": "positive"
+  },
+  {
+    "word": "school",
+    "count": 59,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 57,
     "sentiment": "positive"
   },
   {
@@ -42,16 +52,6 @@
   {
     "word": "price",
     "count": 57,
-    "sentiment": "positive"
-  },
-  {
-    "word": "school",
-    "count": 57,
-    "sentiment": "positive"
-  },
-  {
-    "word": "light",
-    "count": 56,
     "sentiment": "positive"
   },
   {
@@ -70,13 +70,23 @@
     "sentiment": "positive"
   },
   {
+    "word": "best",
+    "count": 50,
+    "sentiment": "positive"
+  },
+  {
     "word": "tablet",
     "count": 50,
     "sentiment": "positive"
   },
   {
-    "word": "best",
-    "count": 49,
+    "word": "works",
+    "count": 48,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 47,
     "sentiment": "positive"
   },
   {
@@ -85,27 +95,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "works",
-    "count": 47,
-    "sentiment": "positive"
-  },
-  {
-    "word": "touch",
-    "count": 46,
-    "sentiment": "positive"
-  },
-  {
     "word": "overall",
     "count": 46,
     "sentiment": "positive"
   },
   {
-    "word": "quality",
-    "count": 43,
+    "word": "product",
+    "count": 44,
     "sentiment": "positive"
   },
   {
-    "word": "product",
+    "word": "quality",
     "count": 43,
     "sentiment": "positive"
   },
@@ -121,7 +121,7 @@
   },
   {
     "word": "performance",
-    "count": 36,
+    "count": 37,
     "sentiment": "positive"
   },
   {
@@ -131,12 +131,22 @@
   },
   {
     "word": "touchscreen",
+    "count": 30,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
     "count": 29,
     "sentiment": "positive"
   },
   {
     "word": "happy",
     "count": 29,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 28,
     "sentiment": "positive"
   },
   {
@@ -150,7 +160,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "design",
+    "word": "features",
     "count": 27,
     "sentiment": "positive"
   },
@@ -160,17 +170,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "needed",
-    "count": 27,
-    "sentiment": "positive"
-  },
-  {
-    "word": "while",
+    "word": "display",
     "count": 26,
     "sentiment": "positive"
   },
   {
-    "word": "features",
+    "word": "while",
     "count": 26,
     "sentiment": "positive"
   },
@@ -185,12 +190,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "better",
+    "word": "enough",
     "count": 25,
     "sentiment": "positive"
   },
   {
-    "word": "display",
+    "word": "better",
     "count": 25,
     "sentiment": "positive"
   },
@@ -216,11 +221,6 @@
   },
   {
     "word": "around",
-    "count": 24,
-    "sentiment": "positive"
-  },
-  {
-    "word": "enough",
     "count": 24,
     "sentiment": "positive"
   },

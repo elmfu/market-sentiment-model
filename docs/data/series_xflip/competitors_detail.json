@@ -2,7 +2,7 @@
  "competitors": [
   {
    "brand": "Apple/Mac",
-   "total_mentions": 83,
+   "total_mentions": 94,
    "reviews": [
     {
      "title": "What you need to know",
@@ -26,11 +26,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "80 additional review(s) also mention Apple/Mac."
+   "summary_of_remaining": "91 additional review(s) also mention Apple/Mac."
   },
   {
    "brand": "Dell",
-   "total_mentions": 40,
+   "total_mentions": 42,
    "reviews": [
     {
      "title": "Solid budget laptop",
@@ -54,11 +54,11 @@
      "sentiment": "negative"
     }
    ],
-   "summary_of_remaining": "37 additional review(s) also mention Dell."
+   "summary_of_remaining": "39 additional review(s) also mention Dell."
   },
   {
    "brand": "Lenovo",
-   "total_mentions": 23,
+   "total_mentions": 24,
    "reviews": [
     {
      "title": "Solid budget laptop",
@@ -82,11 +82,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "20 additional review(s) also mention Lenovo."
+   "summary_of_remaining": "21 additional review(s) also mention Lenovo."
   },
   {
    "brand": "Microsoft",
-   "total_mentions": 22,
+   "total_mentions": 24,
    "reviews": [
     {
      "title": "Simple albeit bulky convertible laptop/tablet",
@@ -110,11 +110,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "19 additional review(s) also mention Microsoft."
+   "summary_of_remaining": "21 additional review(s) also mention Microsoft."
   },
   {
    "brand": "Samsung",
-   "total_mentions": 9,
+   "total_mentions": 10,
    "reviews": [
     {
      "title": "Power, awesome display, great value! Productivity!",
@@ -138,11 +138,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "6 additional review(s) also mention Samsung."
+   "summary_of_remaining": "7 additional review(s) also mention Samsung."
   },
   {
    "brand": "Chromebook",
-   "total_mentions": 7,
+   "total_mentions": 8,
    "reviews": [
     {
      "title": "Great for Online College Courses",
@@ -166,7 +166,7 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "4 additional review(s) also mention Chromebook."
+   "summary_of_remaining": "5 additional review(s) also mention Chromebook."
   },
   {
    "brand": "ASUS",
@@ -226,12 +226,19 @@
   },
   {
    "brand": "LG",
-   "total_mentions": 1,
+   "total_mentions": 2,
    "reviews": [
     {
      "title": "Power, awesome display, great value! Productivity!",
      "body": "Overview and Specs\n===========================\nHP's newest OmniBook X Flip has everything except a powerful gaming-level GPU.  The popular 2-in-1 style may not always make sense at this size (I think the sweet spot is 13-14\"), but I'm curious to see how it performs overall. It's a slim powerhouse wi",
      "excerpt": "It doesn't have the same positive feel as my Thinkpad T or X-series laptop keyboards, nor is it as good as my LG Gram Style 14 (surprisingly solid!), but it's  well-sized with a shallow depth.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Great computer.",
+     "body": "This is a great computer. Linked my old google and word files. Has a long battery life, and lots of memory. Really does what I need it too. I hated the LG Gram I got in June and they don't take it as a trade in so I have to send it some where to get any kind of trade value for it once I get my files",
+     "excerpt": "I hated the LG Gram I got in June and they don't take it as a trade in so I have to send it some where to get any kind of trade value for it once I get my files off it.",
      "rating": 5,
      "sentiment": "positive"
     }

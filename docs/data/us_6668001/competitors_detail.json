@@ -2,7 +2,7 @@
   "competitors": [
     {
       "brand": "Apple/Mac",
-      "total_mentions": 4,
+      "total_mentions": 5,
       "reviews": [
         {
           "title": "Great Screen, Great Stamina",
@@ -26,7 +26,7 @@
           "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": "1 additional review(s) also mention Apple/Mac."
+      "summary_of_remaining": "2 additional review(s) also mention Apple/Mac."
     },
     {
       "brand": "Microsoft",
@@ -64,6 +64,20 @@
           "title": "Excellent Choice!",
           "body": "Fantastic machine!\n\nFor this review, I am not going to go in depth into specs or benchmarks, since that information is freeley and readily available from multiple places... But what I will focus on is end-user experience and real-world performance.\n\nOK, first things first... I am recovering from a r",
           "excerpt": "I had been using a Dell XPS 13\", and while it's an amazingly powerful machine, the keyboard is cramped.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Best laptop ever!",
+          "body": "The battery life is insane (of course for not crazy use) and it charges super fast!\nI tried a Lenovo and the portability and weight it’s insane! The Omni Book it’s so light and just so nice to feel. The materials are great and it feels like a very high quality product. \nThe best thing is the OLED sc",
+          "excerpt": "I tried a Lenovo and the portability and weight it’s insane!",
           "rating": 5,
           "sentiment": "positive"
         }

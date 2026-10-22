@@ -1,19 +1,9 @@
 {
   "strengths": [
     {
-      "theme": "Performance & Chip",
-      "count": 14,
-      "pct_of_reviews": 24.1,
-      "quotes": [
-        "Could anyone please confirm if the CPU is AI 300 high tier or lower tier?",
-        "Documents and light gaming are smooth (note: Win11 got rid of Wordpad so you need MS Office or an alternative).",
-        "The touch screen is fantastic, the graphics and performance are amazing."
-      ]
-    },
-    {
       "theme": "Display Quality",
-      "count": 13,
-      "pct_of_reviews": 22.4,
+      "count": 21,
+      "pct_of_reviews": 25.0,
       "quotes": [
         "The touch screen is fantastic, the graphics and performance are amazing.",
         "Tbh, I haven't experienced any crashes yet:)\r\n\r\nThe touch screen and tablet+pen form is also very useful in school.",
@@ -21,9 +11,19 @@
       ]
     },
     {
+      "theme": "Performance & Chip",
+      "count": 17,
+      "pct_of_reviews": 20.2,
+      "quotes": [
+        "Could anyone please confirm if the CPU is AI 300 high tier or lower tier?",
+        "Documents and light gaming are smooth (note: Win11 got rid of Wordpad so you need MS Office or an alternative).",
+        "In conclusion, the OmniBook X Flip is a great choice for general computing but for performance computing look elsewhere."
+      ]
+    },
+    {
       "theme": "Build & Keyboard",
-      "count": 9,
-      "pct_of_reviews": 15.5,
+      "count": 12,
+      "pct_of_reviews": 14.3,
       "quotes": [
         "Aquile allows lots of text size/dimension tweaking and Sumatra is a lightweight PDF reader (Adobe works fine too but bulkier).",
         "I'm 70 and I've been using HP for a long time and I am very pleased with the sleek look and ease of access to my Omnibook.",
@@ -33,7 +33,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 6,
-      "pct_of_reviews": 10.3,
+      "pct_of_reviews": 7.1,
       "quotes": [
         "From what I can tell, no Windows laptop vendor comes with a built in solution.",
         "I was in the market for a laptop to replace the Microsoft Surface laptop I owned that had Windows 10, but could not be upgraded to Windows 11.",
@@ -41,20 +41,21 @@
       ]
     },
     {
-      "theme": "Price & Value",
-      "count": 4,
-      "pct_of_reviews": 6.9,
+      "theme": "Battery Life",
+      "count": 5,
+      "pct_of_reviews": 6.0,
       "quotes": [
-        "HP website is selling similar configuration Omnibook Ryzen AI 7 350 32GB RAM with similar price.",
-        "So ig sacrificing engineering-level performance for this is worth it."
+        "The extra memory gained made this computer snappy, responsive, and improved the battery life!",
+        "I like the speed of my OmniBook and the better battery life.",
+        "Stylish, excellent battery and amazing performance."
       ]
     }
   ],
   "weaknesses": [
     {
       "theme": "Battery Life",
-      "count": 3,
-      "pct_of_reviews": 5.2,
+      "count": 4,
+      "pct_of_reviews": 4.8,
       "quotes": [
         "Also, the battery performance has really disappointed me.",
         "Battery life isn't so good because I'm usually only getting around 6hrs of continuous use."
@@ -62,18 +63,18 @@
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 3,
-      "pct_of_reviews": 5.2,
+      "count": 4,
+      "pct_of_reviews": 4.8,
       "quotes": [
         "Since the initial setup, the device has been getting very hot.",
-        "And I could not get back on---a window pops up BIOS update!",
-        "I don’t know if you guys can do some software updates, but it would be nice if you did."
+        "It keeps getting frozen on the Microsoft setup screen.",
+        "And I could not get back on---a window pops up BIOS update!"
       ]
     },
     {
       "theme": "Performance & Chip",
-      "count": 2,
-      "pct_of_reviews": 3.4,
+      "count": 3,
+      "pct_of_reviews": 3.6,
       "quotes": [
         "Also, the battery performance has really disappointed me.",
         "This Laptop has not been a smooth transition for me."
@@ -81,9 +82,10 @@
     },
     {
       "theme": "Display Quality",
-      "count": 2,
-      "pct_of_reviews": 3.4,
+      "count": 3,
+      "pct_of_reviews": 3.6,
       "quotes": [
+        "It keeps getting frozen on the Microsoft setup screen.",
         "Sometimes when I'm reading pdfs on WPS pdf reader, the touchscreen becomes unresponsive.",
         "The screen flickers on and off continuously."
       ]
@@ -91,7 +93,7 @@
     {
       "theme": "Thermals & Cooling",
       "count": 1,
-      "pct_of_reviews": 1.7,
+      "pct_of_reviews": 1.2,
       "quotes": [
         "Since the initial setup, the device has been getting very hot."
       ]

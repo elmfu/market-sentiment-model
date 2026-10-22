@@ -1,49 +1,49 @@
 {
   "strengths": [
     {
-      "theme": "Build & Keyboard",
-      "count": 21,
-      "pct_of_reviews": 45.7,
+      "theme": "Performance & Chip",
+      "count": 39,
+      "pct_of_reviews": 41.9,
       "quotes": [
-        "It has a solid battery life and can run data analysis programs without lagging (Solidworks, MATLAB, Graphpad, etc.).",
-        "However, it is  difficult and a bit frustrating to use it because of the keyboard, which is probably the most important peripheral.",
-        "The keyboard keys are large but securely imbedded."
+        "It has an impressive amount of time with the snapdragon processer.",
+        "Overall it is small powerful, runs cool and works good.",
+        "Easy to use, fast start up, great memory capacity."
       ]
     },
     {
-      "theme": "Performance & Chip",
-      "count": 20,
-      "pct_of_reviews": 43.5,
+      "theme": "Build & Keyboard",
+      "count": 35,
+      "pct_of_reviews": 37.6,
       "quotes": [
-        "It has an impressive amount of time with the snapdragon processer.",
-        "Operating system quick and smooth transitions.",
-        "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes."
+        "It has a solid battery life and can run data analysis programs without lagging (Solidworks, MATLAB, Graphpad, etc.).",
+        "Though I wish the keyboard was lighted doesn't seem to be anything on that or I haven't found it yet.",
+        "However, it is  difficult and a bit frustrating to use it because of the keyboard, which is probably the most important peripheral."
       ]
     },
     {
       "theme": "Battery Life",
-      "count": 20,
-      "pct_of_reviews": 43.5,
+      "count": 31,
+      "pct_of_reviews": 33.3,
       "quotes": [
         "It has a solid battery life and can run data analysis programs without lagging (Solidworks, MATLAB, Graphpad, etc.).",
-        "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes.",
-        "It came fully charged and I've only had to charge it once so far which was quite quick, 20-85% in 30 minutes."
+        "Wish it had USB-C on both sides for charging.",
+        "Video graphics is excellent does what I need it to decent battery life, quick to recharge."
       ]
     },
     {
       "theme": "Display Quality",
-      "count": 18,
-      "pct_of_reviews": 39.1,
+      "count": 30,
+      "pct_of_reviews": 32.3,
       "quotes": [
+        "Good screen but can be a little glary because it is very glossy.",
         "The display is perfect and the sound clear.",
-        "It is sharp, vibrant, and color-accurate, making everything from spreadsheets to streaming programmes look fantastic.",
-        "This laptop is very sleek, I wasn't sure whether the 14-inch screen was big enough for what I wanted to do (gaming) but it is more than sufficient."
+        "It is sharp, vibrant, and color-accurate, making everything from spreadsheets to streaming programmes look fantastic."
       ]
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 9,
-      "pct_of_reviews": 19.6,
+      "count": 13,
+      "pct_of_reviews": 14.0,
       "quotes": [
         "Microsoft Office software is included but it is basic.",
         "Microsoft Office software is included but it is basic.",
@@ -53,41 +53,45 @@
   ],
   "weaknesses": [
     {
+      "theme": "Software & Ecosystem",
+      "count": 5,
+      "pct_of_reviews": 5.4,
+      "quotes": [
+        "The computer would not install a printer that would install on other Windows computers.",
+        "Preloading with lots of rubbish like McAfee, MS Notes and PowerPoint is not appreciated.",
+        "Realised that the ARM processor is not supported by my music software So kind of useless but I also missed the 2 weeks window to return."
+      ]
+    },
+    {
       "theme": "Performance & Chip",
-      "count": 2,
-      "pct_of_reviews": 4.3,
+      "count": 3,
+      "pct_of_reviews": 3.2,
       "quotes": [
         "My new HP Omni 5 laptop's processor is incompatible to run Adobe Photoshop Elements and Premier that functioned on my older HP PC laptop.",
         "Realised that the ARM processor is not supported by my music software So kind of useless but I also missed the 2 weeks window to return."
       ]
     },
     {
-      "theme": "Software & Ecosystem",
-      "count": 2,
-      "pct_of_reviews": 4.3,
+      "theme": "Battery Life",
+      "count": 1,
+      "pct_of_reviews": 1.1,
+      "quotes": []
+    },
+    {
+      "theme": "Display Quality",
+      "count": 1,
+      "pct_of_reviews": 1.1,
       "quotes": [
-        "Realised that the ARM processor is not supported by my music software So kind of useless but I also missed the 2 weeks window to return."
+        "I had the laptop in a soft shell case and my son knocked the case off the back of the couch and the screen was damaged."
       ]
     },
     {
       "theme": "Thermals & Cooling",
       "count": 1,
-      "pct_of_reviews": 2.2,
+      "pct_of_reviews": 1.1,
       "quotes": [
         "It gets really hot and the fan very loud when doing very few tasks simultaneously and it lags and freezes a lot also."
       ]
-    },
-    {
-      "theme": "Build & Keyboard",
-      "count": 1,
-      "pct_of_reviews": 2.2,
-      "quotes": []
-    },
-    {
-      "theme": "Battery Life",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
     }
   ]
 }

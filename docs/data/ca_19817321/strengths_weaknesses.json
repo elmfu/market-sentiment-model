@@ -1,46 +1,62 @@
 {
   "strengths": [
     {
-      "theme": "Performance & Chip",
-      "count": 2,
-      "pct_of_reviews": 28.6,
-      "quotes": [
-        "I've wanted to do this for a decade but found it slow and frustrating on both pc and android phone.",
-        "Build quality is really good and has very good specs with a powerful processor."
-      ]
-    },
-    {
       "theme": "Display Quality",
-      "count": 2,
-      "pct_of_reviews": 28.6,
-      "quotes": []
-    },
-    {
-      "theme": "Build & Keyboard",
-      "count": 2,
-      "pct_of_reviews": 28.6,
+      "count": 4,
+      "pct_of_reviews": 21.1,
       "quotes": [
-        "The build quality is far better than i expected including the hinge design.",
-        "Build quality is really good and has very good specs with a powerful processor."
+        "Screen is super crisp ,Chasis is firm to give confidence in carrying around ."
       ]
     },
     {
       "theme": "Price & Value",
-      "count": 2,
-      "pct_of_reviews": 28.6,
+      "count": 3,
+      "pct_of_reviews": 15.8,
       "quotes": [
         "If your considering a 2 in 1 format, for $1999 (on sale), its an incredible value.",
         "Got this on sale about a week ago and is exceeding expectations."
       ]
     },
     {
+      "theme": "Performance & Chip",
+      "count": 2,
+      "pct_of_reviews": 10.5,
+      "quotes": [
+        "I've wanted to do this for a decade but found it slow and frustrating on both pc and android phone.",
+        "Build quality is really good and has very good specs with a powerful processor."
+      ]
+    },
+    {
       "theme": "Battery Life",
-      "count": 1,
-      "pct_of_reviews": 14.3,
-      "quotes": []
+      "count": 2,
+      "pct_of_reviews": 10.5,
+      "quotes": [
+        "- Yes, make more laptop base models customizeable, like back in 2019, with my last laptop."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 2,
+      "pct_of_reviews": 10.5,
+      "quotes": [
+        "The build quality is far better than i expected including the hinge design.",
+        "Build quality is really good and has very good specs with a powerful processor."
+      ]
     }
   ],
   "weaknesses": [
+    {
+      "theme": "Display Quality",
+      "count": 2,
+      "pct_of_reviews": 10.5,
+      "quotes": []
+    },
+    {
+      "theme": "Price & Value",
+      "count": 2,
+      "pct_of_reviews": 10.5,
+      "quotes": []
+    },
     {
       "theme": "Performance & Chip",
       "count": 0,
@@ -54,19 +70,7 @@
       "quotes": []
     },
     {
-      "theme": "Display Quality",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
       "theme": "Thermals & Cooling",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Build & Keyboard",
       "count": 0,
       "pct_of_reviews": 0.0,
       "quotes": []

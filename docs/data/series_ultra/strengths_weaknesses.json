@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 178,
-   "pct_of_reviews": 54.6,
+   "count": 191,
+   "pct_of_reviews": 54.1,
    "quotes": [
     "The OmniBook Ultra is a small yet powerful business/college laptop.",
     "I've had the opportunity to test out several high-performance laptops, and the HP OmniBook Ultra with Copilot stood its ground.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 131,
-   "pct_of_reviews": 40.2,
+   "count": 145,
+   "pct_of_reviews": 41.1,
    "quotes": [
     "=========\nDESIGN/SPECS:\nThe OmniBook is lightweight and sports a sleek meteor-sliver color.",
     "The aluminum finish is exceptional, with a solid and sturdy construction that feels premium in the hand.",
@@ -22,7 +22,7 @@
   },
   {
    "theme": "Display Quality",
-   "count": 124,
+   "count": 134,
    "pct_of_reviews": 38.0,
    "quotes": [
     "=========\nDESIGN/SPECS:\nThe OmniBook is lightweight and sports a sleek meteor-sliver color.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Battery Life",
-   "count": 101,
-   "pct_of_reviews": 31.0,
+   "count": 107,
+   "pct_of_reviews": 30.3,
    "quotes": [
     "BATTERY LIFE:\n\nThe battery life on this is pretty impressive.",
     "BATTERY - I must mention the battery life that is the best I have ever experienced.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Software & Ecosystem",
-   "count": 86,
-   "pct_of_reviews": 26.4,
+   "count": 91,
+   "pct_of_reviews": 25.8,
    "quotes": [
     "It is your typical Windows 11 out-of-the-box experience.",
     "I've had the opportunity to test out several high-performance laptops, and the HP OmniBook Ultra with Copilot stood its ground.",
@@ -55,7 +55,7 @@
   {
    "theme": "Display Quality",
    "count": 9,
-   "pct_of_reviews": 2.8,
+   "pct_of_reviews": 2.5,
    "quotes": [
     "Everything looked brand new when I opened the box, but in trying to set it up, it didn't display any options to connect to internet.",
     "Suddenly, it started showing vertical lines in the display.",
@@ -65,7 +65,7 @@
   {
    "theme": "Software & Ecosystem",
    "count": 8,
-   "pct_of_reviews": 2.5,
+   "pct_of_reviews": 2.3,
    "quotes": [
     "Like, the bluetooth in gone (not in device manager anymore - so cannot reinstall a driver).",
     "Blue screen during first boot and after all drivers, firmare and OS update, still seen BOSD every so often.",
@@ -74,8 +74,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 6,
-   "pct_of_reviews": 1.8,
+   "count": 7,
+   "pct_of_reviews": 2.0,
    "quotes": [
     "Design wise, the keyboard and trackpad is unattractive.",
     "Space bar on the keyboard requires you to hit it in a certian area to register.",
@@ -83,23 +83,23 @@
    ]
   },
   {
+   "theme": "Performance & Chip",
+   "count": 6,
+   "pct_of_reviews": 1.7,
+   "quotes": [
+    "I absolutely love AMD processors and specially their newer generation with dedicated NPU (so I run LLMs locally) and better discrete GPUs.",
+    "I recommend another maker if you want intel panther lake 388h.",
+    "But performance is not that great, my laptop is giving me video memory management stop code everyday and it restarts itself."
+   ]
+  },
+  {
    "theme": "Price & Value",
    "count": 6,
-   "pct_of_reviews": 1.8,
+   "pct_of_reviews": 1.7,
    "quotes": [
     "I did, but since open box, all they would do it give me a refund, not replace it (and no more open boxes of this model either at that price).",
     "The product specifications and price make you buy it because it seems like a good idea, but it isn't.",
     "Many have been patched with new BIOS updates, but it's still a really flakey experience, especially for the price."
-   ]
-  },
-  {
-   "theme": "Performance & Chip",
-   "count": 5,
-   "pct_of_reviews": 1.5,
-   "quotes": [
-    "I absolutely love AMD processors and specially their newer generation with dedicated NPU (so I run LLMs locally) and better discrete GPUs.",
-    "I recommend another maker if you want intel panther lake 388h.",
-    "I bought the HP OmniBook Ultra 14 (Ryzen AI 9 365, 32GB/1TB, 2.2K touch) and it has been a headache from day one."
    ]
   }
  ]

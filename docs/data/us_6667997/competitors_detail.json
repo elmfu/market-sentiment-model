@@ -2,13 +2,20 @@
   "competitors": [
     {
       "brand": "Dell",
-      "total_mentions": 1,
+      "total_mentions": 2,
       "reviews": [
         {
           "title": "Long-lasting Lightweight Champion",
           "body": "Loving this laptop so far.  With a powerful built in iGPU, beautiful 3K OLED screen, great battery life, and very good portability I want for nothing more in a laptop.  This is able to play modern UE5 games with no problem, plugged in or on battery makes no difference in gaming performance.  If you ",
           "excerpt": "If you are looking for a sleek selection of ports to go along with this laptop, take a look at the Dell DA326 travel hub.",
           "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great laptop for the price",
+          "body": "Overall, lightweight and very good balanced laptop. I have compared it with the new Dell XPS 14, this laptop was able to produce more consistent perf scores and of 3700 vs dell of 3200. Screen is way reflective, and light keyboard is hard to see sometimes",
+          "excerpt": "I have compared it with the new Dell XPS 14, this laptop was able to produce more consistent perf scores and of 3700 vs dell of 3200.",
+          "rating": 4,
           "sentiment": "positive"
         }
       ],

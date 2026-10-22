@@ -2,24 +2,24 @@
  "product": "HP OmniBook Ultra Flip — all models (US + CA)",
  "source": "bestbuy.com + bestbuy.ca",
  "market": "US+CA",
- "total": 445,
- "with_text": 445,
- "date_range": "2024-10-01 to 2026-08-21",
- "avg_rating": 4.6,
- "satisfaction_score": 90.8,
+ "total": 453,
+ "with_text": 453,
+ "date_range": "2024-10-01 to 2026-10-18",
+ "avg_rating": 4.59,
+ "satisfaction_score": 90.5,
  "star_distribution": {
-  "1": 16,
+  "1": 17,
   "2": 8,
-  "3": 17,
-  "4": 56,
-  "5": 348
+  "3": 18,
+  "4": 57,
+  "5": 353
  },
  "sentiment": {
-  "positive": 404,
-  "neutral": 17,
-  "negative": 24,
-  "positive_pct": 90.8,
-  "neutral_pct": 3.8,
-  "negative_pct": 5.4
+  "positive": 410,
+  "neutral": 18,
+  "negative": 25,
+  "positive_pct": 90.5,
+  "neutral_pct": 4.0,
+  "negative_pct": 5.5
  }
 }

@@ -2,7 +2,7 @@
  "competitors": [
   {
    "brand": "Apple/Mac",
-   "total_mentions": 136,
+   "total_mentions": 155,
    "reviews": [
     {
      "title": "The HP Omnibook Ultra Flip is the Total Package",
@@ -26,11 +26,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "133 additional review(s) also mention Apple/Mac."
+   "summary_of_remaining": "152 additional review(s) also mention Apple/Mac."
   },
   {
    "brand": "Dell",
-   "total_mentions": 54,
+   "total_mentions": 58,
    "reviews": [
     {
      "title": "The HP Omnibook Ultra Flip is the Total Package",
@@ -54,11 +54,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "51 additional review(s) also mention Dell."
+   "summary_of_remaining": "55 additional review(s) also mention Dell."
   },
   {
    "brand": "Microsoft",
-   "total_mentions": 44,
+   "total_mentions": 47,
    "reviews": [
     {
      "title": "Simple albeit bulky convertible laptop/tablet",
@@ -82,11 +82,11 @@
      "sentiment": "negative"
     }
    ],
-   "summary_of_remaining": "41 additional review(s) also mention Microsoft."
+   "summary_of_remaining": "44 additional review(s) also mention Microsoft."
   },
   {
    "brand": "Lenovo",
-   "total_mentions": 38,
+   "total_mentions": 41,
    "reviews": [
     {
      "title": "The HP Omnibook Ultra Flip is the Total Package",
@@ -110,11 +110,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "35 additional review(s) also mention Lenovo."
+   "summary_of_remaining": "38 additional review(s) also mention Lenovo."
   },
   {
    "brand": "Samsung",
-   "total_mentions": 17,
+   "total_mentions": 18,
    "reviews": [
     {
      "title": "HP Omnibook - Software Issues",
@@ -138,7 +138,7 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "14 additional review(s) also mention Samsung."
+   "summary_of_remaining": "15 additional review(s) also mention Samsung."
   },
   {
    "brand": "ASUS",
@@ -170,7 +170,7 @@
   },
   {
    "brand": "Chromebook",
-   "total_mentions": 8,
+   "total_mentions": 10,
    "reviews": [
     {
      "title": "Awesome featured all around home/business laptop",
@@ -187,14 +187,14 @@
      "sentiment": "positive"
     },
     {
-     "title": "Terrible Best Buy is GONE Lauren Marcove",
-     "body": "It just freezes \nI didn’t like the way the salesman rushed \nI can’t download my pictures. Your agent couldn’t even do it when he got on my computer via getting into my screen \nThe last Chromebook broke down. The guy came over couldn’t even fix it didn’t even try. Told me I had to take it in. I could",
-     "excerpt": "Your agent couldn’t even do it when he got on my computer via getting into my screen \nThe last Chromebook broke down.",
-     "rating": 1,
-     "sentiment": "negative"
+     "title": "Fantastic! Sleek design, amazing battery life, & AI features.",
+     "body": "I received this HP 16” OmniBook 3 Laptop with Next Gen AI 16, Snapdragon X, 16 GB Ram, and 256 GB Ram from Influenster for testing purposes in exchange for my honest review. This HP laptop arrived so quickly! I've been testing it out the past few weeks and I must say, the battery life is impressive!",
+     "excerpt": "From using a Google Chromebook this HP OmniBook is a HUGE upgrade for me.",
+     "rating": 5,
+     "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "5 additional review(s) also mention Chromebook."
+   "summary_of_remaining": "7 additional review(s) also mention Chromebook."
   },
   {
    "brand": "Acer",
@@ -226,12 +226,19 @@
   },
   {
    "brand": "LG",
-   "total_mentions": 1,
+   "total_mentions": 2,
    "reviews": [
     {
      "title": "Power, awesome display, great value! Productivity!",
      "body": "Overview and Specs\n===========================\nHP's newest OmniBook X Flip has everything except a powerful gaming-level GPU.  The popular 2-in-1 style may not always make sense at this size (I think the sweet spot is 13-14\"), but I'm curious to see how it performs overall. It's a slim powerhouse wi",
      "excerpt": "It doesn't have the same positive feel as my Thinkpad T or X-series laptop keyboards, nor is it as good as my LG Gram Style 14 (surprisingly solid!), but it's  well-sized with a shallow depth.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Great computer.",
+     "body": "This is a great computer. Linked my old google and word files. Has a long battery life, and lots of memory. Really does what I need it too. I hated the LG Gram I got in June and they don't take it as a trade in so I have to send it some where to get any kind of trade value for it once I get my files",
+     "excerpt": "I hated the LG Gram I got in June and they don't take it as a trade in so I have to send it some where to get any kind of trade value for it once I get my files off it.",
      "rating": 5,
      "sentiment": "positive"
     }

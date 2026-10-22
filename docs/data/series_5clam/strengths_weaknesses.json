@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 207,
-   "pct_of_reviews": 29.6,
+   "count": 332,
+   "pct_of_reviews": 28.9,
    "quotes": [
     "Laptop is very fast and the best for multi tasking.",
     "Laptop is very fast and the best for multi tasking.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 200,
-   "pct_of_reviews": 28.6,
+   "count": 327,
+   "pct_of_reviews": 28.5,
    "quotes": [
     "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
     "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 156,
-   "pct_of_reviews": 22.3,
+   "count": 272,
+   "pct_of_reviews": 23.7,
    "quotes": [
     "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
     "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
@@ -31,31 +31,31 @@
    ]
   },
   {
-   "theme": "Price & Value",
-   "count": 130,
-   "pct_of_reviews": 18.6,
-   "quotes": [
-    "$20 upgrade for blue case was so worth it.",
-    "$20 upgrade for blue case was so worth it.",
-    "At full price it is a little pricey but still a good buy, and if you catch it on sale, it is a steal....."
-   ]
-  },
-  {
    "theme": "Battery Life",
-   "count": 112,
-   "pct_of_reviews": 16.0,
+   "count": 192,
+   "pct_of_reviews": 16.7,
    "quotes": [
     "I would say this laptop has the best battery power in the industry.",
     "I would say this laptop has the best battery power in the industry.",
     "Battery life and display quality are impressive, making it a reliable choice for work and entertainment."
+   ]
+  },
+  {
+   "theme": "Price & Value",
+   "count": 182,
+   "pct_of_reviews": 15.9,
+   "quotes": [
+    "$20 upgrade for blue case was so worth it.",
+    "$20 upgrade for blue case was so worth it.",
+    "At full price it is a little pricey but still a good buy, and if you catch it on sale, it is a steal....."
    ]
   }
  ],
  "weaknesses": [
   {
    "theme": "Software & Ecosystem",
-   "count": 25,
-   "pct_of_reviews": 3.6,
+   "count": 29,
+   "pct_of_reviews": 2.5,
    "quotes": [
     "very slow when opening apps and navigating around.",
     "very slow when opening apps and navigating around.",
@@ -64,28 +64,18 @@
   },
   {
    "theme": "Price & Value",
-   "count": 16,
-   "pct_of_reviews": 2.3,
+   "count": 27,
+   "pct_of_reviews": 2.4,
    "quotes": [
     "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop.",
     "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop.",
-    "I think it's a scam to get me to buy a more expensive item from the store."
-   ]
-  },
-  {
-   "theme": "Performance & Chip",
-   "count": 15,
-   "pct_of_reviews": 2.1,
-   "quotes": [
-    "very slow when opening apps and navigating around.",
-    "very slow when opening apps and navigating around.",
-    "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
+    "After I got it for 1200 lo and behold it was on sale for half."
    ]
   },
   {
    "theme": "Display Quality",
-   "count": 15,
-   "pct_of_reviews": 2.1,
+   "count": 26,
+   "pct_of_reviews": 2.3,
    "quotes": [
     "Product review -\nHas a touch screen - I didn't know that.",
     "Product review -\nHas a touch screen - I didn't know that.",
@@ -93,9 +83,19 @@
    ]
   },
   {
+   "theme": "Performance & Chip",
+   "count": 25,
+   "pct_of_reviews": 2.2,
+   "quotes": [
+    "very slow when opening apps and navigating around.",
+    "very slow when opening apps and navigating around.",
+    "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
+   ]
+  },
+  {
    "theme": "Build & Keyboard",
-   "count": 14,
-   "pct_of_reviews": 2.0,
+   "count": 19,
+   "pct_of_reviews": 1.7,
    "quotes": [
     "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
     "power light on but screen black & no light on keyboard",

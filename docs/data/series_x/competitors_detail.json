@@ -2,7 +2,7 @@
  "competitors": [
   {
    "brand": "Apple/Mac",
-   "total_mentions": 24,
+   "total_mentions": 26,
    "reviews": [
     {
      "title": "Love the new co-pilot PCs",
@@ -26,7 +26,7 @@
      "sentiment": "neutral"
     }
    ],
-   "summary_of_remaining": "21 additional review(s) also mention Apple/Mac."
+   "summary_of_remaining": "23 additional review(s) also mention Apple/Mac."
   },
   {
    "brand": "Microsoft",
@@ -57,6 +57,34 @@
    "summary_of_remaining": "6 additional review(s) also mention Microsoft."
   },
   {
+   "brand": "Lenovo",
+   "total_mentions": 5,
+   "reviews": [
+    {
+     "title": "Checks most boxes, but not all!",
+     "body": "Meet the HP OmniBook X, a Copilot+ Laptop that's got me feeling like a tech wizard and a productivity machine all at once. With a Snapdragon X Elite ARM CPU and a host of features designed to make any geek swoon, this machine promises to be a game-changer. But does it deliver? Let’s dive into the ni",
+     "excerpt": "The keyboard flexes more than a yoga instructor, and the screen feels flimsy.",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Love it!",
+     "body": "This HP Omnibook is well priced with great graphics for video conferencing!                                      The only downside is that if you prefer a wired connection for remote work, there is no ethernet port.                                                                               So BUY",
+     "excerpt": "My Thinkpad started to overheat and screen freeze while I was working with it flat on the desk, and now, I’m getting a laptop stand for it.",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "HP Omni 17”",
+     "body": "The best laptop I have owned.the screen is clear and crisp.  I bought the one with 2 TB and 64 ram, runs several windows at once along with applications.  Never gets loud like my Lenovo used too.  I am never having to wait for it to load, it’s super fast and reliable.",
+     "excerpt": "Never gets loud like my Lenovo used too.",
+     "rating": 5,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": "2 additional review(s) also mention Lenovo."
+  },
+  {
    "brand": "Samsung",
    "total_mentions": 4,
    "reviews": [
@@ -83,34 +111,6 @@
     }
    ],
    "summary_of_remaining": "1 additional review(s) also mention Samsung."
-  },
-  {
-   "brand": "Lenovo",
-   "total_mentions": 3,
-   "reviews": [
-    {
-     "title": "Checks most boxes, but not all!",
-     "body": "Meet the HP OmniBook X, a Copilot+ Laptop that's got me feeling like a tech wizard and a productivity machine all at once. With a Snapdragon X Elite ARM CPU and a host of features designed to make any geek swoon, this machine promises to be a game-changer. But does it deliver? Let’s dive into the ni",
-     "excerpt": "The keyboard flexes more than a yoga instructor, and the screen feels flimsy.",
-     "rating": 4,
-     "sentiment": "positive"
-    },
-    {
-     "title": "Love it!",
-     "body": "This HP Omnibook is well priced with great graphics for video conferencing!                                      The only downside is that if you prefer a wired connection for remote work, there is no ethernet port.                                                                               So BUY",
-     "excerpt": "My Thinkpad started to overheat and screen freeze while I was working with it flat on the desk, and now, I’m getting a laptop stand for it.",
-     "rating": 4,
-     "sentiment": "positive"
-    },
-    {
-     "title": "HP Omni 17”",
-     "body": "The best laptop I have owned.the screen is clear and crisp.  I bought the one with 2 TB and 64 ram, runs several windows at once along with applications.  Never gets loud like my Lenovo used too.  I am never having to wait for it to load, it’s super fast and reliable.",
-     "excerpt": "Never gets loud like my Lenovo used too.",
-     "rating": 5,
-     "sentiment": "positive"
-    }
-   ],
-   "summary_of_remaining": ""
   },
   {
    "brand": "Dell",

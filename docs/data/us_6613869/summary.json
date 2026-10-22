@@ -2,24 +2,24 @@
   "product": "HP - OmniBook X Flip 2-in-1 - 16\" 2K Touch-Screen Laptop - AMD Ryzen AI 5 340 2025 - 16GB Memory - 512GB SSD - Copilot+ PC - Meteor Silver",
   "source": "bestbuy.com",
   "market": "US",
-  "total": 1430,
-  "with_text": 1430,
-  "date_range": "2025-05-09 to 2026-08-22",
+  "total": 1453,
+  "with_text": 1453,
+  "date_range": "2025-05-09 to 2026-10-20",
   "avg_rating": 4.68,
   "satisfaction_score": 93.8,
   "star_distribution": {
-    "1": 31,
+    "1": 33,
     "2": 16,
     "3": 41,
-    "4": 204,
-    "5": 1138
+    "4": 209,
+    "5": 1154
   },
   "sentiment": {
-    "positive": 1342,
+    "positive": 1363,
     "neutral": 41,
-    "negative": 47,
+    "negative": 49,
     "positive_pct": 93.8,
-    "neutral_pct": 2.9,
-    "negative_pct": 3.3
+    "neutral_pct": 2.8,
+    "negative_pct": 3.4
   }
 }

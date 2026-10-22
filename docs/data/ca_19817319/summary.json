@@ -2,24 +2,24 @@
   "product": "HP OmniBook X 14\" Touchscreen 2-in-1 Laptop - Deep Espresso Aluminum (AMD Ryzen Ai7 450 (Zen 5c)/32GB RAM/1TB SSD/Windows 11 Home)",
   "source": "bestbuy.ca",
   "market": "CA",
-  "total": 3,
-  "with_text": 3,
+  "total": 13,
+  "with_text": 11,
   "date_range": "",
-  "avg_rating": 4.33,
-  "satisfaction_score": 100.0,
+  "avg_rating": 2.62,
+  "satisfaction_score": 38.5,
   "star_distribution": {
-    "1": 0,
-    "2": 0,
+    "1": 5,
+    "2": 3,
     "3": 0,
     "4": 2,
-    "5": 1
+    "5": 3
   },
   "sentiment": {
-    "positive": 3,
+    "positive": 5,
     "neutral": 0,
-    "negative": 0,
-    "positive_pct": 100.0,
+    "negative": 8,
+    "positive_pct": 38.5,
     "neutral_pct": 0.0,
-    "negative_pct": 0.0
+    "negative_pct": 61.5
   }
 }

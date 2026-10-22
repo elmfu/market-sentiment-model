@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Display Quality",
-      "count": 29,
-      "pct_of_reviews": 12.2,
+      "count": 30,
+      "pct_of_reviews": 11.9,
       "quotes": [
         "We are 66 so wanted the largest screen we could get and these screens are large, 17in, and beautiful.",
         "The colors on the screen are outstanding.",
@@ -12,8 +12,8 @@
     },
     {
       "theme": "Performance & Chip",
-      "count": 25,
-      "pct_of_reviews": 10.5,
+      "count": 26,
+      "pct_of_reviews": 10.3,
       "quotes": [
         "It is very fast although I haven't played any games on it.",
         "The computer is fast and so far no problems.",
@@ -22,8 +22,8 @@
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 21,
-      "pct_of_reviews": 8.8,
+      "count": 23,
+      "pct_of_reviews": 9.1,
       "quotes": [
         "This laptop has a secure erase option BUILT RIGHT IN to the BIOS just select it when ready and BOOM, clean hard for clean installs of windows.",
         "I wanted something with a large screen, a fast processor*, a lot of storage*, several ports, the right software* for my needs and Bluetooth.",
@@ -33,7 +33,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 20,
-      "pct_of_reviews": 8.4,
+      "pct_of_reviews": 7.9,
       "quotes": [
         "The only drawback I have is the keyboard.",
         "I no longer have to worry if the NUMERIC LOCK is on or off on the keyboard.",
@@ -43,7 +43,7 @@
     {
       "theme": "Price & Value",
       "count": 14,
-      "pct_of_reviews": 5.9,
+      "pct_of_reviews": 5.5,
       "quotes": [
         "I bought this model because of it's size and sale price.",
         "A little higher priced compared to the envy it replaced but other than the price i dont  have any complaints",
@@ -52,6 +52,12 @@
     }
   ],
   "weaknesses": [
+    {
+      "theme": "Thermals & Cooling",
+      "count": 1,
+      "pct_of_reviews": 0.4,
+      "quotes": []
+    },
     {
       "theme": "Price & Value",
       "count": 1,
@@ -76,12 +82,6 @@
     },
     {
       "theme": "Battery Life",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Display Quality",
       "count": 0,
       "pct_of_reviews": 0.0,
       "quotes": []

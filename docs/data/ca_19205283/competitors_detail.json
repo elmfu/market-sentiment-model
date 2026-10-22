@@ -22,6 +22,20 @@
       "summary_of_remaining": ""
     },
     {
+      "brand": "Lenovo",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "small but scrappy",
+          "body": "I moved from a gaming laptop to split PC for gaming and laptop for study/work. \r\nThe laptop delivers all the processing power I needed and later on I might run some local LLM through Ollama. Touchscreen is fantastic for extra way of using it like a tablet, or you can make notes with a pen. \r\n\r\nThe o",
+          "excerpt": "The only downside is the keyboard wich feels cheap and unpleasant to type on (especially moving from Lenovo laptop).",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
       "brand": "Microsoft",
       "total_mentions": 1,
       "reviews": [

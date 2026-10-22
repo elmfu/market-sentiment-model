@@ -1,302 +1,302 @@
 [
   {
     "word": "battery",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "happy",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "life",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "works",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "fast",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ram",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "overall",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "product",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "excellent",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "laptops",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "hours",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "work",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "easy",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "open",
-    "count": 3,
+    "count": 15,
     "sentiment": "positive"
   },
   {
     "word": "screen",
-    "count": 3,
+    "count": 14,
     "sentiment": "positive"
   },
   {
-    "word": "however",
-    "count": 3,
+    "word": "fast",
+    "count": 12,
     "sentiment": "positive"
   },
   {
-    "word": "usb",
-    "count": 2,
+    "word": "happy",
+    "count": 11,
     "sentiment": "positive"
   },
   {
-    "word": "i've",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "another",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "looks",
-    "count": 2,
+    "word": "works",
+    "count": 10,
     "sentiment": "positive"
   },
   {
-    "word": "amd",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ryzen",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "processor",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "software",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "multiple",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ssd",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "display",
-    "count": 2,
+    "word": "life",
+    "count": 10,
     "sentiment": "positive"
   },
   {
     "word": "keyboard",
-    "count": 2,
+    "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "feels",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "daily",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quality",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "gives",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "look",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "best",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "built",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "same",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "trackpad",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "super",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "disable",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "once",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "perfect",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "because",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "seller",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "light",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "storage",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "set",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "sleek",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "brand",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "gaming",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "enough",
-    "count": 2,
+    "word": "work",
+    "count": 9,
     "sentiment": "positive"
   },
   {
     "word": "performance",
-    "count": 2,
+    "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "tasks",
-    "count": 2,
+    "word": "easy",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
+    "count": 8,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "overall",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "set",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gaming",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looks",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "problem",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "however",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "daily",
+    "count": 5,
     "sentiment": "positive"
   },
   {
     "word": "price",
-    "count": 2,
+    "count": 5,
     "sentiment": "positive"
   },
   {
-    "word": "designs",
-    "count": 1,
+    "word": "ram",
+    "count": 5,
     "sentiment": "positive"
   },
   {
-    "word": "wish",
-    "count": 1,
+    "word": "feel",
+    "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "hookup",
-    "count": 1,
+    "word": "laptops",
+    "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "never",
-    "count": 1,
+    "word": "runs",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "smoothly",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "tasks",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "built",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 4,
     "sentiment": "negative"
   },
   {
-    "word": "worked",
-    "count": 1,
+    "word": "top",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "system",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "experience",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "backup",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "slow",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "open",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "expected",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "graphics",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quickly",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "such",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "want",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "backlit",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "poor",
+    "count": 3,
     "sentiment": "negative"
   },
   {
-    "word": "properly",
-    "count": 1,
+    "word": "software",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "fine",
+    "count": 3,
     "sentiment": "negative"
   },
   {
-    "word": "spent",
-    "count": 1,
-    "sentiment": "negative"
+    "word": "pad",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "clear",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "large",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "another",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "efficient",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "memory",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "down",
+    "count": 3,
+    "sentiment": "positive"
   }
 ]

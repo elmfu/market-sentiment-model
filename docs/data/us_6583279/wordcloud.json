@@ -165,6 +165,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "college",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
     "word": "better",
     "count": 23,
     "sentiment": "positive"
@@ -186,11 +191,6 @@
   },
   {
     "word": "now",
-    "count": 22,
-    "sentiment": "positive"
-  },
-  {
-    "word": "college",
     "count": 22,
     "sentiment": "positive"
   },

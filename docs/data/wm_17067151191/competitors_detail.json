@@ -1,3 +1,18 @@
 {
-  "competitors": []
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "HP OmniBook 5 Flip 2-in-1 Laptop",
+          "body": "I love this! I think the touchscreen is so useful. I love using it. It is a little annoying when I flip the screen into an iPad because the mouse stays and moves around sometimes.",
+          "excerpt": "It is a little annoying when I flip the screen into an iPad because the mouse stays and moves around sometimes.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
 }

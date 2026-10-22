@@ -5,9 +5,9 @@
   "market": "US",
   "series": "FiveConvertible",
   "sku": "16611304092",
-  "reviews": 31,
-  "avg_rating": 4.48,
-  "satisfaction": 87.1,
+  "reviews": 74,
+  "avg_rating": 4.36,
+  "satisfaction": 85.1,
   "first_review": "2025-11-13",
   "top_complaint": "Display Quality"
  },
@@ -17,10 +17,22 @@
   "market": "US",
   "series": "FiveConvertible",
   "sku": "16865170963",
-  "reviews": 28,
-  "avg_rating": 4.43,
-  "satisfaction": 85.7,
+  "reviews": 70,
+  "avg_rating": 4.33,
+  "satisfaction": 84.3,
   "first_review": "2025-11-29",
   "top_complaint": "Display Quality"
+ },
+ {
+  "product_key": "wm_17497203931",
+  "name": "HP OmniBook 5 Flip 2-in-1 Business Laptop 14\" 2K Touch, Intel Core 7, 16GB RAM, 1TB SSD",
+  "market": "US",
+  "series": "FiveConvertible",
+  "sku": "17497203931",
+  "reviews": 1,
+  "avg_rating": 1.0,
+  "satisfaction": 0.0,
+  "first_review": "2026-09-12",
+  "top_complaint": "—"
  }
 ]

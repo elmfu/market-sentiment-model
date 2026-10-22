@@ -1,61 +1,161 @@
 [
   {
     "word": "battery",
-    "count": 19,
+    "count": 28,
     "sentiment": "positive"
   },
   {
     "word": "life",
-    "count": 16,
-    "sentiment": "positive"
-  },
-  {
-    "word": "fast",
-    "count": 12,
+    "count": 22,
     "sentiment": "positive"
   },
   {
     "word": "easy",
-    "count": 12,
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 18,
     "sentiment": "positive"
   },
   {
     "word": "screen",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "light",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "display",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "keyboard",
-    "count": 8,
+    "count": 17,
     "sentiment": "positive"
   },
   {
     "word": "excellent",
-    "count": 8,
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 12,
     "sentiment": "positive"
   },
   {
     "word": "product",
-    "count": 8,
+    "count": 12,
     "sentiment": "positive"
   },
   {
     "word": "set",
-    "count": 8,
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 11,
     "sentiment": "positive"
   },
   {
     "word": "overall",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "perfect",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "small",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quite",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "smooth",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "wanted",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "back",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "amazing",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "around",
     "count": 7,
     "sentiment": "positive"
   },
@@ -65,57 +165,107 @@
     "sentiment": "positive"
   },
   {
-    "word": "lightweight",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quality",
+    "word": "snapdragon",
     "count": 6,
     "sentiment": "positive"
   },
   {
-    "word": "small",
+    "word": "clear",
     "count": 6,
     "sentiment": "positive"
   },
   {
-    "word": "around",
+    "word": "previous",
     "count": 6,
     "sentiment": "positive"
   },
   {
-    "word": "smooth",
+    "word": "recommend",
     "count": 6,
     "sentiment": "positive"
   },
   {
-    "word": "quite",
+    "word": "touchscreen",
     "count": 6,
     "sentiment": "positive"
   },
   {
-    "word": "perfect",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "windows",
-    "count": 5,
+    "word": "power",
+    "count": 6,
     "sentiment": "positive"
   },
   {
     "word": "software",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "i've",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 5,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "quick",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "compact",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "powerful",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "take",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "next",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "graphics",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "basic",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "heavy",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "runs",
     "count": 5,
     "sentiment": "positive"
   },
   {
     "word": "say",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "i've",
     "count": 5,
     "sentiment": "positive"
   },
@@ -130,173 +280,23 @@
     "sentiment": "positive"
   },
   {
-    "word": "previous",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "features",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "size",
+    "word": "because",
     "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "back",
+    "word": "device",
     "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "wanted",
+    "word": "different",
     "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "happy",
+    "word": "port",
     "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "portable",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "power",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "looking",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "touchscreen",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "little",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "never",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "without",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "touch",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "inch",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quickly",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "works",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "basic",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "runs",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "amazing",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "find",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "heavy",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "long",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "impressed",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "best",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "clear",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "performance",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "gaming",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "carry",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "charge",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "usb",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "durable",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "lots",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "absolutely",
-    "count": 3,
     "sentiment": "positive"
   }
 ]
