@@ -234,10 +234,26 @@ let manifest = [], current = null, reviewsCache = {};
 const $ = id => document.getElementById(id);
 const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
-async function j(path) { const r = await fetch(path); if (!r.ok) throw new Error(path+" → "+r.status); return r.json(); }
+// Cache-busting: the manifest is always fetched fresh (no-store); every other
+// data file gets ?v=<generated_at> appended, so after a weekly push all viewers
+// pick up new numbers without a manual hard refresh.
+let DATA_VER = "";
+async function j(path) {
+  const isManifest = /(^|\/)manifest\.json$/.test(path);
+  const url = isManifest ? path
+            : DATA_VER ? path + (path.includes("?") ? "&" : "?") + "v=" + encodeURIComponent(DATA_VER)
+            : path;
+  const r = await fetch(url, isManifest ? { cache: "no-store" } : undefined);
+  if (!r.ok) throw new Error(path+" → "+r.status);
+  return r.json();
+}
 
 async function init() {
-  try { manifest = (await j("data/manifest.json")).products || (await j("data/manifest.json")); }
+  try {
+    const m = await j("data/manifest.json");
+    DATA_VER = (m && m.generated_at) || String(Date.now());
+    manifest = m.products || m;
+  }
   catch (e) { $("loadmsg").textContent = "Could not load manifest: " + e.message +
     " — if opening locally, run: python -m http.server 8080 (fetch is blocked on file://)"; return; }
   if (!Array.isArray(manifest)) manifest = Object.values(manifest);
