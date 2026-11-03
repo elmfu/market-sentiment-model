@@ -1,17 +1,22 @@
 [
   {
-    "word": "ultra",
-    "count": 26,
+    "word": "screen",
+    "count": 27,
     "sentiment": "positive"
   },
   {
-    "word": "screen",
+    "word": "ultra",
     "count": 26,
     "sentiment": "positive"
   },
   {
     "word": "oled",
     "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 20,
     "sentiment": "positive"
   },
   {
@@ -26,11 +31,6 @@
   },
   {
     "word": "light",
-    "count": 19,
-    "sentiment": "positive"
-  },
-  {
-    "word": "fast",
     "count": 19,
     "sentiment": "positive"
   },
@@ -130,6 +130,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "excellent",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
     "word": "portable",
     "count": 13,
     "sentiment": "positive"
@@ -147,11 +152,6 @@
   {
     "word": "compact",
     "count": 13,
-    "sentiment": "positive"
-  },
-  {
-    "word": "excellent",
-    "count": 12,
     "sentiment": "positive"
   },
   {
@@ -187,6 +187,11 @@
   {
     "word": "core",
     "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "bright",
+    "count": 11,
     "sentiment": "positive"
   },
   {
@@ -285,17 +290,12 @@
     "sentiment": "positive"
   },
   {
+    "word": "smooth",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
     "word": "first",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "processor",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "full",
     "count": 10,
     "sentiment": "positive"
   }

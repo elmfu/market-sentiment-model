@@ -2,22 +2,22 @@
  "product": "HP OmniBook X Flip — all models (US + CA)",
  "source": "bestbuy.com + bestbuy.ca",
  "market": "US+CA",
- "total": 7058,
- "with_text": 7005,
- "date_range": "2025-04-25 to 2026-10-21",
+ "total": 7098,
+ "with_text": 7045,
+ "date_range": "2025-04-25 to 2026-10-26",
  "avg_rating": 4.71,
  "satisfaction_score": 94.5,
  "star_distribution": {
   "1": 136,
-  "2": 73,
-  "3": 177,
-  "4": 944,
-  "5": 5728
+  "2": 75,
+  "3": 179,
+  "4": 946,
+  "5": 5762
  },
  "sentiment": {
-  "positive": 6672,
-  "neutral": 177,
-  "negative": 209,
+  "positive": 6708,
+  "neutral": 179,
+  "negative": 211,
   "positive_pct": 94.5,
   "neutral_pct": 2.5,
   "negative_pct": 3.0

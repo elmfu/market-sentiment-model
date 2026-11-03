@@ -1,0 +1,86 @@
+{
+  "strengths": [
+    {
+      "theme": "Software & Ecosystem",
+      "count": 30,
+      "pct_of_reviews": 81.1,
+      "quotes": [
+        "Initial Setup\n\nSetup of the HP Googlebook was intuitive and pretty quick.",
+        "This \"Googlebook\" by HP is a new brand of OS and Laptop for Google.",
+        "Nearly every app available on Android is available here, and users can even cast apps directly from their phone to the laptop."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 29,
+      "pct_of_reviews": 78.4,
+      "quotes": [
+        "Display\n\nThe 120hz 14‑inch 3K OLED touchscreen is a marvel of modern science.",
+        "Could use some polishing when it comes to running applications in full screen mode.",
+        "The 3K OLED display is another standout feature."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 28,
+      "pct_of_reviews": 75.7,
+      "quotes": [
+        "Initial Setup\n\nSetup of the HP Googlebook was intuitive and pretty quick.",
+        "We all know that Android apps seem to lag behind iOS, iPad OS and MacOS.",
+        "Performance, however, is not one of those concerns."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 28,
+      "pct_of_reviews": 75.7,
+      "quotes": [
+        "Design\n\nThe HP Googlebook is a stunning case study in beautifully simple design.",
+        "The laptop is very sleek, it has a nice and grippy soft matte texture throughout the hardware and the keyboard.",
+        "The foundation is solid, but small usability issues occasionally get in the way."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 24,
+      "pct_of_reviews": 64.9,
+      "quotes": [
+        "Battery Life\n\nHP rates the battery life at 19 hours, and in my usage I got just under that in mixed usage.",
+        "If you need to charge it while using it, you will be down to a single USB C port to use.",
+        "Battery life is also great on this as well."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Performance & Chip",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Battery Life",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Display Quality",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Thermals & Cooling",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    }
+  ]
+}

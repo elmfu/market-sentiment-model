@@ -1,0 +1,302 @@
+[
+  {
+    "word": "phone",
+    "count": 16,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "android",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "googlebook",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "apps",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
+    "count": 14,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "tablet",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "google",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "acer",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hardware",
+    "count": 12,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "screen",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "device",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pixel",
+    "count": 10,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "system",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "mode",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ecosystem",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "app",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ultra",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "chromebook",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "full",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "around",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "however",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pretty",
+    "count": 8,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "think",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "seems",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "best",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "premium",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "keyboard",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "feels",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "trackpad",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "chrome",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "running",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "off",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "same",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gemini",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "intel",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "first",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fingerprint",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "works",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issues",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 6,
+    "sentiment": "negative"
+  },
+  {
+    "word": "since",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "devices",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "experience",
+    "count": 6,
+    "sentiment": "negative"
+  },
+  {
+    "word": "though",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "user",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "having",
+    "count": 6,
+    "sentiment": "neutral"
+  }
+]

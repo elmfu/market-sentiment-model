@@ -2,9 +2,9 @@
   "product": "HP OmniBook X Flip 16\" 3K OLED Touch, Eclipse Gray",
   "source": "bestbuy.com",
   "market": "US",
-  "total": 678,
-  "with_text": 678,
-  "date_range": "2025-08-18 to 2026-10-17",
+  "total": 679,
+  "with_text": 679,
+  "date_range": "2025-08-18 to 2026-10-22",
   "avg_rating": 4.74,
   "satisfaction_score": 95.4,
   "star_distribution": {
@@ -12,10 +12,10 @@
     "2": 3,
     "3": 12,
     "4": 78,
-    "5": 569
+    "5": 570
   },
   "sentiment": {
-    "positive": 647,
+    "positive": 648,
     "neutral": 12,
     "negative": 19,
     "positive_pct": 95.4,

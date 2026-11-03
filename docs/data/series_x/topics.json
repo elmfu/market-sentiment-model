@@ -2,13 +2,13 @@
  {
   "topic": "performance",
   "label": "Performance & Chip",
-  "total": 370,
-  "positive": 335,
+  "total": 371,
+  "positive": 336,
   "neutral": 25,
   "negative": 10,
-  "positive_pct": 90.5,
+  "positive_pct": 90.6,
   "negative_pct": 2.7,
-  "net_score": 87.8
+  "net_score": 87.9
  },
  {
   "topic": "build_quality",

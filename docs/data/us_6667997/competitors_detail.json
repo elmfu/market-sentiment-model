@@ -34,6 +34,20 @@
         }
       ],
       "summary_of_remaining": ""
+    },
+    {
+      "brand": "ASUS",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Nice Laptop, but with minor issues",
+          "body": "I bought this HP because of the small design, Intel Series 3 CPU/IGPU combo which I thought would give me excellent battery life and gaming performance.\nIt does, to a point, but not nearly as good as what I had hoped.\nThe Laptop's gaming performance is not nearly as good with the B390 as the 140V on",
+          "excerpt": "For what you pay for and get, you might as well get a Gaming Laptop or get an ASUS that will allow you to play older games.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
     }
   ]
 }

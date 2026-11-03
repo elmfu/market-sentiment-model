@@ -2,8 +2,8 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 311,
-    "positive": 305,
+    "total": 312,
+    "positive": 306,
     "neutral": 4,
     "negative": 2,
     "positive_pct": 98.1,
@@ -79,8 +79,8 @@
   {
     "topic": "ports",
     "label": "Ports & Connectivity",
-    "total": 34,
-    "positive": 34,
+    "total": 35,
+    "positive": 35,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,

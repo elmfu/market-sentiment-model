@@ -1,25 +1,36 @@
 [
   {
-    "topic": "build_quality",
-    "label": "Build & Keyboard",
-    "total": 8,
-    "positive": 7,
-    "neutral": 0,
-    "negative": 1,
-    "positive_pct": 87.5,
-    "negative_pct": 12.5,
-    "net_score": 75.0
-  },
-  {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 7,
-    "positive": 6,
+    "total": 9,
+    "positive": 8,
     "neutral": 0,
     "negative": 1,
-    "positive_pct": 85.7,
-    "negative_pct": 14.3,
-    "net_score": 71.4
+    "positive_pct": 88.9,
+    "negative_pct": 11.1,
+    "net_score": 77.8
+  },
+  {
+    "topic": "build_quality",
+    "label": "Build & Keyboard",
+    "total": 9,
+    "positive": 8,
+    "neutral": 0,
+    "negative": 1,
+    "positive_pct": 88.9,
+    "negative_pct": 11.1,
+    "net_score": 77.8
+  },
+  {
+    "topic": "battery",
+    "label": "Battery Life",
+    "total": 3,
+    "positive": 3,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
   },
   {
     "topic": "display",
@@ -44,8 +55,19 @@
     "net_score": 100.0
   },
   {
-    "topic": "battery",
-    "label": "Battery Life",
+    "topic": "software_ecosystem",
+    "label": "Software & Ecosystem",
+    "total": 3,
+    "positive": 3,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "negative_pct": 0.0,
+    "net_score": 100.0
+  },
+  {
+    "topic": "thermals",
+    "label": "Thermals & Cooling",
     "total": 2,
     "positive": 2,
     "neutral": 0,
@@ -59,28 +81,6 @@
     "label": "Ports & Connectivity",
     "total": 2,
     "positive": 2,
-    "neutral": 0,
-    "negative": 0,
-    "positive_pct": 100.0,
-    "negative_pct": 0.0,
-    "net_score": 100.0
-  },
-  {
-    "topic": "software_ecosystem",
-    "label": "Software & Ecosystem",
-    "total": 2,
-    "positive": 2,
-    "neutral": 0,
-    "negative": 0,
-    "positive_pct": 100.0,
-    "negative_pct": 0.0,
-    "net_score": 100.0
-  },
-  {
-    "topic": "thermals",
-    "label": "Thermals & Cooling",
-    "total": 1,
-    "positive": 1,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,

@@ -1,0 +1,123 @@
+{
+  "competitors": [
+    {
+      "brand": "Lenovo",
+      "total_mentions": 13,
+      "reviews": [
+        {
+          "title": "Nice hardware but missed opportunity",
+          "body": "Title: Nice hardware but missed opportunity\n\nVerdict: The Lenovo Googlebook is a beautiful computer with decent specs and great Google ecosystem integration. However, it lacks the ability to run real programs and the AI features were disappointing. I would recommend this to users heavily invested in",
+          "excerpt": "Title: Nice hardware but missed opportunity\n\nVerdict: The Lenovo Googlebook is a beautiful computer with decent specs and great Google ecosystem integration.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great Hardware, software is not there yet.",
+          "body": "Here we go again!  I decided to be a beta tester for Google.  I purchased a Googlebook.  I actually purchased the Acer Googlebook first.  I liked the Hardware mostly, but had issues with my phone not connecting.  I did not go into deep troubleshooting because I was turned off by the amount of finger",
+          "excerpt": "I got the Lenovo version.",
+          "rating": 2,
+          "sentiment": "negative"
+        },
+        {
+          "title": "Gorgeous, But Held Back Slightly by Early Quirks",
+          "body": "I want to completely love this laptop, and most days I think I do. It solves my portability needs beautifully. The sleek Cloud Grey metal chassis has a surprisingly soft-to-the-touch feel, and its lightweight design makes it effortless to carry around, which is a massive win for someone with hand de",
+          "excerpt": "As for all the not-so-positive reviews the Lenovo is getting, that's not a thing for me.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "10 additional review(s) also mention Lenovo."
+    },
+    {
+      "brand": "Chromebook",
+      "total_mentions": 9,
+      "reviews": [
+        {
+          "title": "Great Hardware, software is not there yet.",
+          "body": "Here we go again!  I decided to be a beta tester for Google.  I purchased a Googlebook.  I actually purchased the Acer Googlebook first.  I liked the Hardware mostly, but had issues with my phone not connecting.  I did not go into deep troubleshooting because I was turned off by the amount of finger",
+          "excerpt": "I did get a Lenovo Chromebook Plus 14 prior and for a mere $541 open box.",
+          "rating": 2,
+          "sentiment": "negative"
+        },
+        {
+          "title": "Amazing hardware, beta software, but still a buy!",
+          "body": "I've been using the Lenovo Googlebook 15 for about five days now, and I have to say, this is probably the nicest hardware I've used on a Google-based laptop. It's not a Chromebook, but I think Chromebook users are exactly the kind of people who are going to appreciate what Google is trying to do her",
+          "excerpt": "It's not a Chromebook, but I think Chromebook users are exactly the kind of people who are going to appreciate what Google is trying to do here.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Fast & useful, but not comfortable",
+          "body": "This is technically my second chromebook, but it feels like my first. I have a first gen chromebook from over 10 years ago that is still going with no issue. This years’ chromebook feels night and day different. This year's model is equipped with enough ports for any user. There are a couple of usb-",
+          "excerpt": "I have a first gen chromebook from over 10 years ago that is still going with no issue.",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": "6 additional review(s) also mention Chromebook."
+    },
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 5,
+      "reviews": [
+        {
+          "title": "Nice hardware but missed opportunity",
+          "body": "Title: Nice hardware but missed opportunity\n\nVerdict: The Lenovo Googlebook is a beautiful computer with decent specs and great Google ecosystem integration. However, it lacks the ability to run real programs and the AI features were disappointing. I would recommend this to users heavily invested in",
+          "excerpt": "You can setup from an iPad or Android device, so probably mobile first approach.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Googlebook Shows Promise, but Not Quite Ready",
+          "body": "It’s 2026, and Google has introduced Googlebooks, a new companion for your Android phone. There aren’t any budget Googlebooks available at the moment, and the Lenovo is no exception. The hardware is nice, featuring an attractive design headlined by a beautiful 3K OLED display running at 120Hz. It ha",
+          "excerpt": "The application’s functionality itself is stripped down compared to the desktop version on Mac or Windows.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Amazing hardware, beta software, but still a buy!",
+          "body": "I've been using the Lenovo Googlebook 15 for about five days now, and I have to say, this is probably the nicest hardware I've used on a Google-based laptop. It's not a Chromebook, but I think Chromebook users are exactly the kind of people who are going to appreciate what Google is trying to do her",
+          "excerpt": "The finish has this really smooth matte feel to it, and while it doesn't quite feel like the aluminum on a MacBook Air, it definitely doesn't feel cheap or plasticky either.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "2 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Great Hardware, software is not there yet.",
+          "body": "Here we go again!  I decided to be a beta tester for Google.  I purchased a Googlebook.  I actually purchased the Acer Googlebook first.  I liked the Hardware mostly, but had issues with my phone not connecting.  I did not go into deep troubleshooting because I was turned off by the amount of finger",
+          "excerpt": "The googlebooks are not the only ones that are guilty of this as the Surface Laptop 7 I had was the same when using the touchpad to scroll.",
+          "rating": 2,
+          "sentiment": "negative"
+        },
+        {
+          "title": "Excellent Build Quality",
+          "body": "I think Lenovo built the best looking Googlebook and sitting it next to my Lenovo Chromebook Plus, its the exact same design, with a color shade difference. Lately it seems the design of laptops makes it hard to actually use on the lap, as the fans pull from the bottom and right where they would sit",
+          "excerpt": "Each surface is painted with a fingerprint free eggshell finish.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Acer",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Great Hardware, software is not there yet.",
+          "body": "Here we go again!  I decided to be a beta tester for Google.  I purchased a Googlebook.  I actually purchased the Acer Googlebook first.  I liked the Hardware mostly, but had issues with my phone not connecting.  I did not go into deep troubleshooting because I was turned off by the amount of finger",
+          "excerpt": "I actually purchased the Acer Googlebook first.",
+          "rating": 2,
+          "sentiment": "negative"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

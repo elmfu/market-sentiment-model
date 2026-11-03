@@ -2,23 +2,23 @@
   "product": "HP OmniBook Ultra Flip Copilot+ PC 14\" 3K OLED Touch, Eclipse Gray",
   "source": "bestbuy.com",
   "market": "US",
-  "total": 321,
-  "with_text": 321,
-  "date_range": "2024-10-01 to 2026-10-18",
+  "total": 322,
+  "with_text": 322,
+  "date_range": "2024-10-01 to 2026-10-22",
   "avg_rating": 4.58,
-  "satisfaction_score": 90.3,
+  "satisfaction_score": 90.4,
   "star_distribution": {
     "1": 12,
     "2": 6,
     "3": 13,
     "4": 42,
-    "5": 248
+    "5": 249
   },
   "sentiment": {
-    "positive": 290,
+    "positive": 291,
     "neutral": 13,
     "negative": 18,
-    "positive_pct": 90.3,
+    "positive_pct": 90.4,
     "neutral_pct": 4.0,
     "negative_pct": 5.6
   }

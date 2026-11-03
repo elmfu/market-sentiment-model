@@ -1,7 +1,7 @@
 [
   {
     "word": "screen",
-    "count": 103,
+    "count": 104,
     "sentiment": "positive"
   },
   {
@@ -26,7 +26,12 @@
   },
   {
     "word": "oled",
-    "count": 59,
+    "count": 60,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ultra",
+    "count": 57,
     "sentiment": "positive"
   },
   {
@@ -35,22 +40,17 @@
     "sentiment": "positive"
   },
   {
+    "word": "flip",
+    "count": 56,
+    "sentiment": "positive"
+  },
+  {
     "word": "quality",
     "count": 56,
     "sentiment": "positive"
   },
   {
-    "word": "ultra",
-    "count": 56,
-    "sentiment": "positive"
-  },
-  {
     "word": "keyboard",
-    "count": 55,
-    "sentiment": "positive"
-  },
-  {
-    "word": "flip",
     "count": 55,
     "sentiment": "positive"
   },
@@ -61,12 +61,17 @@
   },
   {
     "word": "performance",
-    "count": 46,
+    "count": 47,
     "sentiment": "positive"
   },
   {
     "word": "work",
     "count": 45,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 43,
     "sentiment": "positive"
   },
   {
@@ -85,13 +90,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "display",
-    "count": 42,
-    "sentiment": "positive"
-  },
-  {
     "word": "overall",
-    "count": 40,
+    "count": 41,
     "sentiment": "positive"
   },
   {
@@ -107,6 +107,11 @@
   {
     "word": "lightweight",
     "count": 35,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 33,
     "sentiment": "positive"
   },
   {
@@ -131,11 +136,6 @@
   },
   {
     "word": "better",
-    "count": 32,
-    "sentiment": "positive"
-  },
-  {
-    "word": "design",
     "count": 32,
     "sentiment": "positive"
   },
@@ -185,6 +185,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "beautiful",
+    "count": 28,
+    "sentiment": "positive"
+  },
+  {
     "word": "usb",
     "count": 28,
     "sentiment": "positive"
@@ -220,7 +225,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "beautiful",
+    "word": "looks",
     "count": 27,
     "sentiment": "positive"
   },
@@ -240,8 +245,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "looks",
-    "count": 26,
+    "word": "feels",
+    "count": 25,
     "sentiment": "positive"
   },
   {
@@ -251,11 +256,6 @@
   },
   {
     "word": "features",
-    "count": 24,
-    "sentiment": "positive"
-  },
-  {
-    "word": "feels",
     "count": 24,
     "sentiment": "positive"
   },

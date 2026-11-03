@@ -1,9 +1,19 @@
 {
   "strengths": [
     {
+      "theme": "Performance & Chip",
+      "count": 8,
+      "pct_of_reviews": 57.1,
+      "quotes": [
+        "Long time Lenovo user and thought I should give HP a try for this CPU generation.",
+        "The Laptop's gaming performance is not nearly as good with the B390 as the 140V on the games I play, which was surprising.",
+        "Performance was smooth for everyday use, though I had to upgrade from the 16GB to the 32GB model since 16GB struggled even with basic web browsing."
+      ]
+    },
+    {
       "theme": "Build & Keyboard",
-      "count": 7,
-      "pct_of_reviews": 58.3,
+      "count": 8,
+      "pct_of_reviews": 57.1,
       "quotes": [
         "It has a premium feel and look, and it handles both my work and a heavy gaming load without breaking a sweat.",
         "The HP OmniBook Ultra 14 felt premium right out of the box, with a great build and an amazing display.",
@@ -11,19 +21,19 @@
       ]
     },
     {
-      "theme": "Performance & Chip",
-      "count": 6,
-      "pct_of_reviews": 50.0,
+      "theme": "Battery Life",
+      "count": 3,
+      "pct_of_reviews": 21.4,
       "quotes": [
-        "Long time Lenovo user and thought I should give HP a try for this CPU generation.",
-        "Performance was smooth for everyday use, though I had to upgrade from the 16GB to the 32GB model since 16GB struggled even with basic web browsing.",
+        "I was hoping for a significant increase in Frame Rates, along with much better battery life.",
+        "Battery life held up well throughout the day.",
         "With a powerful built in iGPU, beautiful 3K OLED screen, great battery life, and very good portability I want for nothing more in a laptop."
       ]
     },
     {
       "theme": "Display Quality",
       "count": 3,
-      "pct_of_reviews": 25.0,
+      "pct_of_reviews": 21.4,
       "quotes": [
         "The HP OmniBook Ultra 14 felt premium right out of the box, with a great build and an amazing display.",
         "With a powerful built in iGPU, beautiful 3K OLED screen, great battery life, and very good portability I want for nothing more in a laptop.",
@@ -33,19 +43,10 @@
     {
       "theme": "Price & Value",
       "count": 3,
-      "pct_of_reviews": 25.0,
+      "pct_of_reviews": 21.4,
       "quotes": [
         "It also would have been much nicer if this laptop shipped with a 2TB SSD by default, given its performance and price bracket.",
         "Overall this laptop has been a value buy and I hope to use this for the upcoming years."
-      ]
-    },
-    {
-      "theme": "Battery Life",
-      "count": 2,
-      "pct_of_reviews": 16.7,
-      "quotes": [
-        "Battery life held up well throughout the day.",
-        "With a powerful built in iGPU, beautiful 3K OLED screen, great battery life, and very good portability I want for nothing more in a laptop."
       ]
     }
   ],
@@ -53,7 +54,7 @@
     {
       "theme": "Performance & Chip",
       "count": 1,
-      "pct_of_reviews": 8.3,
+      "pct_of_reviews": 7.1,
       "quotes": [
         "I recommend another maker if you want intel panther lake 388h."
       ]
@@ -61,7 +62,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 1,
-      "pct_of_reviews": 8.3,
+      "pct_of_reviews": 7.1,
       "quotes": []
     },
     {

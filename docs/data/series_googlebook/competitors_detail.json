@@ -1,0 +1,214 @@
+{
+ "competitors": [
+  {
+   "brand": "Chromebook",
+   "total_mentions": 23,
+   "reviews": [
+    {
+     "title": "Fast, Snappy with Excellent Battery Life",
+     "body": "TLDR:  For those fully into the Google ecosystem.  For all others, not sure how these really fit in. \n\nPROS\nExcellent battery life \nPremium build quality \nSharp, vibrant OLED display \nExcellent thermals \nNearly seamless setup with an Android phone \n\nCONS \nExpensive \nAn unusual and somewhat ambitious",
+     "excerpt": "The Googlebook is unquestionably more capable than any Chromebook I've used before.",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Interesting",
+     "body": "So this new laptop from Google is actually really solid, and a lot of people will love it with one condition. But first. \n\nHardware: This laptop feels great on the exterior, and the screen is beautiful. The keyboard is really nice to type on with extended use, no fatigue should occur for most users.",
+     "excerpt": "The software is where it gets interesting, because while it’s the new GoogleBook it still just feels like my other chromebook most times.",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Great hardware. Software could use some work still",
+     "body": "I'll front load this review and say that I'm fairly well entrenched in the Apple and Microsoft ecosystems for the rest of my computing needs. I have Windows and Mac computers and I have an iPhone and iPad. I've used Google/Android devices so it's not completely foreign to me, but I've never been a d",
+     "excerpt": "But then you're begged to ask why a much cheaper Chromebook wouldn't have been just as good for you.",
+     "rating": 3,
+     "sentiment": "neutral"
+    }
+   ],
+   "summary_of_remaining": "20 additional review(s) also mention Chromebook."
+  },
+  {
+   "brand": "Apple/Mac",
+   "total_mentions": 19,
+   "reviews": [
+    {
+     "title": "A Sleek Laptop Built for the Google Ecosystem",
+     "body": "This is my first time using any Google OS–based laptop, and while it’s very different from my MacBook or Asus laptop, it’s been a generally good experience that I think most people would get accustomed to pretty quickly.\n\nInitial Setup\n\nSetup of the HP Googlebook was intuitive and pretty quick. Afte",
+     "excerpt": "This is my first time using any Google OS–based laptop, and while it’s very different from my MacBook or Asus laptop, it’s been a generally good experience that I think most people would get accustome",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "A Step In The Right Direction ( For Google)",
+     "body": "So I'll start by saying that I have been a long time fan and user of Google product and services. I've owned and use many of their phones, tablets, and laptops over the past 10+ years. This \"Googlebook\" by HP is a new brand of OS and Laptop for Google. It is no longer a \"chromebook\". Chrome OS, whil",
+     "excerpt": "We all know that Android apps seem to lag behind iOS, iPad OS and MacOS.",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Great hardware. Software could use some work still",
+     "body": "I'll front load this review and say that I'm fairly well entrenched in the Apple and Microsoft ecosystems for the rest of my computing needs. I have Windows and Mac computers and I have an iPhone and iPad. I've used Google/Android devices so it's not completely foreign to me, but I've never been a d",
+     "excerpt": "I'll front load this review and say that I'm fairly well entrenched in the Apple and Microsoft ecosystems for the rest of my computing needs.",
+     "rating": 3,
+     "sentiment": "neutral"
+    }
+   ],
+   "summary_of_remaining": "16 additional review(s) also mention Apple/Mac."
+  },
+  {
+   "brand": "Lenovo",
+   "total_mentions": 15,
+   "reviews": [
+    {
+     "title": "Nice hardware but missed opportunity",
+     "body": "Title: Nice hardware but missed opportunity\n\nVerdict: The Lenovo Googlebook is a beautiful computer with decent specs and great Google ecosystem integration. However, it lacks the ability to run real programs and the AI features were disappointing. I would recommend this to users heavily invested in",
+     "excerpt": "Title: Nice hardware but missed opportunity\n\nVerdict: The Lenovo Googlebook is a beautiful computer with decent specs and great Google ecosystem integration.",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Great Hardware, software is not there yet.",
+     "body": "Here we go again!  I decided to be a beta tester for Google.  I purchased a Googlebook.  I actually purchased the Acer Googlebook first.  I liked the Hardware mostly, but had issues with my phone not connecting.  I did not go into deep troubleshooting because I was turned off by the amount of finger",
+     "excerpt": "I got the Lenovo version.",
+     "rating": 2,
+     "sentiment": "negative"
+    },
+    {
+     "title": "Gorgeous, But Held Back Slightly by Early Quirks",
+     "body": "I want to completely love this laptop, and most days I think I do. It solves my portability needs beautifully. The sleek Cloud Grey metal chassis has a surprisingly soft-to-the-touch feel, and its lightweight design makes it effortless to carry around, which is a massive win for someone with hand de",
+     "excerpt": "As for all the not-so-positive reviews the Lenovo is getting, that's not a thing for me.",
+     "rating": 4,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": "12 additional review(s) also mention Lenovo."
+  },
+  {
+   "brand": "Acer",
+   "total_mentions": 13,
+   "reviews": [
+    {
+     "title": "Great Hardware, software is not there yet.",
+     "body": "Here we go again!  I decided to be a beta tester for Google.  I purchased a Googlebook.  I actually purchased the Acer Googlebook first.  I liked the Hardware mostly, but had issues with my phone not connecting.  I did not go into deep troubleshooting because I was turned off by the amount of finger",
+     "excerpt": "I actually purchased the Acer Googlebook first.",
+     "rating": 2,
+     "sentiment": "negative"
+    },
+    {
+     "title": "Android Power on Laptop, Bundled With Limitations",
+     "body": "TLDL version: Googlebook laptops are just Android as a desktop environment. It is neat and has potential. But lacking proper app support for the new computing environment keeps it from bringing out the best in it. First party apps and services from Google are nothing more than their web apps run ins",
+     "excerpt": "Personally, Acer isn’t a brand that pops into my head when it comes to premium computing devices, be it desktops or laptops.",
+     "rating": 2,
+     "sentiment": "negative"
+    },
+    {
+     "title": "Good start, requires quality of life improvements",
+     "body": "The Acer Googlebook 14 hardware, fit, finish, and the tactile experience fits nicely with similarly priced Windows 11 and Apple MacBook laptops.  The OLED touch screen is beautiful but suffers horrible glare.  See photos. The keyboard is comfortable to type on. The touchpad provides ample space to w",
+     "excerpt": "The Acer Googlebook 14 hardware, fit, finish, and the tactile experience fits nicely with similarly priced Windows 11 and Apple MacBook laptops.",
+     "rating": 3,
+     "sentiment": "neutral"
+    }
+   ],
+   "summary_of_remaining": "10 additional review(s) also mention Acer."
+  },
+  {
+   "brand": "Samsung",
+   "total_mentions": 5,
+   "reviews": [
+    {
+     "title": "A good laptop for a niche group of users",
+     "body": "Google is attempting to create a somewhat new category and OS for laptops called the “Googlebook”, and the Acer Googlebook 14 is among the first generation of them to come out.  This is not a Chromebook.  A Googlebook in many ways is basically like a Google Android phone in laptop form, able to do a",
+     "excerpt": "I tried to connect a Samsung S24 to it, but kept getting errors, so I connected a Pixel 11, and still had some hiccups getting it to sync, but eventually after three attempts it worked.",
+     "rating": 3,
+     "sentiment": "neutral"
+    },
+    {
+     "title": "A New Beginning For Google Laptops",
+     "body": "The experience will feel familiar if you have a pixel or galaxy device or are coming from Chrome os. I went from the Samsung s11 to this device, and the upgrades for getting real work done are excellent. 16 GB of ram and the latest Intel soc makes the world of differences. The os had some post launc",
+     "excerpt": "I went from the Samsung s11 to this device, and the upgrades for getting real work done are excellent.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Expensive decent first try of a new OS",
+     "body": "This is a first generation product called a Googlebook. This particular model is made by HP. This is similar from Chromebooks it seems but with better build quality and materials with a technically different OS. This is based off Android and uses the Google Play store.\n\nSpecs:\n14 inch 3K display 120",
+     "excerpt": "Also if you have an Android phone ( Except samsung for now) intergrates with this computer like how Apple devices.",
+     "rating": 3,
+     "sentiment": "neutral"
+    }
+   ],
+   "summary_of_remaining": "2 additional review(s) also mention Samsung."
+  },
+  {
+   "brand": "Dell",
+   "total_mentions": 4,
+   "reviews": [
+    {
+     "title": "Software issues, solid hardware though",
+     "body": "I had to return this Googlebook after just 5 days of use. As a 12 year Chromebook user, I really wanted to enjoy the new OS but Google was not ready for primetime. Dell did a very good job of building a gorgeous device. The build is very solid, amazing trackpad and keyboard. The screen is nice at 50",
+     "excerpt": "Dell did a very good job of building a gorgeous device.",
+     "rating": 3,
+     "sentiment": "neutral"
+    },
+    {
+     "title": "A promising start with a bright future",
+     "body": "The compact XPS design and 2.5K touchscreen are appealing, and I’m especially excited about what this Googlebook represents: a new direction for Google in desktop computing. The idea of bringing Google’s software, AI, and connected ecosystem together in a thoughtfully designed laptop has a lot of po",
+     "excerpt": "The compact XPS design and 2.5K touchscreen are appealing, and I’m especially excited about what this Googlebook represents: a new direction for Google in desktop computing.",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Great device that was just a bit to small for me.",
+     "body": "The dell xps Googlebook is a fantastic small device that is easy to bring with you everywhere. The battery lasts all day and wakes from sleep instantly. Even under load it rarely gets hot and thanks to the snapdragon processor all the android apps I installed worked just as intended. But with my lar",
+     "excerpt": "The dell xps Googlebook is a fantastic small device that is easy to bring with you everywhere.",
+     "rating": 4,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": "1 additional review(s) also mention Dell."
+  },
+  {
+   "brand": "Microsoft",
+   "total_mentions": 2,
+   "reviews": [
+    {
+     "title": "Great Hardware, software is not there yet.",
+     "body": "Here we go again!  I decided to be a beta tester for Google.  I purchased a Googlebook.  I actually purchased the Acer Googlebook first.  I liked the Hardware mostly, but had issues with my phone not connecting.  I did not go into deep troubleshooting because I was turned off by the amount of finger",
+     "excerpt": "The googlebooks are not the only ones that are guilty of this as the Surface Laptop 7 I had was the same when using the touchpad to scroll.",
+     "rating": 2,
+     "sentiment": "negative"
+    },
+    {
+     "title": "Excellent Build Quality",
+     "body": "I think Lenovo built the best looking Googlebook and sitting it next to my Lenovo Chromebook Plus, its the exact same design, with a color shade difference. Lately it seems the design of laptops makes it hard to actually use on the lap, as the fans pull from the bottom and right where they would sit",
+     "excerpt": "Each surface is painted with a fingerprint free eggshell finish.",
+     "rating": 4,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": ""
+  },
+  {
+   "brand": "ASUS",
+   "total_mentions": 2,
+   "reviews": [
+    {
+     "title": "A Sleek Laptop Built for the Google Ecosystem",
+     "body": "This is my first time using any Google OS–based laptop, and while it’s very different from my MacBook or Asus laptop, it’s been a generally good experience that I think most people would get accustomed to pretty quickly.\n\nInitial Setup\n\nSetup of the HP Googlebook was intuitive and pretty quick. Afte",
+     "excerpt": "This is my first time using any Google OS–based laptop, and while it’s very different from my MacBook or Asus laptop, it’s been a generally good experience that I think most people would get accustome",
+     "rating": 4,
+     "sentiment": "positive"
+    },
+    {
+     "title": "amazing product, but",
+     "body": "Samsung ultra user, and almost exclusively google ecosystem /web based, so this seemed like the prefect fun fit. I most wanted access files and photos on my phone and use phone apps on the computer. It does this well!  But what i found, is that the recent upgrades to Windows phone link are incredibl",
+     "excerpt": "So given this, I am trading this in for a Windows 14 inch Asus zenbook .",
+     "rating": 4,
+     "sentiment": "positive"
+    }
+   ],
+   "summary_of_remaining": ""
+  }
+ ]
+}

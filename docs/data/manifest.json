@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22",
+  "generated_at": "2026-11-03",
   "series": [
     {
       "slug": "Ultra",
@@ -20,6 +20,11 @@
       "slug": "XFlip",
       "label": "OmniBook X Flip",
       "color": "#f59e0b"
+    },
+    {
+      "slug": "Googlebook",
+      "label": "Googlebook (competitors)",
+      "color": "#7c3aed"
     }
   ],
   "products": [
@@ -200,10 +205,10 @@
       "model": "14-KD0023DX",
       "cpu_ram_ssd": "Core Ultra X9 (2026) / 32GB / 1TB",
       "enabled": true,
-      "total": 12,
-      "avg_rating": 4.25,
-      "satisfaction_score": 91.7,
-      "date_range": "2026-05-29 to 2026-10-20"
+      "total": 14,
+      "avg_rating": 4.29,
+      "satisfaction_score": 92.9,
+      "date_range": "2026-05-29 to 2026-10-24"
     },
     {
       "product_key": "us_6667998",
@@ -228,10 +233,10 @@
       "model": "14-KD0013DX",
       "cpu_ram_ssd": "Core Ultra 7 (2026) / 16GB / 1TB",
       "enabled": true,
-      "total": 47,
-      "avg_rating": 4.66,
-      "satisfaction_score": 93.6,
-      "date_range": "2026-06-13 to 2026-10-11"
+      "total": 48,
+      "avg_rating": 4.67,
+      "satisfaction_score": 93.8,
+      "date_range": "2026-06-13 to 2026-10-23"
     },
     {
       "product_key": "us_6593552",
@@ -242,10 +247,10 @@
       "model": "14-fh0013dx",
       "cpu_ram_ssd": "Core Ultra 7 256V / 16GB / 1TB",
       "enabled": true,
-      "total": 321,
+      "total": 322,
       "avg_rating": 4.58,
-      "satisfaction_score": 90.3,
-      "date_range": "2024-10-01 to 2026-10-18"
+      "satisfaction_score": 90.4,
+      "date_range": "2024-10-01 to 2026-10-22"
     },
     {
       "product_key": "us_6601706",
@@ -284,10 +289,10 @@
       "model": "14-fe1003dx",
       "cpu_ram_ssd": "Snapdragon X Plus / 16GB / 512GB",
       "enabled": true,
-      "total": 96,
+      "total": 97,
       "avg_rating": 4.4,
-      "satisfaction_score": 86.5,
-      "date_range": "2024-10-23 to 2026-09-03"
+      "satisfaction_score": 86.6,
+      "date_range": "2024-10-23 to 2026-10-23"
     },
     {
       "product_key": "us_6593547",
@@ -326,10 +331,10 @@
       "model": "14-KR0013DX",
       "cpu_ram_ssd": "Snapdragon X Plus (2025) / 16GB / 512GB",
       "enabled": true,
-      "total": 135,
-      "avg_rating": 4.73,
-      "satisfaction_score": 94.8,
-      "date_range": "2026-04-10 to 2026-10-17"
+      "total": 136,
+      "avg_rating": 4.72,
+      "satisfaction_score": 94.9,
+      "date_range": "2026-04-10 to 2026-10-25"
     },
     {
       "product_key": "us_6613861",
@@ -354,10 +359,10 @@
       "model": "16-as0023dx",
       "cpu_ram_ssd": "Core Ultra 7 256V / 16GB / 1TB",
       "enabled": true,
-      "total": 2348,
+      "total": 2364,
       "avg_rating": 4.75,
       "satisfaction_score": 95.6,
-      "date_range": "2025-04-25 to 2026-10-20"
+      "date_range": "2025-04-25 to 2026-10-26"
     },
     {
       "product_key": "us_6613868",
@@ -368,10 +373,10 @@
       "model": "14-fm0013dx",
       "cpu_ram_ssd": "Core Ultra 5 226V / 16GB / 512GB",
       "enabled": true,
-      "total": 1249,
+      "total": 1269,
       "avg_rating": 4.72,
       "satisfaction_score": 95.0,
-      "date_range": "2025-05-09 to 2026-10-21"
+      "date_range": "2025-05-09 to 2026-10-26"
     },
     {
       "product_key": "us_6613869",
@@ -382,10 +387,10 @@
       "model": "16-ar0013dx",
       "cpu_ram_ssd": "Ryzen AI 5 340 / 16GB / 512GB",
       "enabled": true,
-      "total": 1453,
-      "avg_rating": 4.68,
-      "satisfaction_score": 93.8,
-      "date_range": "2025-05-09 to 2026-10-20"
+      "total": 1456,
+      "avg_rating": 4.67,
+      "satisfaction_score": 93.7,
+      "date_range": "2025-05-09 to 2026-10-26"
     },
     {
       "product_key": "us_6613870",
@@ -410,10 +415,10 @@
       "model": "16-AS0043dx",
       "cpu_ram_ssd": "Core Ultra 9 288V / 32GB / 2TB",
       "enabled": true,
-      "total": 678,
+      "total": 679,
       "avg_rating": 4.74,
       "satisfaction_score": 95.4,
-      "date_range": "2025-08-18 to 2026-10-17"
+      "date_range": "2025-08-18 to 2026-10-22"
     },
     {
       "product_key": "wm_13943258180",
@@ -612,6 +617,86 @@
       "model": "",
       "cpu_ram_ssd": "",
       "enabled": true
+    },
+    {
+      "product_key": "us_6687893",
+      "market": "US",
+      "sku": "6687893",
+      "series": "Googlebook",
+      "brand": "HP",
+      "competitor": true,
+      "name": "HP - Googlebook 14\" 3K OLED Touchscreen - Snapdragon X Elite - 16GB - 512GB SSD - Atmospheric Blue",
+      "model": "",
+      "cpu_ram_ssd": "Snapdragon X Elite / 16GB / 512GB",
+      "enabled": true,
+      "total": 37,
+      "avg_rating": 4.54,
+      "satisfaction_score": 94.6,
+      "date_range": "2026-10-11 to 2026-10-26"
+    },
+    {
+      "product_key": "us_6686332",
+      "market": "US",
+      "sku": "6686332",
+      "series": "Googlebook",
+      "brand": "ASUS",
+      "competitor": true,
+      "name": "ASUS - Googlebook 14\" 3K OLED Touchscreen - Intel Core Ultra 5 325 (2026) - 16GB - 512GB SSD - Dusk Ash",
+      "model": "",
+      "cpu_ram_ssd": "Core Ultra 5 325 / 16GB / 512GB",
+      "enabled": true,
+      "total": 1,
+      "avg_rating": 5.0,
+      "satisfaction_score": 100.0,
+      "date_range": "2026-10-26 to 2026-10-26"
+    },
+    {
+      "product_key": "us_6687176",
+      "market": "US",
+      "sku": "6687176",
+      "series": "Googlebook",
+      "brand": "Lenovo",
+      "competitor": true,
+      "name": "Lenovo - Googlebook 15.3\" 3K 120Hz OLED Touchscreen - Intel Core Ultra 5 325 (2026) - 16GB - 512GB SSD - Cloud Grey",
+      "model": "83W6000EUS",
+      "cpu_ram_ssd": "Core Ultra 5 325 / 16GB / 512GB",
+      "enabled": true,
+      "total": 29,
+      "avg_rating": 3.59,
+      "satisfaction_score": 62.1,
+      "date_range": "2026-10-09 to 2026-10-25"
+    },
+    {
+      "product_key": "us_6690181",
+      "market": "US",
+      "sku": "6690181",
+      "series": "Googlebook",
+      "brand": "Dell",
+      "competitor": true,
+      "name": "Dell - XPS Googlebook 13.4\" 2.5K Touchscreen - Snapdragon X Elite X1E-80-100 - 16GB - 512GB SSD - Shimmer",
+      "model": "LDX13267-SX12577SHI-PUS",
+      "cpu_ram_ssd": "Snapdragon X Elite / 16GB / 512GB",
+      "enabled": true,
+      "total": 9,
+      "avg_rating": 4.11,
+      "satisfaction_score": 66.7,
+      "date_range": "2026-10-11 to 2026-10-25"
+    },
+    {
+      "product_key": "us_6690085",
+      "market": "US",
+      "sku": "6690085",
+      "series": "Googlebook",
+      "brand": "Acer",
+      "competitor": true,
+      "name": "Acer - Googlebook 14 x360 - 14\" 3K OLED 120Hz Touchscreen - Intel Core Ultra 5 325 (2026) - 16GB - 512GB SSD - Elemental Blue",
+      "model": "GP714-91N-50A0",
+      "cpu_ram_ssd": "Core Ultra 5 325 / 16GB / 512GB",
+      "enabled": true,
+      "total": 32,
+      "avg_rating": 3.84,
+      "satisfaction_score": 65.6,
+      "date_range": "2026-10-11 to 2026-10-25"
     }
   ]
 }

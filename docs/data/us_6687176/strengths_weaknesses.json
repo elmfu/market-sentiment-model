@@ -1,0 +1,104 @@
+{
+  "strengths": [
+    {
+      "theme": "Display Quality",
+      "count": 15,
+      "pct_of_reviews": 51.7,
+      "quotes": [
+        "I can barely read what’s in the video, yet half the screen on my computer is white space!!",
+        "The 3K OLED screen is gorgeous, and the Gemini AI integration is fantastic and lightning-fast.",
+        "I've been keeping the brightness around 80% and that's plenty for indoor use."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 15,
+      "pct_of_reviews": 51.7,
+      "quotes": [
+        "However, it lacks the ability to run real programs and the AI features were disappointing.",
+        "However, the occasional software and connection hiccups keep it from absolute perfection.",
+        "The software is still in it's early stages but it works well enough me."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 10,
+      "pct_of_reviews": 34.5,
+      "quotes": [
+        "The keyboard is good, although the keys are a little smaller than I'd like.",
+        "The overall build quality is so-so for me right away.",
+        "Especially since this is a reused design."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 9,
+      "pct_of_reviews": 31.0,
+      "quotes": [
+        "The 3K OLED screen is gorgeous, and the Gemini AI integration is fantastic and lightning-fast.",
+        "The Intel chip inside works well with the OS for the most part.",
+        "It's huge, responsive, and easily one of the best I've ever used on a laptop."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 6,
+      "pct_of_reviews": 20.7,
+      "quotes": [
+        "Battery life is something I'm still figuring out.",
+        "Among other things I thought it was supposed to show the battery charge, but while it's charging up, the glow bar is off.",
+        "Either of the USB-C ports can be used for charging or 10GB/s data transfer."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Performance & Chip",
+      "count": 3,
+      "pct_of_reviews": 10.3,
+      "quotes": [
+        "With the Chromebook the OLED screen is beautiful and very responsive.",
+        "Some of this might be due to the X86 processor.",
+        "Keystrokes were laggy with the x86 architecture - not sure how they get that to go away."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 3,
+      "pct_of_reviews": 10.3,
+      "quotes": [
+        "With the Chromebook the OLED screen is beautiful and very responsive.",
+        "But there's no glossy beautiful screen that catches your attention.",
+        "This device is sleek, wonderful to touch, and remarkably light for its screen size."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 3,
+      "pct_of_reviews": 10.3,
+      "quotes": [
+        "My only issue with the hardware is that the haptic touchpad on my model had a sort of hollow rattle on one corner, which is odd for a haptic touchpad.",
+        "This device is sleek, wonderful to touch, and remarkably light for its screen size."
+      ]
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 3,
+      "pct_of_reviews": 10.3,
+      "quotes": [
+        "I like having a laptop that does not have the bloat of windows and I want to use it unlike MacOS.",
+        "All my apps would be on the new Googlebook.",
+        "I had high hopes for Googlebook OS, but I must report my experience with the Lenovo Googlebook 15."
+      ]
+    },
+    {
+      "theme": "Price & Value",
+      "count": 2,
+      "pct_of_reviews": 6.9,
+      "quotes": [
+        "For $1099 I considered the price still fair based on the specs.",
+        "You would think for the price it would've been better."
+      ]
+    }
+  ]
+}

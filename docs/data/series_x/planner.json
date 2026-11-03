@@ -1,13 +1,13 @@
 {
- "reviews_total": 1080,
+ "reviews_total": 1082,
  "topics": [
   {
    "topic": "performance",
    "label": "Performance & Chip",
-   "mentions": 370,
+   "mentions": 371,
    "attention_share": 21.4,
    "negative_rate": 2.7,
-   "positive": 335,
+   "positive": 336,
    "negative": 10,
    "priority_score": 0.58
   },
@@ -147,10 +147,10 @@
  "biggest_strength": {
   "topic": "performance",
   "label": "Performance & Chip",
-  "mentions": 370,
+  "mentions": 371,
   "attention_share": 21.4,
   "negative_rate": 2.7,
-  "positive": 335,
+  "positive": 336,
   "negative": 10,
   "priority_score": 0.58
  },
@@ -158,8 +158,8 @@
   {
    "cohort": "2024",
    "products": 3,
-   "reviews": 394,
-   "avg_rating": 4.48,
+   "reviews": 395,
+   "avg_rating": 4.49,
    "neg_rate": 6.1,
    "top_complaints": [
     {
@@ -220,8 +220,8 @@
   {
    "cohort": "2026",
    "products": 1,
-   "reviews": 135,
-   "avg_rating": 4.73,
+   "reviews": 136,
+   "avg_rating": 4.72,
    "neg_rate": 3.7,
    "top_complaints": [
     {
@@ -240,7 +240,7 @@
    "top_praise": [
     {
      "label": "Performance & Chip",
-     "count": 63
+     "count": 64
     },
     {
      "label": "Battery Life",
@@ -382,8 +382,8 @@
   },
   {
    "quarter": "2026-Q4",
-   "reviews": 8,
-   "avg_rating": 5.0,
+   "reviews": 10,
+   "avg_rating": 4.9,
    "neg_rate": 0.0,
    "topic_neg_rate": {
     "performance": 0.0,

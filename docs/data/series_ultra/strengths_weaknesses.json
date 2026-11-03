@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 191,
-   "pct_of_reviews": 54.1,
+   "count": 194,
+   "pct_of_reviews": 54.5,
    "quotes": [
     "The OmniBook Ultra is a small yet powerful business/college laptop.",
     "I've had the opportunity to test out several high-performance laptops, and the HP OmniBook Ultra with Copilot stood its ground.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 145,
-   "pct_of_reviews": 41.1,
+   "count": 147,
+   "pct_of_reviews": 41.3,
    "quotes": [
     "=========\nDESIGN/SPECS:\nThe OmniBook is lightweight and sports a sleek meteor-sliver color.",
     "The aluminum finish is exceptional, with a solid and sturdy construction that feels premium in the hand.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 134,
-   "pct_of_reviews": 38.0,
+   "count": 135,
+   "pct_of_reviews": 37.9,
    "quotes": [
     "=========\nDESIGN/SPECS:\nThe OmniBook is lightweight and sports a sleek meteor-sliver color.",
     "Whether I'm editing high-resolution videos, running virtual machines, or simply browsing the web, the OmniBook Ultra held its own.",
@@ -32,7 +32,7 @@
   },
   {
    "theme": "Battery Life",
-   "count": 107,
+   "count": 108,
    "pct_of_reviews": 30.3,
    "quotes": [
     "BATTERY LIFE:\n\nThe battery life on this is pretty impressive.",
@@ -42,7 +42,7 @@
   },
   {
    "theme": "Software & Ecosystem",
-   "count": 91,
+   "count": 92,
    "pct_of_reviews": 25.8,
    "quotes": [
     "It is your typical Windows 11 out-of-the-box experience.",
@@ -65,7 +65,7 @@
   {
    "theme": "Software & Ecosystem",
    "count": 8,
-   "pct_of_reviews": 2.3,
+   "pct_of_reviews": 2.2,
    "quotes": [
     "Like, the bluetooth in gone (not in device manager anymore - so cannot reinstall a driver).",
     "Blue screen during first boot and after all drivers, firmare and OS update, still seen BOSD every so often.",

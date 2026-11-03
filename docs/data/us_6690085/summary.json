@@ -1,0 +1,25 @@
+{
+  "product": "Acer - Googlebook 14 x360 - 14\" 3K OLED 120Hz Touchscreen - Intel Core Ultra 5 325 (2026) - 16GB - 512GB SSD - Elemental Blue",
+  "source": "bestbuy.com",
+  "market": "US",
+  "total": 32,
+  "with_text": 32,
+  "date_range": "2026-10-11 to 2026-10-25",
+  "avg_rating": 3.84,
+  "satisfaction_score": 65.6,
+  "star_distribution": {
+    "1": 1,
+    "2": 3,
+    "3": 7,
+    "4": 10,
+    "5": 11
+  },
+  "sentiment": {
+    "positive": 21,
+    "neutral": 7,
+    "negative": 4,
+    "positive_pct": 65.6,
+    "neutral_pct": 21.9,
+    "negative_pct": 12.5
+  }
+}

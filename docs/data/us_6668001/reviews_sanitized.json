@@ -1,5 +1,22 @@
 [
   {
+    "review_id": "8c2120cc-fad0-39fe-93f2-dd416a3dfef7",
+    "product_key": "us_6668001",
+    "market": "US",
+    "sku": "6668001",
+    "submitted_at": "2026-10-25T22:02:39.000-05:00",
+    "rating": 4,
+    "title": "Good laptop",
+    "body": "I like the laptop, it is very versatile and fast. Thanks",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP - OmniBook X - 14\" 2K OLED Touchscreen Laptop - Snapdragon X Plus (2025) - 16GB Memory - 512GB SSD - Copilot+ PC - Meteor Silver",
+    "topics": "Performance & Chip",
+    "competitors": ""
+  },
+  {
     "review_id": "de621440-78fa-342a-bfe2-462e3f8d3eff",
     "product_key": "us_6668001",
     "market": "US",

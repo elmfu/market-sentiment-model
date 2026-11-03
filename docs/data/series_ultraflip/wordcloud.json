@@ -1,7 +1,7 @@
 [
  {
   "word": "screen",
-  "count": 130,
+  "count": 131,
   "sentiment": "positive"
  },
  {
@@ -31,17 +31,22 @@
  },
  {
   "word": "oled",
-  "count": 76,
+  "count": 77,
   "sentiment": "positive"
  },
  {
   "word": "ultra",
-  "count": 72,
+  "count": 73,
   "sentiment": "positive"
  },
  {
   "word": "flip",
-  "count": 71,
+  "count": 72,
+  "sentiment": "positive"
+ },
+ {
+  "word": "performance",
+  "count": 69,
   "sentiment": "positive"
  },
  {
@@ -51,11 +56,6 @@
  },
  {
   "word": "excellent",
-  "count": 68,
-  "sentiment": "positive"
- },
- {
-  "word": "performance",
   "count": 68,
   "sentiment": "positive"
  },
@@ -70,13 +70,13 @@
   "sentiment": "positive"
  },
  {
-  "word": "keyboard",
+  "word": "display",
   "count": 61,
   "sentiment": "positive"
  },
  {
-  "word": "display",
-  "count": 60,
+  "word": "keyboard",
+  "count": 61,
   "sentiment": "positive"
  },
  {
@@ -96,7 +96,7 @@
  },
  {
   "word": "overall",
-  "count": 53,
+  "count": 54,
   "sentiment": "positive"
  },
  {
@@ -130,13 +130,13 @@
   "sentiment": "positive"
  },
  {
-  "word": "laptops",
+  "word": "design",
   "count": 42,
   "sentiment": "positive"
  },
  {
-  "word": "design",
-  "count": 41,
+  "word": "laptops",
+  "count": 42,
   "sentiment": "positive"
  },
  {
@@ -220,6 +220,21 @@
   "sentiment": "positive"
  },
  {
+  "word": "beautiful",
+  "count": 33,
+  "sentiment": "positive"
+ },
+ {
+  "word": "happy",
+  "count": 33,
+  "sentiment": "positive"
+ },
+ {
+  "word": "looks",
+  "count": 33,
+  "sentiment": "positive"
+ },
+ {
   "word": "super",
   "count": 33,
   "sentiment": "positive"
@@ -230,27 +245,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "beautiful",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
   "word": "premium",
   "count": 32,
   "sentiment": "positive"
  },
  {
-  "word": "happy",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
   "word": "around",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
-  "word": "looks",
   "count": 32,
   "sentiment": "positive"
  },
@@ -290,12 +290,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "enough",
+  "word": "feels",
   "count": 30,
   "sentiment": "positive"
  },
  {
-  "word": "high",
+  "word": "enough",
   "count": 30,
   "sentiment": "positive"
  }

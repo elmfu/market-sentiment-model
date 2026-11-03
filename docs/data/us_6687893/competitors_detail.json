@@ -1,0 +1,102 @@
+{
+  "competitors": [
+    {
+      "brand": "Apple/Mac",
+      "total_mentions": 10,
+      "reviews": [
+        {
+          "title": "A Sleek Laptop Built for the Google Ecosystem",
+          "body": "This is my first time using any Google OS–based laptop, and while it’s very different from my MacBook or Asus laptop, it’s been a generally good experience that I think most people would get accustomed to pretty quickly.\n\nInitial Setup\n\nSetup of the HP Googlebook was intuitive and pretty quick. Afte",
+          "excerpt": "This is my first time using any Google OS–based laptop, and while it’s very different from my MacBook or Asus laptop, it’s been a generally good experience that I think most people would get accustome",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "A Step In The Right Direction ( For Google)",
+          "body": "So I'll start by saying that I have been a long time fan and user of Google product and services. I've owned and use many of their phones, tablets, and laptops over the past 10+ years. This \"Googlebook\" by HP is a new brand of OS and Laptop for Google. It is no longer a \"chromebook\". Chrome OS, whil",
+          "excerpt": "We all know that Android apps seem to lag behind iOS, iPad OS and MacOS.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great hardware. Software could use some work still",
+          "body": "I'll front load this review and say that I'm fairly well entrenched in the Apple and Microsoft ecosystems for the rest of my computing needs. I have Windows and Mac computers and I have an iPhone and iPad. I've used Google/Android devices so it's not completely foreign to me, but I've never been a d",
+          "excerpt": "I'll front load this review and say that I'm fairly well entrenched in the Apple and Microsoft ecosystems for the rest of my computing needs.",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": "7 additional review(s) also mention Apple/Mac."
+    },
+    {
+      "brand": "Chromebook",
+      "total_mentions": 8,
+      "reviews": [
+        {
+          "title": "Fast, Snappy with Excellent Battery Life",
+          "body": "TLDR:  For those fully into the Google ecosystem.  For all others, not sure how these really fit in. \n\nPROS\nExcellent battery life \nPremium build quality \nSharp, vibrant OLED display \nExcellent thermals \nNearly seamless setup with an Android phone \n\nCONS \nExpensive \nAn unusual and somewhat ambitious",
+          "excerpt": "The Googlebook is unquestionably more capable than any Chromebook I've used before.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Interesting",
+          "body": "So this new laptop from Google is actually really solid, and a lot of people will love it with one condition. But first. \n\nHardware: This laptop feels great on the exterior, and the screen is beautiful. The keyboard is really nice to type on with extended use, no fatigue should occur for most users.",
+          "excerpt": "The software is where it gets interesting, because while it’s the new GoogleBook it still just feels like my other chromebook most times.",
+          "rating": 4,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great hardware. Software could use some work still",
+          "body": "I'll front load this review and say that I'm fairly well entrenched in the Apple and Microsoft ecosystems for the rest of my computing needs. I have Windows and Mac computers and I have an iPhone and iPad. I've used Google/Android devices so it's not completely foreign to me, but I've never been a d",
+          "excerpt": "But then you're begged to ask why a much cheaper Chromebook wouldn't have been just as good for you.",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": "5 additional review(s) also mention Chromebook."
+    },
+    {
+      "brand": "Lenovo",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Gorgeous & fast, but I chose Lenovo instead",
+          "body": "This is undeniably a gorgeous laptop. The color is beautiful, and the OLED screen is sharp, vibrant, and stunning. Performance-wise, the Snapdragon processor makes it blazingly fast and noticeably snappy in everyday use.\n\n​Ultimately, I returned it and kept the Lenovo Googlebook instead. Even though",
+          "excerpt": "​Ultimately, I returned it and kept the Lenovo Googlebook instead.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "ASUS",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "A Sleek Laptop Built for the Google Ecosystem",
+          "body": "This is my first time using any Google OS–based laptop, and while it’s very different from my MacBook or Asus laptop, it’s been a generally good experience that I think most people would get accustomed to pretty quickly.\n\nInitial Setup\n\nSetup of the HP Googlebook was intuitive and pretty quick. Afte",
+          "excerpt": "This is my first time using any Google OS–based laptop, and while it’s very different from my MacBook or Asus laptop, it’s been a generally good experience that I think most people would get accustome",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Expensive decent first try of a new OS",
+          "body": "This is a first generation product called a Googlebook. This particular model is made by HP. This is similar from Chromebooks it seems but with better build quality and materials with a technically different OS. This is based off Android and uses the Google Play store.\n\nSpecs:\n14 inch 3K display 120",
+          "excerpt": "Also if you have an Android phone ( Except samsung for now) intergrates with this computer like how Apple devices.",
+          "rating": 3,
+          "sentiment": "neutral"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "strengths": [
+    {
+      "theme": "Software & Ecosystem",
+      "count": 12,
+      "pct_of_reviews": 37.5,
+      "quotes": [
+        "The new Acer Googlebook 14” laptop is built on the Intel Core Ultra 5 Series 3 processor and runs the new Googlebook OS.",
+        "Let’s delve into the features of the laptop, and the Googlebook OS itself and the comparisons between the different the brands.",
+        "Googlebooks have a lot of potential, but the operating system, Googlebook OS, is a work in progress."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 11,
+      "pct_of_reviews": 34.4,
+      "quotes": [
+        "A convenience of the design is that any of the three can be used as the charging port.",
+        "The overall build of the laptop is decent and does not look cheap or plastic.",
+        "The physical quality and hardware and the operating system, user interface, and integration."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 8,
+      "pct_of_reviews": 25.0,
+      "quotes": [
+        "The new Acer Googlebook 14” laptop is built on the Intel Core Ultra 5 Series 3 processor and runs the new Googlebook OS.",
+        "The Intel core Ultra 5 offers a balance between the performance and the battery life.",
+        "There are 3 USB 3.2 PD ports, and being an Intel based system, one port is also Thunderbolt 4 enabled."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 7,
+      "pct_of_reviews": 21.9,
+      "quotes": [
+        "It can have 16 GB to 32 GB of RAM, 256+ GB of storage, and has a long battery life averaging 13-16 hours.",
+        "The Intel core Ultra 5 offers a balance between the performance and the battery life.",
+        "It’s very slim, compact, lightweight, and has a long-lasting battery."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 7,
+      "pct_of_reviews": 21.9,
+      "quotes": [
+        "The design is a 2-in-1 that folds back into tablet mode or sits with the hinge reversed at 45 degrees for screen viewing.",
+        "The power of editing photos via “Google photos” is now available on a larger screen laptop.",
+        "Android apps are built for touch screen interaction, not a physical keyboard."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Software & Ecosystem",
+      "count": 4,
+      "pct_of_reviews": 12.5,
+      "quotes": [
+        "But lacking proper app support for the new computing environment keeps it from bringing out the best in it.",
+        "I am the target audience for Googlebooks because I like premium hardware and want an easy to operate OS with minimum bloat.",
+        "Unfortunately, the laptop fell into the Update/Reboot loop on the second time I powered it on."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 3,
+      "pct_of_reviews": 9.4,
+      "quotes": [
+        "Normally, any laptop I get to review would go through the process of opening the back panel to see its internals and what can be serviced or upgraded.",
+        "The OLED screen is beautiful, but again the main selling point for me is pairing my phone.",
+        "The screen was nice, when it was working."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 2,
+      "pct_of_reviews": 6.2,
+      "quotes": [
+        "Googlebook laptops will run on one of two primary processor platforms: Intel’s Core or Qualcomm’s Snapdragon.",
+        "When scrolling on web pages with the trackpad it does not feel very fast."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 2,
+      "pct_of_reviews": 6.2,
+      "quotes": [
+        "However, Acer took it upon themselves to build a Googlebook laptop with a set of specs that Google themselves put forth.",
+        "When scrolling on web pages with the trackpad it does not feel very fast."
+      ]
+    },
+    {
+      "theme": "Ports & Connectivity",
+      "count": 2,
+      "pct_of_reviews": 6.2,
+      "quotes": [
+        "Using a bluetooth game controller does work as an alternative but each game has varying degrees of support.",
+        "Final straw was the Chrome Extension, which was supposed to create a rescue USB stick."
+      ]
+    }
+  ]
+}

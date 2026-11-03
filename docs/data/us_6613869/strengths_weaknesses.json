@@ -2,7 +2,7 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 400,
+      "count": 401,
       "pct_of_reviews": 27.5,
       "quotes": [
         "I am able to enjoy windows 11 spectacular performance, as well as a great battery life.",
@@ -32,7 +32,7 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 308,
+      "count": 309,
       "pct_of_reviews": 21.2,
       "quotes": [
         "Stunning Design and Display: The Meteor Silver finish is sleek, professional, and feels premium.",
@@ -43,7 +43,7 @@
     {
       "theme": "Battery Life",
       "count": 136,
-      "pct_of_reviews": 9.4,
+      "pct_of_reviews": 9.3,
       "quotes": [
         "I am able to enjoy windows 11 spectacular performance, as well as a great battery life.",
         "Battery Life is a Game-Changer: HP's claims are not exaggerated.",
@@ -64,12 +64,32 @@
     },
     {
       "theme": "Price & Value",
-      "count": 13,
-      "pct_of_reviews": 0.9,
+      "count": 14,
+      "pct_of_reviews": 1.0,
       "quotes": [
         "Even at the price of $500, it's still not getting what you paid for when half the features break or just don't work.",
         "Delivered outside my apt 10pm at night.....for anyone to steal and refused to refund my money for a Brand new Lap Top!!!!!!!!!",
         "The sleek design is not worth the constant thermal failures."
+      ]
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 12,
+      "pct_of_reviews": 0.8,
+      "quotes": [
+        "I am extremely disappointed with the thermal performance of this laptop.",
+        "Display is good, speed is good but not worth it for a laptop that internally breaks less than a year in!",
+        "First, the keyboard began sticking, followed by performance issues that have made the laptop increasingly frustrating to use."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 12,
+      "pct_of_reviews": 0.8,
+      "quotes": [
+        "The touchscreen would stop working until I pressed a something on the keyboard.",
+        "The left side of the chassis becomes dangerously hot while the right side remains cold, indicating a major flaw in internal heat distribution.",
+        "I could deal with the weight of the laptop but not the pin issue."
       ]
     },
     {
@@ -80,26 +100,6 @@
         "I have installed all the updates and it keeps giving me the same problem.",
         "They told me it was essentially a corrupted software trying to fix itself.",
         "I finally got fed up with not getting anything accomplished due to the MANY windows 11 updates or getting kicked of the internet."
-      ]
-    },
-    {
-      "theme": "Performance & Chip",
-      "count": 11,
-      "pct_of_reviews": 0.8,
-      "quotes": [
-        "I am extremely disappointed with the thermal performance of this laptop.",
-        "Display is good, speed is good but not worth it for a laptop that internally breaks less than a year in!",
-        "When Copilot+ runs it makes the laptop get too hot to use on a lap as the case heats up and the fans run full speed."
-      ]
-    },
-    {
-      "theme": "Build & Keyboard",
-      "count": 11,
-      "pct_of_reviews": 0.8,
-      "quotes": [
-        "The touchscreen would stop working until I pressed a something on the keyboard.",
-        "The left side of the chassis becomes dangerously hot while the right side remains cold, indicating a major flaw in internal heat distribution.",
-        "I could deal with the weight of the laptop but not the pin issue."
       ]
     }
   ]

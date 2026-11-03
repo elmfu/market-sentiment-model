@@ -1,0 +1,25 @@
+{
+ "product": "Googlebook competitive set — HP / ASUS / Lenovo / Dell / Acer (Best Buy US)",
+ "source": "bestbuy.com + bestbuy.ca",
+ "market": "US+CA",
+ "total": 108,
+ "with_text": 108,
+ "date_range": "2026-10-09 to 2026-10-26",
+ "avg_rating": 4.05,
+ "satisfaction_score": 75.0,
+ "star_distribution": {
+  "1": 3,
+  "2": 8,
+  "3": 16,
+  "4": 35,
+  "5": 46
+ },
+ "sentiment": {
+  "positive": 81,
+  "neutral": 16,
+  "negative": 11,
+  "positive_pct": 75.0,
+  "neutral_pct": 14.8,
+  "negative_pct": 10.2
+ }
+}

@@ -1,22 +1,22 @@
 [
  {
   "word": "battery",
-  "count": 103,
+  "count": 104,
   "sentiment": "positive"
  },
  {
   "word": "fast",
-  "count": 98,
+  "count": 100,
   "sentiment": "positive"
  },
  {
   "word": "screen",
-  "count": 92,
+  "count": 93,
   "sentiment": "positive"
  },
  {
   "word": "life",
-  "count": 88,
+  "count": 89,
   "sentiment": "positive"
  },
  {
@@ -26,12 +26,12 @@
  },
  {
   "word": "work",
-  "count": 74,
+  "count": 75,
   "sentiment": "positive"
  },
  {
   "word": "performance",
-  "count": 72,
+  "count": 73,
   "sentiment": "positive"
  },
  {
@@ -70,6 +70,11 @@
   "sentiment": "positive"
  },
  {
+  "word": "excellent",
+  "count": 53,
+  "sentiment": "positive"
+ },
+ {
   "word": "price",
   "count": 53,
   "sentiment": "positive"
@@ -80,13 +85,8 @@
   "sentiment": "positive"
  },
  {
-  "word": "excellent",
-  "count": 51,
-  "sentiment": "positive"
- },
- {
   "word": "gaming",
-  "count": 51,
+  "count": 52,
   "sentiment": "positive"
  },
  {
@@ -125,13 +125,13 @@
   "sentiment": "positive"
  },
  {
-  "word": "machine",
+  "word": "design",
   "count": 43,
   "sentiment": "positive"
  },
  {
-  "word": "design",
-  "count": 42,
+  "word": "machine",
+  "count": 43,
   "sentiment": "positive"
  },
  {
@@ -255,7 +255,17 @@
   "sentiment": "positive"
  },
  {
+  "word": "issues",
+  "count": 33,
+  "sentiment": "positive"
+ },
+ {
   "word": "hours",
+  "count": 33,
+  "sentiment": "positive"
+ },
+ {
+  "word": "better",
   "count": 33,
   "sentiment": "positive"
  },
@@ -275,11 +285,6 @@
   "sentiment": "positive"
  },
  {
-  "word": "issues",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
   "word": "responsive",
   "count": 32,
   "sentiment": "positive"
@@ -291,11 +296,6 @@
  },
  {
   "word": "enough",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
-  "word": "better",
   "count": 32,
   "sentiment": "positive"
  }

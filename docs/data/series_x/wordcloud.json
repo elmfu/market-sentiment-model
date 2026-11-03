@@ -11,7 +11,7 @@
  },
  {
   "word": "fast",
-  "count": 172,
+  "count": 173,
   "sentiment": "positive"
  },
  {
@@ -41,7 +41,7 @@
  },
  {
   "word": "excellent",
-  "count": 104,
+  "count": 105,
   "sentiment": "positive"
  },
  {
@@ -80,12 +80,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "features",
-  "count": 79,
+  "word": "recommend",
+  "count": 80,
   "sentiment": "positive"
  },
  {
-  "word": "recommend",
+  "word": "features",
   "count": 79,
   "sentiment": "positive"
  },
@@ -155,22 +155,22 @@
   "sentiment": "positive"
  },
  {
+  "word": "without",
+  "count": 54,
+  "sentiment": "positive"
+ },
+ {
+  "word": "happy",
+  "count": 54,
+  "sentiment": "positive"
+ },
+ {
   "word": "software",
   "count": 54,
   "sentiment": "positive"
  },
  {
   "word": "weight",
-  "count": 53,
-  "sentiment": "positive"
- },
- {
-  "word": "without",
-  "count": 53,
-  "sentiment": "positive"
- },
- {
-  "word": "happy",
   "count": 53,
   "sentiment": "positive"
  },
@@ -191,7 +191,7 @@
  },
  {
   "word": "issues",
-  "count": 50,
+  "count": 51,
   "sentiment": "positive"
  },
  {
@@ -202,6 +202,11 @@
  {
   "word": "school",
   "count": 50,
+  "sentiment": "positive"
+ },
+ {
+  "word": "power",
+  "count": 49,
   "sentiment": "positive"
  },
  {
@@ -216,11 +221,6 @@
  },
  {
   "word": "because",
-  "count": 48,
-  "sentiment": "positive"
- },
- {
-  "word": "power",
   "count": 48,
   "sentiment": "positive"
  },
@@ -255,12 +255,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "design",
-  "count": 46,
+  "word": "needed",
+  "count": 47,
   "sentiment": "positive"
  },
  {
-  "word": "needed",
+  "word": "design",
   "count": 46,
   "sentiment": "positive"
  },

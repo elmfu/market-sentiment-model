@@ -2,30 +2,30 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 822,
-    "positive": 796,
-    "neutral": 20,
+    "total": 830,
+    "positive": 803,
+    "neutral": 21,
     "negative": 6,
-    "positive_pct": 96.8,
+    "positive_pct": 96.7,
     "negative_pct": 0.7,
-    "net_score": 96.1
+    "net_score": 96.0
   },
   {
     "topic": "display",
     "label": "Display Quality",
-    "total": 666,
-    "positive": 636,
+    "total": 672,
+    "positive": 641,
     "neutral": 15,
-    "negative": 15,
-    "positive_pct": 95.5,
-    "negative_pct": 2.3,
-    "net_score": 93.2
+    "negative": 16,
+    "positive_pct": 95.4,
+    "negative_pct": 2.4,
+    "net_score": 93.0
   },
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 583,
-    "positive": 546,
+    "total": 586,
+    "positive": 549,
     "neutral": 23,
     "negative": 14,
     "positive_pct": 93.7,
@@ -35,19 +35,19 @@
   {
     "topic": "price_value",
     "label": "Price & Value",
-    "total": 459,
-    "positive": 439,
+    "total": 461,
+    "positive": 441,
     "neutral": 9,
     "negative": 11,
-    "positive_pct": 95.6,
+    "positive_pct": 95.7,
     "negative_pct": 2.4,
-    "net_score": 93.2
+    "net_score": 93.3
   },
   {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 283,
-    "positive": 270,
+    "total": 284,
+    "positive": 271,
     "neutral": 8,
     "negative": 5,
     "positive_pct": 95.4,
@@ -57,24 +57,24 @@
   {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 262,
-    "positive": 243,
+    "total": 263,
+    "positive": 244,
     "neutral": 12,
     "negative": 7,
-    "positive_pct": 92.7,
+    "positive_pct": 92.8,
     "negative_pct": 2.7,
-    "net_score": 90.0
+    "net_score": 90.1
   },
   {
     "topic": "repairability",
     "label": "Repairability",
-    "total": 91,
-    "positive": 78,
+    "total": 92,
+    "positive": 79,
     "neutral": 6,
     "negative": 7,
-    "positive_pct": 85.7,
-    "negative_pct": 7.7,
-    "net_score": 78.0
+    "positive_pct": 85.9,
+    "negative_pct": 7.6,
+    "net_score": 78.3
   },
   {
     "topic": "ports",

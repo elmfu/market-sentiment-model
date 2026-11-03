@@ -2,30 +2,30 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 35,
-    "positive": 34,
+    "total": 36,
+    "positive": 35,
     "neutral": 0,
     "negative": 1,
-    "positive_pct": 97.1,
-    "negative_pct": 2.9,
-    "net_score": 94.2
+    "positive_pct": 97.2,
+    "negative_pct": 2.8,
+    "net_score": 94.4
   },
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 35,
-    "positive": 34,
+    "total": 36,
+    "positive": 35,
     "neutral": 0,
     "negative": 1,
-    "positive_pct": 97.1,
-    "negative_pct": 2.9,
-    "net_score": 94.2
+    "positive_pct": 97.2,
+    "negative_pct": 2.8,
+    "net_score": 94.4
   },
   {
     "topic": "display",
     "label": "Display Quality",
-    "total": 34,
-    "positive": 34,
+    "total": 35,
+    "positive": 35,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,

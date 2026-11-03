@@ -1,0 +1,25 @@
+{
+  "product": "HP - Googlebook 14\" 3K OLED Touchscreen - Snapdragon X Elite - 16GB - 512GB SSD - Atmospheric Blue",
+  "source": "bestbuy.com",
+  "market": "US",
+  "total": 37,
+  "with_text": 37,
+  "date_range": "2026-10-11 to 2026-10-26",
+  "avg_rating": 4.54,
+  "satisfaction_score": 94.6,
+  "star_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 2,
+    "4": 13,
+    "5": 22
+  },
+  "sentiment": {
+    "positive": 35,
+    "neutral": 2,
+    "negative": 0,
+    "positive_pct": 94.6,
+    "neutral_pct": 5.4,
+    "negative_pct": 0.0
+  }
+}

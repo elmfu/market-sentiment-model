@@ -71,7 +71,7 @@
   },
   {
     "word": "speed",
-    "count": 68,
+    "count": 69,
     "sentiment": "positive"
   },
   {
@@ -230,6 +230,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "high",
+    "count": 37,
+    "sentiment": "positive"
+  },
+  {
     "word": "awesome",
     "count": 37,
     "sentiment": "positive"
@@ -252,11 +257,6 @@
   {
     "word": "core",
     "count": 37,
-    "sentiment": "positive"
-  },
-  {
-    "word": "high",
-    "count": 36,
     "sentiment": "positive"
   },
   {

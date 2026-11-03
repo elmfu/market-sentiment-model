@@ -40,6 +40,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "recommend",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
     "word": "work",
     "count": 10,
     "sentiment": "positive"
@@ -50,23 +55,23 @@
     "sentiment": "positive"
   },
   {
+    "word": "excellent",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
     "word": "product",
     "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "recommend",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "excellent",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
     "word": "snapdragon",
     "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "needed",
+    "count": 7,
     "sentiment": "positive"
   },
   {
@@ -115,11 +120,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "needed",
-    "count": 6,
-    "sentiment": "neutral"
-  },
-  {
     "word": "processor",
     "count": 6,
     "sentiment": "positive"
@@ -133,6 +133,11 @@
     "word": "issue",
     "count": 6,
     "sentiment": "neutral"
+  },
+  {
+    "word": "happy",
+    "count": 5,
+    "sentiment": "positive"
   },
   {
     "word": "small",
@@ -185,6 +190,31 @@
     "sentiment": "positive"
   },
   {
+    "word": "college",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "power",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "everyday",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "without",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "different",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
     "word": "over",
     "count": 4,
     "sentiment": "negative"
@@ -235,11 +265,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "happy",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
     "word": "sleek",
     "count": 4,
     "sentiment": "positive"
@@ -273,30 +298,5 @@
     "word": "returned",
     "count": 4,
     "sentiment": "negative"
-  },
-  {
-    "word": "return",
-    "count": 4,
-    "sentiment": "negative"
-  },
-  {
-    "word": "buying",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "plus",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "bad",
-    "count": 3,
-    "sentiment": "negative"
-  },
-  {
-    "word": "office",
-    "count": 3,
-    "sentiment": "positive"
   }
 ]

@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 796,
-      "pct_of_reviews": 33.9,
+      "count": 803,
+      "pct_of_reviews": 34.0,
       "quotes": [
         "With its powerful Intel Ultra Core 7 processor and an Intel Arc 140V integrated GPU, this laptop can do it all.",
         "The HP OmniBook X (Intel Core 7 Ultra, 16GB RAM, 1TB SSD) is a large 2-in-1 with a really nice IPS display that will satisfy many users.",
@@ -12,7 +12,7 @@
     },
     {
       "theme": "Display Quality",
-      "count": 636,
+      "count": 641,
       "pct_of_reviews": 27.1,
       "quotes": [
         "=========\nDESIGN/SPECS:\nThe OmniBook X Flip 2-in-1 laptop sports a nice matte black color (HP calls it Eclipse Gray, but the color appears black).",
@@ -22,8 +22,8 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 546,
-      "pct_of_reviews": 23.3,
+      "count": 549,
+      "pct_of_reviews": 23.2,
       "quotes": [
         "=========\nDESIGN/SPECS:\nThe OmniBook X Flip 2-in-1 laptop sports a nice matte black color (HP calls it Eclipse Gray, but the color appears black).",
         "The weight of the laptop alone is 4 lbs, 9 oz.",
@@ -32,7 +32,7 @@
     },
     {
       "theme": "Price & Value",
-      "count": 439,
+      "count": 441,
       "pct_of_reviews": 18.7,
       "quotes": [
         "I prefer a number pad, but it is not a deal breaker for me.",
@@ -42,7 +42,7 @@
     },
     {
       "theme": "Battery Life",
-      "count": 270,
+      "count": 271,
       "pct_of_reviews": 11.5,
       "quotes": [
         "A laptop that is neatly wrapped in a soft cover, a 65W USB-C charger with a nice, braided cable, and some documentation.",
@@ -54,8 +54,8 @@
   "weaknesses": [
     {
       "theme": "Display Quality",
-      "count": 15,
-      "pct_of_reviews": 0.6,
+      "count": 16,
+      "pct_of_reviews": 0.7,
       "quotes": [
         "We have owned it under 2 months and the display screen won’t come on.",
         "Screen went black and everything wont trun on when i got home from school",

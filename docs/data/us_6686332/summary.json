@@ -1,0 +1,25 @@
+{
+  "product": "ASUS - Googlebook 14\" 3K OLED Touchscreen - Intel Core Ultra 5 325 (2026) - 16GB - 512GB SSD - Dusk Ash",
+  "source": "bestbuy.com",
+  "market": "US",
+  "total": 1,
+  "with_text": 1,
+  "date_range": "2026-10-26 to 2026-10-26",
+  "avg_rating": 5.0,
+  "satisfaction_score": 100.0,
+  "star_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 1
+  },
+  "sentiment": {
+    "positive": 1,
+    "neutral": 0,
+    "negative": 0,
+    "positive_pct": 100.0,
+    "neutral_pct": 0.0,
+    "negative_pct": 0.0
+  }
+}

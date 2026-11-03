@@ -1,5 +1,22 @@
 [
   {
+    "review_id": "238f0768-67db-3f2f-8eb6-b11f39da90db",
+    "product_key": "us_6668006",
+    "market": "US",
+    "sku": "6668006",
+    "submitted_at": "2026-10-23T10:05:37.000-05:00",
+    "rating": 5,
+    "title": "Excellent",
+    "body": "Very good fast and smooth. Love the bright screen and touchpad",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP - OmniBook Ultra - 14\" 3K OLED Touchscreen Laptop - Intel Core Ultra 7 (2026) - 16GB Memory - 1TB SSD - Copilot+ PC - Silk Sand",
+    "topics": "Performance & Chip, Display Quality, Build & Keyboard",
+    "competitors": ""
+  },
+  {
     "review_id": "63000980-e0a3-38fc-941b-645c6f2dbb09",
     "product_key": "us_6668006",
     "market": "US",

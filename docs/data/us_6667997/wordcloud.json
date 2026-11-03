@@ -1,5 +1,15 @@
 [
   {
+    "word": "gaming",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
     "word": "build",
     "count": 5,
     "sentiment": "positive"
@@ -10,18 +20,93 @@
     "sentiment": "positive"
   },
   {
-    "word": "gaming",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
     "word": "overall",
     "count": 4,
     "sentiment": "positive"
   },
   {
-    "word": "performance",
-    "count": 4,
+    "word": "cpu",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "games",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issues",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "intel",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "igpu",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "thought",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "give",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "play",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "along",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hp's",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sound",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "loud",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hard",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 2,
     "sentiment": "positive"
   },
   {
@@ -46,11 +131,6 @@
   },
   {
     "word": "since",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "games",
     "count": 2,
     "sentiment": "positive"
   },
@@ -115,16 +195,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "battery",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "life",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
     "word": "want",
     "count": 2,
     "sentiment": "neutral"
@@ -155,11 +225,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "cpu",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
     "word": "panther",
     "count": 2,
     "sentiment": "neutral"
@@ -170,132 +235,67 @@
     "sentiment": "neutral"
   },
   {
-    "word": "phenomenal",
+    "word": "minor",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "pricey",
+    "word": "because",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "average",
+    "word": "small",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "responsiveness",
+    "word": "design",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "loved",
+    "word": "series",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "dropped",
+    "word": "combo",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "frames",
+    "word": "excellent",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "chrome",
+    "word": "point",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "mute",
+    "word": "nearly",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "button",
+    "word": "hoped",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "slow",
+    "word": "laptop's",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "unresponsive",
+    "word": "surprising",
     "count": 1,
     "sentiment": "positive"
   },
   {
-    "word": "playing",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "videos",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "media",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "player",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "weird",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "brand",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "sticking",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "macos",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "uses",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "beginning",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "september",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "unlike",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "previous",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "laptops",
+    "word": "hoping",
     "count": 1,
     "sentiment": "positive"
   }

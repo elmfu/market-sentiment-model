@@ -1,0 +1,302 @@
+[
+  {
+    "word": "screen",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "google",
+    "count": 15,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "work",
+    "count": 13,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "googlebook",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "phone",
+    "count": 13,
+    "sentiment": "negative"
+  },
+  {
+    "word": "lenovo",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "oled",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "android",
+    "count": 12,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "hardware",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "device",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "experience",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "apps",
+    "count": 10,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "feels",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "beautiful",
+    "count": 9,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "pixel",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "right",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "same",
+    "count": 9,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "because",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "first",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "chromebook",
+    "count": 9,
+    "sentiment": "negative"
+  },
+  {
+    "word": "display",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "having",
+    "count": 8,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "issues",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fingerprint",
+    "count": 8,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "yet",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "off",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "trackpad",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "ever",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "desktop",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "store",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "done",
+    "count": 7,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "run",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "speakers",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "another",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "definitely",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "early",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "around",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "think",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "user",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "set",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gorgeous",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "looking",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quite",
+    "count": 6,
+    "sentiment": "positive"
+  }
+]

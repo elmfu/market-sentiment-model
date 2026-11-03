@@ -1,0 +1,53 @@
+{
+  "competitors": [
+    {
+      "brand": "Dell",
+      "total_mentions": 3,
+      "reviews": [
+        {
+          "title": "Software issues, solid hardware though",
+          "body": "I had to return this Googlebook after just 5 days of use. As a 12 year Chromebook user, I really wanted to enjoy the new OS but Google was not ready for primetime. Dell did a very good job of building a gorgeous device. The build is very solid, amazing trackpad and keyboard. The screen is nice at 50",
+          "excerpt": "Dell did a very good job of building a gorgeous device.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
+        {
+          "title": "A promising start with a bright future",
+          "body": "The compact XPS design and 2.5K touchscreen are appealing, and I’m especially excited about what this Googlebook represents: a new direction for Google in desktop computing. The idea of bringing Google’s software, AI, and connected ecosystem together in a thoughtfully designed laptop has a lot of po",
+          "excerpt": "The compact XPS design and 2.5K touchscreen are appealing, and I’m especially excited about what this Googlebook represents: a new direction for Google in desktop computing.",
+          "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great device that was just a bit to small for me.",
+          "body": "The dell xps Googlebook is a fantastic small device that is easy to bring with you everywhere. The battery lasts all day and wakes from sleep instantly. Even under load it rarely gets hot and thanks to the snapdragon processor all the android apps I installed worked just as intended. But with my lar",
+          "excerpt": "The dell xps Googlebook is a fantastic small device that is easy to bring with you everywhere.",
+          "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Chromebook",
+      "total_mentions": 2,
+      "reviews": [
+        {
+          "title": "Software issues, solid hardware though",
+          "body": "I had to return this Googlebook after just 5 days of use. As a 12 year Chromebook user, I really wanted to enjoy the new OS but Google was not ready for primetime. Dell did a very good job of building a gorgeous device. The build is very solid, amazing trackpad and keyboard. The screen is nice at 50",
+          "excerpt": "As a 12 year Chromebook user, I really wanted to enjoy the new OS but Google was not ready for primetime.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
+        {
+          "title": "Long time Chromebook user loving this Googlebook.",
+          "body": "I've used Chromebooks for over a decade. This is the nicest hardware I've ever seen. Google book OS has a few rough edges but it's getting better everyday. It already covers my Chromebook use cases with better phone connection and android app support.",
+          "excerpt": "It already covers my Chromebook use cases with better phone connection and android app support.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    }
+  ]
+}

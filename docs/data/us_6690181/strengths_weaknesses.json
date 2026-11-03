@@ -1,0 +1,76 @@
+{
+  "strengths": [
+    {
+      "theme": "Software & Ecosystem",
+      "count": 6,
+      "pct_of_reviews": 66.7,
+      "quotes": [
+        "The idea of bringing Google’s software, AI, and connected ecosystem together in a thoughtfully designed laptop has a lot of potential.",
+        "I used Windows for 20 years and then moved to ChromeOS a few years back.",
+        "Even under load it rarely gets hot and thanks to the snapdragon processor all the android apps I installed worked just as intended."
+      ]
+    },
+    {
+      "theme": "Battery Life",
+      "count": 2,
+      "pct_of_reviews": 22.2,
+      "quotes": [
+        "The battery lasts all day and wakes from sleep instantly."
+      ]
+    },
+    {
+      "theme": "Display Quality",
+      "count": 2,
+      "pct_of_reviews": 22.2,
+      "quotes": []
+    },
+    {
+      "theme": "Performance & Chip",
+      "count": 1,
+      "pct_of_reviews": 11.1,
+      "quotes": [
+        "Even under load it rarely gets hot and thanks to the snapdragon processor all the android apps I installed worked just as intended."
+      ]
+    },
+    {
+      "theme": "Thermals & Cooling",
+      "count": 1,
+      "pct_of_reviews": 11.1,
+      "quotes": [
+        "Even under load it rarely gets hot and thanks to the snapdragon processor all the android apps I installed worked just as intended."
+      ]
+    }
+  ],
+  "weaknesses": [
+    {
+      "theme": "Performance & Chip",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Battery Life",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Display Quality",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Thermals & Cooling",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 0,
+      "pct_of_reviews": 0.0,
+      "quotes": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "product": "Lenovo - Googlebook 15.3\" 3K 120Hz OLED Touchscreen - Intel Core Ultra 5 325 (2026) - 16GB - 512GB SSD - Cloud Grey",
+  "source": "bestbuy.com",
+  "market": "US",
+  "total": 29,
+  "with_text": 29,
+  "date_range": "2026-10-09 to 2026-10-25",
+  "avg_rating": 3.59,
+  "satisfaction_score": 62.1,
+  "star_distribution": {
+    "1": 2,
+    "2": 5,
+    "3": 4,
+    "4": 10,
+    "5": 8
+  },
+  "sentiment": {
+    "positive": 18,
+    "neutral": 4,
+    "negative": 7,
+    "positive_pct": 62.1,
+    "neutral_pct": 13.8,
+    "negative_pct": 24.1
+  }
+}

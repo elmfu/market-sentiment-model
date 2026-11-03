@@ -6,7 +6,7 @@
   },
   {
     "word": "price",
-    "count": 230,
+    "count": 231,
     "sentiment": "positive"
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "word": "fast",
-    "count": 210,
+    "count": 211,
     "sentiment": "positive"
   },
   {
     "word": "best",
-    "count": 174,
+    "count": 176,
     "sentiment": "positive"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "word": "keyboard",
-    "count": 129,
+    "count": 130,
     "sentiment": "positive"
   },
   {
@@ -105,17 +105,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "display",
-    "count": 80,
-    "sentiment": "positive"
-  },
-  {
     "word": "performance",
-    "count": 80,
+    "count": 81,
     "sentiment": "positive"
   },
   {
     "word": "features",
+    "count": 81,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
     "count": 80,
     "sentiment": "positive"
   },
@@ -165,13 +165,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "value",
+    "word": "design",
     "count": 57,
     "sentiment": "positive"
   },
   {
-    "word": "design",
-    "count": 56,
+    "word": "value",
+    "count": 57,
     "sentiment": "positive"
   },
   {
@@ -210,6 +210,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "better",
+    "count": 47,
+    "sentiment": "positive"
+  },
+  {
     "word": "highly",
     "count": 47,
     "sentiment": "positive"
@@ -245,11 +250,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "better",
-    "count": 46,
-    "sentiment": "positive"
-  },
-  {
     "word": "worth",
     "count": 45,
     "sentiment": "positive"
@@ -275,27 +275,27 @@
     "sentiment": "positive"
   },
   {
-    "word": "experience",
+    "word": "because",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
     "count": 43,
     "sentiment": "positive"
   },
   {
     "word": "machine",
-    "count": 42,
+    "count": 43,
     "sentiment": "positive"
   },
   {
-    "word": "home",
-    "count": 42,
+    "word": "experience",
+    "count": 43,
     "sentiment": "positive"
   },
   {
-    "word": "processor",
-    "count": 42,
-    "sentiment": "positive"
-  },
-  {
-    "word": "because",
+    "word": "first",
     "count": 42,
     "sentiment": "positive"
   }

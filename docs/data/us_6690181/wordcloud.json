@@ -1,0 +1,302 @@
+[
+  {
+    "word": "android",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "google",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "googlebook",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hardware",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "device",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "bright",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "future",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "dell",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "apps",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "phone",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "premium",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "user",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "battery",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "start",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "xps",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "desktop",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "computing",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "together",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "enjoy",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "happy",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "support",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "building",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "app",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hope",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "users",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "everyday",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "see",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "until",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "solid",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "book",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "find",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "environment",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "returning",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "built",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "chrome",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "update",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "bring",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pixel",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "back",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ever",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ready",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "chromebook",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "promising",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "compact",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "design",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "appealing",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "especially",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excited",
+    "count": 1,
+    "sentiment": "positive"
+  }
+]
