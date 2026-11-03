@@ -790,6 +790,76 @@
       "url": "https://www.walmart.com/ip/16981824805",
       "enabled": true,
       "notes": "walmart | fetched 2026-07-06 via Cowork web_fetch"
+    },
+    {
+      "product_key": "us_6687893",
+      "market": "US",
+      "sku": "6687893",
+      "series": "Googlebook",
+      "brand": "HP",
+      "competitor": true,
+      "name": "HP - Googlebook 14\" 3K OLED Touchscreen - Snapdragon X Elite - 16GB - 512GB SSD - Atmospheric Blue",
+      "model": "",
+      "cpu_ram_ssd": "Snapdragon X Elite / 16GB / 512GB",
+      "url": "https://www.bestbuy.com/product/hp-googlebook-14-3k-oled-touchscreen-snapdragon-x-elite-16gb-memory-512gb-ssd-atmospheric-blue/J3PPHVH9QX/sku/6687893",
+      "enabled": true,
+      "notes": "Googlebook competitive set — added 2026-11-03 | MSRP $1,299 | CS 14\" 3K OLED 120Hz 500nit | 0.43in 2.74lb"
+    },
+    {
+      "product_key": "us_6686332",
+      "market": "US",
+      "sku": "6686332",
+      "series": "Googlebook",
+      "brand": "ASUS",
+      "competitor": true,
+      "name": "ASUS - Googlebook 14\" 3K OLED Touchscreen - Intel Core Ultra 5 325 (2026) - 16GB - 512GB SSD - Dusk Ash",
+      "model": "",
+      "cpu_ram_ssd": "Core Ultra 5 325 / 16GB / 512GB",
+      "url": "https://www.bestbuy.com/product/asus-googlebook-14-3k-oled-touchscreen-laptop-w-gemini-intelligence-intel-core-ultra-5-325-2026-16gb-ram-512gb-ssd-dusk-ash/JJGHGST42S/sku/6686332",
+      "enabled": true,
+      "notes": "Googlebook competitive set — added 2026-11-03 | MSRP $1,299 | CS 14\" 3K OLED 120Hz 450nit | 0.43in 2.18lb"
+    },
+    {
+      "product_key": "us_6687176",
+      "market": "US",
+      "sku": "6687176",
+      "series": "Googlebook",
+      "brand": "Lenovo",
+      "competitor": true,
+      "name": "Lenovo - Googlebook 15.3\" 3K 120Hz OLED Touchscreen - Intel Core Ultra 5 325 (2026) - 16GB - 512GB SSD - Cloud Grey",
+      "model": "83W6000EUS",
+      "cpu_ram_ssd": "Core Ultra 5 325 / 16GB / 512GB",
+      "url": "https://www.bestbuy.com/product/lenovo-googlebook-15-3-3k-120hz-oled-touchscreen-laptop-intel-core-ultra-5-processor-325-2026-16gb-memory-512gb-storage-cloud-grey/J3PT7KJYXG",
+      "enabled": true,
+      "notes": "Googlebook competitive set — added 2026-11-03 | MSRP $1,099 | CS 15.3\" 3K OLED 120Hz 500nit | 0.63in 2.68lb | BBY color Cloud Grey (spec sheet: Celestial White)"
+    },
+    {
+      "product_key": "us_6690181",
+      "market": "US",
+      "sku": "6690181",
+      "series": "Googlebook",
+      "brand": "Dell",
+      "competitor": true,
+      "name": "Dell - XPS Googlebook 13.4\" 2.5K Touchscreen - Snapdragon X Elite X1E-80-100 - 16GB - 512GB SSD - Shimmer",
+      "model": "LDX13267-SX12577SHI-PUS",
+      "cpu_ram_ssd": "Snapdragon X Elite / 16GB / 512GB",
+      "url": "https://www.bestbuy.com/product/dell-xps-googlebook-13-4-2-5k-touchscreen-laptop-snapdragon-x-elite-x1e-80-100-2024-16gb-memory-512gb-storage-shimmer/J3K4L6QQFC",
+      "enabled": true,
+      "notes": "Googlebook competitive set — added 2026-11-03 | MSRP $999 | CS 13.4\" 2.5K LCD 120Hz 500nit | 0.5in 2.2lb"
+    },
+    {
+      "product_key": "us_6690085",
+      "market": "US",
+      "sku": "6690085",
+      "series": "Googlebook",
+      "brand": "Acer",
+      "competitor": true,
+      "name": "Acer - Googlebook 14 x360 - 14\" 3K OLED 120Hz Touchscreen - Intel Core Ultra 5 325 (2026) - 16GB - 512GB SSD - Elemental Blue",
+      "model": "GP714-91N-50A0",
+      "cpu_ram_ssd": "Core Ultra 5 325 / 16GB / 512GB",
+      "url": "https://www.bestbuy.com/product/acer-googlebook-14-laptop-14-3k-oled-120hz-touchscreen-intel-core-ultra-5-series-3-2026-16gb-memory-512gb-storage-elemental-blue/JJ8V8HLZP2",
+      "enabled": true,
+      "notes": "Googlebook competitive set — added 2026-11-03 | MSRP $899 | x360 14\" 3K OLED 120Hz 500nit | 0.55in 2.51lb"
     }
   ]
 }

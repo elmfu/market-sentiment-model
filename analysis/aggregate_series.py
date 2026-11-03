@@ -23,7 +23,11 @@ SERIES_KEYS = {
     "Ultra": "series_ultra", "UltraFlip": "series_ultraflip",
     "X": "series_x", "XFlip": "series_xflip",
     "FiveClamshell": "series_5clam", "FiveConvertible": "series_5flip",
+    "Googlebook": "series_googlebook",
 }
+# Competitor sets get their own overview but are EXCLUDED from "all"
+# (which is the HP OmniBook portfolio).
+COMPETITOR_SERIES = {"Googlebook"}
 SERIES_TITLES = {
     "series_ultra": "HP OmniBook Ultra — all models (US + CA)",
     "series_ultraflip": "HP OmniBook Ultra Flip — all models (US + CA)",
@@ -31,6 +35,7 @@ SERIES_TITLES = {
     "series_xflip": "HP OmniBook X Flip — all models (US + CA)",
     "series_5clam": "HP OmniBook 5 Clamshell — all models (Walmart US)",
     "series_5flip": "HP OmniBook 5 Convertible — all models (Walmart US)",
+    "series_googlebook": "Googlebook competitive set — HP / ASUS / Lenovo / Dell / Acer (Best Buy US)",
     "all": "HP OmniBook portfolio — all models (Best Buy US+CA, Walmart US)",
 }
 
@@ -196,7 +201,9 @@ def main():
         sub = {k: v for k, v in all_pr.items() if v[0].get("series") == series}
         if sub:
             write_overview(key, SERIES_TITLES[key], sub)
-    write_overview("all", SERIES_TITLES["all"], all_pr)
+    hp_only = {k: v for k, v in all_pr.items()
+               if v[0].get("series") not in COMPETITOR_SERIES and not v[0].get("competitor")}
+    write_overview("all", SERIES_TITLES["all"], hp_only)
 
 
 if __name__ == "__main__":

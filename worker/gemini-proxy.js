@@ -37,6 +37,7 @@ const SERIES_MAP = {
   series_xflip:     "XFlip",
   series_5clam:     "FiveClamshell",
   series_5flip:     "FiveConvertible",
+  series_googlebook: "Googlebook",   // competitor set (HP/ASUS/Lenovo/Dell/Acer)
 };
 
 // ── Semantic search config (Cloudflare Vectorize + Workers AI) ────────────────

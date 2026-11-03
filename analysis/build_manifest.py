@@ -24,10 +24,11 @@ SERIES_META = [
     {"slug": "UltraFlip", "label": "OmniBook Ultra Flip", "color": "#0d9488"},
     {"slug": "X",         "label": "OmniBook X",          "color": "#2563eb"},
     {"slug": "XFlip",     "label": "OmniBook X Flip",     "color": "#f59e0b"},
+    {"slug": "Googlebook", "label": "Googlebook (competitors)", "color": "#7c3aed"},
 ]
 
 CARD_FIELDS = [
-    "product_key", "market", "sku", "series", "retailer",
+    "product_key", "market", "sku", "series", "retailer", "brand", "competitor",
     "name", "model", "cpu_ram_ssd", "enabled",
 ]
 
