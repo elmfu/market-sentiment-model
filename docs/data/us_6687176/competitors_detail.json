@@ -2,7 +2,7 @@
   "competitors": [
     {
       "brand": "Lenovo",
-      "total_mentions": 13,
+      "total_mentions": 18,
       "reviews": [
         {
           "title": "Nice hardware but missed opportunity",
@@ -26,11 +26,11 @@
           "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": "10 additional review(s) also mention Lenovo."
+      "summary_of_remaining": "15 additional review(s) also mention Lenovo."
     },
     {
       "brand": "Chromebook",
-      "total_mentions": 9,
+      "total_mentions": 11,
       "reviews": [
         {
           "title": "Great Hardware, software is not there yet.",
@@ -54,11 +54,11 @@
           "sentiment": "neutral"
         }
       ],
-      "summary_of_remaining": "6 additional review(s) also mention Chromebook."
+      "summary_of_remaining": "8 additional review(s) also mention Chromebook."
     },
     {
       "brand": "Apple/Mac",
-      "total_mentions": 5,
+      "total_mentions": 7,
       "reviews": [
         {
           "title": "Nice hardware but missed opportunity",
@@ -82,11 +82,11 @@
           "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": "2 additional review(s) also mention Apple/Mac."
+      "summary_of_remaining": "4 additional review(s) also mention Apple/Mac."
     },
     {
       "brand": "Microsoft",
-      "total_mentions": 2,
+      "total_mentions": 3,
       "reviews": [
         {
           "title": "Great Hardware, software is not there yet.",
@@ -101,6 +101,13 @@
           "excerpt": "Each surface is painted with a fingerprint free eggshell finish.",
           "rating": 4,
           "sentiment": "positive"
+        },
+        {
+          "title": "Hardwore is good, software is bug-ridden",
+          "body": "I had high hopes for this machine. The pre-release reviews were pretty good and convinced me to buy shortly after release. This was a mistake.\n\nHardware is decent, as others have said. It feels premium but not perfect. Only 16G on a machine upwards of $1000 is crazy but that's the state of memory pr",
+          "excerpt": "That aside, the surface of this Lenovo Googlebook feels satiny, not exactly plasticy and not that coolness of metal.",
+          "rating": 2,
+          "sentiment": "negative"
         }
       ],
       "summary_of_remaining": ""

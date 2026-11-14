@@ -6,7 +6,7 @@
   },
   {
     "word": "screen",
-    "count": 17,
+    "count": 18,
     "sentiment": "positive"
   },
   {
@@ -25,12 +25,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "fast",
-    "count": 10,
+    "word": "quality",
+    "count": 11,
     "sentiment": "positive"
   },
   {
-    "word": "quality",
+    "word": "fast",
     "count": 10,
     "sentiment": "positive"
   },
@@ -55,6 +55,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "overall",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
     "word": "recommend",
     "count": 8,
     "sentiment": "positive"
@@ -62,11 +67,6 @@
   {
     "word": "lasts",
     "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "overall",
-    "count": 7,
     "sentiment": "positive"
   },
   {
@@ -117,6 +117,16 @@
   {
     "word": "quick",
     "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "having",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 5,
     "sentiment": "positive"
   },
   {
@@ -240,22 +250,12 @@
     "sentiment": "neutral"
   },
   {
-    "word": "having",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
     "word": "once",
     "count": 4,
     "sentiment": "positive"
   },
   {
     "word": "multiple",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "windows",
     "count": 4,
     "sentiment": "positive"
   },
@@ -290,12 +290,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "several",
+    "word": "appears",
     "count": 3,
     "sentiment": "positive"
   },
   {
-    "word": "last",
+    "word": "solid",
     "count": 3,
     "sentiment": "positive"
   }

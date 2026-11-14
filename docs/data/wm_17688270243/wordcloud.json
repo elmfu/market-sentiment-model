@@ -1,12 +1,17 @@
 [
   {
     "word": "battery",
-    "count": 28,
+    "count": 29,
     "sentiment": "positive"
   },
   {
     "word": "life",
-    "count": 22,
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 18,
     "sentiment": "positive"
   },
   {
@@ -20,13 +25,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "screen",
-    "count": 17,
-    "sentiment": "positive"
-  },
-  {
     "word": "excellent",
-    "count": 16,
+    "count": 17,
     "sentiment": "positive"
   },
   {
@@ -40,6 +40,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "lightweight",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
     "word": "quality",
     "count": 12,
     "sentiment": "positive"
@@ -47,6 +52,11 @@
   {
     "word": "product",
     "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 11,
     "sentiment": "positive"
   },
   {
@@ -65,23 +75,18 @@
     "sentiment": "positive"
   },
   {
-    "word": "lightweight",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "best",
+    "word": "features",
     "count": 10,
     "sentiment": "positive"
   },
   {
     "word": "perfect",
-    "count": 9,
+    "count": 10,
     "sentiment": "positive"
   },
   {
     "word": "work",
-    "count": 9,
+    "count": 10,
     "sentiment": "positive"
   },
   {
@@ -125,11 +130,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "features",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
     "word": "windows",
     "count": 7,
     "sentiment": "positive"
@@ -162,6 +162,11 @@
   {
     "word": "home",
     "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "graphics",
+    "count": 6,
     "sentiment": "positive"
   },
   {
@@ -205,6 +210,26 @@
     "sentiment": "positive"
   },
   {
+    "word": "speed",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "see",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "yet",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gaming",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
     "word": "processor",
     "count": 5,
     "sentiment": "neutral"
@@ -231,11 +256,6 @@
   },
   {
     "word": "next",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "graphics",
     "count": 5,
     "sentiment": "positive"
   },
@@ -277,26 +297,6 @@
   {
     "word": "keys",
     "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "because",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "device",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "different",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "port",
-    "count": 4,
     "sentiment": "positive"
   }
 ]

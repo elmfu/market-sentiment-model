@@ -2,24 +2,24 @@
   "product": "HP Omnibook X 14\" 2-in-1 Touchscreen Laptop - Glacier Silver Aluminium (AMD Ryzen AI 7/32GB RAM/1TB SSD/Win11 Home)",
   "source": "bestbuy.ca",
   "market": "CA",
-  "total": 86,
-  "with_text": 73,
+  "total": 89,
+  "with_text": 76,
   "date_range": "",
-  "avg_rating": 4.05,
-  "satisfaction_score": 76.7,
+  "avg_rating": 4.06,
+  "satisfaction_score": 77.5,
   "star_distribution": {
     "1": 8,
     "2": 4,
     "3": 8,
-    "4": 22,
-    "5": 44
+    "4": 24,
+    "5": 45
   },
   "sentiment": {
-    "positive": 66,
+    "positive": 69,
     "neutral": 8,
     "negative": 12,
-    "positive_pct": 76.7,
-    "neutral_pct": 9.3,
-    "negative_pct": 14.0
+    "positive_pct": 77.5,
+    "neutral_pct": 9.0,
+    "negative_pct": 13.5
   }
 }

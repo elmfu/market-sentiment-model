@@ -22,6 +22,20 @@
       "summary_of_remaining": ""
     },
     {
+      "brand": "Apple/Mac",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Good notebook for everyday use",
+          "body": "I have had this notebook for about 5 months which I use in mainly for e-mails/browsing sharing the on screen time with my ipad and I am pleased with the overall performance in terms of speed and ease of set up and use.It is easier to do some tasks on a note book like printing off documents so I hope",
+          "excerpt": "I have had this notebook for about 5 months which I use in mainly for e-mails/browsing sharing the on screen time with my ipad and I am pleased with the overall performance in terms of speed and ease ",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
       "brand": "Microsoft",
       "total_mentions": 1,
       "reviews": [

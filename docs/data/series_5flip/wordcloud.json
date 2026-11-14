@@ -16,17 +16,17 @@
  },
  {
   "word": "excellent",
-  "count": 25,
+  "count": 26,
+  "sentiment": "positive"
+ },
+ {
+  "word": "work",
+  "count": 24,
   "sentiment": "positive"
  },
  {
   "word": "battery",
   "count": 24,
-  "sentiment": "positive"
- },
- {
-  "word": "work",
-  "count": 22,
   "sentiment": "positive"
  },
  {
@@ -65,6 +65,11 @@
   "sentiment": "positive"
  },
  {
+  "word": "want",
+  "count": 12,
+  "sentiment": "positive"
+ },
+ {
   "word": "overall",
   "count": 12,
   "sentiment": "positive"
@@ -90,8 +95,13 @@
   "sentiment": "positive"
  },
  {
-  "word": "want",
-  "count": 10,
+  "word": "set",
+  "count": 11,
+  "sentiment": "neutral"
+ },
+ {
+  "word": "old",
+  "count": 11,
   "sentiment": "positive"
  },
  {
@@ -135,12 +145,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "recommend",
+  "word": "price",
   "count": 9,
   "sentiment": "positive"
  },
  {
-  "word": "old",
+  "word": "recommend",
   "count": 9,
   "sentiment": "positive"
  },
@@ -152,16 +162,6 @@
  {
   "word": "i've",
   "count": 9,
-  "sentiment": "positive"
- },
- {
-  "word": "set",
-  "count": 8,
-  "sentiment": "positive"
- },
- {
-  "word": "price",
-  "count": 8,
   "sentiment": "positive"
  },
  {
@@ -260,6 +260,11 @@
   "sentiment": "positive"
  },
  {
+  "word": "updated",
+  "count": 6,
+  "sentiment": "neutral"
+ },
+ {
   "word": "multiple",
   "count": 6,
   "sentiment": "positive"
@@ -268,6 +273,11 @@
   "word": "windows",
   "count": 6,
   "sentiment": "positive"
+ },
+ {
+  "word": "microsoft",
+  "count": 6,
+  "sentiment": "negative"
  },
  {
   "word": "home",
@@ -286,16 +296,6 @@
  },
  {
   "word": "easier",
-  "count": 6,
-  "sentiment": "positive"
- },
- {
-  "word": "keep",
-  "count": 6,
-  "sentiment": "negative"
- },
- {
-  "word": "replacement",
   "count": 6,
   "sentiment": "positive"
  }

@@ -3,7 +3,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 21,
-      "pct_of_reviews": 31.8,
+      "pct_of_reviews": 30.4,
       "quotes": [
         "Keyboard very comfortable to work with and I really love the flip feature.",
         "This laptop runs super smooth and the 360 design makes it easier to keep studying while relaxing.",
@@ -13,7 +13,7 @@
     {
       "theme": "Display Quality",
       "count": 18,
-      "pct_of_reviews": 27.3,
+      "pct_of_reviews": 26.1,
       "quotes": [
         "Easy to use, enjoy the flip & touchscreen.",
         "Screen is a decent size as well, with a lot of updated features.",
@@ -23,7 +23,7 @@
     {
       "theme": "Performance & Chip",
       "count": 16,
-      "pct_of_reviews": 24.2,
+      "pct_of_reviews": 23.2,
       "quotes": [
         "This laptop runs super smooth and the 360 design makes it easier to keep studying while relaxing.",
         "The HP OmniBook 5 Flip 14\" Laptop is an impressive flip book that has an Intel® Core™ i5 processor, 16GB TAM and 512GB of SSD storage.",
@@ -33,7 +33,7 @@
     {
       "theme": "Battery Life",
       "count": 14,
-      "pct_of_reviews": 21.2,
+      "pct_of_reviews": 20.3,
       "quotes": [
         "You get to 15 hours of battery life - I found that I can easily get 6+ hours doing intensive tasks.",
         "Haven't had any issues connecting it to the internet or charging it.",
@@ -43,7 +43,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 10,
-      "pct_of_reviews": 15.2,
+      "pct_of_reviews": 14.5,
       "quotes": [
         "This HP OmniBook 5 flip 14 Laptop was  my Husband dreams so he will having under the tree in Christmas Day 🎁 \nUntil in using and setup for him lol",
         "One thing I was quite disappointed with was the fact I can't use windows hello on it.",
@@ -55,7 +55,7 @@
     {
       "theme": "Display Quality",
       "count": 4,
-      "pct_of_reviews": 6.1,
+      "pct_of_reviews": 5.8,
       "quotes": [
         "I even faced a screen light‑leak issue within a short time of usage.",
         "power light on but screen black & no light on keyboard"
@@ -64,7 +64,7 @@
     {
       "theme": "Performance & Chip",
       "count": 2,
-      "pct_of_reviews": 3.0,
+      "pct_of_reviews": 2.9,
       "quotes": [
         "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
       ]
@@ -72,7 +72,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 2,
-      "pct_of_reviews": 3.0,
+      "pct_of_reviews": 2.9,
       "quotes": [
         "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
         "power light on but screen black & no light on keyboard"
@@ -81,15 +81,16 @@
     {
       "theme": "Price & Value",
       "count": 2,
-      "pct_of_reviews": 3.0,
+      "pct_of_reviews": 2.9,
       "quotes": []
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 1,
-      "pct_of_reviews": 1.5,
+      "count": 2,
+      "pct_of_reviews": 2.9,
       "quotes": [
-        "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls."
+        "Professional Use Review:\n\nSignificant lag while using VDI and during Microsoft Teams calls.",
+        "I don't like that you have to have a Microsoft Account to set it up."
       ]
     }
   ]

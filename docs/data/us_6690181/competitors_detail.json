@@ -2,7 +2,7 @@
   "competitors": [
     {
       "brand": "Dell",
-      "total_mentions": 3,
+      "total_mentions": 7,
       "reviews": [
         {
           "title": "Software issues, solid hardware though",
@@ -26,11 +26,11 @@
           "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": ""
+      "summary_of_remaining": "4 additional review(s) also mention Dell."
     },
     {
       "brand": "Chromebook",
-      "total_mentions": 2,
+      "total_mentions": 3,
       "reviews": [
         {
           "title": "Software issues, solid hardware though",
@@ -44,6 +44,27 @@
           "body": "I've used Chromebooks for over a decade. This is the nicest hardware I've ever seen. Google book OS has a few rough edges but it's getting better everyday. It already covers my Chromebook use cases with better phone connection and android app support.",
           "excerpt": "It already covers my Chromebook use cases with better phone connection and android app support.",
           "rating": 5,
+          "sentiment": "positive"
+        },
+        {
+          "title": "Great laptop, even with OS quirks",
+          "body": "The Dell XPS Googlebook is the most compact of the initial set of five Googlebooks that came out. It also has a Snapdragon X Elite chip, which is a nice bonus for native Android app compatibility.\n\nThis laptop runs Googlebook OS, which I'd describe more of a cross between Chrome OS and Android than ",
+          "excerpt": "The Googlebook comes with a year of a special Chromebook tier that includes 50 hours and up to 1080p streaming.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Googlebook Overview",
+          "body": "To start it is lightweight and very easy to store. Setup was a snap and took about 30 minutes including updates. Pairing my Samsung phone was also very simple and easy. Not a fan of only having two usb ports but got a hub and this makes things so much better. I also added a bluetooth mouse which ups",
+          "excerpt": "Pairing my Samsung phone was also very simple and easy.",
+          "rating": 4,
           "sentiment": "positive"
         }
       ],

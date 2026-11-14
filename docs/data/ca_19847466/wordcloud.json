@@ -10,6 +10,11 @@
     "sentiment": "negative"
   },
   {
+    "word": "issues",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
     "word": "ran",
     "count": 3,
     "sentiment": "negative"
@@ -25,17 +30,22 @@
     "sentiment": "positive"
   },
   {
+    "word": "give",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
     "word": "started",
     "count": 2,
     "sentiment": "negative"
   },
   {
-    "word": "issues",
+    "word": "message",
     "count": 2,
     "sentiment": "negative"
   },
   {
-    "word": "message",
+    "word": "times",
     "count": 2,
     "sentiment": "negative"
   },
@@ -51,6 +61,31 @@
   },
   {
     "word": "device",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "windows",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "hard",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "drive",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "crashed",
+    "count": 2,
+    "sentiment": "negative"
+  },
+  {
+    "word": "multiple",
     "count": 2,
     "sentiment": "negative"
   },
@@ -71,11 +106,6 @@
   },
   {
     "word": "firm",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "give",
     "count": 1,
     "sentiment": "positive"
   },
@@ -160,11 +190,6 @@
     "sentiment": "negative"
   },
   {
-    "word": "times",
-    "count": 1,
-    "sentiment": "negative"
-  },
-  {
     "word": "while",
     "count": 1,
     "sentiment": "negative"
@@ -230,11 +255,6 @@
     "sentiment": "neutral"
   },
   {
-    "word": "windows",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
     "word": "seems",
     "count": 1,
     "sentiment": "neutral"
@@ -276,26 +296,6 @@
   },
   {
     "word": "non",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "programs",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "run",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "diagnostic",
-    "count": 1,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "program",
     "count": 1,
     "sentiment": "neutral"
   }

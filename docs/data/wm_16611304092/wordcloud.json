@@ -65,6 +65,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "set",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
     "word": "open",
     "count": 6,
     "sentiment": "positive"
@@ -100,7 +105,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "set",
+    "word": "old",
     "count": 5,
     "sentiment": "positive"
   },
@@ -195,11 +200,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "old",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
     "word": "i've",
     "count": 4,
     "sentiment": "neutral"
@@ -255,6 +255,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "updated",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
     "word": "multiple",
     "count": 3,
     "sentiment": "positive"
@@ -293,10 +298,5 @@
     "word": "keep",
     "count": 3,
     "sentiment": "negative"
-  },
-  {
-    "word": "replacement",
-    "count": 3,
-    "sentiment": "positive"
   }
 ]

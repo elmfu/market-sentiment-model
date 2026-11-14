@@ -2,8 +2,15 @@
   "competitors": [
     {
       "brand": "Acer",
-      "total_mentions": 12,
+      "total_mentions": 17,
       "reviews": [
+        {
+          "title": "Solid Hardware that Deserves a Better OS",
+          "body": "📦 UNBOXING:\n\nInside the box, you’ll find the Acer Googlebook 14, a padded sleeve for the laptop, a somewhat large AC adapter and cable, and some documentation.\n\n💪 BUILD:\n\nAcer is using aluminum and magnesium for its build materials, and uses a 2-in-1 tablet design with a sturdy hinge that doesn’t wo",
+          "excerpt": "📦 UNBOXING:\n\nInside the box, you’ll find the Acer Googlebook 14, a padded sleeve for the laptop, a somewhat large AC adapter and cable, and some documentation.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
         {
           "title": "Android Power on Laptop, Bundled With Limitations",
           "body": "TLDL version: Googlebook laptops are just Android as a desktop environment. It is neat and has potential. But lacking proper app support for the new computing environment keeps it from bringing out the best in it. First party apps and services from Google are nothing more than their web apps run ins",
@@ -17,21 +24,21 @@
           "excerpt": "The Acer Googlebook 14 hardware, fit, finish, and the tactile experience fits nicely with similarly priced Windows 11 and Apple MacBook laptops.",
           "rating": 3,
           "sentiment": "neutral"
-        },
-        {
-          "title": "A good laptop for a niche group of users",
-          "body": "Google is attempting to create a somewhat new category and OS for laptops called the “Googlebook”, and the Acer Googlebook 14 is among the first generation of them to come out.  This is not a Chromebook.  A Googlebook in many ways is basically like a Google Android phone in laptop form, able to do a",
-          "excerpt": "Google is attempting to create a somewhat new category and OS for laptops called the “Googlebook”, and the Acer Googlebook 14 is among the first generation of them to come out.",
-          "rating": 3,
-          "sentiment": "neutral"
         }
       ],
-      "summary_of_remaining": "9 additional review(s) also mention Acer."
+      "summary_of_remaining": "14 additional review(s) also mention Acer."
     },
     {
       "brand": "Apple/Mac",
-      "total_mentions": 4,
+      "total_mentions": 6,
       "reviews": [
+        {
+          "title": "Solid Hardware that Deserves a Better OS",
+          "body": "📦 UNBOXING:\n\nInside the box, you’ll find the Acer Googlebook 14, a padded sleeve for the laptop, a somewhat large AC adapter and cable, and some documentation.\n\n💪 BUILD:\n\nAcer is using aluminum and magnesium for its build materials, and uses a 2-in-1 tablet design with a sturdy hinge that doesn’t wo",
+          "excerpt": "However, as someone who frequently uses both Mac layout and Windows layout keyboards on laptops, I think the first 5 top row macro buttons on Googlebooks are not immediately intuitive.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
         {
           "title": "Good start, requires quality of life improvements",
           "body": "The Acer Googlebook 14 hardware, fit, finish, and the tactile experience fits nicely with similarly priced Windows 11 and Apple MacBook laptops.  The OLED touch screen is beautiful but suffers horrible glare.  See photos. The keyboard is comfortable to type on. The touchpad provides ample space to w",
@@ -45,48 +52,13 @@
           "excerpt": "I'm a Apple guy.",
           "rating": 3,
           "sentiment": "neutral"
-        },
-        {
-          "title": "A New Beginning For Google Laptops",
-          "body": "The experience will feel familiar if you have a pixel or galaxy device or are coming from Chrome os. I went from the Samsung s11 to this device, and the upgrades for getting real work done are excellent. 16 GB of ram and the latest Intel soc makes the world of differences. The os had some post launc",
-          "excerpt": "If you're on Mac OS and are unwilling to switch your entire ecosystem then I would say stay far away.",
-          "rating": 5,
-          "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": "1 additional review(s) also mention Apple/Mac."
-    },
-    {
-      "brand": "Samsung",
-      "total_mentions": 4,
-      "reviews": [
-        {
-          "title": "A good laptop for a niche group of users",
-          "body": "Google is attempting to create a somewhat new category and OS for laptops called the “Googlebook”, and the Acer Googlebook 14 is among the first generation of them to come out.  This is not a Chromebook.  A Googlebook in many ways is basically like a Google Android phone in laptop form, able to do a",
-          "excerpt": "I tried to connect a Samsung S24 to it, but kept getting errors, so I connected a Pixel 11, and still had some hiccups getting it to sync, but eventually after three attempts it worked.",
-          "rating": 3,
-          "sentiment": "neutral"
-        },
-        {
-          "title": "A New Beginning For Google Laptops",
-          "body": "The experience will feel familiar if you have a pixel or galaxy device or are coming from Chrome os. I went from the Samsung s11 to this device, and the upgrades for getting real work done are excellent. 16 GB of ram and the latest Intel soc makes the world of differences. The os had some post launc",
-          "excerpt": "I went from the Samsung s11 to this device, and the upgrades for getting real work done are excellent.",
-          "rating": 5,
-          "sentiment": "positive"
-        },
-        {
-          "title": "amazing product, but",
-          "body": "Samsung ultra user, and almost exclusively google ecosystem /web based, so this seemed like the prefect fun fit. I most wanted access files and photos on my phone and use phone apps on the computer. It does this well!  But what i found, is that the recent upgrades to Windows phone link are incredibl",
-          "excerpt": "Samsung ultra user, and almost exclusively google ecosystem /web based, so this seemed like the prefect fun fit.",
-          "rating": 4,
-          "sentiment": "positive"
-        }
-      ],
-      "summary_of_remaining": "1 additional review(s) also mention Samsung."
+      "summary_of_remaining": "3 additional review(s) also mention Apple/Mac."
     },
     {
       "brand": "Chromebook",
-      "total_mentions": 4,
+      "total_mentions": 6,
       "reviews": [
         {
           "title": "Googlebook: A New Operating System by Google",
@@ -103,14 +75,42 @@
           "sentiment": "positive"
         },
         {
-          "title": "I wanted it to work.",
-          "body": "I sadly returned this device.  I am the target audience for Googlebooks because I like premium hardware and want an easy to operate OS with minimum bloat.  \n\nTo me the price of $899 is pretty good especially in these current times we are in when it comes to hardware.  It is a really premium laptop w",
-          "excerpt": "My Lenovo Chromebook Plus 14 is very fluid next to this laptop.",
-          "rating": 2,
-          "sentiment": "negative"
+          "title": "Exceptional build quality. OS needs some work.",
+          "body": "The new Acer Googlebook 14 is one of the 5 new Googlebook laptops that Google in conjunction with 5 OEM manufacturers have just released. What sets the Acer apart from the rest of the offerings is that it is a convertible laptop and the screen can rotate so it can be used as a tablet. The laptop is ",
+          "excerpt": "I haven’t quite figured out what this OS offers over the Chrome OS that I have on a Chromebook I also own.",
+          "rating": 4,
+          "sentiment": "positive"
         }
       ],
-      "summary_of_remaining": "1 additional review(s) also mention Chromebook."
+      "summary_of_remaining": "3 additional review(s) also mention Chromebook."
+    },
+    {
+      "brand": "Samsung",
+      "total_mentions": 5,
+      "reviews": [
+        {
+          "title": "Solid Hardware that Deserves a Better OS",
+          "body": "📦 UNBOXING:\n\nInside the box, you’ll find the Acer Googlebook 14, a padded sleeve for the laptop, a somewhat large AC adapter and cable, and some documentation.\n\n💪 BUILD:\n\nAcer is using aluminum and magnesium for its build materials, and uses a 2-in-1 tablet design with a sturdy hinge that doesn’t wo",
+          "excerpt": "We’ve seen Google trial an Android-powered desktop environment with Desktop Mode on Pixel phones, which is based on Samsung DeX.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
+        {
+          "title": "A good laptop for a niche group of users",
+          "body": "Google is attempting to create a somewhat new category and OS for laptops called the “Googlebook”, and the Acer Googlebook 14 is among the first generation of them to come out.  This is not a Chromebook.  A Googlebook in many ways is basically like a Google Android phone in laptop form, able to do a",
+          "excerpt": "I tried to connect a Samsung S24 to it, but kept getting errors, so I connected a Pixel 11, and still had some hiccups getting it to sync, but eventually after three attempts it worked.",
+          "rating": 3,
+          "sentiment": "neutral"
+        },
+        {
+          "title": "A New Beginning For Google Laptops",
+          "body": "The experience will feel familiar if you have a pixel or galaxy device or are coming from Chrome os. I went from the Samsung s11 to this device, and the upgrades for getting real work done are excellent. 16 GB of ram and the latest Intel soc makes the world of differences. The os had some post launc",
+          "excerpt": "I went from the Samsung s11 to this device, and the upgrades for getting real work done are excellent.",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": "2 additional review(s) also mention Samsung."
     },
     {
       "brand": "Dell",

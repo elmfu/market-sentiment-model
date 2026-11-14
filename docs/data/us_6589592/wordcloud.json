@@ -16,7 +16,7 @@
   },
   {
     "word": "screen",
-    "count": 45,
+    "count": 46,
     "sentiment": "positive"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "word": "keyboard",
-    "count": 37,
+    "count": 38,
     "sentiment": "positive"
   },
   {
@@ -85,6 +85,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "perfect",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
     "word": "ram",
     "count": 25,
     "sentiment": "positive"
@@ -105,17 +110,17 @@
     "sentiment": "positive"
   },
   {
+    "word": "speed",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
     "word": "design",
     "count": 24,
     "sentiment": "positive"
   },
   {
     "word": "works",
-    "count": 24,
-    "sentiment": "positive"
-  },
-  {
-    "word": "perfect",
     "count": 24,
     "sentiment": "positive"
   },
@@ -136,11 +141,6 @@
   },
   {
     "word": "excellent",
-    "count": 23,
-    "sentiment": "positive"
-  },
-  {
-    "word": "speed",
     "count": 23,
     "sentiment": "positive"
   },
@@ -210,6 +210,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "recommend",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
     "word": "feels",
     "count": 19,
     "sentiment": "positive"
@@ -250,11 +255,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "recommend",
-    "count": 18,
-    "sentiment": "positive"
-  },
-  {
     "word": "touchscreen",
     "count": 18,
     "sentiment": "positive"
@@ -262,6 +262,11 @@
   {
     "word": "looking",
     "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "size",
+    "count": 17,
     "sentiment": "positive"
   },
   {
@@ -291,11 +296,6 @@
   },
   {
     "word": "side",
-    "count": 17,
-    "sentiment": "positive"
-  },
-  {
-    "word": "easily",
     "count": 17,
     "sentiment": "positive"
   }

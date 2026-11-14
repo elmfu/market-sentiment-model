@@ -13,24 +13,24 @@
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 29,
-    "positive": 26,
+    "total": 30,
+    "positive": 27,
     "neutral": 1,
     "negative": 2,
-    "positive_pct": 89.7,
-    "negative_pct": 6.9,
-    "net_score": 82.8
+    "positive_pct": 90.0,
+    "negative_pct": 6.7,
+    "net_score": 83.3
   },
   {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 27,
-    "positive": 24,
+    "total": 28,
+    "positive": 25,
     "neutral": 2,
     "negative": 1,
-    "positive_pct": 88.9,
-    "negative_pct": 3.7,
-    "net_score": 85.2
+    "positive_pct": 89.3,
+    "negative_pct": 3.6,
+    "net_score": 85.7
   },
   {
     "topic": "price_value",

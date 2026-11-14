@@ -1,5 +1,22 @@
 [
   {
+    "review_id": "9ccb858c-434f-3989-a803-9294d9a7f775",
+    "product_key": "us_6667998",
+    "market": "US",
+    "sku": "6667998",
+    "submitted_at": "2026-11-08T21:10:29.000-06:00",
+    "rating": 5,
+    "title": "HP omnibook ultra Stilish, light and it’s great",
+    "body": "Nationality is very intuitive\nEasy to use.\nScreen/quality of images superlative.",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP - OmniBook Ultra 14\" 3K OLED Touchscreen Laptop - Snapdragon X2 Elite - 32GB Memory - 1TB SSD - Copilot+ PC - Stone Blue",
+    "topics": "Display Quality, Build & Keyboard",
+    "competitors": ""
+  },
+  {
     "review_id": "91221f83-40f6-3ad5-bf1c-531b62c50eb1",
     "product_key": "us_6667998",
     "market": "US",

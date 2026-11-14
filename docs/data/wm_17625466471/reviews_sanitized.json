@@ -1,5 +1,22 @@
 [
   {
+    "review_id": "wm_1234867585",
+    "product_key": "wm_17625466471",
+    "market": "US",
+    "sku": "17625466471",
+    "submitted_at": "2026-10-24T00:00:00",
+    "rating": 4,
+    "title": "Screen",
+    "body": "Quality of screen is good",
+    "is_recommended": null,
+    "helpful_votes": 0,
+    "verified": true,
+    "lang": "en",
+    "product_name": "HP OmniBook 5 16\" 2K Laptop, Snapdragon X, 16GB RAM, 512GB SSD",
+    "topics": "Display Quality, Build & Keyboard",
+    "competitors": ""
+  },
+  {
     "review_id": "wm_1234102775",
     "product_key": "wm_17625466471",
     "market": "US",
@@ -14,6 +31,23 @@
     "lang": "en",
     "product_name": "HP OmniBook 5 16\" 2K Laptop, Snapdragon X, 16GB RAM, 512GB SSD",
     "topics": "Display Quality",
+    "competitors": ""
+  },
+  {
+    "review_id": "wm_307473343",
+    "product_key": "wm_17625466471",
+    "market": "US",
+    "sku": "17625466471",
+    "submitted_at": "2026-10-15T00:00:00",
+    "rating": 3,
+    "title": "To early to tell",
+    "body": "Laptop appears to be a solid bit of machinery\nNice picture but having been used of windows 7 then 10. Im finding the upgrade a bit of a handful.its doing all I need but its to early to give an honest review overall.Trying to connect printer via WiFi find bit of a struggle. Give me a couple of months when I should have s better perspective of the laptop",
+    "is_recommended": null,
+    "helpful_votes": 0,
+    "verified": true,
+    "lang": "en",
+    "product_name": "HP OmniBook 5 16\" 2K Laptop, Snapdragon X, 16GB RAM, 512GB SSD",
+    "topics": "Build & Keyboard, Ports & Connectivity, Software & Ecosystem, Repairability",
     "competitors": ""
   },
   {

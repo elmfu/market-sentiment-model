@@ -1,5 +1,120 @@
 [
   {
+    "word": "hardware",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "software",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "high",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "expectations",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "potential",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "fantastic",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "reviews",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "say",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "work",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "progress",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "constantly",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "rolling",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "updates",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "definitely",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "improving",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "marriage",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "phone",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "terrible",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "product",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "meet",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "therefore",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "return",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "within",
+    "count": 1,
+    "sentiment": "neutral"
+  },
+  {
     "word": "googlebook",
     "count": 1,
     "sentiment": "positive"
@@ -181,121 +296,6 @@
   },
   {
     "word": "simultaneously",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "disappointing",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "similarly",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ability",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "support",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "specialized",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "software",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "art",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "etc",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "lacking",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "recommend",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "anyone",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "intends",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "excessively",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "high",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "expectations",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "you're",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "looking",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "daily",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "general",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "certainly",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "fulfill",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "mind",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "cheaper",
     "count": 1,
     "sentiment": "positive"
   }

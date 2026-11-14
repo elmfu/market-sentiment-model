@@ -16,17 +16,17 @@
   },
   {
     "word": "excellent",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
     "count": 12,
     "sentiment": "positive"
   },
   {
     "word": "battery",
     "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "work",
-    "count": 10,
     "sentiment": "positive"
   },
   {
@@ -60,7 +60,17 @@
     "sentiment": "positive"
   },
   {
+    "word": "old",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
     "word": "open",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "want",
     "count": 6,
     "sentiment": "positive"
   },
@@ -85,6 +95,16 @@
     "sentiment": "positive"
   },
   {
+    "word": "set",
+    "count": 5,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "price",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
     "word": "design",
     "count": 5,
     "sentiment": "positive"
@@ -103,11 +123,6 @@
     "word": "quite",
     "count": 5,
     "sentiment": "neutral"
-  },
-  {
-    "word": "old",
-    "count": 5,
-    "sentiment": "positive"
   },
   {
     "word": "little",
@@ -132,11 +147,6 @@
   {
     "word": "quality",
     "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "want",
-    "count": 4,
     "sentiment": "positive"
   },
   {
@@ -190,11 +200,6 @@
     "sentiment": "neutral"
   },
   {
-    "word": "price",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
     "word": "now",
     "count": 4,
     "sentiment": "positive"
@@ -245,6 +250,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "updated",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
     "word": "multiple",
     "count": 3,
     "sentiment": "positive"
@@ -253,6 +263,11 @@
     "word": "windows",
     "count": 3,
     "sentiment": "positive"
+  },
+  {
+    "word": "microsoft",
+    "count": 3,
+    "sentiment": "negative"
   },
   {
     "word": "home",
@@ -281,21 +296,6 @@
   },
   {
     "word": "replacement",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "worked",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "liked",
-    "count": 3,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "online",
     "count": 3,
     "sentiment": "positive"
   }

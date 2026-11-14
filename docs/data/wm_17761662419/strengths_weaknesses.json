@@ -2,7 +2,7 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 26,
+      "count": 27,
       "pct_of_reviews": 33.3,
       "quotes": [
         "Laptop is very fast and the best for multi tasking.",
@@ -12,7 +12,7 @@
     },
     {
       "theme": "Display Quality",
-      "count": 25,
+      "count": 26,
       "pct_of_reviews": 32.1,
       "quotes": [
         "The screen is a brilliant OLED, so colors really pop - great for streaming.",
@@ -22,8 +22,8 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 24,
-      "pct_of_reviews": 30.8,
+      "count": 25,
+      "pct_of_reviews": 30.9,
       "quotes": [
         "Keyboard has a good feel, and 2 level backlight.",
         "I was disappointed by the keyboard not having a number pad and not having a back light.",
@@ -33,7 +33,7 @@
     {
       "theme": "Battery Life",
       "count": 21,
-      "pct_of_reviews": 26.9,
+      "pct_of_reviews": 25.9,
       "quotes": [
         "I would say this laptop has the best battery power in the industry.",
         "The only minor issue is it shows the battery as percentage and not in hours.",
@@ -43,7 +43,7 @@
     {
       "theme": "Price & Value",
       "count": 11,
-      "pct_of_reviews": 14.1,
+      "pct_of_reviews": 13.6,
       "quotes": [
         "At full price it is a little pricey but still a good buy, and if you catch it on sale, it is a steal.....",
         "Last, but not least, the battery - I've not used it a great deal without the charger being plugged in, but so far it appears to hold a good charge.",
@@ -55,7 +55,7 @@
     {
       "theme": "Display Quality",
       "count": 3,
-      "pct_of_reviews": 3.8,
+      "pct_of_reviews": 3.7,
       "quotes": [
         "i've used hp computers for 20  years and never had any problems but this one after 3-4 times using it the screen goes black when you sign in.",
         "I sent this back because i thought it was touchscreen, but it wasn't."
@@ -64,7 +64,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 3,
-      "pct_of_reviews": 3.8,
+      "pct_of_reviews": 3.7,
       "quotes": [
         "Keyboard light does not illuminate the character on the key.",
         "sleek exterior, but didn't see where the AI tech was overly evident as it's promoted.",
@@ -74,7 +74,7 @@
     {
       "theme": "Price & Value",
       "count": 3,
-      "pct_of_reviews": 3.8,
+      "pct_of_reviews": 3.7,
       "quotes": [
         "After I got it for 1200 lo and behold it was on sale for half."
       ]
@@ -82,7 +82,7 @@
     {
       "theme": "Ports & Connectivity",
       "count": 1,
-      "pct_of_reviews": 1.3,
+      "pct_of_reviews": 1.2,
       "quotes": [
         "For the right person this may be a good computer- however no HDMI, did not work with most of my other needed work hardware."
       ]
@@ -90,7 +90,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 1,
-      "pct_of_reviews": 1.3,
+      "pct_of_reviews": 1.2,
       "quotes": [
         "There is software issues and the complaint is made."
       ]

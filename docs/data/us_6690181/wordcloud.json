@@ -1,76 +1,186 @@
 [
   {
+    "word": "googlebook",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
     "word": "android",
-    "count": 7,
+    "count": 11,
     "sentiment": "positive"
   },
   {
     "word": "google",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "googlebook",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "hardware",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "device",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
-    "word": "software",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "bright",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "future",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "dell",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "work",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "apps",
-    "count": 3,
+    "count": 8,
     "sentiment": "positive"
   },
   {
     "word": "phone",
-    "count": 3,
+    "count": 7,
     "sentiment": "positive"
   },
   {
-    "word": "premium",
-    "count": 3,
+    "word": "device",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "hardware",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 6,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "dell",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "xps",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "apps",
+    "count": 5,
     "sentiment": "positive"
   },
   {
     "word": "windows",
-    "count": 3,
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "bugs",
+    "count": 4,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "app",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "users",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "premium",
+    "count": 4,
     "sentiment": "positive"
   },
   {
     "word": "user",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "future",
+    "count": 4,
+    "sentiment": "positive"
+  },
+  {
+    "word": "see",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "start",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "back",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "chrome",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "desktop",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "light",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "computing",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "support",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "chromebook",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ready",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pixel",
+    "count": 3,
+    "sentiment": "positive"
+  },
+  {
+    "word": "until",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "bright",
     "count": 3,
     "sentiment": "positive"
   },
@@ -80,223 +190,113 @@
     "sentiment": "positive"
   },
   {
-    "word": "start",
+    "word": "googlebooks",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "xps",
+    "word": "easy",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "desktop",
+    "word": "store",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "computing",
+    "word": "setup",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "together",
+    "word": "took",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "enjoy",
+    "word": "updates",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "happy",
+    "word": "fan",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "support",
+    "word": "having",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "building",
+    "word": "mouse",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "app",
+    "word": "disappointed",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "hope",
+    "word": "went",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "users",
+    "word": "wait",
     "count": 2,
-    "sentiment": "positive"
+    "sentiment": "negative"
   },
   {
-    "word": "everyday",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "see",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "best",
+    "word": "form",
     "count": 2,
     "sentiment": "neutral"
   },
   {
-    "word": "until",
+    "word": "potential",
     "count": 2,
     "sentiment": "neutral"
-  },
-  {
-    "word": "solid",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "book",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "find",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "environment",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "returning",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "recommend",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "built",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "chrome",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "update",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "bring",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "features",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "now",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "pixel",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "back",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ever",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "works",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ready",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "life",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "chromebook",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "over",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "better",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "promising",
-    "count": 1,
-    "sentiment": "positive"
   },
   {
     "word": "compact",
-    "count": 1,
+    "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "design",
-    "count": 1,
+    "word": "set",
+    "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "touchscreen",
-    "count": 1,
+    "word": "snapdragon",
+    "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "appealing",
-    "count": 1,
+    "word": "compatibility",
+    "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "especially",
-    "count": 1,
+    "word": "runs",
+    "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "excited",
-    "count": 1,
+    "word": "personal",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "integration",
+    "count": 2,
+    "sentiment": "positive"
+  },
+  {
+    "word": "haven't",
+    "count": 2,
     "sentiment": "positive"
   }
 ]

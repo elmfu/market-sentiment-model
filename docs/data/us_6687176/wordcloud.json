@@ -1,46 +1,116 @@
 [
   {
     "word": "screen",
-    "count": 19,
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "googlebook",
+    "count": 20,
     "sentiment": "positive"
   },
   {
     "word": "google",
-    "count": 15,
+    "count": 18,
     "sentiment": "neutral"
-  },
-  {
-    "word": "work",
-    "count": 13,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "googlebook",
-    "count": 13,
-    "sentiment": "positive"
-  },
-  {
-    "word": "phone",
-    "count": 13,
-    "sentiment": "negative"
   },
   {
     "word": "lenovo",
-    "count": 13,
+    "count": 18,
     "sentiment": "positive"
   },
   {
-    "word": "oled",
-    "count": 13,
+    "word": "hardware",
+    "count": 17,
     "sentiment": "positive"
   },
   {
     "word": "android",
+    "count": 16,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "apps",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "phone",
+    "count": 15,
+    "sentiment": "negative"
+  },
+  {
+    "word": "work",
+    "count": 15,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "oled",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "right",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "device",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "chromebook",
     "count": 12,
     "sentiment": "neutral"
   },
   {
-    "word": "hardware",
+    "word": "feels",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "pixel",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "experience",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "display",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "system",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "beautiful",
     "count": 11,
     "sentiment": "positive"
   },
@@ -50,52 +120,112 @@
     "sentiment": "positive"
   },
   {
-    "word": "device",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "software",
+    "word": "looking",
     "count": 10,
     "sentiment": "positive"
   },
   {
-    "word": "experience",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "apps",
+    "word": "better",
     "count": 10,
     "sentiment": "neutral"
   },
   {
-    "word": "feels",
+    "word": "recommend",
     "count": 10,
     "sentiment": "positive"
   },
   {
-    "word": "feel",
+    "word": "first",
+    "count": 10,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "yet",
     "count": 10,
     "sentiment": "positive"
   },
   {
     "word": "features",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "having",
+    "count": 10,
+    "sentiment": "positive"
+  },
+  {
+    "word": "product",
     "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "beautiful",
+    "word": "premium",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
     "count": 9,
     "sentiment": "neutral"
   },
   {
-    "word": "pixel",
+    "word": "little",
     "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "right",
+    "word": "keyboard",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "off",
+    "count": 9,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "think",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "desktop",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "actually",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fingerprint",
+    "count": 9,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "excellent",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "set",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "early",
     "count": 9,
     "sentiment": "positive"
   },
@@ -105,198 +235,68 @@
     "sentiment": "neutral"
   },
   {
-    "word": "because",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
     "word": "best",
     "count": 9,
     "sentiment": "positive"
   },
   {
-    "word": "first",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
-    "word": "chromebook",
-    "count": 9,
-    "sentiment": "negative"
-  },
-  {
-    "word": "display",
+    "word": "built",
     "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "having",
-    "count": 8,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "issues",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "works",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "overall",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "fingerprint",
-    "count": 8,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "yet",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "excellent",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "little",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "off",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "better",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "trackpad",
-    "count": 7,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "ever",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "desktop",
-    "count": 7,
     "sentiment": "positive"
   },
   {
     "word": "now",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "over",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "keyboard",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "battery",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "lightweight",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "store",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "windows",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "done",
-    "count": 7,
+    "count": 8,
     "sentiment": "neutral"
   },
   {
-    "word": "run",
-    "count": 7,
+    "word": "quality",
+    "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "speakers",
-    "count": 7,
+    "word": "chrome",
+    "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "another",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "definitely",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "early",
-    "count": 7,
+    "word": "app",
+    "count": 8,
     "sentiment": "positive"
   },
   {
     "word": "around",
-    "count": 7,
+    "count": 8,
     "sentiment": "positive"
   },
   {
-    "word": "think",
-    "count": 7,
+    "word": "version",
+    "count": 8,
     "sentiment": "positive"
   },
   {
     "word": "user",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "set",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "recommend",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "gorgeous",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "looking",
-    "count": 6,
+    "count": 8,
     "sentiment": "positive"
   },
   {
     "word": "quite",
-    "count": 6,
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "run",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "trackpad",
+    "count": 8,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "done",
+    "count": 8,
     "sentiment": "positive"
   }
 ]

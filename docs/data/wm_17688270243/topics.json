@@ -2,28 +2,39 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 44,
-    "positive": 39,
+    "total": 46,
+    "positive": 41,
     "neutral": 2,
     "negative": 3,
-    "positive_pct": 88.6,
-    "negative_pct": 6.8,
-    "net_score": 81.8
+    "positive_pct": 89.1,
+    "negative_pct": 6.5,
+    "net_score": 82.6
   },
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 36,
-    "positive": 35,
+    "total": 38,
+    "positive": 37,
     "neutral": 0,
     "negative": 1,
-    "positive_pct": 97.2,
-    "negative_pct": 2.8,
-    "net_score": 94.4
+    "positive_pct": 97.4,
+    "negative_pct": 2.6,
+    "net_score": 94.8
   },
   {
     "topic": "battery",
     "label": "Battery Life",
+    "total": 34,
+    "positive": 32,
+    "neutral": 1,
+    "negative": 1,
+    "positive_pct": 94.1,
+    "negative_pct": 2.9,
+    "net_score": 91.2
+  },
+  {
+    "topic": "display",
+    "label": "Display Quality",
     "total": 33,
     "positive": 31,
     "neutral": 1,
@@ -33,26 +44,15 @@
     "net_score": 90.9
   },
   {
-    "topic": "display",
-    "label": "Display Quality",
-    "total": 32,
-    "positive": 30,
-    "neutral": 1,
-    "negative": 1,
-    "positive_pct": 93.8,
-    "negative_pct": 3.1,
-    "net_score": 90.7
-  },
-  {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 18,
-    "positive": 13,
+    "total": 19,
+    "positive": 14,
     "neutral": 0,
     "negative": 5,
-    "positive_pct": 72.2,
-    "negative_pct": 27.8,
-    "net_score": 44.4
+    "positive_pct": 73.7,
+    "negative_pct": 26.3,
+    "net_score": 47.4
   },
   {
     "topic": "ports",
@@ -68,13 +68,13 @@
   {
     "topic": "price_value",
     "label": "Price & Value",
-    "total": 11,
-    "positive": 8,
+    "total": 12,
+    "positive": 9,
     "neutral": 2,
     "negative": 1,
-    "positive_pct": 72.7,
-    "negative_pct": 9.1,
-    "net_score": 63.6
+    "positive_pct": 75.0,
+    "negative_pct": 8.3,
+    "net_score": 66.7
   },
   {
     "topic": "thermals",

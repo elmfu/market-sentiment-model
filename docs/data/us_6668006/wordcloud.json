@@ -1,12 +1,22 @@
 [
   {
     "word": "screen",
-    "count": 27,
+    "count": 28,
     "sentiment": "positive"
   },
   {
     "word": "ultra",
-    "count": 26,
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 21,
     "sentiment": "positive"
   },
   {
@@ -15,22 +25,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "fast",
+    "word": "light",
     "count": 20,
     "sentiment": "positive"
   },
   {
-    "word": "keyboard",
-    "count": 20,
-    "sentiment": "positive"
-  },
-  {
-    "word": "work",
+    "word": "usb",
     "count": 19,
     "sentiment": "positive"
   },
   {
-    "word": "light",
+    "word": "work",
     "count": 19,
     "sentiment": "positive"
   },
@@ -40,13 +45,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "usb",
+    "word": "power",
     "count": 18,
     "sentiment": "positive"
   },
   {
-    "word": "power",
-    "count": 18,
+    "word": "performance",
+    "count": 17,
     "sentiment": "positive"
   },
   {
@@ -65,11 +70,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "performance",
-    "count": 16,
-    "sentiment": "positive"
-  },
-  {
     "word": "look",
     "count": 16,
     "sentiment": "positive"
@@ -77,6 +77,11 @@
   {
     "word": "built",
     "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 15,
     "sentiment": "positive"
   },
   {
@@ -100,7 +105,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "best",
+    "word": "portable",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ram",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "excellent",
     "count": 14,
     "sentiment": "positive"
   },
@@ -130,17 +145,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "excellent",
-    "count": 13,
-    "sentiment": "positive"
-  },
-  {
-    "word": "portable",
-    "count": 13,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ram",
+    "word": "beautiful",
     "count": 13,
     "sentiment": "positive"
   },
@@ -152,6 +157,21 @@
   {
     "word": "compact",
     "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "sleek",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 12,
     "sentiment": "positive"
   },
   {
@@ -175,11 +195,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "beautiful",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
     "word": "display",
     "count": 12,
     "sentiment": "positive"
@@ -187,6 +202,21 @@
   {
     "word": "core",
     "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 11,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 11,
     "sentiment": "positive"
   },
   {
@@ -225,16 +255,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "sleek",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "lightweight",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
     "word": "memory",
     "count": 11,
     "sentiment": "positive"
@@ -246,11 +266,6 @@
   },
   {
     "word": "quick",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "price",
     "count": 11,
     "sentiment": "positive"
   },
@@ -282,21 +297,6 @@
   {
     "word": "perfect",
     "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "thunderbolt",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "smooth",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "first",
-    "count": 10,
     "sentiment": "positive"
   }
 ]

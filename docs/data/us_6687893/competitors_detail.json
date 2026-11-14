@@ -2,7 +2,7 @@
   "competitors": [
     {
       "brand": "Apple/Mac",
-      "total_mentions": 10,
+      "total_mentions": 11,
       "reviews": [
         {
           "title": "A Sleek Laptop Built for the Google Ecosystem",
@@ -26,11 +26,11 @@
           "sentiment": "neutral"
         }
       ],
-      "summary_of_remaining": "7 additional review(s) also mention Apple/Mac."
+      "summary_of_remaining": "8 additional review(s) also mention Apple/Mac."
     },
     {
       "brand": "Chromebook",
-      "total_mentions": 8,
+      "total_mentions": 9,
       "reviews": [
         {
           "title": "Fast, Snappy with Excellent Battery Life",
@@ -54,7 +54,21 @@
           "sentiment": "neutral"
         }
       ],
-      "summary_of_remaining": "5 additional review(s) also mention Chromebook."
+      "summary_of_remaining": "6 additional review(s) also mention Chromebook."
+    },
+    {
+      "brand": "Dell",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Great!",
+          "body": "Nice one, want to buy a Dell XPS one but all out of stock, so just pick a HP one",
+          "excerpt": "Nice one, want to buy a Dell XPS one but all out of stock, so just pick a HP one",
+          "rating": 5,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
     },
     {
       "brand": "Lenovo",
@@ -65,6 +79,20 @@
           "body": "This is undeniably a gorgeous laptop. The color is beautiful, and the OLED screen is sharp, vibrant, and stunning. Performance-wise, the Snapdragon processor makes it blazingly fast and noticeably snappy in everyday use.\n\n​Ultimately, I returned it and kept the Lenovo Googlebook instead. Even though",
           "excerpt": "​Ultimately, I returned it and kept the Lenovo Googlebook instead.",
           "rating": 4,
+          "sentiment": "positive"
+        }
+      ],
+      "summary_of_remaining": ""
+    },
+    {
+      "brand": "Microsoft",
+      "total_mentions": 1,
+      "reviews": [
+        {
+          "title": "Spectacular Screen!!!",
+          "body": "I read countless reviews before I purchased my HP Googlebook. And the reviews that I read were not just about the HP Googlebook, but all five brands that manufactured Googlebooks. One thing that I felt was noteworthy was that the reviews about The HP Googlebook were unanimous in praising it's \"stell",
+          "excerpt": "I have owned Windows OS laptops, and also a Surface 2 Tablet.",
+          "rating": 5,
           "sentiment": "positive"
         }
       ],

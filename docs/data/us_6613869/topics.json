@@ -2,8 +2,8 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 424,
-    "positive": 401,
+    "total": 428,
+    "positive": 405,
     "neutral": 11,
     "negative": 12,
     "positive_pct": 94.6,
@@ -13,8 +13,8 @@
   {
     "topic": "price_value",
     "label": "Price & Value",
-    "total": 384,
-    "positive": 362,
+    "total": 385,
+    "positive": 363,
     "neutral": 8,
     "negative": 14,
     "positive_pct": 94.3,
@@ -24,8 +24,8 @@
   {
     "topic": "display",
     "label": "Display Quality",
-    "total": 381,
-    "positive": 352,
+    "total": 382,
+    "positive": 353,
     "neutral": 15,
     "negative": 14,
     "positive_pct": 92.4,
@@ -35,24 +35,24 @@
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 338,
-    "positive": 309,
+    "total": 339,
+    "positive": 310,
     "neutral": 17,
     "negative": 12,
     "positive_pct": 91.4,
-    "negative_pct": 3.6,
-    "net_score": 87.8
+    "negative_pct": 3.5,
+    "net_score": 87.9
   },
   {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 151,
-    "positive": 136,
+    "total": 152,
+    "positive": 137,
     "neutral": 6,
     "negative": 9,
     "positive_pct": 90.1,
-    "negative_pct": 6.0,
-    "net_score": 84.1
+    "negative_pct": 5.9,
+    "net_score": 84.2
   },
   {
     "topic": "software_ecosystem",
@@ -79,13 +79,13 @@
   {
     "topic": "thermals",
     "label": "Thermals & Cooling",
-    "total": 36,
-    "positive": 27,
+    "total": 37,
+    "positive": 28,
     "neutral": 4,
     "negative": 5,
-    "positive_pct": 75.0,
-    "negative_pct": 13.9,
-    "net_score": 61.1
+    "positive_pct": 75.7,
+    "negative_pct": 13.5,
+    "net_score": 62.2
   },
   {
     "topic": "ports",

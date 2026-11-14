@@ -2,13 +2,13 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 24,
-    "positive": 18,
+    "total": 27,
+    "positive": 21,
     "neutral": 4,
     "negative": 2,
-    "positive_pct": 75.0,
-    "negative_pct": 8.3,
-    "net_score": 66.7
+    "positive_pct": 77.8,
+    "negative_pct": 7.4,
+    "net_score": 70.4
   },
   {
     "topic": "build_quality",
@@ -44,26 +44,26 @@
     "net_score": 68.7
   },
   {
+    "topic": "price_value",
+    "label": "Price & Value",
+    "total": 12,
+    "positive": 9,
+    "neutral": 1,
+    "negative": 2,
+    "positive_pct": 75.0,
+    "negative_pct": 16.7,
+    "net_score": 58.3
+  },
+  {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 9,
-    "positive": 9,
+    "total": 10,
+    "positive": 10,
     "neutral": 0,
     "negative": 0,
     "positive_pct": 100.0,
     "negative_pct": 0.0,
     "net_score": 100.0
-  },
-  {
-    "topic": "price_value",
-    "label": "Price & Value",
-    "total": 7,
-    "positive": 5,
-    "neutral": 0,
-    "negative": 2,
-    "positive_pct": 71.4,
-    "negative_pct": 28.6,
-    "net_score": 42.8
   },
   {
     "topic": "ports",

@@ -6,7 +6,7 @@
   },
   {
     "word": "fast",
-    "count": 67,
+    "count": 68,
     "sentiment": "positive"
   },
   {
@@ -15,27 +15,27 @@
     "sentiment": "positive"
   },
   {
+    "word": "screen",
+    "count": 54,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 53,
+    "sentiment": "positive"
+  },
+  {
     "word": "best",
     "count": 53,
     "sentiment": "positive"
   },
   {
-    "word": "screen",
-    "count": 53,
-    "sentiment": "positive"
-  },
-  {
-    "word": "work",
-    "count": 52,
+    "word": "easy",
+    "count": 46,
     "sentiment": "positive"
   },
   {
     "word": "copilot",
-    "count": 45,
-    "sentiment": "positive"
-  },
-  {
-    "word": "easy",
     "count": 45,
     "sentiment": "positive"
   },
@@ -45,13 +45,18 @@
     "sentiment": "positive"
   },
   {
+    "word": "perfect",
+    "count": 41,
+    "sentiment": "positive"
+  },
+  {
     "word": "performance",
     "count": 41,
     "sentiment": "positive"
   },
   {
-    "word": "perfect",
-    "count": 40,
+    "word": "keyboard",
+    "count": 39,
     "sentiment": "positive"
   },
   {
@@ -61,11 +66,6 @@
   },
   {
     "word": "quality",
-    "count": 38,
-    "sentiment": "positive"
-  },
-  {
-    "word": "keyboard",
     "count": 38,
     "sentiment": "positive"
   },
@@ -90,22 +90,22 @@
     "sentiment": "positive"
   },
   {
+    "word": "price",
+    "count": 32,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touch",
+    "count": 31,
+    "sentiment": "positive"
+  },
+  {
     "word": "overall",
     "count": 31,
     "sentiment": "positive"
   },
   {
-    "word": "price",
-    "count": 31,
-    "sentiment": "positive"
-  },
-  {
     "word": "elite",
-    "count": 30,
-    "sentiment": "positive"
-  },
-  {
-    "word": "touch",
     "count": 30,
     "sentiment": "positive"
   },
@@ -125,6 +125,16 @@
     "sentiment": "positive"
   },
   {
+    "word": "arm",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
+    "word": "long",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
     "word": "while",
     "count": 25,
     "sentiment": "positive"
@@ -135,12 +145,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "long",
-    "count": 24,
-    "sentiment": "positive"
-  },
-  {
-    "word": "arm",
+    "word": "better",
     "count": 24,
     "sentiment": "positive"
   },
@@ -170,11 +175,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "better",
-    "count": 23,
-    "sentiment": "positive"
-  },
-  {
     "word": "display",
     "count": 23,
     "sentiment": "positive"
@@ -182,6 +182,11 @@
   {
     "word": "without",
     "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "software",
+    "count": 22,
     "sentiment": "positive"
   },
   {
@@ -220,8 +225,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "software",
-    "count": 21,
+    "word": "issues",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 20,
     "sentiment": "positive"
   },
   {
@@ -255,6 +265,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "school",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
     "word": "ever",
     "count": 19,
     "sentiment": "positive"
@@ -270,16 +285,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "issues",
-    "count": 19,
-    "sentiment": "positive"
-  },
-  {
-    "word": "because",
-    "count": 19,
-    "sentiment": "positive"
-  },
-  {
     "word": "right",
     "count": 19,
     "sentiment": "positive"
@@ -291,11 +296,6 @@
   },
   {
     "word": "device",
-    "count": 18,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ssd",
     "count": 18,
     "sentiment": "positive"
   }

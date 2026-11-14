@@ -1,17 +1,27 @@
 [
   {
     "word": "battery",
-    "count": 54,
+    "count": 58,
     "sentiment": "positive"
   },
   {
     "word": "life",
-    "count": 45,
+    "count": 48,
     "sentiment": "positive"
   },
   {
     "word": "screen",
-    "count": 37,
+    "count": 40,
+    "sentiment": "positive"
+  },
+  {
+    "word": "work",
+    "count": 31,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 30,
     "sentiment": "positive"
   },
   {
@@ -20,28 +30,23 @@
     "sentiment": "positive"
   },
   {
-    "word": "fast",
+    "word": "snapdragon",
     "count": 29,
     "sentiment": "positive"
   },
   {
-    "word": "work",
-    "count": 28,
-    "sentiment": "positive"
-  },
-  {
-    "word": "snapdragon",
-    "count": 28,
+    "word": "easy",
+    "count": 29,
     "sentiment": "positive"
   },
   {
     "word": "light",
-    "count": 27,
+    "count": 28,
     "sentiment": "positive"
   },
   {
-    "word": "easy",
-    "count": 27,
+    "word": "keyboard",
+    "count": 26,
     "sentiment": "positive"
   },
   {
@@ -50,8 +55,18 @@
     "sentiment": "positive"
   },
   {
-    "word": "keyboard",
-    "count": 25,
+    "word": "plus",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "performance",
+    "count": 23,
     "sentiment": "positive"
   },
   {
@@ -60,7 +75,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "performance",
+    "word": "overall",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
     "count": 22,
     "sentiment": "positive"
   },
@@ -75,17 +95,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "plus",
-    "count": 22,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quality",
+    "word": "best",
     "count": 21,
     "sentiment": "positive"
   },
   {
-    "word": "price",
+    "word": "touchscreen",
     "count": 21,
     "sentiment": "positive"
   },
@@ -95,27 +110,47 @@
     "sentiment": "positive"
   },
   {
-    "word": "touchscreen",
-    "count": 20,
-    "sentiment": "positive"
-  },
-  {
-    "word": "overall",
-    "count": 20,
-    "sentiment": "positive"
-  },
-  {
     "word": "excellent",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
     "count": 19,
     "sentiment": "positive"
   },
   {
-    "word": "best",
+    "word": "feels",
+    "count": 19,
+    "sentiment": "positive"
+  },
+  {
+    "word": "laptops",
     "count": 18,
     "sentiment": "positive"
   },
   {
-    "word": "feels",
+    "word": "recommend",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "lightweight",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "carry",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
     "count": 17,
     "sentiment": "positive"
   },
@@ -125,22 +160,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "ports",
-    "count": 17,
-    "sentiment": "positive"
-  },
-  {
-    "word": "laptops",
-    "count": 17,
-    "sentiment": "positive"
-  },
-  {
-    "word": "carry",
-    "count": 16,
-    "sentiment": "positive"
-  },
-  {
-    "word": "recommend",
+    "word": "processor",
     "count": 16,
     "sentiment": "positive"
   },
@@ -150,18 +170,23 @@
     "sentiment": "positive"
   },
   {
-    "word": "features",
-    "count": 16,
-    "sentiment": "positive"
-  },
-  {
     "word": "web",
     "count": 16,
     "sentiment": "positive"
   },
   {
-    "word": "windows",
-    "count": 16,
+    "word": "touch",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "small",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ram",
+    "count": 15,
     "sentiment": "positive"
   },
   {
@@ -185,16 +210,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "lightweight",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "processor",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
     "word": "browsing",
     "count": 15,
     "sentiment": "positive"
@@ -202,6 +217,11 @@
   {
     "word": "port",
     "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "memory",
+    "count": 14,
     "sentiment": "positive"
   },
   {
@@ -220,13 +240,28 @@
     "sentiment": "positive"
   },
   {
-    "word": "ram",
+    "word": "apps",
     "count": 14,
     "sentiment": "positive"
   },
   {
-    "word": "apps",
-    "count": 14,
+    "word": "amazing",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "built",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "everyday",
+    "count": 13,
     "sentiment": "positive"
   },
   {
@@ -245,22 +280,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "touch",
-    "count": 13,
-    "sentiment": "positive"
-  },
-  {
     "word": "display",
-    "count": 13,
-    "sentiment": "positive"
-  },
-  {
-    "word": "memory",
-    "count": 13,
-    "sentiment": "positive"
-  },
-  {
-    "word": "small",
     "count": 13,
     "sentiment": "positive"
   },
@@ -270,32 +290,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "high",
+    "word": "portable",
     "count": 12,
     "sentiment": "positive"
   },
   {
-    "word": "college",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "everyday",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "because",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "run",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "looks",
+    "word": "having",
     "count": 12,
     "sentiment": "positive"
   }

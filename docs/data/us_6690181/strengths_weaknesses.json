@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Software & Ecosystem",
-      "count": 6,
-      "pct_of_reviews": 66.7,
+      "count": 11,
+      "pct_of_reviews": 57.9,
       "quotes": [
         "The idea of bringing Google’s software, AI, and connected ecosystem together in a thoughtfully designed laptop has a lot of potential.",
         "I used Windows for 20 years and then moved to ChromeOS a few years back.",
@@ -11,33 +11,39 @@
       ]
     },
     {
-      "theme": "Battery Life",
-      "count": 2,
-      "pct_of_reviews": 22.2,
-      "quotes": [
-        "The battery lasts all day and wakes from sleep instantly."
-      ]
-    },
-    {
       "theme": "Display Quality",
-      "count": 2,
-      "pct_of_reviews": 22.2,
-      "quotes": []
+      "count": 4,
+      "pct_of_reviews": 21.1,
+      "quotes": [
+        "I wish it had the oled screen and haptic track pad, but it's still very premium!"
+      ]
     },
     {
       "theme": "Performance & Chip",
-      "count": 1,
-      "pct_of_reviews": 11.1,
+      "count": 3,
+      "pct_of_reviews": 15.8,
       "quotes": [
-        "Even under load it rarely gets hot and thanks to the snapdragon processor all the android apps I installed worked just as intended."
+        "Even under load it rarely gets hot and thanks to the snapdragon processor all the android apps I installed worked just as intended.",
+        "It also has a Snapdragon X Elite chip, which is a nice bonus for native Android app compatibility.",
+        "Software is clunky but laptop is very light and has good performance."
       ]
     },
     {
-      "theme": "Thermals & Cooling",
-      "count": 1,
-      "pct_of_reviews": 11.1,
+      "theme": "Battery Life",
+      "count": 3,
+      "pct_of_reviews": 15.8,
       "quotes": [
-        "Even under load it rarely gets hot and thanks to the snapdragon processor all the android apps I installed worked just as intended."
+        "The battery lasts all day and wakes from sleep instantly.",
+        "So far the only thing i am disappointed in is the charge does not hold."
+      ]
+    },
+    {
+      "theme": "Build & Keyboard",
+      "count": 3,
+      "pct_of_reviews": 15.8,
+      "quotes": [
+        "The Android version of all these apps is also available, albiet weird with keyboard and mice.",
+        "To start it is lightweight and very easy to store."
       ]
     }
   ],

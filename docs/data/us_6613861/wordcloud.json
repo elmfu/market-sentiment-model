@@ -6,12 +6,12 @@
   },
   {
     "word": "easy",
-    "count": 82,
+    "count": 84,
     "sentiment": "positive"
   },
   {
     "word": "fast",
-    "count": 81,
+    "count": 82,
     "sentiment": "positive"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "word": "work",
-    "count": 76,
+    "count": 77,
     "sentiment": "positive"
   },
   {
@@ -40,17 +40,17 @@
     "sentiment": "positive"
   },
   {
+    "word": "price",
+    "count": 58,
+    "sentiment": "positive"
+  },
+  {
     "word": "light",
     "count": 57,
     "sentiment": "positive"
   },
   {
     "word": "flip",
-    "count": 57,
-    "sentiment": "positive"
-  },
-  {
-    "word": "price",
     "count": 57,
     "sentiment": "positive"
   },
@@ -101,7 +101,7 @@
   },
   {
     "word": "product",
-    "count": 44,
+    "count": 45,
     "sentiment": "positive"
   },
   {
@@ -126,7 +126,7 @@
   },
   {
     "word": "size",
-    "count": 33,
+    "count": 34,
     "sentiment": "positive"
   },
   {
@@ -190,6 +190,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "around",
+    "count": 25,
+    "sentiment": "positive"
+  },
+  {
     "word": "enough",
     "count": 25,
     "sentiment": "positive"
@@ -216,11 +221,6 @@
   },
   {
     "word": "issues",
-    "count": 24,
-    "sentiment": "positive"
-  },
-  {
-    "word": "around",
     "count": 24,
     "sentiment": "positive"
   },

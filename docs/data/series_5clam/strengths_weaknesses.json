@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 332,
-   "pct_of_reviews": 28.9,
+   "count": 349,
+   "pct_of_reviews": 28.8,
    "quotes": [
     "Laptop is very fast and the best for multi tasking.",
     "Laptop is very fast and the best for multi tasking.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 327,
-   "pct_of_reviews": 28.5,
+   "count": 339,
+   "pct_of_reviews": 27.9,
    "quotes": [
     "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
     "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 272,
-   "pct_of_reviews": 23.7,
+   "count": 280,
+   "pct_of_reviews": 23.1,
    "quotes": [
     "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
     "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Battery Life",
-   "count": 192,
-   "pct_of_reviews": 16.7,
+   "count": 196,
+   "pct_of_reviews": 16.2,
    "quotes": [
     "I would say this laptop has the best battery power in the industry.",
     "I would say this laptop has the best battery power in the industry.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Price & Value",
-   "count": 182,
-   "pct_of_reviews": 15.9,
+   "count": 196,
+   "pct_of_reviews": 16.2,
    "quotes": [
     "$20 upgrade for blue case was so worth it.",
     "$20 upgrade for blue case was so worth it.",
@@ -54,7 +54,7 @@
  "weaknesses": [
   {
    "theme": "Software & Ecosystem",
-   "count": 29,
+   "count": 30,
    "pct_of_reviews": 2.5,
    "quotes": [
     "very slow when opening apps and navigating around.",
@@ -65,7 +65,7 @@
   {
    "theme": "Price & Value",
    "count": 27,
-   "pct_of_reviews": 2.4,
+   "pct_of_reviews": 2.2,
    "quotes": [
     "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop.",
     "The laptop feels cheap, the after closing it and opening it for a month the screen edges leave a dirt print on the bottom part of the laptop.",
@@ -75,7 +75,7 @@
   {
    "theme": "Display Quality",
    "count": 26,
-   "pct_of_reviews": 2.3,
+   "pct_of_reviews": 2.1,
    "quotes": [
     "Product review -\nHas a touch screen - I didn't know that.",
     "Product review -\nHas a touch screen - I didn't know that.",
@@ -85,7 +85,7 @@
   {
    "theme": "Performance & Chip",
    "count": 25,
-   "pct_of_reviews": 2.2,
+   "pct_of_reviews": 2.1,
    "quotes": [
     "very slow when opening apps and navigating around.",
     "very slow when opening apps and navigating around.",
@@ -95,7 +95,7 @@
   {
    "theme": "Build & Keyboard",
    "count": 19,
-   "pct_of_reviews": 1.7,
+   "pct_of_reviews": 1.6,
    "quotes": [
     "Display quality and speakers are below expectations, and the performance issues severely impact productivity.",
     "power light on but screen black & no light on keyboard",

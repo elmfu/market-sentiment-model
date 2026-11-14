@@ -1,5 +1,39 @@
 [
   {
+    "review_id": "wm_307701246",
+    "product_key": "wm_17688270243",
+    "market": "US",
+    "sku": "17688270243",
+    "submitted_at": "2026-10-23T00:00:00",
+    "rating": 5,
+    "title": "Brilliant and Exactly what I needed",
+    "body": "I tried downsizing my laptop and selecting something focused on my core use cases. This laptop has performed brilliantly.\n\nThe battery life has met exactly what I needed and the computer build is lightweight but rapid in speed.\n\nI will have to wait a year or two to see how the degradation from usage unfolds. Yet for the moment this is surpassing what I had hoped.\n\nI have even begun to utilize the AI features alongside my working with considerable success. In a benefits analysis against my need from a laptop, this has met the mark.",
+    "is_recommended": null,
+    "helpful_votes": 0,
+    "verified": true,
+    "lang": "en",
+    "product_name": "HP OmniBook 5 14\" 2K Laptop, Snapdragon X, 16GB RAM, 512GB SSD",
+    "topics": "Performance & Chip, Battery Life, Build & Keyboard, Software & Ecosystem",
+    "competitors": ""
+  },
+  {
+    "review_id": "wm_307566053",
+    "product_key": "wm_17688270243",
+    "market": "US",
+    "sku": "17688270243",
+    "submitted_at": "2026-10-19T00:00:00",
+    "rating": 5,
+    "title": "Perfect as a work computer",
+    "body": "Excellent for reading, writing, using the Web.  I'm not using this computer for gaming or any memory-intensive work, so for my uses this was an unbelievable deal: lightweight, with excellent graphics, speed and memory.",
+    "is_recommended": null,
+    "helpful_votes": 0,
+    "verified": true,
+    "lang": "en",
+    "product_name": "HP OmniBook 5 14\" 2K Laptop, Snapdragon X, 16GB RAM, 512GB SSD",
+    "topics": "Performance & Chip, Build & Keyboard, Price & Value",
+    "competitors": ""
+  },
+  {
     "review_id": "wm_413654303",
     "product_key": "wm_17688270243",
     "market": "US",
@@ -14,6 +48,23 @@
     "lang": "en",
     "product_name": "HP OmniBook 5 14\" 2K Laptop, Snapdragon X, 16GB RAM, 512GB SSD",
     "topics": "Performance & Chip, Display Quality, Thermals & Cooling, Build & Keyboard, Software & Ecosystem",
+    "competitors": ""
+  },
+  {
+    "review_id": "wm_307361263",
+    "product_key": "wm_17688270243",
+    "market": "US",
+    "sku": "17688270243",
+    "submitted_at": "2026-10-12T00:00:00",
+    "rating": 5,
+    "title": "Best Computer",
+    "body": "I love the modern day features, the screen and capabilities my laptop has. I have been proud of it ever since it came into my lucky hands.",
+    "is_recommended": null,
+    "helpful_votes": 0,
+    "verified": true,
+    "lang": "en",
+    "product_name": "HP OmniBook 5 14\" 2K Laptop, Snapdragon X, 16GB RAM, 512GB SSD",
+    "topics": "Display Quality",
     "competitors": ""
   },
   {

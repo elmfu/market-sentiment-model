@@ -3,15 +3,15 @@
     {
       "theme": "Display Quality",
       "count": 4,
-      "pct_of_reviews": 21.1,
+      "pct_of_reviews": 17.4,
       "quotes": [
         "Screen is super crisp ,Chasis is firm to give confidence in carrying around ."
       ]
     },
     {
       "theme": "Price & Value",
-      "count": 3,
-      "pct_of_reviews": 15.8,
+      "count": 4,
+      "pct_of_reviews": 17.4,
       "quotes": [
         "If your considering a 2 in 1 format, for $1999 (on sale), its an incredible value.",
         "Got this on sale about a week ago and is exceeding expectations."
@@ -20,7 +20,7 @@
     {
       "theme": "Performance & Chip",
       "count": 2,
-      "pct_of_reviews": 10.5,
+      "pct_of_reviews": 8.7,
       "quotes": [
         "I've wanted to do this for a decade but found it slow and frustrating on both pc and android phone.",
         "Build quality is really good and has very good specs with a powerful processor."
@@ -29,7 +29,7 @@
     {
       "theme": "Battery Life",
       "count": 2,
-      "pct_of_reviews": 10.5,
+      "pct_of_reviews": 8.7,
       "quotes": [
         "- Yes, make more laptop base models customizeable, like back in 2019, with my last laptop."
       ]
@@ -37,7 +37,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 2,
-      "pct_of_reviews": 10.5,
+      "pct_of_reviews": 8.7,
       "quotes": [
         "The build quality is far better than i expected including the hinge design.",
         "Build quality is really good and has very good specs with a powerful processor."
@@ -48,14 +48,22 @@
     {
       "theme": "Display Quality",
       "count": 2,
-      "pct_of_reviews": 10.5,
+      "pct_of_reviews": 8.7,
       "quotes": []
     },
     {
       "theme": "Price & Value",
       "count": 2,
-      "pct_of_reviews": 10.5,
+      "pct_of_reviews": 8.7,
       "quotes": []
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 1,
+      "pct_of_reviews": 4.3,
+      "quotes": [
+        "It is happening in \"AI powered\" computers which are not compatible with some windows updates."
+      ]
     },
     {
       "theme": "Performance & Chip",
@@ -65,12 +73,6 @@
     },
     {
       "theme": "Battery Life",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Thermals & Cooling",
       "count": 0,
       "pct_of_reviews": 0.0,
       "quotes": []

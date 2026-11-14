@@ -2,9 +2,9 @@
   "product": "HP OmniBook X Flip 2-in-1 16\" 2K Touch, Eclipse Gray",
   "source": "bestbuy.com",
   "market": "US",
-  "total": 652,
-  "with_text": 652,
-  "date_range": "2025-05-30 to 2026-10-21",
+  "total": 653,
+  "with_text": 653,
+  "date_range": "2025-05-30 to 2026-11-10",
   "avg_rating": 4.72,
   "satisfaction_score": 94.2,
   "star_distribution": {
@@ -12,10 +12,10 @@
     "2": 7,
     "3": 21,
     "4": 78,
-    "5": 536
+    "5": 537
   },
   "sentiment": {
-    "positive": 614,
+    "positive": 615,
     "neutral": 21,
     "negative": 17,
     "positive_pct": 94.2,

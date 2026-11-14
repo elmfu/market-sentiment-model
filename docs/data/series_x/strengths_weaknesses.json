@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 336,
-   "pct_of_reviews": 31.1,
+   "count": 343,
+   "pct_of_reviews": 30.9,
    "quotes": [
     "The HP  OmniBook X with Snapdragon X Plus processor is the perfect laptop for travelers.",
     "PROs:\nPerformance - Exceptional in terms of speed and transitions from one webpage and/or software to the next.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 257,
-   "pct_of_reviews": 23.8,
+   "count": 263,
+   "pct_of_reviews": 23.7,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
     "Visuals/Display - Great picture, nice color and pixel quality.",
@@ -22,7 +22,7 @@
   },
   {
    "theme": "Display Quality",
-   "count": 235,
+   "count": 241,
    "pct_of_reviews": 21.7,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
@@ -32,7 +32,7 @@
   },
   {
    "theme": "Battery Life",
-   "count": 196,
+   "count": 201,
    "pct_of_reviews": 18.1,
    "quotes": [
     "Best of all, the Snapdragon processor provides the best battery life of any laptop I have ever used.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Software & Ecosystem",
-   "count": 170,
-   "pct_of_reviews": 15.7,
+   "count": 171,
+   "pct_of_reviews": 15.4,
    "quotes": [
     "Everyday tasks such as watching videos, web browsing, and using software applications are an absolute pleasure with this laptop.",
     "PROs:\nPerformance - Exceptional in terms of speed and transitions from one webpage and/or software to the next.",
@@ -55,7 +55,7 @@
   {
    "theme": "Price & Value",
    "count": 18,
-   "pct_of_reviews": 1.7,
+   "pct_of_reviews": 1.6,
    "quotes": [
     "Finally, the price, it's been going on sale a lot!",
     "that's 1000$ on sale normally priced 1400 $.",
@@ -64,7 +64,7 @@
   },
   {
    "theme": "Display Quality",
-   "count": 15,
+   "count": 16,
    "pct_of_reviews": 1.4,
    "quotes": [
     "Sadly, I had to just return it and go with the Galaxy Book 4 Edge, which has a better screen, a worse keyboard, worse storage, but a thinner build.",
@@ -83,23 +83,23 @@
    ]
   },
   {
-   "theme": "Repairability",
-   "count": 13,
-   "pct_of_reviews": 1.2,
-   "quotes": [
-    "Hopefully they address these things with updates, or hopefully they fix any defects.",
-    "I can't tell you yet what we think of the new 1000$ computer with the 400$ Geek Squad extend warranty ?",
-    "I've talked to HP but they want to fight me on this and are reluctant to fix the touchpad."
-   ]
-  },
-  {
    "theme": "Software & Ecosystem",
-   "count": 12,
-   "pct_of_reviews": 1.1,
+   "count": 15,
+   "pct_of_reviews": 1.4,
    "quotes": [
     "It worked great until the snapdragon wasn’t compatible with half the software I use",
     "I am a HUGE FAN of Snapdragon ARM Windows laptops.",
     "Downloaded an Intel Driver dection & downloaded 4 updated drivers."
+   ]
+  },
+  {
+   "theme": "Repairability",
+   "count": 14,
+   "pct_of_reviews": 1.3,
+   "quotes": [
+    "Hopefully they address these things with updates, or hopefully they fix any defects.",
+    "I can't tell you yet what we think of the new 1000$ computer with the 400$ Geek Squad extend warranty ?",
+    "I've talked to HP but they want to fight me on this and are reluctant to fix the touchpad."
    ]
   }
  ]

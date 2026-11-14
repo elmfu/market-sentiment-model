@@ -1,5 +1,22 @@
 [
   {
+    "review_id": "290255f5-7b5a-3eac-9141-f8aa1d425b40",
+    "product_key": "us_6593546",
+    "market": "US",
+    "sku": "6593546",
+    "submitted_at": "2026-11-12T18:01:07.000-06:00",
+    "rating": 5,
+    "title": "Great",
+    "body": "This laptop is amazing! I use it everyday for school and personal use. The battery has a long life and the quality is very good overall. I would highly recommend this to anyone.",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP OmniBook X Copilot+ PC 14\" 2.2K Touch, Glacier Silver",
+    "topics": "Battery Life, Build & Keyboard",
+    "competitors": ""
+  },
+  {
     "review_id": "e620b898-b31a-3fd4-97c3-40923ee45b9c",
     "product_key": "us_6593546",
     "market": "US",

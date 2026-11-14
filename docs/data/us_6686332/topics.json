@@ -1,5 +1,16 @@
 [
   {
+    "topic": "software_ecosystem",
+    "label": "Software & Ecosystem",
+    "total": 3,
+    "positive": 1,
+    "neutral": 2,
+    "negative": 0,
+    "positive_pct": 33.3,
+    "negative_pct": 0.0,
+    "net_score": 33.3
+  },
+  {
     "topic": "build_quality",
     "label": "Build & Keyboard",
     "total": 1,
@@ -13,17 +24,6 @@
   {
     "topic": "price_value",
     "label": "Price & Value",
-    "total": 1,
-    "positive": 1,
-    "neutral": 0,
-    "negative": 0,
-    "positive_pct": 100.0,
-    "negative_pct": 0.0,
-    "net_score": 100.0
-  },
-  {
-    "topic": "software_ecosystem",
-    "label": "Software & Ecosystem",
     "total": 1,
     "positive": 1,
     "neutral": 0,

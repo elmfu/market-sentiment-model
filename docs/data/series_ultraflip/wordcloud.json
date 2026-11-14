@@ -1,12 +1,12 @@
 [
  {
   "word": "screen",
-  "count": 131,
+  "count": 133,
   "sentiment": "positive"
  },
  {
   "word": "battery",
-  "count": 107,
+  "count": 109,
   "sentiment": "positive"
  },
  {
@@ -21,7 +21,7 @@
  },
  {
   "word": "life",
-  "count": 86,
+  "count": 88,
   "sentiment": "positive"
  },
  {
@@ -31,12 +31,12 @@
  },
  {
   "word": "oled",
-  "count": 77,
+  "count": 78,
   "sentiment": "positive"
  },
  {
   "word": "ultra",
-  "count": 73,
+  "count": 74,
   "sentiment": "positive"
  },
  {
@@ -61,17 +61,17 @@
  },
  {
   "word": "work",
-  "count": 63,
+  "count": 64,
   "sentiment": "positive"
  },
  {
   "word": "easy",
-  "count": 62,
+  "count": 63,
   "sentiment": "positive"
  },
  {
   "word": "display",
-  "count": 61,
+  "count": 62,
   "sentiment": "positive"
  },
  {
@@ -86,7 +86,7 @@
  },
  {
   "word": "amazing",
-  "count": 55,
+  "count": 56,
   "sentiment": "positive"
  },
  {
@@ -100,13 +100,13 @@
   "sentiment": "positive"
  },
  {
-  "word": "lightweight",
+  "word": "intel",
   "count": 48,
   "sentiment": "positive"
  },
  {
-  "word": "intel",
-  "count": 47,
+  "word": "lightweight",
+  "count": 48,
   "sentiment": "positive"
  },
  {
@@ -165,6 +165,11 @@
   "sentiment": "positive"
  },
  {
+  "word": "open",
+  "count": 37,
+  "sentiment": "positive"
+ },
+ {
   "word": "looking",
   "count": 36,
   "sentiment": "positive"
@@ -180,12 +185,17 @@
   "sentiment": "positive"
  },
  {
-  "word": "open",
-  "count": 36,
+  "word": "looks",
+  "count": 35,
   "sentiment": "positive"
  },
  {
   "word": "ports",
+  "count": 35,
+  "sentiment": "positive"
+ },
+ {
+  "word": "powerful",
   "count": 35,
   "sentiment": "positive"
  },
@@ -196,11 +206,6 @@
  },
  {
   "word": "features",
-  "count": 34,
-  "sentiment": "positive"
- },
- {
-  "word": "powerful",
   "count": 34,
   "sentiment": "positive"
  },
@@ -226,11 +231,6 @@
  },
  {
   "word": "happy",
-  "count": 33,
-  "sentiment": "positive"
- },
- {
-  "word": "looks",
   "count": 33,
   "sentiment": "positive"
  },

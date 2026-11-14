@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Display Quality",
-      "count": 15,
-      "pct_of_reviews": 51.7,
+      "count": 22,
+      "pct_of_reviews": 50.0,
       "quotes": [
         "I can barely read what’s in the video, yet half the screen on my computer is white space!!",
         "The 3K OLED screen is gorgeous, and the Gemini AI integration is fantastic and lightning-fast.",
@@ -12,8 +12,8 @@
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 15,
-      "pct_of_reviews": 51.7,
+      "count": 21,
+      "pct_of_reviews": 47.7,
       "quotes": [
         "However, it lacks the ability to run real programs and the AI features were disappointing.",
         "However, the occasional software and connection hiccups keep it from absolute perfection.",
@@ -22,8 +22,8 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 10,
-      "pct_of_reviews": 34.5,
+      "count": 15,
+      "pct_of_reviews": 34.1,
       "quotes": [
         "The keyboard is good, although the keys are a little smaller than I'd like.",
         "The overall build quality is so-so for me right away.",
@@ -32,8 +32,8 @@
     },
     {
       "theme": "Performance & Chip",
-      "count": 9,
-      "pct_of_reviews": 31.0,
+      "count": 14,
+      "pct_of_reviews": 31.8,
       "quotes": [
         "The 3K OLED screen is gorgeous, and the Gemini AI integration is fantastic and lightning-fast.",
         "The Intel chip inside works well with the OS for the most part.",
@@ -41,31 +41,21 @@
       ]
     },
     {
-      "theme": "Battery Life",
-      "count": 6,
-      "pct_of_reviews": 20.7,
+      "theme": "Price & Value",
+      "count": 7,
+      "pct_of_reviews": 15.9,
       "quotes": [
-        "Battery life is something I'm still figuring out.",
-        "Among other things I thought it was supposed to show the battery charge, but while it's charging up, the glow bar is off.",
-        "Either of the USB-C ports can be used for charging or 10GB/s data transfer."
+        "Access to Gemini pro and Nano Banana for a year is a very nice perk that sweetens the deal.",
+        "A couple of little things worth mentioning.",
+        "Most laptops in this price range come standard  with1200p or 1440p IPS panels, so getting a 15.3-inch 3K 120Hz OLED is great at $1,100."
       ]
     }
   ],
   "weaknesses": [
     {
-      "theme": "Performance & Chip",
-      "count": 3,
-      "pct_of_reviews": 10.3,
-      "quotes": [
-        "With the Chromebook the OLED screen is beautiful and very responsive.",
-        "Some of this might be due to the X86 processor.",
-        "Keystrokes were laggy with the x86 architecture - not sure how they get that to go away."
-      ]
-    },
-    {
       "theme": "Display Quality",
-      "count": 3,
-      "pct_of_reviews": 10.3,
+      "count": 4,
+      "pct_of_reviews": 9.1,
       "quotes": [
         "With the Chromebook the OLED screen is beautiful and very responsive.",
         "But there's no glossy beautiful screen that catches your attention.",
@@ -74,8 +64,8 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 3,
-      "pct_of_reviews": 10.3,
+      "count": 4,
+      "pct_of_reviews": 9.1,
       "quotes": [
         "My only issue with the hardware is that the haptic touchpad on my model had a sort of hollow rattle on one corner, which is odd for a haptic touchpad.",
         "This device is sleek, wonderful to touch, and remarkably light for its screen size."
@@ -83,8 +73,8 @@
     },
     {
       "theme": "Software & Ecosystem",
-      "count": 3,
-      "pct_of_reviews": 10.3,
+      "count": 4,
+      "pct_of_reviews": 9.1,
       "quotes": [
         "I like having a laptop that does not have the bloat of windows and I want to use it unlike MacOS.",
         "All my apps would be on the new Googlebook.",
@@ -92,11 +82,22 @@
       ]
     },
     {
+      "theme": "Performance & Chip",
+      "count": 3,
+      "pct_of_reviews": 6.8,
+      "quotes": [
+        "With the Chromebook the OLED screen is beautiful and very responsive.",
+        "Some of this might be due to the X86 processor.",
+        "Keystrokes were laggy with the x86 architecture - not sure how they get that to go away."
+      ]
+    },
+    {
       "theme": "Price & Value",
-      "count": 2,
-      "pct_of_reviews": 6.9,
+      "count": 3,
+      "pct_of_reviews": 6.8,
       "quotes": [
         "For $1099 I considered the price still fair based on the specs.",
+        "Give it a year and it may be worth a second look.",
         "You would think for the price it would've been better."
       ]
     }

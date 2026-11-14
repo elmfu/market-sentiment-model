@@ -1,32 +1,37 @@
 [
   {
     "word": "easy",
-    "count": 74,
+    "count": 77,
     "sentiment": "positive"
   },
   {
     "word": "screen",
-    "count": 61,
+    "count": 63,
     "sentiment": "positive"
   },
   {
     "word": "price",
-    "count": 58,
+    "count": 61,
     "sentiment": "positive"
   },
   {
     "word": "fast",
-    "count": 54,
-    "sentiment": "positive"
-  },
-  {
-    "word": "keyboard",
-    "count": 45,
+    "count": 55,
     "sentiment": "positive"
   },
   {
     "word": "set",
-    "count": 45,
+    "count": 47,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 47,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 34,
     "sentiment": "positive"
   },
   {
@@ -35,18 +40,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "works",
+    "word": "excellent",
     "count": 31,
     "sentiment": "positive"
   },
   {
-    "word": "excellent",
-    "count": 29,
-    "sentiment": "positive"
-  },
-  {
     "word": "product",
-    "count": 29,
+    "count": 30,
     "sentiment": "positive"
   },
   {
@@ -65,12 +65,27 @@
     "sentiment": "positive"
   },
   {
+    "word": "perfect",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 23,
+    "sentiment": "positive"
+  },
+  {
     "word": "battery",
     "count": 23,
     "sentiment": "positive"
   },
   {
-    "word": "perfect",
+    "word": "value",
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "back",
     "count": 21,
     "sentiment": "positive"
   },
@@ -80,28 +95,28 @@
     "sentiment": "positive"
   },
   {
-    "word": "overall",
-    "count": 21,
-    "sentiment": "positive"
-  },
-  {
-    "word": "value",
-    "count": 20,
-    "sentiment": "positive"
-  },
-  {
-    "word": "back",
+    "word": "old",
     "count": 20,
     "sentiment": "positive"
   },
   {
     "word": "machine",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
     "count": 19,
     "sentiment": "positive"
   },
   {
-    "word": "old",
-    "count": 19,
+    "word": "speed",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "better",
+    "count": 18,
     "sentiment": "positive"
   },
   {
@@ -110,17 +125,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "quality",
-    "count": 18,
-    "sentiment": "positive"
-  },
-  {
-    "word": "better",
+    "word": "performance",
     "count": 17,
     "sentiment": "positive"
   },
   {
-    "word": "speed",
+    "word": "home",
     "count": 17,
     "sentiment": "positive"
   },
@@ -140,7 +150,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "home",
+    "word": "over",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
     "count": 16,
     "sentiment": "positive"
   },
@@ -155,7 +170,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "now",
+    "word": "money",
     "count": 15,
     "sentiment": "positive"
   },
@@ -166,11 +181,6 @@
   },
   {
     "word": "life",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
-    "word": "performance",
     "count": 15,
     "sentiment": "positive"
   },
@@ -195,17 +205,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "over",
-    "count": 15,
-    "sentiment": "positive"
-  },
-  {
     "word": "light",
     "count": 15,
     "sentiment": "positive"
   },
   {
-    "word": "money",
+    "word": "walmart",
+    "count": 14,
+    "sentiment": "negative"
+  },
+  {
+    "word": "looking",
     "count": 14,
     "sentiment": "positive"
   },
@@ -213,6 +223,16 @@
     "word": "power",
     "count": 14,
     "sentiment": "neutral"
+  },
+  {
+    "word": "want",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "features",
+    "count": 13,
+    "sentiment": "positive"
   },
   {
     "word": "down",
@@ -235,17 +255,17 @@
     "sentiment": "positive"
   },
   {
+    "word": "reliable",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
     "word": "find",
     "count": 12,
     "sentiment": "positive"
   },
   {
     "word": "key",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "want",
     "count": 12,
     "sentiment": "positive"
   },
@@ -260,16 +280,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "looking",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "features",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
     "word": "hours",
     "count": 12,
     "sentiment": "positive"
@@ -280,22 +290,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "walmart",
-    "count": 12,
-    "sentiment": "negative"
-  },
-  {
-    "word": "again",
+    "word": "last",
     "count": 11,
     "sentiment": "positive"
   },
   {
-    "word": "lightweight",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "i've",
+    "word": "issue",
     "count": 11,
     "sentiment": "positive"
   }

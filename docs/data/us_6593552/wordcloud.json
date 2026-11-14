@@ -1,12 +1,17 @@
 [
   {
     "word": "screen",
-    "count": 104,
+    "count": 106,
     "sentiment": "positive"
   },
   {
     "word": "battery",
-    "count": 80,
+    "count": 82,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 67,
     "sentiment": "positive"
   },
   {
@@ -15,8 +20,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "life",
-    "count": 65,
+    "word": "oled",
+    "count": 61,
     "sentiment": "positive"
   },
   {
@@ -25,13 +30,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "oled",
-    "count": 60,
-    "sentiment": "positive"
-  },
-  {
     "word": "ultra",
-    "count": 57,
+    "count": 58,
     "sentiment": "positive"
   },
   {
@@ -66,22 +66,22 @@
   },
   {
     "word": "work",
-    "count": 45,
+    "count": 46,
     "sentiment": "positive"
   },
   {
     "word": "display",
-    "count": 43,
+    "count": 44,
     "sentiment": "positive"
   },
   {
     "word": "easy",
-    "count": 43,
+    "count": 44,
     "sentiment": "positive"
   },
   {
     "word": "amazing",
-    "count": 42,
+    "count": 43,
     "sentiment": "positive"
   },
   {
@@ -90,13 +90,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "overall",
+    "word": "intel",
     "count": 41,
     "sentiment": "positive"
   },
   {
-    "word": "intel",
-    "count": 40,
+    "word": "overall",
+    "count": 41,
     "sentiment": "positive"
   },
   {
@@ -170,6 +170,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "looks",
+    "count": 29,
+    "sentiment": "positive"
+  },
+  {
     "word": "ports",
     "count": 29,
     "sentiment": "positive"
@@ -222,11 +227,6 @@
   {
     "word": "power",
     "count": 28,
-    "sentiment": "positive"
-  },
-  {
-    "word": "looks",
-    "count": 27,
     "sentiment": "positive"
   },
   {

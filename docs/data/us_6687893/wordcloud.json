@@ -1,141 +1,206 @@
 [
   {
     "word": "googlebook",
-    "count": 29,
+    "count": 33,
     "sentiment": "positive"
   },
   {
     "word": "apps",
-    "count": 25,
+    "count": 28,
     "sentiment": "positive"
   },
   {
     "word": "android",
-    "count": 24,
-    "sentiment": "positive"
-  },
-  {
-    "word": "oled",
-    "count": 22,
+    "count": 27,
     "sentiment": "positive"
   },
   {
     "word": "screen",
-    "count": 22,
-    "sentiment": "positive"
-  },
-  {
-    "word": "device",
-    "count": 21,
-    "sentiment": "positive"
-  },
-  {
-    "word": "battery",
-    "count": 21,
+    "count": 25,
     "sentiment": "positive"
   },
   {
     "word": "google",
-    "count": 20,
+    "count": 25,
     "sentiment": "positive"
   },
   {
-    "word": "feels",
-    "count": 19,
+    "word": "oled",
+    "count": 25,
     "sentiment": "positive"
   },
   {
     "word": "phone",
-    "count": 19,
+    "count": 25,
     "sentiment": "positive"
   },
   {
-    "word": "fast",
-    "count": 18,
+    "word": "battery",
+    "count": 24,
     "sentiment": "positive"
   },
   {
-    "word": "feel",
-    "count": 18,
+    "word": "device",
+    "count": 24,
     "sentiment": "positive"
   },
   {
     "word": "work",
-    "count": 18,
+    "count": 22,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feel",
+    "count": 21,
+    "sentiment": "positive"
+  },
+  {
+    "word": "feels",
+    "count": 20,
+    "sentiment": "positive"
+  },
+  {
+    "word": "fast",
+    "count": 19,
     "sentiment": "positive"
   },
   {
     "word": "app",
-    "count": 17,
-    "sentiment": "positive"
-  },
-  {
-    "word": "snapdragon",
-    "count": 16,
+    "count": 19,
     "sentiment": "positive"
   },
   {
     "word": "better",
-    "count": 16,
+    "count": 18,
     "sentiment": "positive"
   },
   {
-    "word": "while",
-    "count": 16,
+    "word": "hardware",
+    "count": 18,
     "sentiment": "positive"
   },
   {
-    "word": "life",
-    "count": 16,
+    "word": "software",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "snapdragon",
+    "count": 18,
     "sentiment": "positive"
   },
   {
     "word": "first",
+    "count": 18,
+    "sentiment": "positive"
+  },
+  {
+    "word": "premium",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "life",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "while",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "system",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "touchscreen",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "keyboard",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "build",
+    "count": 17,
+    "sentiment": "positive"
+  },
+  {
+    "word": "because",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
     "count": 16,
     "sentiment": "positive"
   },
   {
     "word": "right",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "windows",
     "count": 15,
     "sentiment": "positive"
   },
   {
-    "word": "overall",
+    "word": "experience",
     "count": 15,
     "sentiment": "positive"
   },
   {
-    "word": "build",
+    "word": "elite",
     "count": 15,
     "sentiment": "positive"
   },
   {
-    "word": "system",
+    "word": "display",
     "count": 15,
     "sentiment": "positive"
   },
   {
-    "word": "keyboard",
+    "word": "easy",
     "count": 15,
     "sentiment": "positive"
   },
   {
-    "word": "touchscreen",
+    "word": "quality",
     "count": 15,
     "sentiment": "positive"
   },
   {
-    "word": "software",
-    "count": 15,
+    "word": "laptops",
+    "count": 14,
     "sentiment": "positive"
   },
   {
-    "word": "hardware",
-    "count": 15,
+    "word": "chrome",
+    "count": 14,
     "sentiment": "positive"
   },
   {
-    "word": "premium",
+    "word": "think",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "little",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "devices",
+    "count": 14,
+    "sentiment": "positive"
+  },
+  {
+    "word": "see",
     "count": 14,
     "sentiment": "positive"
   },
@@ -145,7 +210,62 @@
     "sentiment": "positive"
   },
   {
-    "word": "display",
+    "word": "want",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "chromebook",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "best",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "processor",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "run",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "having",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "desktop",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "integration",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "usb",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "ports",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "now",
+    "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "gemini",
     "count": 13,
     "sentiment": "positive"
   },
@@ -155,148 +275,28 @@
     "sentiment": "positive"
   },
   {
-    "word": "easy",
-    "count": 13,
-    "sentiment": "positive"
-  },
-  {
-    "word": "elite",
-    "count": 13,
-    "sentiment": "positive"
-  },
-  {
-    "word": "because",
-    "count": 13,
-    "sentiment": "positive"
-  },
-  {
-    "word": "touch",
+    "word": "based",
     "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "experience",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quality",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "windows",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "see",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "laptops",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "chromebook",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "devices",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "little",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "think",
-    "count": 12,
-    "sentiment": "positive"
-  },
-  {
-    "word": "processor",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "having",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "now",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "amazing",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ecosystem",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "integration",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "look",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "usb",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ports",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "chrome",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "desktop",
-    "count": 11,
     "sentiment": "positive"
   },
   {
     "word": "say",
-    "count": 11,
+    "count": 12,
     "sentiment": "positive"
   },
   {
-    "word": "best",
-    "count": 11,
+    "word": "built",
+    "count": 12,
     "sentiment": "positive"
   },
   {
-    "word": "color",
-    "count": 10,
+    "word": "amazing",
+    "count": 12,
     "sentiment": "positive"
   },
   {
-    "word": "beautiful",
-    "count": 10,
-    "sentiment": "positive"
-  },
-  {
-    "word": "light",
-    "count": 10,
+    "word": "video",
+    "count": 12,
     "sentiment": "positive"
   }
 ]

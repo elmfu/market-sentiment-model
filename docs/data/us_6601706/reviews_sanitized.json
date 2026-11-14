@@ -1,5 +1,22 @@
 [
   {
+    "review_id": "4d7af0be-8e83-3c83-868c-148f505c4c73",
+    "product_key": "us_6601706",
+    "market": "US",
+    "sku": "6601706",
+    "submitted_at": "2026-10-27T17:32:45.000-05:00",
+    "rating": 5,
+    "title": "Great, powerful",
+    "body": "Powerful, laptop. Runs games, CAD and 3D printing software easily. Multiple copies open no issues.",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP OmniBook Ultra Flip 2-in-1 14\" 3K OLED Touch, Eclipse Gray",
+    "topics": "Performance & Chip, Software & Ecosystem",
+    "competitors": ""
+  },
+  {
     "review_id": "52d5b99e-370b-362b-bca9-f5adb783044e",
     "product_key": "us_6601706",
     "market": "US",

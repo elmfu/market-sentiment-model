@@ -3,7 +3,7 @@
     {
       "theme": "Display Quality",
       "count": 2,
-      "pct_of_reviews": 20.0,
+      "pct_of_reviews": 14.3,
       "quotes": [
         "Screen is super crisp ,Chasis is firm to give confidence in carrying around ."
       ]
@@ -11,15 +11,21 @@
     {
       "theme": "Battery Life",
       "count": 1,
-      "pct_of_reviews": 10.0,
+      "pct_of_reviews": 7.1,
       "quotes": [
         "- Yes, make more laptop base models customizeable, like back in 2019, with my last laptop."
       ]
     },
     {
+      "theme": "Price & Value",
+      "count": 1,
+      "pct_of_reviews": 7.1,
+      "quotes": []
+    },
+    {
       "theme": "Software & Ecosystem",
       "count": 1,
-      "pct_of_reviews": 10.0,
+      "pct_of_reviews": 7.1,
       "quotes": []
     },
     {
@@ -27,15 +33,23 @@
       "count": 0,
       "pct_of_reviews": 0.0,
       "quotes": []
-    },
-    {
-      "theme": "Thermals & Cooling",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
     }
   ],
   "weaknesses": [
+    {
+      "theme": "Build & Keyboard",
+      "count": 1,
+      "pct_of_reviews": 7.1,
+      "quotes": []
+    },
+    {
+      "theme": "Software & Ecosystem",
+      "count": 1,
+      "pct_of_reviews": 7.1,
+      "quotes": [
+        "It is happening in \"AI powered\" computers which are not compatible with some windows updates."
+      ]
+    },
     {
       "theme": "Performance & Chip",
       "count": 0,
@@ -50,18 +64,6 @@
     },
     {
       "theme": "Display Quality",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Thermals & Cooling",
-      "count": 0,
-      "pct_of_reviews": 0.0,
-      "quotes": []
-    },
-    {
-      "theme": "Build & Keyboard",
       "count": 0,
       "pct_of_reviews": 0.0,
       "quotes": []

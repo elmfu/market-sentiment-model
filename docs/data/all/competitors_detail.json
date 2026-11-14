@@ -2,7 +2,7 @@
  "competitors": [
   {
    "brand": "Apple/Mac",
-   "total_mentions": 155,
+   "total_mentions": 159,
    "reviews": [
     {
      "title": "The HP Omnibook Ultra Flip is the Total Package",
@@ -26,11 +26,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "152 additional review(s) also mention Apple/Mac."
+   "summary_of_remaining": "156 additional review(s) also mention Apple/Mac."
   },
   {
    "brand": "Dell",
-   "total_mentions": 58,
+   "total_mentions": 60,
    "reviews": [
     {
      "title": "The HP Omnibook Ultra Flip is the Total Package",
@@ -54,11 +54,11 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "55 additional review(s) also mention Dell."
+   "summary_of_remaining": "57 additional review(s) also mention Dell."
   },
   {
    "brand": "Microsoft",
-   "total_mentions": 47,
+   "total_mentions": 48,
    "reviews": [
     {
      "title": "Simple albeit bulky convertible laptop/tablet",
@@ -82,11 +82,11 @@
      "sentiment": "negative"
     }
    ],
-   "summary_of_remaining": "44 additional review(s) also mention Microsoft."
+   "summary_of_remaining": "45 additional review(s) also mention Microsoft."
   },
   {
    "brand": "Lenovo",
-   "total_mentions": 41,
+   "total_mentions": 42,
    "reviews": [
     {
      "title": "The HP Omnibook Ultra Flip is the Total Package",
@@ -110,7 +110,7 @@
      "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "38 additional review(s) also mention Lenovo."
+   "summary_of_remaining": "39 additional review(s) also mention Lenovo."
   },
   {
    "brand": "Samsung",

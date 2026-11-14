@@ -30,6 +30,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "product",
+    "count": 9,
+    "sentiment": "positive"
+  },
+  {
     "word": "life",
     "count": 9,
     "sentiment": "negative"
@@ -40,7 +45,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "product",
+    "word": "machine",
     "count": 8,
     "sentiment": "positive"
   },
@@ -50,7 +55,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "machine",
+    "word": "amazing",
     "count": 7,
     "sentiment": "positive"
   },
@@ -60,7 +65,17 @@
     "sentiment": "positive"
   },
   {
+    "word": "user",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
     "word": "work",
+    "count": 7,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
     "count": 7,
     "sentiment": "positive"
   },
@@ -85,12 +100,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "amazing",
+    "word": "first",
     "count": 6,
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
-    "word": "first",
+    "word": "hard",
     "count": 6,
     "sentiment": "neutral"
   },
@@ -100,7 +115,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "user",
+    "word": "old",
     "count": 6,
     "sentiment": "positive"
   },
@@ -110,7 +125,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "works",
+    "word": "recommend",
     "count": 6,
     "sentiment": "positive"
   },
@@ -140,14 +155,14 @@
     "sentiment": "neutral"
   },
   {
+    "word": "problem",
+    "count": 5,
+    "sentiment": "negative"
+  },
+  {
     "word": "however",
     "count": 5,
     "sentiment": "positive"
-  },
-  {
-    "word": "hard",
-    "count": 5,
-    "sentiment": "neutral"
   },
   {
     "word": "tablet",
@@ -205,9 +220,9 @@
     "sentiment": "positive"
   },
   {
-    "word": "recommend",
+    "word": "over",
     "count": 5,
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "word": "sometimes",
@@ -270,11 +285,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "problem",
-    "count": 4,
-    "sentiment": "negative"
-  },
-  {
     "word": "functional",
     "count": 4,
     "sentiment": "positive"
@@ -286,16 +296,6 @@
   },
   {
     "word": "responsive",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "heavy",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "type",
     "count": 4,
     "sentiment": "positive"
   }

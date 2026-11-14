@@ -1,27 +1,27 @@
 [
  {
-  "product_key": "us_6687893",
-  "name": "HP - Googlebook 14\" 3K OLED Touchscreen - Snapdragon X Elite - 16GB - 512GB SSD - Atmospheric Blue",
-  "market": "US",
-  "series": "Googlebook",
-  "sku": "6687893",
-  "reviews": 37,
-  "avg_rating": 4.54,
-  "satisfaction": 94.6,
-  "first_review": "2026-10-11",
-  "top_complaint": "—"
- },
- {
   "product_key": "us_6690085",
   "name": "Acer - Googlebook 14 x360 - 14\" 3K OLED 120Hz Touchscreen - Intel Core Ultra 5 325 (2026) - 16GB - 512GB SSD - Elemental Blue",
   "market": "US",
   "series": "Googlebook",
   "sku": "6690085",
-  "reviews": 32,
-  "avg_rating": 3.84,
-  "satisfaction": 65.6,
+  "reviews": 46,
+  "avg_rating": 3.89,
+  "satisfaction": 65.2,
   "first_review": "2026-10-11",
   "top_complaint": "Software & Ecosystem"
+ },
+ {
+  "product_key": "us_6687893",
+  "name": "HP - Googlebook 14\" 3K OLED Touchscreen - Snapdragon X Elite - 16GB - 512GB SSD - Atmospheric Blue",
+  "market": "US",
+  "series": "Googlebook",
+  "sku": "6687893",
+  "reviews": 44,
+  "avg_rating": 4.59,
+  "satisfaction": 95.5,
+  "first_review": "2026-10-11",
+  "top_complaint": "—"
  },
  {
   "product_key": "us_6687176",
@@ -29,11 +29,11 @@
   "market": "US",
   "series": "Googlebook",
   "sku": "6687176",
-  "reviews": 29,
-  "avg_rating": 3.59,
-  "satisfaction": 62.1,
+  "reviews": 44,
+  "avg_rating": 3.8,
+  "satisfaction": 63.6,
   "first_review": "2026-10-09",
-  "top_complaint": "Performance & Chip"
+  "top_complaint": "Display Quality"
  },
  {
   "product_key": "us_6690181",
@@ -41,9 +41,9 @@
   "market": "US",
   "series": "Googlebook",
   "sku": "6690181",
-  "reviews": 9,
-  "avg_rating": 4.11,
-  "satisfaction": 66.7,
+  "reviews": 19,
+  "avg_rating": 4.21,
+  "satisfaction": 73.7,
   "first_review": "2026-10-11",
   "top_complaint": "—"
  },
@@ -53,9 +53,9 @@
   "market": "US",
   "series": "Googlebook",
   "sku": "6686332",
-  "reviews": 1,
-  "avg_rating": 5.0,
-  "satisfaction": 100.0,
+  "reviews": 3,
+  "avg_rating": 3.67,
+  "satisfaction": 33.3,
   "first_review": "2026-10-26",
   "top_complaint": "—"
  }

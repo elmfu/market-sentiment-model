@@ -24,7 +24,11 @@
     "avg_rating": 4.0
   },
   "2026-10": {
-    "count": 14,
-    "avg_rating": 4.21
+    "count": 17,
+    "avg_rating": 4.35
+  },
+  "2026-11": {
+    "count": 7,
+    "avg_rating": 4.57
   }
 }

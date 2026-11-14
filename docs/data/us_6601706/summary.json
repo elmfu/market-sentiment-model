@@ -2,23 +2,23 @@
   "product": "HP OmniBook Ultra Flip 2-in-1 14\" 3K OLED Touch, Eclipse Gray",
   "source": "bestbuy.com",
   "market": "US",
-  "total": 132,
-  "with_text": 132,
-  "date_range": "2025-02-19 to 2026-10-05",
-  "avg_rating": 4.61,
-  "satisfaction_score": 90.9,
+  "total": 133,
+  "with_text": 133,
+  "date_range": "2025-02-19 to 2026-10-27",
+  "avg_rating": 4.62,
+  "satisfaction_score": 91.0,
   "star_distribution": {
     "1": 5,
     "2": 2,
     "3": 5,
     "4": 15,
-    "5": 105
+    "5": 106
   },
   "sentiment": {
-    "positive": 120,
+    "positive": 121,
     "neutral": 5,
     "negative": 7,
-    "positive_pct": 90.9,
+    "positive_pct": 91.0,
     "neutral_pct": 3.8,
     "negative_pct": 5.3
   }

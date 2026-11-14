@@ -1,17 +1,17 @@
 [
   {
     "word": "easy",
-    "count": 54,
+    "count": 56,
     "sentiment": "positive"
   },
   {
     "word": "screen",
-    "count": 40,
+    "count": 42,
     "sentiment": "positive"
   },
   {
     "word": "fast",
-    "count": 29,
+    "count": 30,
     "sentiment": "positive"
   },
   {
@@ -21,7 +21,17 @@
   },
   {
     "word": "set",
-    "count": 25,
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
+    "word": "price",
+    "count": 24,
+    "sentiment": "positive"
+  },
+  {
+    "word": "works",
+    "count": 23,
     "sentiment": "positive"
   },
   {
@@ -30,18 +40,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "price",
-    "count": 23,
-    "sentiment": "positive"
-  },
-  {
-    "word": "works",
-    "count": 22,
-    "sentiment": "positive"
-  },
-  {
     "word": "excellent",
-    "count": 20,
+    "count": 21,
     "sentiment": "positive"
   },
   {
@@ -60,6 +60,26 @@
     "sentiment": "positive"
   },
   {
+    "word": "perfect",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "old",
+    "count": 16,
+    "sentiment": "positive"
+  },
+  {
+    "word": "home",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
+    "word": "machine",
+    "count": 15,
+    "sentiment": "positive"
+  },
+  {
     "word": "product",
     "count": 15,
     "sentiment": "positive"
@@ -70,23 +90,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "old",
-    "count": 15,
+    "word": "overall",
+    "count": 13,
     "sentiment": "positive"
   },
   {
-    "word": "perfect",
-    "count": 14,
-    "sentiment": "positive"
-  },
-  {
-    "word": "machine",
-    "count": 14,
-    "sentiment": "positive"
-  },
-  {
-    "word": "home",
-    "count": 14,
+    "word": "performance",
+    "count": 13,
     "sentiment": "positive"
   },
   {
@@ -97,6 +107,16 @@
   {
     "word": "display",
     "count": 13,
+    "sentiment": "positive"
+  },
+  {
+    "word": "over",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "value",
+    "count": 12,
     "sentiment": "positive"
   },
   {
@@ -130,22 +150,7 @@
     "sentiment": "positive"
   },
   {
-    "word": "performance",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "value",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
     "word": "right",
-    "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "over",
     "count": 11,
     "sentiment": "positive"
   },
@@ -155,8 +160,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "overall",
-    "count": 11,
+    "word": "speed",
+    "count": 10,
     "sentiment": "positive"
   },
   {
@@ -200,11 +205,6 @@
     "sentiment": "positive"
   },
   {
-    "word": "speed",
-    "count": 9,
-    "sentiment": "positive"
-  },
-  {
     "word": "needed",
     "count": 9,
     "sentiment": "positive"
@@ -232,6 +232,26 @@
   {
     "word": "because",
     "count": 9,
+    "sentiment": "positive"
+  },
+  {
+    "word": "book",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "off",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "last",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "issue",
+    "count": 8,
     "sentiment": "positive"
   },
   {
@@ -277,26 +297,6 @@
   {
     "word": "definitely",
     "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "inch",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "light",
-    "count": 8,
-    "sentiment": "positive"
-  },
-  {
-    "word": "features",
-    "count": 7,
-    "sentiment": "positive"
-  },
-  {
-    "word": "worth",
-    "count": 7,
     "sentiment": "positive"
   }
 ]

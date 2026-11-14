@@ -6,7 +6,7 @@
   },
   {
     "word": "fast",
-    "count": 126,
+    "count": 127,
     "sentiment": "positive"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "word": "best",
-    "count": 118,
+    "count": 120,
     "sentiment": "positive"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "word": "price",
-    "count": 103,
+    "count": 104,
     "sentiment": "positive"
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "word": "works",
-    "count": 54,
+    "count": 55,
     "sentiment": "positive"
   },
   {
@@ -160,6 +160,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "without",
+    "count": 43,
+    "sentiment": "positive"
+  },
+  {
     "word": "looking",
     "count": 43,
     "sentiment": "positive"
@@ -167,11 +172,6 @@
   {
     "word": "beautiful",
     "count": 43,
-    "sentiment": "positive"
-  },
-  {
-    "word": "without",
-    "count": 42,
     "sentiment": "positive"
   },
   {
@@ -205,6 +205,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "super",
+    "count": 39,
+    "sentiment": "positive"
+  },
+  {
     "word": "windows",
     "count": 39,
     "sentiment": "positive"
@@ -212,11 +217,6 @@
   {
     "word": "memory",
     "count": 39,
-    "sentiment": "positive"
-  },
-  {
-    "word": "super",
-    "count": 38,
     "sentiment": "positive"
   },
   {

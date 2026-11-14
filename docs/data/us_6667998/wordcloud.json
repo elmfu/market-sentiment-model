@@ -1,6 +1,16 @@
 [
   {
+    "word": "ultra",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
     "word": "quality",
+    "count": 6,
+    "sentiment": "positive"
+  },
+  {
+    "word": "screen",
     "count": 5,
     "sentiment": "positive"
   },
@@ -10,8 +20,8 @@
     "sentiment": "positive"
   },
   {
-    "word": "ultra",
-    "count": 5,
+    "word": "light",
+    "count": 4,
     "sentiment": "positive"
   },
   {
@@ -36,11 +46,6 @@
   },
   {
     "word": "issues",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "screen",
     "count": 4,
     "sentiment": "positive"
   },
@@ -91,11 +96,6 @@
   },
   {
     "word": "weight",
-    "count": 3,
-    "sentiment": "positive"
-  },
-  {
-    "word": "light",
     "count": 3,
     "sentiment": "positive"
   },
@@ -245,6 +245,36 @@
     "sentiment": "positive"
   },
   {
+    "word": "stilish",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "nationality",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "intuitive",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "easy",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "images",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
+    "word": "superlative",
+    "count": 1,
+    "sentiment": "positive"
+  },
+  {
     "word": "extremely",
     "count": 1,
     "sentiment": "positive"
@@ -266,36 +296,6 @@
   },
   {
     "word": "lasts",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "draining",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "useless",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "processing",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "never",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "heard",
-    "count": 1,
-    "sentiment": "positive"
-  },
-  {
-    "word": "sound",
     "count": 1,
     "sentiment": "positive"
   }

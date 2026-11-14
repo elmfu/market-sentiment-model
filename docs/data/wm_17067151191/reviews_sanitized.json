@@ -1,5 +1,22 @@
 [
   {
+    "review_id": "wm_1235274781",
+    "product_key": "wm_17067151191",
+    "market": "US",
+    "sku": "17067151191",
+    "submitted_at": "2026-10-29T00:00:00",
+    "rating": 1,
+    "title": "Frustrated with set up of laptop and pass words, passkeys, wish I could've just updated old laptop.",
+    "body": "im not, i need to find someone to help me out.",
+    "is_recommended": null,
+    "helpful_votes": 0,
+    "verified": true,
+    "lang": "en",
+    "product_name": "HP OmniBook 5 14\" 2K Touch Laptop, Intel Core 5, 8GB RAM, 256GB SSD",
+    "topics": "",
+    "competitors": ""
+  },
+  {
     "review_id": "wm_1233257395",
     "product_key": "wm_17067151191",
     "market": "US",
@@ -14,6 +31,40 @@
     "lang": "en",
     "product_name": "HP OmniBook 5 14\" 2K Touch Laptop, Intel Core 5, 8GB RAM, 256GB SSD",
     "topics": "Software & Ecosystem",
+    "competitors": ""
+  },
+  {
+    "review_id": "wm_307340699",
+    "product_key": "wm_17067151191",
+    "market": "US",
+    "sku": "17067151191",
+    "submitted_at": "2026-10-11T00:00:00",
+    "rating": 1,
+    "title": "Do not Buy. You need need Microsoft Account to complete Set-Up !",
+    "body": "I wanted a Laptop that I could switch-on and it would work. I don't like that you have to have a Microsoft Account to set it up. I DON'T WANT A MICROSOFT ACCOUNT ! If I could give Zero Stars, then that is what I would have awarded it.",
+    "is_recommended": null,
+    "helpful_votes": 0,
+    "verified": true,
+    "lang": "en",
+    "product_name": "HP OmniBook 5 14\" 2K Touch Laptop, Intel Core 5, 8GB RAM, 256GB SSD",
+    "topics": "Software & Ecosystem",
+    "competitors": ""
+  },
+  {
+    "review_id": "wm_307339636",
+    "product_key": "wm_17067151191",
+    "market": "US",
+    "sku": "17067151191",
+    "submitted_at": "2026-10-11T00:00:00",
+    "rating": 5,
+    "title": "Excellent Laptop",
+    "body": "Great laptop, great price, does everything i want to do and more, i use it for work and private use",
+    "is_recommended": null,
+    "helpful_votes": 0,
+    "verified": true,
+    "lang": "en",
+    "product_name": "HP OmniBook 5 14\" 2K Touch Laptop, Intel Core 5, 8GB RAM, 256GB SSD",
+    "topics": "Price & Value",
     "competitors": ""
   },
   {

@@ -1,6 +1,10 @@
 {
   "2026-10": {
-    "count": 9,
-    "avg_rating": 4.11
+    "count": 13,
+    "avg_rating": 4.15
+  },
+  "2026-11": {
+    "count": 6,
+    "avg_rating": 4.33
   }
 }

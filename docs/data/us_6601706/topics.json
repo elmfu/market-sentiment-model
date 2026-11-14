@@ -2,8 +2,8 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 69,
-    "positive": 66,
+    "total": 70,
+    "positive": 67,
     "neutral": 2,
     "negative": 1,
     "positive_pct": 95.7,
@@ -57,13 +57,13 @@
   {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 28,
-    "positive": 23,
+    "total": 29,
+    "positive": 24,
     "neutral": 2,
     "negative": 3,
-    "positive_pct": 82.1,
-    "negative_pct": 10.7,
-    "net_score": 71.4
+    "positive_pct": 82.8,
+    "negative_pct": 10.3,
+    "net_score": 72.5
   },
   {
     "topic": "ports",

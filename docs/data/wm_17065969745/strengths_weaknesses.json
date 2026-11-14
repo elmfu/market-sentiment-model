@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Performance & Chip",
-      "count": 59,
-      "pct_of_reviews": 26.0,
+      "count": 62,
+      "pct_of_reviews": 26.4,
       "quotes": [
         "Setup was very smooth, just following the online directions.",
         "The setup was quick and easy right out of the box, and everything runs smoothly.",
@@ -12,8 +12,8 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 55,
-      "pct_of_reviews": 24.2,
+      "count": 56,
+      "pct_of_reviews": 23.8,
       "quotes": [
         "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
         "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect.",
@@ -22,8 +22,8 @@
     },
     {
       "theme": "Display Quality",
-      "count": 48,
-      "pct_of_reviews": 21.1,
+      "count": 50,
+      "pct_of_reviews": 21.3,
       "quotes": [
         "This laptop is lighter, runs quiet, has the backlight keyboard and touch screen...what more could you want.",
         "The OLED screen is so crystal clear and the backlit keyboard with numeric pad is perfect.",
@@ -32,8 +32,8 @@
     },
     {
       "theme": "Price & Value",
-      "count": 42,
-      "pct_of_reviews": 18.5,
+      "count": 43,
+      "pct_of_reviews": 18.3,
       "quotes": [
         "$20 upgrade for blue case was so worth it.",
         "HP is reliable and high quality without breaking the budget.",
@@ -43,7 +43,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 37,
-      "pct_of_reviews": 16.3,
+      "pct_of_reviews": 15.7,
       "quotes": [
         "I purchased the Omni Book because support for Windows 10 was ending.",
         "Quality Laptop, would be 5/5 but they had McAfee on it by default.",
@@ -55,7 +55,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 8,
-      "pct_of_reviews": 3.5,
+      "pct_of_reviews": 3.4,
       "quotes": [
         "very slow when opening apps and navigating around.",
         "corrupted all of my devices I wanted a simple machine with windows 11 comes loaded to take over all of your devices with junk",

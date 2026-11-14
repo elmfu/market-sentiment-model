@@ -11,7 +11,7 @@
   },
   {
     "word": "easy",
-    "count": 89,
+    "count": 90,
     "sentiment": "positive"
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "word": "tablet",
-    "count": 47,
+    "count": 48,
     "sentiment": "positive"
   },
   {
@@ -120,13 +120,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "old",
+    "word": "amazing",
     "count": 35,
     "sentiment": "positive"
   },
   {
-    "word": "amazing",
-    "count": 34,
+    "word": "old",
+    "count": 35,
     "sentiment": "positive"
   },
   {
@@ -160,6 +160,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "awesome",
+    "count": 27,
+    "sentiment": "positive"
+  },
+  {
     "word": "super",
     "count": 27,
     "sentiment": "positive"
@@ -190,22 +195,17 @@
     "sentiment": "positive"
   },
   {
-    "word": "awesome",
-    "count": 26,
-    "sentiment": "positive"
-  },
-  {
     "word": "value",
     "count": 26,
     "sentiment": "positive"
   },
   {
-    "word": "looking",
-    "count": 24,
+    "word": "touchscreen",
+    "count": 25,
     "sentiment": "positive"
   },
   {
-    "word": "touchscreen",
+    "word": "looking",
     "count": 24,
     "sentiment": "positive"
   },

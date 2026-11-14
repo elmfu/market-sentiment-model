@@ -1,12 +1,12 @@
 [
   {
     "word": "battery",
-    "count": 25,
+    "count": 26,
     "sentiment": "positive"
   },
   {
     "word": "life",
-    "count": 16,
+    "count": 17,
     "sentiment": "positive"
   },
   {
@@ -21,6 +21,11 @@
   },
   {
     "word": "school",
+    "count": 12,
+    "sentiment": "positive"
+  },
+  {
+    "word": "recommend",
     "count": 11,
     "sentiment": "positive"
   },
@@ -37,11 +42,6 @@
   {
     "word": "light",
     "count": 11,
-    "sentiment": "positive"
-  },
-  {
-    "word": "recommend",
-    "count": 10,
     "sentiment": "positive"
   },
   {
@@ -65,8 +65,18 @@
     "sentiment": "positive"
   },
   {
+    "word": "amazing",
+    "count": 8,
+    "sentiment": "positive"
+  },
+  {
     "word": "snapdragon",
     "count": 8,
+    "sentiment": "positive"
+  },
+  {
+    "word": "quality",
+    "count": 7,
     "sentiment": "positive"
   },
   {
@@ -90,13 +100,13 @@
     "sentiment": "positive"
   },
   {
-    "word": "amazing",
+    "word": "weight",
     "count": 7,
     "sentiment": "positive"
   },
   {
-    "word": "weight",
-    "count": 7,
+    "word": "long",
+    "count": 6,
     "sentiment": "positive"
   },
   {
@@ -106,11 +116,6 @@
   },
   {
     "word": "value",
-    "count": 6,
-    "sentiment": "positive"
-  },
-  {
-    "word": "quality",
     "count": 6,
     "sentiment": "positive"
   },
@@ -133,6 +138,16 @@
     "word": "issue",
     "count": 6,
     "sentiment": "neutral"
+  },
+  {
+    "word": "everyday",
+    "count": 5,
+    "sentiment": "positive"
+  },
+  {
+    "word": "overall",
+    "count": 5,
+    "sentiment": "positive"
   },
   {
     "word": "happy",
@@ -185,22 +200,12 @@
     "sentiment": "positive"
   },
   {
-    "word": "long",
-    "count": 5,
-    "sentiment": "positive"
-  },
-  {
     "word": "college",
     "count": 4,
     "sentiment": "positive"
   },
   {
     "word": "power",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "everyday",
     "count": 4,
     "sentiment": "positive"
   },
@@ -286,11 +291,6 @@
   },
   {
     "word": "design",
-    "count": 4,
-    "sentiment": "positive"
-  },
-  {
-    "word": "overall",
     "count": 4,
     "sentiment": "positive"
   },

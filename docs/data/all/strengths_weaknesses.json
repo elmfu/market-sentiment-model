@@ -2,7 +2,7 @@
  "strengths": [
   {
    "theme": "Performance & Chip",
-   "count": 3386,
+   "count": 3470,
    "pct_of_reviews": 32.9,
    "quotes": [
     "The HP  OmniBook X with Snapdragon X Plus processor is the perfect laptop for travelers.",
@@ -12,7 +12,7 @@
   },
   {
    "theme": "Display Quality",
-   "count": 2790,
+   "count": 2860,
    "pct_of_reviews": 27.1,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
@@ -22,7 +22,7 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 2610,
+   "count": 2679,
    "pct_of_reviews": 25.4,
    "quotes": [
     "After turning it on for the first time, one of the first things I was impressed by was the picture quality of the 2K OLED display.",
@@ -32,7 +32,7 @@
   },
   {
    "theme": "Price & Value",
-   "count": 1974,
+   "count": 2026,
    "pct_of_reviews": 19.2,
    "quotes": [
     "* The price tag is a bit steep, but I was able to snap this up on sale.",
@@ -42,8 +42,8 @@
   },
   {
    "theme": "Battery Life",
-   "count": 1519,
-   "pct_of_reviews": 14.8,
+   "count": 1547,
+   "pct_of_reviews": 14.7,
    "quotes": [
     "Best of all, the Snapdragon processor provides the best battery life of any laptop I have ever used.",
     "I would say this laptop has the best battery power in the industry.",
@@ -54,8 +54,8 @@
  "weaknesses": [
   {
    "theme": "Display Quality",
-   "count": 120,
-   "pct_of_reviews": 1.2,
+   "count": 121,
+   "pct_of_reviews": 1.1,
    "quotes": [
     "Product review -\nHas a touch screen - I didn't know that.",
     "Product review -\nHas a touch screen - I didn't know that.",
@@ -64,8 +64,8 @@
   },
   {
    "theme": "Software & Ecosystem",
-   "count": 107,
-   "pct_of_reviews": 1.0,
+   "count": 113,
+   "pct_of_reviews": 1.1,
    "quotes": [
     "Disable the trackpad, and expected my mouse to work, which is a Microsoft mouse, and wake up the device.",
     "Like, the bluetooth in gone (not in device manager anymore - so cannot reinstall a driver).",
@@ -84,7 +84,7 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 96,
+   "count": 97,
    "pct_of_reviews": 0.9,
    "quotes": [
     "Build quality is great, screen etc just like the previous hp spectres.",
@@ -94,7 +94,7 @@
   },
   {
    "theme": "Performance & Chip",
-   "count": 91,
+   "count": 92,
    "pct_of_reviews": 0.9,
    "quotes": [
     "[Employee of bestbuy] Laptop is super slow and freeze this is the third factory reset and still presenting problems.",

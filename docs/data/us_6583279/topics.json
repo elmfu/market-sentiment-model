@@ -2,68 +2,68 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 139,
-    "positive": 119,
+    "total": 140,
+    "positive": 120,
     "neutral": 16,
     "negative": 4,
-    "positive_pct": 85.6,
+    "positive_pct": 85.7,
     "negative_pct": 2.9,
-    "net_score": 82.7
+    "net_score": 82.8
   },
   {
     "topic": "build_quality",
     "label": "Build & Keyboard",
-    "total": 102,
-    "positive": 87,
+    "total": 103,
+    "positive": 88,
     "neutral": 12,
     "negative": 3,
-    "positive_pct": 85.3,
+    "positive_pct": 85.4,
     "negative_pct": 2.9,
-    "net_score": 82.4
+    "net_score": 82.5
   },
   {
     "topic": "battery",
     "label": "Battery Life",
-    "total": 90,
-    "positive": 78,
+    "total": 91,
+    "positive": 79,
     "neutral": 11,
     "negative": 1,
-    "positive_pct": 86.7,
+    "positive_pct": 86.8,
     "negative_pct": 1.1,
-    "net_score": 85.6
+    "net_score": 85.7
   },
   {
     "topic": "software_ecosystem",
     "label": "Software & Ecosystem",
-    "total": 81,
+    "total": 82,
     "positive": 68,
-    "neutral": 10,
+    "neutral": 11,
     "negative": 3,
-    "positive_pct": 84.0,
+    "positive_pct": 82.9,
     "negative_pct": 3.7,
-    "net_score": 80.3
+    "net_score": 79.2
   },
   {
     "topic": "display",
     "label": "Display Quality",
-    "total": 76,
-    "positive": 61,
+    "total": 77,
+    "positive": 62,
     "neutral": 13,
     "negative": 2,
-    "positive_pct": 80.3,
+    "positive_pct": 80.5,
     "negative_pct": 2.6,
-    "net_score": 77.7
+    "net_score": 77.9
   },
   {
     "topic": "price_value",
     "label": "Price & Value",
-    "total": 62,
+    "total": 63,
     "positive": 48,
-    "neutral": 10,
+    "neutral": 11,
     "negative": 4,
-    "positive_pct": 77.4,
-    "negative_pct": 6.5,
-    "net_score": 70.9
+    "positive_pct": 76.2,
+    "negative_pct": 6.3,
+    "net_score": 69.9
   },
   {
     "topic": "ports",

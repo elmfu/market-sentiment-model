@@ -3,7 +3,7 @@
     {
       "theme": "Performance & Chip",
       "count": 27,
-      "pct_of_reviews": 40.9,
+      "pct_of_reviews": 39.7,
       "quotes": [
         "Laptop is very fast and the best for multi tasking.",
         "Touch pad is very spacious, and also is responsive.",
@@ -11,19 +11,9 @@
       ]
     },
     {
-      "theme": "Battery Life",
-      "count": 21,
-      "pct_of_reviews": 31.8,
-      "quotes": [
-        "I would say this laptop has the best battery power in the industry.",
-        "The only minor issue is it shows the battery as percentage and not in hours.",
-        "This laptop is excellent for battery life and generally works well with most Office / Adobie apps I use along simple games."
-      ]
-    },
-    {
       "theme": "Display Quality",
-      "count": 21,
-      "pct_of_reviews": 31.8,
+      "count": 22,
+      "pct_of_reviews": 32.4,
       "quotes": [
         "The screen is a brilliant OLED, so colors really pop - great for streaming.",
         "In terms of screen size, as I don't intend on carrying around I opted for the larger screen.",
@@ -32,8 +22,8 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 21,
-      "pct_of_reviews": 31.8,
+      "count": 22,
+      "pct_of_reviews": 32.4,
       "quotes": [
         "Keyboard has a good feel, and 2 level backlight.",
         "I was disappointed by the keyboard not having a number pad and not having a back light.",
@@ -41,9 +31,19 @@
       ]
     },
     {
+      "theme": "Battery Life",
+      "count": 21,
+      "pct_of_reviews": 30.9,
+      "quotes": [
+        "I would say this laptop has the best battery power in the industry.",
+        "The only minor issue is it shows the battery as percentage and not in hours.",
+        "This laptop is excellent for battery life and generally works well with most Office / Adobie apps I use along simple games."
+      ]
+    },
+    {
       "theme": "Price & Value",
       "count": 9,
-      "pct_of_reviews": 13.6,
+      "pct_of_reviews": 13.2,
       "quotes": [
         "At full price it is a little pricey but still a good buy, and if you catch it on sale, it is a steal.....",
         "Last, but not least, the battery - I've not used it a great deal without the charger being plugged in, but so far it appears to hold a good charge.",
@@ -55,7 +55,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 2,
-      "pct_of_reviews": 3.0,
+      "pct_of_reviews": 2.9,
       "quotes": [
         "Keyboard light does not illuminate the character on the key.",
         "text size issue\r\nadjust cleartype text\r\ntouchpad"

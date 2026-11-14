@@ -1,5 +1,22 @@
 [
   {
+    "review_id": "18a55506-e324-3400-9550-be1ef253121f",
+    "product_key": "us_6613870",
+    "market": "US",
+    "sku": "6613870",
+    "submitted_at": "2026-11-10T20:59:36.000-06:00",
+    "rating": 5,
+    "title": "Love it",
+    "body": "Beautiful laptop I really love it. The touchscreen is amazing and it’s easy to use and the fact that it can be flipped over and used like a tablet is awesome.",
+    "is_recommended": true,
+    "helpful_votes": 0,
+    "verified": false,
+    "lang": "en",
+    "product_name": "HP OmniBook X Flip 2-in-1 16\" 2K Touch, Eclipse Gray",
+    "topics": "Display Quality",
+    "competitors": ""
+  },
+  {
     "review_id": "b0a2732f-e75f-305f-a531-86a7492a4ff9",
     "product_key": "us_6613870",
     "market": "US",

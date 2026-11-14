@@ -2,7 +2,7 @@
   "competitors": [
     {
       "brand": "Apple/Mac",
-      "total_mentions": 23,
+      "total_mentions": 24,
       "reviews": [
         {
           "title": "What you need to know",
@@ -26,7 +26,7 @@
           "sentiment": "neutral"
         }
       ],
-      "summary_of_remaining": "20 additional review(s) also mention Apple/Mac."
+      "summary_of_remaining": "21 additional review(s) also mention Apple/Mac."
     },
     {
       "brand": "Dell",

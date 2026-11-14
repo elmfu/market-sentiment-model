@@ -40,6 +40,16 @@
     "sentiment": "positive"
   },
   {
+    "word": "windows",
+    "count": 3,
+    "sentiment": "neutral"
+  },
+  {
+    "word": "zero",
+    "count": 3,
+    "sentiment": "negative"
+  },
+  {
     "word": "issues",
     "count": 3,
     "sentiment": "positive"
@@ -58,6 +68,11 @@
     "word": "same",
     "count": 3,
     "sentiment": "neutral"
+  },
+  {
+    "word": "sale",
+    "count": 3,
+    "sentiment": "positive"
   },
   {
     "word": "money",
@@ -170,9 +185,9 @@
     "sentiment": "positive"
   },
   {
-    "word": "windows",
+    "word": "computers",
     "count": 2,
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "word": "end",
@@ -185,12 +200,17 @@
     "sentiment": "positive"
   },
   {
+    "word": "drivers",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
     "word": "never",
     "count": 2,
     "sentiment": "positive"
   },
   {
-    "word": "zero",
+    "word": "updates",
     "count": 2,
     "sentiment": "neutral"
   },
@@ -250,6 +270,11 @@
     "sentiment": "positive"
   },
   {
+    "word": "times",
+    "count": 2,
+    "sentiment": "neutral"
+  },
+  {
     "word": "instructions",
     "count": 2,
     "sentiment": "positive"
@@ -260,9 +285,9 @@
     "sentiment": "positive"
   },
   {
-    "word": "sale",
+    "word": "brand",
     "count": 2,
-    "sentiment": "positive"
+    "sentiment": "neutral"
   },
   {
     "word": "base",
@@ -271,31 +296,6 @@
   },
   {
     "word": "integrated",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "clear",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "models",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "crisp",
-    "count": 2,
-    "sentiment": "positive"
-  },
-  {
-    "word": "ever",
-    "count": 2,
-    "sentiment": "neutral"
-  },
-  {
-    "word": "omni",
     "count": 2,
     "sentiment": "positive"
   }

@@ -2,8 +2,8 @@
   "strengths": [
     {
       "theme": "Software & Ecosystem",
-      "count": 12,
-      "pct_of_reviews": 37.5,
+      "count": 16,
+      "pct_of_reviews": 34.8,
       "quotes": [
         "The new Acer Googlebook 14” laptop is built on the Intel Core Ultra 5 Series 3 processor and runs the new Googlebook OS.",
         "Let’s delve into the features of the laptop, and the Googlebook OS itself and the comparisons between the different the brands.",
@@ -12,8 +12,8 @@
     },
     {
       "theme": "Build & Keyboard",
-      "count": 11,
-      "pct_of_reviews": 34.4,
+      "count": 15,
+      "pct_of_reviews": 32.6,
       "quotes": [
         "A convenience of the design is that any of the three can be used as the charging port.",
         "The overall build of the laptop is decent and does not look cheap or plastic.",
@@ -22,8 +22,8 @@
     },
     {
       "theme": "Performance & Chip",
-      "count": 8,
-      "pct_of_reviews": 25.0,
+      "count": 12,
+      "pct_of_reviews": 26.1,
       "quotes": [
         "The new Acer Googlebook 14” laptop is built on the Intel Core Ultra 5 Series 3 processor and runs the new Googlebook OS.",
         "The Intel core Ultra 5 offers a balance between the performance and the battery life.",
@@ -32,8 +32,8 @@
     },
     {
       "theme": "Battery Life",
-      "count": 7,
-      "pct_of_reviews": 21.9,
+      "count": 11,
+      "pct_of_reviews": 23.9,
       "quotes": [
         "It can have 16 GB to 32 GB of RAM, 256+ GB of storage, and has a long battery life averaging 13-16 hours.",
         "The Intel core Ultra 5 offers a balance between the performance and the battery life.",
@@ -42,8 +42,8 @@
     },
     {
       "theme": "Display Quality",
-      "count": 7,
-      "pct_of_reviews": 21.9,
+      "count": 11,
+      "pct_of_reviews": 23.9,
       "quotes": [
         "The design is a 2-in-1 that folds back into tablet mode or sits with the hinge reversed at 45 degrees for screen viewing.",
         "The power of editing photos via “Google photos” is now available on a larger screen laptop.",
@@ -55,7 +55,7 @@
     {
       "theme": "Software & Ecosystem",
       "count": 4,
-      "pct_of_reviews": 12.5,
+      "pct_of_reviews": 8.7,
       "quotes": [
         "But lacking proper app support for the new computing environment keeps it from bringing out the best in it.",
         "I am the target audience for Googlebooks because I like premium hardware and want an easy to operate OS with minimum bloat.",
@@ -65,7 +65,7 @@
     {
       "theme": "Display Quality",
       "count": 3,
-      "pct_of_reviews": 9.4,
+      "pct_of_reviews": 6.5,
       "quotes": [
         "Normally, any laptop I get to review would go through the process of opening the back panel to see its internals and what can be serviced or upgraded.",
         "The OLED screen is beautiful, but again the main selling point for me is pairing my phone.",
@@ -75,7 +75,7 @@
     {
       "theme": "Performance & Chip",
       "count": 2,
-      "pct_of_reviews": 6.2,
+      "pct_of_reviews": 4.3,
       "quotes": [
         "Googlebook laptops will run on one of two primary processor platforms: Intel’s Core or Qualcomm’s Snapdragon.",
         "When scrolling on web pages with the trackpad it does not feel very fast."
@@ -84,7 +84,7 @@
     {
       "theme": "Build & Keyboard",
       "count": 2,
-      "pct_of_reviews": 6.2,
+      "pct_of_reviews": 4.3,
       "quotes": [
         "However, Acer took it upon themselves to build a Googlebook laptop with a set of specs that Google themselves put forth.",
         "When scrolling on web pages with the trackpad it does not feel very fast."
@@ -93,7 +93,7 @@
     {
       "theme": "Ports & Connectivity",
       "count": 2,
-      "pct_of_reviews": 6.2,
+      "pct_of_reviews": 4.3,
       "quotes": [
         "Using a bluetooth game controller does work as an alternative but each game has varying degrees of support.",
         "Final straw was the Chrome Extension, which was supposed to create a rescue USB stick."

@@ -2,8 +2,8 @@
  "strengths": [
   {
    "theme": "Software & Ecosystem",
-   "count": 64,
-   "pct_of_reviews": 59.3,
+   "count": 83,
+   "pct_of_reviews": 53.2,
    "quotes": [
     "Initial Setup\n\nSetup of the HP Googlebook was intuitive and pretty quick.",
     "This \"Googlebook\" by HP is a new brand of OS and Laptop for Google.",
@@ -12,8 +12,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 53,
-   "pct_of_reviews": 49.1,
+   "count": 71,
+   "pct_of_reviews": 45.5,
    "quotes": [
     "Display\n\nThe 120hz 14‑inch 3K OLED touchscreen is a marvel of modern science.",
     "Could use some polishing when it comes to running applications in full screen mode.",
@@ -22,8 +22,8 @@
   },
   {
    "theme": "Build & Keyboard",
-   "count": 51,
-   "pct_of_reviews": 47.2,
+   "count": 65,
+   "pct_of_reviews": 41.7,
    "quotes": [
     "Design\n\nThe HP Googlebook is a stunning case study in beautifully simple design.",
     "The laptop is very sleek, it has a nice and grippy soft matte texture throughout the hardware and the keyboard.",
@@ -32,8 +32,8 @@
   },
   {
    "theme": "Performance & Chip",
-   "count": 46,
-   "pct_of_reviews": 42.6,
+   "count": 61,
+   "pct_of_reviews": 39.1,
    "quotes": [
     "Initial Setup\n\nSetup of the HP Googlebook was intuitive and pretty quick.",
     "We all know that Android apps seem to lag behind iOS, iPad OS and MacOS.",
@@ -42,20 +42,20 @@
   },
   {
    "theme": "Battery Life",
-   "count": 39,
-   "pct_of_reviews": 36.1,
+   "count": 47,
+   "pct_of_reviews": 30.1,
    "quotes": [
     "Battery Life\n\nHP rates the battery life at 19 hours, and in my usage I got just under that in mixed usage.",
     "If you need to charge it while using it, you will be down to a single USB C port to use.",
-    "Battery life is also great on this as well."
+    "After this last update, my HP Googlebook 14 has been rock solid."
    ]
   }
  ],
  "weaknesses": [
   {
    "theme": "Software & Ecosystem",
-   "count": 7,
-   "pct_of_reviews": 6.5,
+   "count": 8,
+   "pct_of_reviews": 5.1,
    "quotes": [
     "I like having a laptop that does not have the bloat of windows and I want to use it unlike MacOS.",
     "All my apps would be on the new Googlebook.",
@@ -64,8 +64,8 @@
   },
   {
    "theme": "Display Quality",
-   "count": 6,
-   "pct_of_reviews": 5.6,
+   "count": 7,
+   "pct_of_reviews": 4.5,
    "quotes": [
     "With the Chromebook the OLED screen is beautiful and very responsive.",
     "But there's no glossy beautiful screen that catches your attention.",
@@ -73,19 +73,9 @@
    ]
   },
   {
-   "theme": "Performance & Chip",
-   "count": 5,
-   "pct_of_reviews": 4.6,
-   "quotes": [
-    "With the Chromebook the OLED screen is beautiful and very responsive.",
-    "Googlebook laptops will run on one of two primary processor platforms: Intel’s Core or Qualcomm’s Snapdragon.",
-    "Some of this might be due to the X86 processor."
-   ]
-  },
-  {
    "theme": "Build & Keyboard",
-   "count": 5,
-   "pct_of_reviews": 4.6,
+   "count": 6,
+   "pct_of_reviews": 3.8,
    "quotes": [
     "My only issue with the hardware is that the haptic touchpad on my model had a sort of hollow rattle on one corner, which is odd for a haptic touchpad.",
     "However, Acer took it upon themselves to build a Googlebook laptop with a set of specs that Google themselves put forth.",
@@ -93,13 +83,23 @@
    ]
   },
   {
+   "theme": "Performance & Chip",
+   "count": 5,
+   "pct_of_reviews": 3.2,
+   "quotes": [
+    "With the Chromebook the OLED screen is beautiful and very responsive.",
+    "Googlebook laptops will run on one of two primary processor platforms: Intel’s Core or Qualcomm’s Snapdragon.",
+    "Some of this might be due to the X86 processor."
+   ]
+  },
+  {
    "theme": "Price & Value",
-   "count": 4,
-   "pct_of_reviews": 3.7,
+   "count": 5,
+   "pct_of_reviews": 3.2,
    "quotes": [
     "For $1099 I considered the price still fair based on the specs.",
-    "To me the price of $899 is pretty good especially in these current times we are in when it comes to hardware.",
-    "The price was reasonable for 16GB Ram/ 512GB of SSD storage."
+    "Give it a year and it may be worth a second look.",
+    "To me the price of $899 is pretty good especially in these current times we are in when it comes to hardware."
    ]
   }
  ]

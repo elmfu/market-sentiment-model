@@ -2,31 +2,31 @@
  "competitors": [
   {
    "brand": "Apple/Mac",
-   "total_mentions": 4,
+   "total_mentions": 6,
    "reviews": [
+    {
+     "title": "Good notebook for everyday use",
+     "body": "I have had this notebook for about 5 months which I use in mainly for e-mails/browsing sharing the on screen time with my ipad and I am pleased with the overall performance in terms of speed and ease of set up and use.It is easier to do some tasks on a note book like printing off documents so I hope",
+     "excerpt": "I have had this notebook for about 5 months which I use in mainly for e-mails/browsing sharing the on screen time with my ipad and I am pleased with the overall performance in terms of speed and ease ",
+     "rating": 5,
+     "sentiment": "positive"
+    },
+    {
+     "title": "Good notebook for everyday use",
+     "body": "I have had this notebook for about 5 months which I use in mainly for e-mails/browsing sharing the on screen time with my ipad and I am pleased with the overall performance in terms of speed and ease of set up and use.It is easier to do some tasks on a note book like printing off documents so I hope",
+     "excerpt": "I have had this notebook for about 5 months which I use in mainly for e-mails/browsing sharing the on screen time with my ipad and I am pleased with the overall performance in terms of speed and ease ",
+     "rating": 5,
+     "sentiment": "positive"
+    },
     {
      "title": "Walmart and HP Don't want to fix Laptop.",
      "body": "about the laptop in April 2026 I've only had it for a few months and already I've had issues with the keyboard specifically the letter l. it has gone to blue screens now it's a black screen crashing and HP is giving me such a hard time with getting it fixed. they have made promises to call me two da",
      "excerpt": "I've had laptops with them before never have I had this issue this must be a case of a bad Apple but the customer service is completely unacceptable.",
      "rating": 1,
      "sentiment": "negative"
-    },
-    {
-     "title": "Good Laptop for school work and game streaming,",
-     "body": "Ryzen processor does well and benchmarks well against intel. Screen is the low point not bad but not the 3x Amoled I'm used to. Large 16 inch canvas for getting work and school done. Was surprised how well performs with only 8GB ram. Backlit keyboard and metal casing. Track pad is not Mac or Galaxy ",
-     "excerpt": "Track pad is not Mac or Galaxy Book Pro.",
-     "rating": 5,
-     "sentiment": "positive"
-    },
-    {
-     "title": "Feature packed with excellent battery life.",
-     "body": "Heading back to school and wanted a windows based PC. I'm an Apple user but was not happy with my MacBook Pro. Did lots of reviews and decided on HP. \n\nAbsolutely love this PC. It's fast, quiet and battery is fantastic. I enjoy using it everyday. The screen is beautiful as well. Crisp blacks and viv",
-     "excerpt": "I'm an Apple user but was not happy with my MacBook Pro.",
-     "rating": 5,
-     "sentiment": "positive"
     }
    ],
-   "summary_of_remaining": "1 additional review(s) also mention Apple/Mac."
+   "summary_of_remaining": "3 additional review(s) also mention Apple/Mac."
   },
   {
    "brand": "Dell",

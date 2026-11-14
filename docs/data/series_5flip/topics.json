@@ -46,24 +46,24 @@
  {
   "topic": "software_ecosystem",
   "label": "Software & Ecosystem",
-  "total": 25,
+  "total": 26,
   "positive": 20,
   "neutral": 2,
-  "negative": 3,
-  "positive_pct": 80.0,
-  "negative_pct": 12.0,
-  "net_score": 68.0
+  "negative": 4,
+  "positive_pct": 76.9,
+  "negative_pct": 15.4,
+  "net_score": 61.5
  },
  {
   "topic": "price_value",
   "label": "Price & Value",
-  "total": 21,
-  "positive": 17,
+  "total": 22,
+  "positive": 18,
   "neutral": 0,
   "negative": 4,
-  "positive_pct": 81.0,
-  "negative_pct": 19.0,
-  "net_score": 62.0
+  "positive_pct": 81.8,
+  "negative_pct": 18.2,
+  "net_score": 63.6
  },
  {
   "topic": "ports",

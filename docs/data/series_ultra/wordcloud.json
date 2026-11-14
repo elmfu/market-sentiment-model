@@ -6,12 +6,12 @@
  },
  {
   "word": "fast",
-  "count": 100,
+  "count": 101,
   "sentiment": "positive"
  },
  {
   "word": "screen",
-  "count": 93,
+  "count": 96,
   "sentiment": "positive"
  },
  {
@@ -21,7 +21,7 @@
  },
  {
   "word": "keyboard",
-  "count": 76,
+  "count": 78,
   "sentiment": "positive"
  },
  {
@@ -31,12 +31,12 @@
  },
  {
   "word": "performance",
-  "count": 73,
+  "count": 74,
   "sentiment": "positive"
  },
  {
   "word": "ultra",
-  "count": 71,
+  "count": 73,
   "sentiment": "positive"
  },
  {
@@ -46,7 +46,17 @@
  },
  {
   "word": "usb",
+  "count": 60,
+  "sentiment": "positive"
+ },
+ {
+  "word": "light",
   "count": 59,
+  "sentiment": "positive"
+ },
+ {
+  "word": "quality",
+  "count": 58,
   "sentiment": "positive"
  },
  {
@@ -55,28 +65,18 @@
   "sentiment": "positive"
  },
  {
-  "word": "light",
-  "count": 57,
-  "sentiment": "positive"
- },
- {
-  "word": "quality",
-  "count": 57,
-  "sentiment": "positive"
- },
- {
   "word": "easy",
-  "count": 54,
+  "count": 55,
   "sentiment": "positive"
  },
  {
   "word": "excellent",
-  "count": 53,
+  "count": 54,
   "sentiment": "positive"
  },
  {
   "word": "price",
-  "count": 53,
+  "count": 54,
   "sentiment": "positive"
  },
  {
@@ -90,12 +90,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "touch",
-  "count": 50,
+  "word": "best",
+  "count": 51,
   "sentiment": "positive"
  },
  {
-  "word": "best",
+  "word": "touch",
   "count": 50,
   "sentiment": "positive"
  },
@@ -111,12 +111,12 @@
  },
  {
   "word": "perfect",
-  "count": 45,
+  "count": 46,
   "sentiment": "positive"
  },
  {
   "word": "ram",
-  "count": 44,
+  "count": 45,
   "sentiment": "positive"
  },
  {
@@ -126,6 +126,11 @@
  },
  {
   "word": "design",
+  "count": 43,
+  "sentiment": "positive"
+ },
+ {
+  "word": "speed",
   "count": 43,
   "sentiment": "positive"
  },
@@ -145,8 +150,8 @@
   "sentiment": "positive"
  },
  {
-  "word": "speed",
-  "count": 42,
+  "word": "feels",
+  "count": 41,
   "sentiment": "positive"
  },
  {
@@ -165,17 +170,17 @@
   "sentiment": "positive"
  },
  {
+  "word": "recommend",
+  "count": 40,
+  "sentiment": "positive"
+ },
+ {
   "word": "powerful",
   "count": 40,
   "sentiment": "positive"
  },
  {
-  "word": "feels",
-  "count": 40,
-  "sentiment": "positive"
- },
- {
-  "word": "recommend",
+  "word": "portable",
   "count": 39,
   "sentiment": "positive"
  },
@@ -190,8 +195,13 @@
   "sentiment": "positive"
  },
  {
-  "word": "portable",
-  "count": 38,
+  "word": "port",
+  "count": 37,
+  "sentiment": "positive"
+ },
+ {
+  "word": "processor",
+  "count": 37,
   "sentiment": "positive"
  },
  {
@@ -220,23 +230,13 @@
   "sentiment": "positive"
  },
  {
-  "word": "port",
-  "count": 36,
-  "sentiment": "positive"
- },
- {
   "word": "amd",
   "count": 36,
   "sentiment": "positive"
  },
  {
-  "word": "processor",
-  "count": 36,
-  "sentiment": "positive"
- },
- {
   "word": "sleek",
-  "count": 35,
+  "count": 36,
   "sentiment": "positive"
  },
  {
@@ -246,6 +246,11 @@
  },
  {
   "word": "graphics",
+  "count": 34,
+  "sentiment": "positive"
+ },
+ {
+  "word": "lightweight",
   "count": 34,
   "sentiment": "positive"
  },
@@ -275,7 +280,12 @@
   "sentiment": "positive"
  },
  {
-  "word": "lightweight",
+  "word": "high",
+  "count": 33,
+  "sentiment": "positive"
+ },
+ {
+  "word": "build",
   "count": 33,
   "sentiment": "positive"
  },
@@ -286,16 +296,6 @@
  },
  {
   "word": "responsive",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
-  "word": "around",
-  "count": 32,
-  "sentiment": "positive"
- },
- {
-  "word": "enough",
   "count": 32,
   "sentiment": "positive"
  }

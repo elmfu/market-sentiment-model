@@ -2,8 +2,8 @@
   {
     "topic": "performance",
     "label": "Performance & Chip",
-    "total": 312,
-    "positive": 306,
+    "total": 313,
+    "positive": 307,
     "neutral": 4,
     "negative": 2,
     "positive_pct": 98.1,
@@ -35,8 +35,8 @@
   {
     "topic": "price_value",
     "label": "Price & Value",
-    "total": 175,
-    "positive": 168,
+    "total": 176,
+    "positive": 169,
     "neutral": 3,
     "negative": 4,
     "positive_pct": 96.0,

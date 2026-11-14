@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow, noarchive">
 <title>Market Intelligence Dashboard — HP OmniBook Ultra / X</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📊</text></svg>">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Instrument+Serif:ital@0;1&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -438,6 +439,9 @@ $("btnCsv").onclick = async () => {
 
 // Export ALL reviews — every product in the manifest (HP + competitor sets),
 // with brand / series / retailer columns so it can be pivoted in Excel.
+// Bulk export is only offered on the login-protected host, never on the old
+// public github.io site.
+if (/github\.io$/i.test(location.hostname)) $("btnCsvAll").style.display = "none";
 $("btnCsvAll").onclick = async () => {
   const btn = $("btnCsvAll"), label = btn.textContent;
   btn.disabled = true; btn.textContent = "Preparing…";
